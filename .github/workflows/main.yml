@@ -22,7 +22,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          # This line checks if the files exist before trying to add them
-          git add current_*.txt horoscope_history.json message_id.txt || echo "Some files missing, continuing..."
+          git add current_*.txt horoscope_history.json
+          if [ -f message_id.txt ]; then git add message_id.txt; fi
           git commit -m "Update Daily Horoscope [skip ci]" || echo "No changes to commit"
           git push
