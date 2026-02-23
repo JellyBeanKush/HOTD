@@ -4,7 +4,7 @@ import fs from 'fs';
 
 const CONFIG = {
     GEMINI_KEY: process.env.GEMINI_API_KEY,
-    DISCORD_URL: process.env.DISCORD_WEBHOOK_URL, // Use the base Webhook URL without thread_id in secrets if possible, or we handle it below
+    DISCORD_URL: process.env.DISCORD_WEBHOOK_URL,
     SAVE_FILE: 'current_horoscope.txt',
     HISTORY_FILE: 'horoscope_history.json',
     ID_FILE: 'message_id.txt', 
@@ -19,13 +19,10 @@ async function updateDiscord(horoscopeData) {
         `**${s.emoji} ${s.name.toUpperCase()}**\n${s.text}`
     ).join('\n\n');
 
-    const payload = {
-        embeds: [{
-            title: `DAILY HOROSCOPE - ${todayFormatted}`,
-            description: `**Current Cosmic Energy:** ${horoscopeData.summary}\n\n${horoscopeList}`,
-            color: 0x9b59b6,
-            footer: { text: "Calculated based on actual planetary transits via Gemini 2.5 Flash." }
-        }]
+    const embed = {
+        title: `DAILY HOROSCOPE - ${todayFormatted}`,
+        description: `**Current Cosmic Energy:** ${horoscopeData.summary}\n\n${horoscopeList}`,
+        color: 10180886 // Purple
     };
 
     let messageId = null;
@@ -33,32 +30,38 @@ async function updateDiscord(horoscopeData) {
         messageId = fs.readFileSync(CONFIG.ID_FILE, 'utf8').trim();
     }
 
-    // CLEAN URL HANDLING
-    let urlString = CONFIG.DISCORD_URL;
-    const urlObj = new URL(urlString);
-    
+    // Build the URL correctly for Threads
+    const url = new URL(CONFIG.DISCORD_URL);
+    const threadId = url.searchParams.get('thread_id');
+
     if (messageId) {
-        // To EDIT: URL must be .../messages/ID
-        urlObj.pathname += `/messages/${messageId}`;
+        // Prepare URL for PATCH (Edit)
+        url.search = ''; // Clear existing params for pathname edit
+        url.pathname += `/messages/${messageId}`;
+        if (threadId) url.searchParams.set('thread_id', threadId);
     } else {
-        // To POST & get ID back: need wait=true
-        urlObj.searchParams.set('wait', 'true');
+        // Prepare URL for POST (New Message)
+        url.searchParams.set('wait', 'true');
     }
 
-    const response = await fetch(urlObj.toString(), { 
+    const response = await fetch(url.toString(), { 
         method: messageId ? 'PATCH' : 'POST', 
         headers: { 'Content-Type': 'application/json' }, 
-        body: JSON.stringify(payload) 
+        body: JSON.stringify({ embeds: [embed] }) 
     });
 
-    if (!messageId && response.ok) {
-        const result = await response.json();
-        fs.writeFileSync(CONFIG.ID_FILE, result.id);
-        console.log("First message created and ID saved.");
-    } else if (response.ok) {
-        console.log("Horoscope message updated successfully.");
+    if (response.ok) {
+        if (!messageId) {
+            const result = await response.json();
+            fs.writeFileSync(CONFIG.ID_FILE, result.id);
+            console.log("Success: Posted first message.");
+        } else {
+            console.log("Success: Updated existing message.");
+        }
     } else {
-        console.error("Discord Error:", await response.text());
+        const error = await response.text();
+        console.error(`Discord Error ${response.status}:`, error);
+        if (response.status === 404 && messageId) fs.unlinkSync(CONFIG.ID_FILE);
     }
 }
 
@@ -77,9 +80,10 @@ async function main() {
     const model = genAI.getGenerativeModel({ model: CONFIG.PRIMARY_MODEL });
 
     const prompt = `Act as a professional astrologer. Analyze actual planetary transits for ${todayFormatted}. 
+    Focus on the February 2026 Aquarius Stellium.
     Write a 1-2 sentence "summary" of the overall energy.
     For EACH of the 12 signs, write exactly TWO sentences (Transit + Advice).
-    JSON ONLY: { "summary": "vibe", "signs": [{"name": "Aries", "emoji": "♈", "text": "..."}] }`;
+    JSON ONLY: { "summary": "vibe", "signs": [ {"name": "Aries", "emoji": "♈", "text": "..."} ] }`;
 
     try {
         const result = await model.generateContent(prompt);
