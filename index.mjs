@@ -4,7 +4,7 @@ import fs from 'fs';
 
 const CONFIG = {
     GEMINI_KEY: process.env.GEMINI_API_KEY,
-    DISCORD_URL: process.env.DISCORD_WEBHOOK_URL,
+    DISCORD_URL: process.env.DISCORD_WEBHOOK_URL, // e.g., .../TOKEN?thread_id=123
     SAVE_FILE: 'current_horoscope.txt',
     HISTORY_FILE: 'horoscope_history.json',
     ID_FILE: 'message_id.txt', 
@@ -19,10 +19,12 @@ async function updateDiscord(horoscopeData) {
         `**${s.emoji} ${s.name.toUpperCase()}**\n${s.text}`
     ).join('\n\n');
 
-    const embed = {
-        title: `DAILY HOROSCOPE - ${todayFormatted}`,
-        description: `**Current Cosmic Energy:** ${horoscopeData.summary}\n\n${horoscopeList}`,
-        color: 10180886
+    const payload = {
+        embeds: [{
+            title: `DAILY HOROSCOPE - ${todayFormatted}`,
+            description: `**Current Cosmic Energy:** ${horoscopeData.summary}\n\n${horoscopeList}`,
+            color: 10180886
+        }]
     };
 
     let messageId = null;
@@ -30,39 +32,42 @@ async function updateDiscord(horoscopeData) {
         messageId = fs.readFileSync(CONFIG.ID_FILE, 'utf8').trim();
     }
 
-    // Split the URL to handle thread_id correctly
-    const [webhookBase, query] = CONFIG.DISCORD_URL.split('?');
-    let finalUrl = webhookBase;
-
-    // If we have an ID, we append /messages/ID to the path
+    // --- CLEAN URL LOGIC ---
+    // 1. Get the base URL (ID and Token) and the thread_id separately
+    const urlObj = new URL(CONFIG.DISCORD_URL);
+    const threadId = urlObj.searchParams.get('thread_id');
+    
+    // 2. Build the correct path
+    let finalUrl = `${urlObj.origin}${urlObj.pathname}`;
     if (messageId) {
         finalUrl += `/messages/${messageId}`;
     }
 
-    // Rebuild the query string (ensuring wait=true for the first post)
-    const params = new URLSearchParams(query || "");
-    if (!messageId) params.set('wait', 'true');
-    
-    const requestUrl = `${finalUrl}?${params.toString()}`;
+    // 3. Add parameters back correctly
+    const finalParams = new URLSearchParams();
+    if (threadId) finalParams.set('thread_id', threadId);
+    if (!messageId) finalParams.set('wait', 'true'); // Required to get ID back on first post
+
+    const requestUrl = `${finalUrl}?${finalParams.toString()}`;
 
     const response = await fetch(requestUrl, { 
         method: messageId ? 'PATCH' : 'POST', 
         headers: { 'Content-Type': 'application/json' }, 
-        body: JSON.stringify({ embeds: [embed] }) 
+        body: JSON.stringify(payload) 
     });
 
     if (response.ok) {
         if (!messageId) {
             const result = await response.json();
             fs.writeFileSync(CONFIG.ID_FILE, result.id);
-            console.log("Success: Posted and saved ID.");
+            console.log("First post successful. ID saved.");
         } else {
-            console.log("Success: Updated existing message.");
+            console.log("Existing message updated successfully.");
         }
     } else {
-        const errorMsg = await response.text();
-        console.error(`Discord Error: ${response.status}`, errorMsg);
-        // If message was manually deleted, remove ID to start fresh
+        const err = await response.text();
+        console.error(`Discord Error: ${response.status}`, err);
+        // Reset if message was deleted manually
         if (response.status === 404 && messageId) fs.unlinkSync(CONFIG.ID_FILE);
     }
 }
@@ -82,9 +87,15 @@ async function main() {
     const model = genAI.getGenerativeModel({ model: CONFIG.PRIMARY_MODEL });
 
     const prompt = `Act as a professional astrologer. Analyze actual planetary transits for ${todayFormatted}. 
-    Write a 1-2 sentence summary of the overall energy.
-    For EACH of the 12 signs, write exactly TWO sentences (Transit + Advice).
-    JSON ONLY: { "summary": "vibe", "signs": [ {"name": "Aries", "emoji": "♈", "text": "..."} ] }`;
+    Write a 2-3 sentence summary of the overall energy.
+    For EACH of the 12 signs, write exactly TWO sentences. 
+    JSON ONLY: {
+      "summary": "Overall vibe",
+      "signs": [
+        {"name": "Aries", "emoji": "♈", "text": "Two sentences..."},
+        ... (repeat for all 12 signs)
+      ]
+    }`;
 
     try {
         const result = await model.generateContent(prompt);
