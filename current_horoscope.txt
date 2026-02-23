@@ -1,65 +1,65 @@
 {
-  "summary": "The cosmos on February 23, 2026, presents a dynamic blend of assertive initiation and intuitive depths, challenging us to forge new paths while deeply examining our spiritual and emotional landscapes. A strong Aries stellium alongside Pluto's early ingress into Aquarius signals profound shifts in individual identity and collective consciousness, demanding both courage and adaptability.",
+  "summary": "This day brings a potent mix of intuitive sensitivity and dynamic tension. With the Sun and Mercury in Pisces squaring the nascent Neptune in Aries, expect a strong pull towards idealism and spirituality, yet also potential confusion in self-expression and identity. A powerful Cardinal T-Square involving Mars and Jupiter in Cancer opposing Saturn in Aries highlights significant challenges and opportunities for growth in balancing personal ambition, emotional security, and responsibility.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "A powerful surge of energy and self-discovery is upon you, with multiple planets igniting your sign, urging you to bravely step into new roles. However, you'll need to balance this assertive drive with emotional sensitivity and a deep review of your communication style."
+      "text": "You're feeling a strong pull towards idealism and spiritual exploration, which might blur your usual direct self-assertion. This is a time for you to define your values and relationships with newfound commitment, even if it feels like navigating a spiritual fog."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Personal transformations continue to shake your foundation, prompting you to redefine your values and sense of self. Your financial and material world is undergoing review, encouraging you to rethink how you derive security and express your worth."
+      "text": "Your social circles and future aspirations are infused with deep empathy and intuitive connections. You might be working through hidden idealistic visions or spiritual challenges behind the scenes, impacting your sense of self-worth."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "With Jupiter retrograde in your sign, this is a profound period for re-evaluating your personal beliefs, knowledge, and life philosophy. Communication becomes key, but you're called to speak with greater authenticity, especially regarding your future goals and aspirations."
+      "text": "Your career and public image are heavily influenced by compassionate communication and intuitive insights. You're undergoing significant personal transformation, feeling a strong urge for intellectual freedom and exploring new philosophies."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "With Mars in your sign, your actions are deeply tied to your emotional well-being and a desire to protect what you cherish. This energy encourages you to assert yourself professionally and publicly, even if it feels vulnerable."
+      "text": "You're drawn to philosophical exploration, higher learning, and expanding your spiritual horizons. Your personal drive and emotional needs are amplified, creating tension with your public responsibilities and career ambitions."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "This is a time for deep introspection and examining shared resources or intimate connections, as the Sun illuminates areas of vulnerability and transformation. You're also urged to expand your horizons through travel, higher learning, or spiritual exploration, perhaps initiating a new philosophical journey."
+      "text": "Deep psychological insights and shared resources are a focus, possibly with an intuitive or spiritual dimension. You're re-evaluating your belief systems and sense of adventure, perhaps committing to new spiritual paths or long-distance connections."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your focus shifts strongly to partnerships and important one-on-one relationships, where you might experience a blend of idealism and necessary structuring. Practical adjustments in your daily routine and work life are paramount, as you're called to transform your approach to well-being."
+      "text": "Your relationships are marked by deep empathy and intuitive understanding, fostering compassionate connections. Your friendships and group affiliations are a source of emotional energy, but be mindful of power dynamics or shared resource obligations."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Relationships are a major theme, particularly those that challenge you to stand up for yourself and redefine your sense of fairness, moving away from old patterns. Your daily routines and health practices are also receiving attention, prompting a more compassionate and intuitive approach to your well-being."
+      "text": "Your daily routines and work environment benefit from intuitive organization and empathetic service to others. Significant developments in partnerships are asking you to balance your independence with deep emotional needs and public reputation."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Creative expression and romantic pursuits are infused with a dreamy and spiritual quality, encouraging you to embrace new passions. Practical matters related to work and health demand assertive action, pushing you to initiate better self-care practices."
+      "text": "Creative expression, romance, and children are infused with a dreamy, intuitive, and highly empathetic energy. You're finding optimistic ways to structure your daily work and self-care routines, leading to a sense of practical freedom."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your home and family life are areas of deep emotional processing and intuitive guidance, as you seek comfort and spiritual connection within your roots. Romantic interests or creative projects demand bold new steps, challenging you to commit to your authentic desires."
+      "text": "Your emotions are geared towards freedom, adventure, and philosophical exploration, feeling optimistic and expansive. Deep emotional or shared resource issues are challenging your creative expression and romantic life, requiring responsible action."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your communication style is imbued with compassion and intuition, fostering deeper connections with those around you, though you may feel a need for more structure. There's a strong emphasis on initiating new dynamics within your home and family life, requiring a blend of realism and idealism."
+      "text": "Your communication style is becoming more intuitive, empathetic, and sensitive to the nuances of your immediate environment. Relationships are highly energized but also challenge your sense of home and foundational security, requiring careful negotiation."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "With Pluto now in your sign, you are undergoing a profound personal transformation, redefining your power and individual identity. Your values and financial matters are also highlighted, urging you to align your resources with your emerging self and innovative ideas."
+      "text": "Your values and resources are influenced by an intuitive understanding of abundance and compassionate giving. You're undergoing a profound personal transformation, asserting your individuality and unconventional creativity in powerful ways."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "With the Sun in your sign, you're experiencing a powerful surge of self-awareness and spiritual attunement, connecting deeply with your intuition. Your financial landscape and personal values are undergoing a significant initiation, requiring both practical discipline and a touch of idealism to manifest your desires."
+      "text": "You are fully embodying your intuitive, empathetic, and imaginative nature, making it a time of heightened self-awareness. Your sense of self is deeply spiritualized and idealistic, though you might be grappling with defining your values and resources clearly."
     }
   ],
   "date": "February 23, 2026"
