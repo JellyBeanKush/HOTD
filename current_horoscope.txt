@@ -1,65 +1,65 @@
 {
-  "summary": "A potent Aquarius Stellium featuring the Sun, Mercury, Venus, and Pluto ignites a period of radical innovation, collective transformation, and a powerful drive towards futuristic ideals and humanitarian causes. This energy fosters groundbreaking ideas, social upheaval, and a redefinition of freedom and community on a global scale.",
+  "summary": "With the Sun and Saturn conjunct in early Pisces, alongside Neptune's fresh ingress into Aries, this period brings a profound call to ground spiritual ideals into practical reality while courageously forging new paths of identity and action. It's a time of dissolving old structures and pioneering a new sense of self and collective purpose.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The powerful Aquarius Stellium galvanizes your social networks and long-term aspirations, urging you to connect with like-minded innovators and pursue a humanitarian vision for your future. Embrace collaborative projects and group activities, allowing your pioneering spirit to contribute to collective progress and redefining your role within your community."
+      "text": "With Neptune just entering your sign, you're embarking on a profound, long-term journey of self-discovery, merging your pioneering spirit with a deeper spiritual awareness. Embrace the dissolution of old identities and allow your intuitive compass to guide you toward a more compassionate and boundary-pushing understanding of who you truly are."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "This intense Aquarius Stellium revolutionizes your professional path and public standing, demanding innovative approaches to your career and a forward-thinking contribution to society. Be open to unconventional career shifts or roles that align with future trends, allowing your work to reflect a broader social impact rather than just personal security."
+      "text": "Uranus continues its journey through your sign, prompting continued, perhaps uncomfortable, innovation and liberation regarding your personal values, finances, and sense of security. Resist the urge to cling to the familiar; instead, experiment with new approaches to stability and allow unexpected changes to redefine your material and value systems."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "The Aquarius Stellium ignites your quest for advanced knowledge and philosophical understanding, prompting you to explore unconventional belief systems or embark on mind-expanding journeys. Challenge your existing worldview and engage in deep intellectual discourse, as this is a prime time to expand your horizons through learning, teaching, or cross-cultural experiences."
+      "text": "Jupiter is expanding your horizons in your own sign, bringing abundant opportunities for learning, communication, and connecting with diverse ideas and people. Dive into new studies, engage in spirited debates, and leverage your intellectual curiosity to broaden your understanding and share your insights widely."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "This powerful Aquarius Stellium brings intense transformation to your shared resources, intimate relationships, and your approach to profound personal change, possibly involving joint finances or collective ventures. Confront any power dynamics in your close relationships or financial partnerships, embracing transparency and innovative solutions for shared growth and deeper psychological understanding."
+      "text": "With Mars in your sign, your actions are driven by deep emotional impulses, making you fiercely protective of your home, family, and inner sense of security. Channel this surge of emotional energy into creating a secure and nurturing environment for yourself and your loved ones, but be mindful of acting out of defensiveness rather than intuition."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The Aquarius Stellium profoundly impacts your one-on-one relationships, bringing a revolutionary energy to partnerships and a desire for freedom, equality, and intellectual connection within them. Re-evaluate the dynamics in your close bonds; seek out unconventional connections or redefine existing ones to allow for more independence, mutual respect, and shared progressive ideals."
+      "text": "The Sun and Saturn in Pisces highlight your sector of shared resources, intimacy, and profound transformation, urging you to face joint responsibilities and deep emotional truths. This is a potent time to solidify financial partnerships or confront psychological patterns that prevent true intimacy, bringing discipline to your deepest bonds."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "This potent Aquarius Stellium brings radical innovation to your daily routines, work environment, and health practices, urging you to adopt more futuristic and efficient systems. Streamline your daily life with technology, embrace new health protocols, and consider how your service can contribute to broader humanitarian causes, fostering a more progressive work-life balance."
+      "text": "With the Sun and Saturn opposing your sign in Pisces, your relationships are under a strong microscope, demanding clear boundaries, mutual understanding, and mature commitment. Engage in open and honest dialogue with partners, both personal and professional, to clarify expectations and build more robust, realistic foundations together."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "The Aquarius Stellium electrifies your creative expression, romantic life, and relationship with children, fostering a desire for unconventional outlets and forward-thinking forms of self-expression. Unleash your innovative spirit through artistic projects, explore unique romantic connections, and allow your inner child to experiment freely, embracing a revolutionary approach to joy and passion."
+      "text": "The Pisces Sun and Saturn combination emphasizes your daily routines, health, and service, calling for a more disciplined and structured approach to your well-being. Focus on establishing sustainable habits for your physical and mental health; integrate spiritual practices into your daily life to find balance and purpose in your work."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "This powerful Aquarius Stellium brings profound shifts to your home environment, family dynamics, and emotional foundations, urging you to embrace unconventional living arrangements or redefine your sense of belonging. Be open to revolutionary changes within your domestic sphere or family structures, allowing for greater freedom and individuality while building a foundation that supports your evolving self."
+      "text": "Your creative expression, romance, and joyful pursuits are influenced by the Sun and Saturn in Pisces, demanding both imaginative exploration and responsible commitment to your passions. Allow yourself to dream big in your creative endeavors and relationships, but also commit to the hard work required to bring those visions to fruition."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "The Aquarius Stellium amplifies your communication, local interactions, and learning processes, encouraging you to engage in groundbreaking discussions and share innovative ideas within your community. Dive into intellectual debates, explore cutting-edge technologies for communication, and use your voice to advocate for progressive change within your immediate environment and social circles."
+      "text": "The Moon in your sign sparks a desire for freedom and adventure, contrasting with the grounding influence of Sun and Saturn in Pisces concerning your home and roots. Seek opportunities for personal growth and exploration, but remember to create a secure and stable emotional base from which to launch your next grand adventure."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "This potent Aquarius Stellium revolutionizes your financial landscape, personal values, and sense of self-worth, pushing you to adopt unconventional methods of earning or investing. Re-evaluate your relationship with money and material possessions, exploring innovative ways to create income or contribute your resources to collective, forward-thinking endeavors that align with your evolving values."
+      "text": "Your communication, learning, and local environment are activated by the Sun and Saturn in Pisces, urging you to bring structure and empathy to your interactions and immediate surroundings. Refine your communication skills, especially in sensitive conversations, and dedicate yourself to learning that grounds your spiritual insights in practical application."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "With the Sun, Mercury, Venus, and Pluto all in your sign, this is a monumental period of personal transformation, radical self-discovery, and a powerful redefinition of your identity and life's purpose. Embrace your uniqueness and visionary nature fully, allowing your authentic self to emerge and lead the way in social change, innovation, and humanitarian efforts that resonate with your deepest values."
+      "text": "With Pluto in your sign deepening your identity and Mercury keeping your mind agile, you're undergoing profound personal transformation while clearly articulating innovative ideas. Embrace your evolving sense of self and share your revolutionary thoughts with confidence, knowing that your words carry significant power to shape the future."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "The Aquarius Stellium activates your subconscious realms, spiritual practices, and hidden patterns, initiating a profound release of old beliefs and a revolutionary approach to your inner world. Dedicate time to introspection, dream work, and spiritual exploration, allowing innovative insights to surface from your unconscious and transform your deepest karmic patterns for collective healing."
+      "text": "The Sun and Saturn are conjunct in your sign, bringing a powerful moment of personal reckoning and the call to solidify your identity, responsibilities, and spiritual path. This is a critical time to define who you are and what you stand for; embrace self-discipline and commit to manifesting your highest ideals in a tangible way."
     }
   ],
   "date": "February 23, 2026"
