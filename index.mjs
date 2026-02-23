@@ -14,21 +14,27 @@ const options = { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'Ame
 const todayFormatted = new Date().toLocaleDateString('en-US', options);
 
 async function postToDiscord(horoscopeData) {
-    const fields = horoscopeData.signs.map(s => ({
-        name: `${s.emoji} ${s.name.toUpperCase()}`,
-        value: s.text,
-        inline: true
-    }));
+    // Format the signs as a list of text blocks instead of grid fields
+    const horoscopeList = horoscopeData.signs.map(s => 
+        `**${s.emoji} ${s.name.toUpperCase()}**\n${s.text}`
+    ).join('\n\n'); // Adds a double space between signs for readability
 
     const payload = {
         embeds: [{
             title: `DAILY HOROSCOPE - ${todayFormatted}`,
-            description: `**Current Cosmic Energy:** ${horoscopeData.summary}`,
+            // We put everything in the description to prevent vertical stretching
+            description: `**Current Cosmic Energy:** ${horoscopeData.summary}\n\n${horoscopeList}`,
             color: 0x9b59b6,
-            fields: fields,
             footer: { text: "Calculated based on the February 2026 Aquarius Stellium transits." }
         }]
     };
+
+    await fetch(CONFIG.DISCORD_URL, { 
+        method: 'POST', 
+        headers: { 'Content-Type': 'application/json' }, 
+        body: JSON.stringify(payload) 
+    });
+}
 
     await fetch(CONFIG.DISCORD_URL, { 
         method: 'POST', 
