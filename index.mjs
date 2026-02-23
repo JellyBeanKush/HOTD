@@ -7,14 +7,14 @@ const CONFIG = {
     DISCORD_URL: process.env.DISCORD_WEBHOOK_URL,
     SAVE_FILE: 'current_horoscope.txt',
     HISTORY_FILE: 'horoscope_history.json',
+    ID_FILE: 'message_id.txt', // NEW: Stores the ID to edit
     PRIMARY_MODEL: "gemini-2.5-flash" 
 };
 
 const options = { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/Los_Angeles' };
 const todayFormatted = new Date().toLocaleDateString('en-US', options);
 
-async function postToDiscord(horoscopeData) {
-    // Description-based list prevents the "skyscraper" stretching on desktop
+async function updateDiscord(horoscopeData) {
     const horoscopeList = horoscopeData.signs.map(s => 
         `**${s.emoji} ${s.name.toUpperCase()}**\n${s.text}`
     ).join('\n\n');
@@ -28,11 +28,31 @@ async function postToDiscord(horoscopeData) {
         }]
     };
 
-    await fetch(CONFIG.DISCORD_URL, { 
-        method: 'POST', 
+    let messageId = null;
+    if (fs.existsSync(CONFIG.ID_FILE)) {
+        messageId = fs.readFileSync(CONFIG.ID_FILE, 'utf8').trim();
+    }
+
+    // If we have an ID, we EDIT (?wait=true is required for webhooks to return data)
+    const url = messageId 
+        ? `${CONFIG.DISCORD_URL}/messages/${messageId}` 
+        : `${CONFIG.DISCORD_URL}?wait=true`;
+
+    const response = await fetch(url, { 
+        method: messageId ? 'PATCH' : 'POST', 
         headers: { 'Content-Type': 'application/json' }, 
         body: JSON.stringify(payload) 
     });
+
+    if (!messageId && response.ok) {
+        const result = await response.json();
+        fs.writeFileSync(CONFIG.ID_FILE, result.id); // Save ID for tomorrow
+        console.log("First message posted and ID saved.");
+    } else if (response.ok) {
+        console.log("Existing message updated successfully.");
+    } else {
+        console.error("Discord update failed:", await response.text());
+    }
 }
 
 async function main() {
@@ -44,7 +64,7 @@ async function main() {
     }
 
     if (history.length > 0 && history[0].date === todayFormatted) {
-        console.log("Already posted today.");
+        console.log("Already updated today.");
         return;
     }
 
@@ -75,24 +95,18 @@ async function main() {
 
     try {
         const result = await model.generateContent(prompt);
-        const responseText = result.response.text().replace(/```json|```/g, "").trim();
-        const data = JSON.parse(responseText);
+        const data = JSON.parse(result.response.text().replace(/```json|```/g, "").trim());
         data.date = todayFormatted;
 
-        // Save Main JSON
         fs.writeFileSync(CONFIG.SAVE_FILE, JSON.stringify(data, null, 2));
-
-        // Save individual sign files for Mix It Up
         data.signs.forEach(sign => {
             fs.writeFileSync(`current_${sign.name.toLowerCase()}.txt`, sign.text);
         });
 
-        // Update History
         history.unshift({ date: todayFormatted });
         fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history.slice(0, 30), null, 2));
 
-        await postToDiscord(data);
-        console.log("Success! Files created and Discord updated using Gemini 2.5 Flash.");
+        await updateDiscord(data);
     } catch (err) {
         console.error("Error:", err);
         process.exit(1);
