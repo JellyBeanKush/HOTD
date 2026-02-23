@@ -7,34 +7,26 @@ const CONFIG = {
     DISCORD_URL: process.env.DISCORD_WEBHOOK_URL,
     SAVE_FILE: 'current_horoscope.txt',
     HISTORY_FILE: 'horoscope_history.json',
-    PRIMARY_MODEL: "gemini-2.5-flash"
+    PRIMARY_MODEL: "gemini-1.5-flash" 
 };
 
 const options = { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/Los_Angeles' };
 const todayFormatted = new Date().toLocaleDateString('en-US', options);
 
 async function postToDiscord(horoscopeData) {
-    // Format the signs as a list of text blocks instead of grid fields
+    // We use the description block to prevent the "vertical skyscraper" stretching
     const horoscopeList = horoscopeData.signs.map(s => 
         `**${s.emoji} ${s.name.toUpperCase()}**\n${s.text}`
-    ).join('\n\n'); // Adds a double space between signs for readability
+    ).join('\n\n');
 
     const payload = {
         embeds: [{
             title: `DAILY HOROSCOPE - ${todayFormatted}`,
-            // We put everything in the description to prevent vertical stretching
             description: `**Current Cosmic Energy:** ${horoscopeData.summary}\n\n${horoscopeList}`,
             color: 0x9b59b6,
-            footer: { text: "Calculated based on the February 2026 Aquarius Stellium transits." }
+            footer: { text: "Calculated based on actual planetary transits." }
         }]
     };
-
-    await fetch(CONFIG.DISCORD_URL, { 
-        method: 'POST', 
-        headers: { 'Content-Type': 'application/json' }, 
-        body: JSON.stringify(payload) 
-    });
-}
 
     await fetch(CONFIG.DISCORD_URL, { 
         method: 'POST', 
@@ -46,7 +38,9 @@ async function postToDiscord(horoscopeData) {
 async function main() {
     let history = [];
     if (fs.existsSync(CONFIG.HISTORY_FILE)) {
-        try { history = JSON.parse(fs.readFileSync(CONFIG.HISTORY_FILE, 'utf8')); } catch (e) {}
+        try { 
+            history = JSON.parse(fs.readFileSync(CONFIG.HISTORY_FILE, 'utf8')); 
+        } catch (e) { history = []; }
     }
 
     if (history.length > 0 && history[0].date === todayFormatted) {
@@ -57,41 +51,52 @@ async function main() {
     const genAI = new GoogleGenerativeAI(CONFIG.GEMINI_KEY);
     const model = genAI.getGenerativeModel({ model: CONFIG.PRIMARY_MODEL });
 
-    const prompt = `Act as a professional astrologer. Analyze the actual planetary transits for ${todayFormatted}. 
+    const prompt = `Act as a professional astrologer. Analyze the actual planetary transits for ${todayFormatted}.
     Write a brief 1-2 sentence "summary" of the overall energy.
-    For EACH of the 12 signs, write roughly 30 words. 
+    For EACH of the 12 signs, write exactly TWO punchy sentences. 
+    Sentence 1: The astrological transit. Sentence 2: Practical advice.
     JSON ONLY: {
       "summary": "Overall vibe",
       "signs": [
         {"name": "Aries", "emoji": "♈", "text": "Two sentences..."},
-        ... (repeat for all 12 signs)
+        {"name": "Taurus", "emoji": "♉", "text": "Two sentences..."},
+        {"name": "Gemini", "emoji": "♊", "text": "Two sentences..."},
+        {"name": "Cancer", "emoji": "♋", "text": "Two sentences..."},
+        {"name": "Leo", "emoji": "♌", "text": "Two sentences..."},
+        {"name": "Virgo", "emoji": "♍", "text": "Two sentences..."},
+        {"name": "Libra", "emoji": "♎", "text": "Two sentences..."},
+        {"name": "Scorpio", "emoji": "♏", "text": "Two sentences..."},
+        {"name": "Sagittarius", "emoji": "♐", "text": "Two sentences..."},
+        {"name": "Capricorn", "emoji": "♑", "text": "Two sentences..."},
+        {"name": "Aquarius", "emoji": "♒", "text": "Two sentences..."},
+        {"name": "Pisces", "emoji": "♓", "text": "Two sentences..."}
       ]
     }`;
 
     try {
         const result = await model.generateContent(prompt);
-        const data = JSON.parse(result.response.text().replace(/```json|```/g, "").trim());
+        const responseText = result.response.text().replace(/```json|```/g, "").trim();
+        const data = JSON.parse(responseText);
         data.date = todayFormatted;
 
-        // 1. Save main JSON for reference
+        // Save Main JSON
         fs.writeFileSync(CONFIG.SAVE_FILE, JSON.stringify(data, null, 2));
 
-        // 2. NEW: Save each sign to its own .txt file
+        // Save individual sign files for Mix It Up
         data.signs.forEach(sign => {
-            const fileName = `current_${sign.name.toLowerCase()}.txt`;
-            // This saves JUST the two-sentence text for Mix It Up to read easily
-            fs.writeFileSync(fileName, sign.text);
+            fs.writeFileSync(`current_${sign.name.toLowerCase()}.txt`, sign.text);
         });
 
-        // 3. Update History
+        // Update History
         history.unshift({ date: todayFormatted });
         fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history.slice(0, 30), null, 2));
 
         await postToDiscord(data);
-        console.log("Horoscopes and individual files generated!");
+        console.log("Success! Files created and Discord updated.");
     } catch (err) {
-        console.error(err);
+        console.error("Error:", err);
         process.exit(1);
     }
 }
+
 main();
