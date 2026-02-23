@@ -26,7 +26,7 @@ async function postToDiscord(horoscopeData) {
             description: `**Current Cosmic Energy:** ${horoscopeData.summary}`,
             color: 0x9b59b6,
             fields: fields,
-            footer: { text: "Calculated based on current planetary transits." }
+            footer: { text: "Calculated based on the February 2026 Aquarius Stellium transits." }
         }]
     };
 
@@ -52,17 +52,28 @@ async function main() {
     const model = genAI.getGenerativeModel({ model: CONFIG.PRIMARY_MODEL });
 
     const prompt = `Act as a professional astrologer.
-    1. Analyze the actual planetary transits for ${todayFormatted}.
-    2. Write a brief "summary" (1-2 sentences) of the overall cosmic energy.
+    1. Analyze the actual planetary transits for ${todayFormatted}. 
+       (Note: Sun is in Pisces, there is a massive Stellium in Aquarius with Mercury, Venus, and Mars, and Sun squares Uranus today).
+    2. Write a brief "summary" (1-2 sentences) of this heavy Aquarius/Pisces energy.
     3. For EACH of the 12 signs, write exactly TWO sentences. 
-       - The first sentence should mention a specific astrological influence for today.
-       - The second sentence should be a practical application or advice.
-    Keep it grounded, insightful, and brief. No cringe.
+       - Sentence 1: Mention the specific transit affecting them (e.g., "With Mars entering your social sector...").
+       - Sentence 2: Provide practical, grounded advice for their day.
+    Keep it insightful and streamer-friendly. No cringe.
     JSON ONLY: {
       "summary": "Overall vibe",
       "signs": [
-        {"name": "Aries", "emoji": "♈", "text": "Two sentence horoscope here."},
-        ... (repeat for all 12 signs)
+        {"name": "Aries", "emoji": "♈", "text": "Two sentences here."},
+        {"name": "Taurus", "emoji": "♉", "text": "Two sentences here."},
+        {"name": "Gemini", "emoji": "♊", "text": "Two sentences here."},
+        {"name": "Cancer", "emoji": "♋", "text": "Two sentences here."},
+        {"name": "Leo", "emoji": "♌", "text": "Two sentences here."},
+        {"name": "Virgo", "emoji": "♍", "text": "Two sentences here."},
+        {"name": "Libra", "emoji": "♎", "text": "Two sentences here."},
+        {"name": "Scorpio", "emoji": "♏", "text": "Two sentences here."},
+        {"name": "Sagittarius", "emoji": "♐", "text": "Two sentences here."},
+        {"name": "Capricorn", "emoji": "♑", "text": "Two sentences here."},
+        {"name": "Aquarius", "emoji": "♒", "text": "Two sentences here."},
+        {"name": "Pisces", "emoji": "♓", "text": "Two sentences here."}
       ]
     }`;
 
@@ -76,9 +87,9 @@ async function main() {
         fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history.slice(0, 30), null, 2));
 
         await postToDiscord(data);
-        console.log("Two-sentence horoscopes posted successfully!");
+        console.log("Horoscopes posted!");
     } catch (err) {
-        console.error("Error generating horoscopes:", err);
+        console.error("Generation Error:", err);
         process.exit(1);
     }
 }
