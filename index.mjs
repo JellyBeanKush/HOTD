@@ -51,29 +51,14 @@ async function main() {
     const genAI = new GoogleGenerativeAI(CONFIG.GEMINI_KEY);
     const model = genAI.getGenerativeModel({ model: CONFIG.PRIMARY_MODEL });
 
-    const prompt = `Act as a professional astrologer.
-    1. Analyze the actual planetary transits for ${todayFormatted}. 
-       (Note: Sun is in Pisces, there is a massive Stellium in Aquarius with Mercury, Venus, and Mars, and Sun squares Uranus today).
-    2. Write a brief "summary" (1-2 sentences) of this heavy Aquarius/Pisces energy.
-    3. For EACH of the 12 signs, write exactly TWO sentences. 
-       - Sentence 1: Mention the specific transit affecting them (e.g., "With Mars entering your social sector...").
-       - Sentence 2: Provide practical, grounded advice for their day.
-    Keep it insightful and streamer-friendly. No cringe.
+    const prompt = `Act as a professional astrologer. Analyze the actual planetary transits for ${todayFormatted}. 
+    Write a brief 1-2 sentence "summary" of the overall energy.
+    For EACH of the 12 signs, write exactly TWO sentences. 
     JSON ONLY: {
       "summary": "Overall vibe",
       "signs": [
-        {"name": "Aries", "emoji": "♈", "text": "Two sentences here."},
-        {"name": "Taurus", "emoji": "♉", "text": "Two sentences here."},
-        {"name": "Gemini", "emoji": "♊", "text": "Two sentences here."},
-        {"name": "Cancer", "emoji": "♋", "text": "Two sentences here."},
-        {"name": "Leo", "emoji": "♌", "text": "Two sentences here."},
-        {"name": "Virgo", "emoji": "♍", "text": "Two sentences here."},
-        {"name": "Libra", "emoji": "♎", "text": "Two sentences here."},
-        {"name": "Scorpio", "emoji": "♏", "text": "Two sentences here."},
-        {"name": "Sagittarius", "emoji": "♐", "text": "Two sentences here."},
-        {"name": "Capricorn", "emoji": "♑", "text": "Two sentences here."},
-        {"name": "Aquarius", "emoji": "♒", "text": "Two sentences here."},
-        {"name": "Pisces", "emoji": "♓", "text": "Two sentences here."}
+        {"name": "Aries", "emoji": "♈", "text": "Two sentences..."},
+        ... (repeat for all 12 signs)
       ]
     }`;
 
@@ -82,14 +67,24 @@ async function main() {
         const data = JSON.parse(result.response.text().replace(/```json|```/g, "").trim());
         data.date = todayFormatted;
 
+        // 1. Save main JSON for reference
         fs.writeFileSync(CONFIG.SAVE_FILE, JSON.stringify(data, null, 2));
+
+        // 2. NEW: Save each sign to its own .txt file
+        data.signs.forEach(sign => {
+            const fileName = `current_${sign.name.toLowerCase()}.txt`;
+            // This saves JUST the two-sentence text for Mix It Up to read easily
+            fs.writeFileSync(fileName, sign.text);
+        });
+
+        // 3. Update History
         history.unshift({ date: todayFormatted });
         fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history.slice(0, 30), null, 2));
 
         await postToDiscord(data);
-        console.log("Horoscopes posted!");
+        console.log("Horoscopes and individual files generated!");
     } catch (err) {
-        console.error("Generation Error:", err);
+        console.error(err);
         process.exit(1);
     }
 }
