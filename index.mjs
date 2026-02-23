@@ -59,7 +59,7 @@ async function main() {
 
     const prompt = `Act as a professional astrologer. Analyze the actual planetary transits for ${todayFormatted}. 
     Write a brief 1-2 sentence "summary" of the overall energy.
-    For EACH of the 12 signs, write exactly TWO sentences. 
+    For EACH of the 12 signs, write roughly 30 words. 
     JSON ONLY: {
       "summary": "Overall vibe",
       "signs": [
