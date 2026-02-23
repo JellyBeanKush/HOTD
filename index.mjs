@@ -4,7 +4,7 @@ import fs from 'fs';
 
 const CONFIG = {
     GEMINI_KEY: process.env.GEMINI_API_KEY,
-    DISCORD_URL: process.env.DISCORD_WEBHOOK_URL,
+    DISCORD_URL: process.env.DISCORD_WEBHOOK_URL, // Use the base Webhook URL without thread_id in secrets if possible, or we handle it below
     SAVE_FILE: 'current_horoscope.txt',
     HISTORY_FILE: 'horoscope_history.json',
     ID_FILE: 'message_id.txt', 
@@ -33,12 +33,19 @@ async function updateDiscord(horoscopeData) {
         messageId = fs.readFileSync(CONFIG.ID_FILE, 'utf8').trim();
     }
 
-    // PATCH edits the existing message; POST creates a new one
-    const url = messageId 
-        ? `${CONFIG.DISCORD_URL}/messages/${messageId}` 
-        : `${CONFIG.DISCORD_URL}?wait=true`;
+    // CLEAN URL HANDLING
+    let urlString = CONFIG.DISCORD_URL;
+    const urlObj = new URL(urlString);
+    
+    if (messageId) {
+        // To EDIT: URL must be .../messages/ID
+        urlObj.pathname += `/messages/${messageId}`;
+    } else {
+        // To POST & get ID back: need wait=true
+        urlObj.searchParams.set('wait', 'true');
+    }
 
-    const response = await fetch(url, { 
+    const response = await fetch(urlObj.toString(), { 
         method: messageId ? 'PATCH' : 'POST', 
         headers: { 'Content-Type': 'application/json' }, 
         body: JSON.stringify(payload) 
@@ -47,23 +54,18 @@ async function updateDiscord(horoscopeData) {
     if (!messageId && response.ok) {
         const result = await response.json();
         fs.writeFileSync(CONFIG.ID_FILE, result.id);
-        console.log("First message created. ID saved to message_id.txt.");
+        console.log("First message created and ID saved.");
     } else if (response.ok) {
         console.log("Horoscope message updated successfully.");
     } else {
-        const errorText = await response.text();
-        console.error("Discord Error:", errorText);
-        // If message was deleted manually, clear the ID to post fresh next time
-        if (response.status === 404) fs.unlinkSync(CONFIG.ID_FILE);
+        console.error("Discord Error:", await response.text());
     }
 }
 
 async function main() {
     let history = [];
     if (fs.existsSync(CONFIG.HISTORY_FILE)) {
-        try { 
-            history = JSON.parse(fs.readFileSync(CONFIG.HISTORY_FILE, 'utf8')); 
-        } catch (e) { history = []; }
+        try { history = JSON.parse(fs.readFileSync(CONFIG.HISTORY_FILE, 'utf8')); } catch (e) {}
     }
 
     if (history.length > 0 && history[0].date === todayFormatted) {
@@ -74,42 +76,19 @@ async function main() {
     const genAI = new GoogleGenerativeAI(CONFIG.GEMINI_KEY);
     const model = genAI.getGenerativeModel({ model: CONFIG.PRIMARY_MODEL });
 
-    const prompt = `Act as a professional astrologer. Analyze the actual planetary transits for ${todayFormatted}.
+    const prompt = `Act as a professional astrologer. Analyze actual planetary transits for ${todayFormatted}. 
     Write a 1-2 sentence "summary" of the overall energy.
-    For EACH of the 12 signs, write exactly TWO sentences. 
-    Sentence 1: The astrological transit. Sentence 2: Practical advice.
-    JSON ONLY: {
-      "summary": "Overall vibe",
-      "signs": [
-        {"name": "Aries", "emoji": "♈", "text": "..."},
-        {"name": "Taurus", "emoji": "♉", "text": "..."},
-        {"name": "Gemini", "emoji": "♊", "text": "..."},
-        {"name": "Cancer", "emoji": "♋", "text": "..."},
-        {"name": "Leo", "emoji": "♌", "text": "..."},
-        {"name": "Virgo", "emoji": "♍", "text": "..."},
-        {"name": "Libra", "emoji": "♎", "text": "..."},
-        {"name": "Scorpio", "emoji": "♏", "text": "..."},
-        {"name": "Sagittarius", "emoji": "♐", "text": "..."},
-        {"name": "Capricorn", "emoji": "♑", "text": "..."},
-        {"name": "Aquarius", "emoji": "♒", "text": "..."},
-        {"name": "Pisces", "emoji": "♓", "text": "..."}
-      ]
-    }`;
+    For EACH of the 12 signs, write exactly TWO sentences (Transit + Advice).
+    JSON ONLY: { "summary": "vibe", "signs": [{"name": "Aries", "emoji": "♈", "text": "..."}] }`;
 
     try {
         const result = await model.generateContent(prompt);
         const data = JSON.parse(result.response.text().replace(/```json|```/g, "").trim());
         data.date = todayFormatted;
 
-        // Save main data
         fs.writeFileSync(CONFIG.SAVE_FILE, JSON.stringify(data, null, 2));
-
-        // Individual files for Mix It Up
-        data.signs.forEach(sign => {
-            fs.writeFileSync(`current_${sign.name.toLowerCase()}.txt`, sign.text);
-        });
-
-        // Update history log
+        data.signs.forEach(s => fs.writeFileSync(`current_${s.name.toLowerCase()}.txt`, s.text));
+        
         history.unshift({ date: todayFormatted });
         fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history.slice(0, 30), null, 2));
 
@@ -119,5 +98,4 @@ async function main() {
         process.exit(1);
     }
 }
-
 main();
