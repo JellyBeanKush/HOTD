@@ -1,0 +1,27 @@
+name: Daily Horoscope Bot
+on:
+  schedule:
+    - cron: '15 14 * * *'
+  workflow_dispatch:
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install
+      - run: node index.mjs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add current_horoscope.txt horoscope_history.json
+          git commit -m "Update Daily Horoscope [skip ci]" || echo "No changes to commit"
+          git push
