@@ -7,7 +7,7 @@ const CONFIG = {
     DISCORD_URL: process.env.DISCORD_WEBHOOK_URL,
     SAVE_FILE: 'current_horoscope.txt',
     HISTORY_FILE: 'horoscope_history.json',
-    ID_FILE: 'message_id.txt', // NEW: Stores the ID to edit
+    ID_FILE: 'message_id.txt', 
     PRIMARY_MODEL: "gemini-2.5-flash" 
 };
 
@@ -33,7 +33,7 @@ async function updateDiscord(horoscopeData) {
         messageId = fs.readFileSync(CONFIG.ID_FILE, 'utf8').trim();
     }
 
-    // If we have an ID, we EDIT (?wait=true is required for webhooks to return data)
+    // PATCH edits the existing message; POST creates a new one
     const url = messageId 
         ? `${CONFIG.DISCORD_URL}/messages/${messageId}` 
         : `${CONFIG.DISCORD_URL}?wait=true`;
@@ -46,12 +46,15 @@ async function updateDiscord(horoscopeData) {
 
     if (!messageId && response.ok) {
         const result = await response.json();
-        fs.writeFileSync(CONFIG.ID_FILE, result.id); // Save ID for tomorrow
-        console.log("First message posted and ID saved.");
+        fs.writeFileSync(CONFIG.ID_FILE, result.id);
+        console.log("First message created. ID saved to message_id.txt.");
     } else if (response.ok) {
-        console.log("Existing message updated successfully.");
+        console.log("Horoscope message updated successfully.");
     } else {
-        console.error("Discord update failed:", await response.text());
+        const errorText = await response.text();
+        console.error("Discord Error:", errorText);
+        // If message was deleted manually, clear the ID to post fresh next time
+        if (response.status === 404) fs.unlinkSync(CONFIG.ID_FILE);
     }
 }
 
@@ -72,24 +75,24 @@ async function main() {
     const model = genAI.getGenerativeModel({ model: CONFIG.PRIMARY_MODEL });
 
     const prompt = `Act as a professional astrologer. Analyze the actual planetary transits for ${todayFormatted}.
-    Write a brief 1-2 sentence "summary" of the overall energy.
-    For EACH of the 12 signs, write exactly TWO punchy sentences. 
+    Write a 1-2 sentence "summary" of the overall energy.
+    For EACH of the 12 signs, write exactly TWO sentences. 
     Sentence 1: The astrological transit. Sentence 2: Practical advice.
     JSON ONLY: {
       "summary": "Overall vibe",
       "signs": [
-        {"name": "Aries", "emoji": "♈", "text": "Two sentences..."},
-        {"name": "Taurus", "emoji": "♉", "text": "Two sentences..."},
-        {"name": "Gemini", "emoji": "♊", "text": "Two sentences..."},
-        {"name": "Cancer", "emoji": "♋", "text": "Two sentences..."},
-        {"name": "Leo", "emoji": "♌", "text": "Two sentences..."},
-        {"name": "Virgo", "emoji": "♍", "text": "Two sentences..."},
-        {"name": "Libra", "emoji": "♎", "text": "Two sentences..."},
-        {"name": "Scorpio", "emoji": "♏", "text": "Two sentences..."},
-        {"name": "Sagittarius", "emoji": "♐", "text": "Two sentences..."},
-        {"name": "Capricorn", "emoji": "♑", "text": "Two sentences..."},
-        {"name": "Aquarius", "emoji": "♒", "text": "Two sentences..."},
-        {"name": "Pisces", "emoji": "♓", "text": "Two sentences..."}
+        {"name": "Aries", "emoji": "♈", "text": "..."},
+        {"name": "Taurus", "emoji": "♉", "text": "..."},
+        {"name": "Gemini", "emoji": "♊", "text": "..."},
+        {"name": "Cancer", "emoji": "♋", "text": "..."},
+        {"name": "Leo", "emoji": "♌", "text": "..."},
+        {"name": "Virgo", "emoji": "♍", "text": "..."},
+        {"name": "Libra", "emoji": "♎", "text": "..."},
+        {"name": "Scorpio", "emoji": "♏", "text": "..."},
+        {"name": "Sagittarius", "emoji": "♐", "text": "..."},
+        {"name": "Capricorn", "emoji": "♑", "text": "..."},
+        {"name": "Aquarius", "emoji": "♒", "text": "..."},
+        {"name": "Pisces", "emoji": "♓", "text": "..."}
       ]
     }`;
 
@@ -98,17 +101,21 @@ async function main() {
         const data = JSON.parse(result.response.text().replace(/```json|```/g, "").trim());
         data.date = todayFormatted;
 
+        // Save main data
         fs.writeFileSync(CONFIG.SAVE_FILE, JSON.stringify(data, null, 2));
+
+        // Individual files for Mix It Up
         data.signs.forEach(sign => {
             fs.writeFileSync(`current_${sign.name.toLowerCase()}.txt`, sign.text);
         });
 
+        // Update history log
         history.unshift({ date: todayFormatted });
         fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history.slice(0, 30), null, 2));
 
         await updateDiscord(data);
     } catch (err) {
-        console.error("Error:", err);
+        console.error("Critical Failure:", err);
         process.exit(1);
     }
 }
