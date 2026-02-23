@@ -7,14 +7,14 @@ const CONFIG = {
     DISCORD_URL: process.env.DISCORD_WEBHOOK_URL,
     SAVE_FILE: 'current_horoscope.txt',
     HISTORY_FILE: 'horoscope_history.json',
-    PRIMARY_MODEL: "gemini-1.5-flash" 
+    PRIMARY_MODEL: "gemini-2.5-flash" 
 };
 
 const options = { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/Los_Angeles' };
 const todayFormatted = new Date().toLocaleDateString('en-US', options);
 
 async function postToDiscord(horoscopeData) {
-    // We use the description block to prevent the "vertical skyscraper" stretching
+    // Description-based list prevents the "skyscraper" stretching on desktop
     const horoscopeList = horoscopeData.signs.map(s => 
         `**${s.emoji} ${s.name.toUpperCase()}**\n${s.text}`
     ).join('\n\n');
@@ -24,7 +24,7 @@ async function postToDiscord(horoscopeData) {
             title: `DAILY HOROSCOPE - ${todayFormatted}`,
             description: `**Current Cosmic Energy:** ${horoscopeData.summary}\n\n${horoscopeList}`,
             color: 0x9b59b6,
-            footer: { text: "Calculated based on actual planetary transits." }
+            footer: { text: "Calculated based on actual planetary transits via Gemini 2.5 Flash." }
         }]
     };
 
@@ -92,7 +92,7 @@ async function main() {
         fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history.slice(0, 30), null, 2));
 
         await postToDiscord(data);
-        console.log("Success! Files created and Discord updated.");
+        console.log("Success! Files created and Discord updated using Gemini 2.5 Flash.");
     } catch (err) {
         console.error("Error:", err);
         process.exit(1);
