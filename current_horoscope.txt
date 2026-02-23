@@ -1,65 +1,65 @@
 {
-  "summary": "The celestial energies of February 23, 2026, orchestrate a profound transitional period, marking the culmination of spiritual lessons while pioneering new paths for collective identity and compassionate action. Intuitive understanding merges with a grounded yet revolutionary drive, urging both reflection and innovative change.",
+  "summary": "The cosmos presents a deep dive into intuition and collective empathy, with a significant Pisces stellium activating compassion and spiritual awareness. Simultaneously, fresh energy from Saturn in Aries and Pluto in Aquarius sparks bold new beginnings and profound societal shifts, urging us to restructure for the collective good.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Neptune's fresh ingress into your sign signals a deeply spiritual phase, dissolving old self-perceptions and inviting a new sense of intuitive identity. With Venus in Aries, your passions are ignited, encouraging bold, independent action in relationships and creative pursuits."
+      "text": "With Saturn just entering your sign, you're embarking on a significant period of building personal structure and responsibility. Embrace the discipline required to lay strong foundations for your future, knowing your efforts now will yield lasting results."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Your personal values and financial security are undergoing significant, often unexpected, shifts with Uranus and the Moon in your sign. Profound changes in your career or public life continue to unfold, aligning your purpose with a deeper, more authentic calling."
+      "text": "Uranus retrograding in your sign continues to shake up your personal values and financial stability, hinting at internal re-evaluation. Stay flexible with your resources and be open to unconventional approaches to security, as your perspective on what truly matters is evolving."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Jupiter in your sign amplifies your curiosity and communication, expanding your intellectual horizons and social connections. Embrace this period of learning and sharing, while also paying close attention to the intuitive cues and spiritual dynamics within your relationships."
+      "text": "Mars in Aquarius ignites your social sector, inspiring you to take innovative action within your community and networks. Channel your intellectual energy into collaborative projects or advocacy, using your voice to champion progressive ideas."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Deep spiritual insights and subconscious transformations are culminating, preparing you for a profound new chapter in your beliefs and worldview. Your professional path is undergoing powerful shifts, requiring you to integrate compassionate understanding with your ambitions."
+      "text": "Jupiter in your sign continues to expand your sense of self and personal growth, bringing opportunities for emotional and spiritual abundance. Nurture your inner world and embrace opportunities to grow, especially those that enhance your sense of security and belonging."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your humanitarian spirit is strongly activated, driving you to contribute to collective efforts and innovative social change. Intimate connections and shared resources are undergoing a significant spiritual transformation, urging you to dissolve old patterns and embrace deeper trust."
+      "text": "The stellium in Pisces, alongside Neptune, activates your sector of shared resources and deep transformation, stirring your subconscious. Pay attention to your intuition regarding joint finances or intimate relationships, allowing for compassionate understanding and spiritual release."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your significant relationships are imbued with a spiritual depth, prompting you to seek compassionate understanding and release old expectations. Deeply transformative energies continue to reshape your fundamental beliefs and philosophical outlook, encouraging a revolutionary shift in perspective."
+      "text": "Your relationship sector is illuminated by the Pisces stellium, bringing a period of deep empathy and perhaps idealization in partnerships. Seek harmonious connections that feed your soul, but remember to maintain practical discernment amid heightened emotional sensitivity."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your daily routines and well-being are calling for a more spiritual and intuitive approach, fostering compassion in your everyday interactions. Intense transformations within your intimate partnerships and shared resources demand honesty, vulnerability, and a willingness to transcend old patterns."
+      "text": "With the Pisces stellium in your daily routine and health sector, you might feel a pull to integrate more spirituality into your work and well-being. Listen to your body's subtle cues and find compassionate ways to structure your day, allowing for restorative practices and creative flow."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Your creative self-expression and romantic life are being infused with profound spiritual meaning, inviting you to share your deepest passions. Your home and family foundations are undergoing a powerful and sometimes revolutionary transformation, leading to a new sense of belonging."
+      "text": "A powerful Pisces stellium electrifies your zone of creativity, romance, and self-expression, inviting imaginative new beginnings. Dive into artistic pursuits or passionate endeavors, allowing your deepest feelings to inspire joy and connection."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "A profound spiritual culmination within your home and family life prepares you for new foundational truths and emotional structures. Your communication and intellectual pursuits are ripe for optimistic expansion, encouraging new learning and diverse connections."
+      "text": "The Moon in your sign amplifies your emotions and desire for freedom, pushing you towards expansive exploration and personal truth. Trust your adventurous spirit, but ground your quest for knowledge with the emotional insights emerging from your home and family life."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your communication style and immediate environment are undergoing a period of sensitive, intuitive, and spiritually-tinged understanding. Deep-seated transformations in your self-worth and personal values continue, empowering you to redefine your relationship with money and possessions."
+      "text": "The Pisces stellium lights up your communication sector, encouraging empathetic and intuitive dialogue. Use your words to bridge gaps and offer understanding, but be mindful of potential misunderstandings arising from overly subtle expressions."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Your financial well-being and personal values are experiencing a significant spiritual dissolution, urging you to re-evaluate what truly brings security and purpose. Pluto in your sign continues to radically transform your identity, empowering you to shed limitations and embrace your authentic power."
+      "text": "With Pluto in your sign and Mars joining the collective movement, you're a powerful force for social transformation and personal revolution. Embrace your unique vision and don't shy away from leading change, knowing your actions profoundly impact the collective future."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "With the Sun and Mercury in your sign, your intuitive and empathetic nature is highlighted, strengthening your connection to the spiritual realm. Saturn in its final degree of Pisces marks the culmination of profound karmic lessons, preparing you for a significant new chapter of self-assertion and structure."
+      "text": "A significant stellium of Sun, Mercury, and Venus in your sign, with Neptune nearby, intensifies your personal magnetism and intuition. It's a potent time for self-discovery and expressing your compassionate nature; honor your spiritual insights and lead with empathy."
     }
   ],
   "date": "February 23, 2026"
