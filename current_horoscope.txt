@@ -1,0 +1,66 @@
+{
+  "summary": "The celestial energies of February 23, 2026, orchestrate a profound transitional period, marking the culmination of spiritual lessons while pioneering new paths for collective identity and compassionate action. Intuitive understanding merges with a grounded yet revolutionary drive, urging both reflection and innovative change.",
+  "signs": [
+    {
+      "name": "Aries",
+      "emoji": "♈",
+      "text": "Neptune's fresh ingress into your sign signals a deeply spiritual phase, dissolving old self-perceptions and inviting a new sense of intuitive identity. With Venus in Aries, your passions are ignited, encouraging bold, independent action in relationships and creative pursuits."
+    },
+    {
+      "name": "Taurus",
+      "emoji": "♉",
+      "text": "Your personal values and financial security are undergoing significant, often unexpected, shifts with Uranus and the Moon in your sign. Profound changes in your career or public life continue to unfold, aligning your purpose with a deeper, more authentic calling."
+    },
+    {
+      "name": "Gemini",
+      "emoji": "♊",
+      "text": "Jupiter in your sign amplifies your curiosity and communication, expanding your intellectual horizons and social connections. Embrace this period of learning and sharing, while also paying close attention to the intuitive cues and spiritual dynamics within your relationships."
+    },
+    {
+      "name": "Cancer",
+      "emoji": "♋",
+      "text": "Deep spiritual insights and subconscious transformations are culminating, preparing you for a profound new chapter in your beliefs and worldview. Your professional path is undergoing powerful shifts, requiring you to integrate compassionate understanding with your ambitions."
+    },
+    {
+      "name": "Leo",
+      "emoji": "♌",
+      "text": "Your humanitarian spirit is strongly activated, driving you to contribute to collective efforts and innovative social change. Intimate connections and shared resources are undergoing a significant spiritual transformation, urging you to dissolve old patterns and embrace deeper trust."
+    },
+    {
+      "name": "Virgo",
+      "emoji": "♍",
+      "text": "Your significant relationships are imbued with a spiritual depth, prompting you to seek compassionate understanding and release old expectations. Deeply transformative energies continue to reshape your fundamental beliefs and philosophical outlook, encouraging a revolutionary shift in perspective."
+    },
+    {
+      "name": "Libra",
+      "emoji": "♎",
+      "text": "Your daily routines and well-being are calling for a more spiritual and intuitive approach, fostering compassion in your everyday interactions. Intense transformations within your intimate partnerships and shared resources demand honesty, vulnerability, and a willingness to transcend old patterns."
+    },
+    {
+      "name": "Scorpio",
+      "emoji": "♏",
+      "text": "Your creative self-expression and romantic life are being infused with profound spiritual meaning, inviting you to share your deepest passions. Your home and family foundations are undergoing a powerful and sometimes revolutionary transformation, leading to a new sense of belonging."
+    },
+    {
+      "name": "Sagittarius",
+      "emoji": "♐",
+      "text": "A profound spiritual culmination within your home and family life prepares you for new foundational truths and emotional structures. Your communication and intellectual pursuits are ripe for optimistic expansion, encouraging new learning and diverse connections."
+    },
+    {
+      "name": "Capricorn",
+      "emoji": "♑",
+      "text": "Your communication style and immediate environment are undergoing a period of sensitive, intuitive, and spiritually-tinged understanding. Deep-seated transformations in your self-worth and personal values continue, empowering you to redefine your relationship with money and possessions."
+    },
+    {
+      "name": "Aquarius",
+      "emoji": "♒",
+      "text": "Your financial well-being and personal values are experiencing a significant spiritual dissolution, urging you to re-evaluate what truly brings security and purpose. Pluto in your sign continues to radically transform your identity, empowering you to shed limitations and embrace your authentic power."
+    },
+    {
+      "name": "Pisces",
+      "emoji": "♓",
+      "text": "With the Sun and Mercury in your sign, your intuitive and empathetic nature is highlighted, strengthening your connection to the spiritual realm. Saturn in its final degree of Pisces marks the culmination of profound karmic lessons, preparing you for a significant new chapter of self-assertion and structure."
+    }
+  ],
+  "date": "February 23, 2026"
+}
