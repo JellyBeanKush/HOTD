@@ -1,65 +1,65 @@
 {
-  "summary": "With the Sun and Saturn conjunct in early Pisces, alongside Neptune's fresh ingress into Aries, this period brings a profound call to ground spiritual ideals into practical reality while courageously forging new paths of identity and action. It's a time of dissolving old structures and pioneering a new sense of self and collective purpose.",
+  "summary": "The cosmos on February 23, 2026, presents a dynamic blend of assertive initiation and intuitive depths, challenging us to forge new paths while deeply examining our spiritual and emotional landscapes. A strong Aries stellium alongside Pluto's early ingress into Aquarius signals profound shifts in individual identity and collective consciousness, demanding both courage and adaptability.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Neptune just entering your sign, you're embarking on a profound, long-term journey of self-discovery, merging your pioneering spirit with a deeper spiritual awareness. Embrace the dissolution of old identities and allow your intuitive compass to guide you toward a more compassionate and boundary-pushing understanding of who you truly are."
+      "text": "A powerful surge of energy and self-discovery is upon you, with multiple planets igniting your sign, urging you to bravely step into new roles. However, you'll need to balance this assertive drive with emotional sensitivity and a deep review of your communication style."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Uranus continues its journey through your sign, prompting continued, perhaps uncomfortable, innovation and liberation regarding your personal values, finances, and sense of security. Resist the urge to cling to the familiar; instead, experiment with new approaches to stability and allow unexpected changes to redefine your material and value systems."
+      "text": "Personal transformations continue to shake your foundation, prompting you to redefine your values and sense of self. Your financial and material world is undergoing review, encouraging you to rethink how you derive security and express your worth."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Jupiter is expanding your horizons in your own sign, bringing abundant opportunities for learning, communication, and connecting with diverse ideas and people. Dive into new studies, engage in spirited debates, and leverage your intellectual curiosity to broaden your understanding and share your insights widely."
+      "text": "With Jupiter retrograde in your sign, this is a profound period for re-evaluating your personal beliefs, knowledge, and life philosophy. Communication becomes key, but you're called to speak with greater authenticity, especially regarding your future goals and aspirations."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "With Mars in your sign, your actions are driven by deep emotional impulses, making you fiercely protective of your home, family, and inner sense of security. Channel this surge of emotional energy into creating a secure and nurturing environment for yourself and your loved ones, but be mindful of acting out of defensiveness rather than intuition."
+      "text": "With Mars in your sign, your actions are deeply tied to your emotional well-being and a desire to protect what you cherish. This energy encourages you to assert yourself professionally and publicly, even if it feels vulnerable."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The Sun and Saturn in Pisces highlight your sector of shared resources, intimacy, and profound transformation, urging you to face joint responsibilities and deep emotional truths. This is a potent time to solidify financial partnerships or confront psychological patterns that prevent true intimacy, bringing discipline to your deepest bonds."
+      "text": "This is a time for deep introspection and examining shared resources or intimate connections, as the Sun illuminates areas of vulnerability and transformation. You're also urged to expand your horizons through travel, higher learning, or spiritual exploration, perhaps initiating a new philosophical journey."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "With the Sun and Saturn opposing your sign in Pisces, your relationships are under a strong microscope, demanding clear boundaries, mutual understanding, and mature commitment. Engage in open and honest dialogue with partners, both personal and professional, to clarify expectations and build more robust, realistic foundations together."
+      "text": "Your focus shifts strongly to partnerships and important one-on-one relationships, where you might experience a blend of idealism and necessary structuring. Practical adjustments in your daily routine and work life are paramount, as you're called to transform your approach to well-being."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "The Pisces Sun and Saturn combination emphasizes your daily routines, health, and service, calling for a more disciplined and structured approach to your well-being. Focus on establishing sustainable habits for your physical and mental health; integrate spiritual practices into your daily life to find balance and purpose in your work."
+      "text": "Relationships are a major theme, particularly those that challenge you to stand up for yourself and redefine your sense of fairness, moving away from old patterns. Your daily routines and health practices are also receiving attention, prompting a more compassionate and intuitive approach to your well-being."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Your creative expression, romance, and joyful pursuits are influenced by the Sun and Saturn in Pisces, demanding both imaginative exploration and responsible commitment to your passions. Allow yourself to dream big in your creative endeavors and relationships, but also commit to the hard work required to bring those visions to fruition."
+      "text": "Creative expression and romantic pursuits are infused with a dreamy and spiritual quality, encouraging you to embrace new passions. Practical matters related to work and health demand assertive action, pushing you to initiate better self-care practices."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "The Moon in your sign sparks a desire for freedom and adventure, contrasting with the grounding influence of Sun and Saturn in Pisces concerning your home and roots. Seek opportunities for personal growth and exploration, but remember to create a secure and stable emotional base from which to launch your next grand adventure."
+      "text": "Your home and family life are areas of deep emotional processing and intuitive guidance, as you seek comfort and spiritual connection within your roots. Romantic interests or creative projects demand bold new steps, challenging you to commit to your authentic desires."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your communication, learning, and local environment are activated by the Sun and Saturn in Pisces, urging you to bring structure and empathy to your interactions and immediate surroundings. Refine your communication skills, especially in sensitive conversations, and dedicate yourself to learning that grounds your spiritual insights in practical application."
+      "text": "Your communication style is imbued with compassion and intuition, fostering deeper connections with those around you, though you may feel a need for more structure. There's a strong emphasis on initiating new dynamics within your home and family life, requiring a blend of realism and idealism."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "With Pluto in your sign deepening your identity and Mercury keeping your mind agile, you're undergoing profound personal transformation while clearly articulating innovative ideas. Embrace your evolving sense of self and share your revolutionary thoughts with confidence, knowing that your words carry significant power to shape the future."
+      "text": "With Pluto now in your sign, you are undergoing a profound personal transformation, redefining your power and individual identity. Your values and financial matters are also highlighted, urging you to align your resources with your emerging self and innovative ideas."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "The Sun and Saturn are conjunct in your sign, bringing a powerful moment of personal reckoning and the call to solidify your identity, responsibilities, and spiritual path. This is a critical time to define who you are and what you stand for; embrace self-discipline and commit to manifesting your highest ideals in a tangible way."
+      "text": "With the Sun in your sign, you're experiencing a powerful surge of self-awareness and spiritual attunement, connecting deeply with your intuition. Your financial landscape and personal values are undergoing a significant initiation, requiring both practical discipline and a touch of idealism to manifest your desires."
     }
   ],
   "date": "February 23, 2026"
