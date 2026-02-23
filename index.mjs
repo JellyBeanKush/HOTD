@@ -22,7 +22,7 @@ async function updateDiscord(horoscopeData) {
     const embed = {
         title: `DAILY HOROSCOPE - ${todayFormatted}`,
         description: `**Current Cosmic Energy:** ${horoscopeData.summary}\n\n${horoscopeList}`,
-        color: 10180886 // Purple
+        color: 10180886
     };
 
     let messageId = null;
@@ -30,21 +30,22 @@ async function updateDiscord(horoscopeData) {
         messageId = fs.readFileSync(CONFIG.ID_FILE, 'utf8').trim();
     }
 
-    // Build the URL correctly for Threads
-    const url = new URL(CONFIG.DISCORD_URL);
-    const threadId = url.searchParams.get('thread_id');
+    // Split the URL to handle thread_id correctly
+    const [webhookBase, query] = CONFIG.DISCORD_URL.split('?');
+    let finalUrl = webhookBase;
 
+    // If we have an ID, we append /messages/ID to the path
     if (messageId) {
-        // Prepare URL for PATCH (Edit)
-        url.search = ''; // Clear existing params for pathname edit
-        url.pathname += `/messages/${messageId}`;
-        if (threadId) url.searchParams.set('thread_id', threadId);
-    } else {
-        // Prepare URL for POST (New Message)
-        url.searchParams.set('wait', 'true');
+        finalUrl += `/messages/${messageId}`;
     }
 
-    const response = await fetch(url.toString(), { 
+    // Rebuild the query string (ensuring wait=true for the first post)
+    const params = new URLSearchParams(query || "");
+    if (!messageId) params.set('wait', 'true');
+    
+    const requestUrl = `${finalUrl}?${params.toString()}`;
+
+    const response = await fetch(requestUrl, { 
         method: messageId ? 'PATCH' : 'POST', 
         headers: { 'Content-Type': 'application/json' }, 
         body: JSON.stringify({ embeds: [embed] }) 
@@ -54,13 +55,14 @@ async function updateDiscord(horoscopeData) {
         if (!messageId) {
             const result = await response.json();
             fs.writeFileSync(CONFIG.ID_FILE, result.id);
-            console.log("Success: Posted first message.");
+            console.log("Success: Posted and saved ID.");
         } else {
             console.log("Success: Updated existing message.");
         }
     } else {
-        const error = await response.text();
-        console.error(`Discord Error ${response.status}:`, error);
+        const errorMsg = await response.text();
+        console.error(`Discord Error: ${response.status}`, errorMsg);
+        // If message was manually deleted, remove ID to start fresh
         if (response.status === 404 && messageId) fs.unlinkSync(CONFIG.ID_FILE);
     }
 }
@@ -80,8 +82,7 @@ async function main() {
     const model = genAI.getGenerativeModel({ model: CONFIG.PRIMARY_MODEL });
 
     const prompt = `Act as a professional astrologer. Analyze actual planetary transits for ${todayFormatted}. 
-    Focus on the February 2026 Aquarius Stellium.
-    Write a 1-2 sentence "summary" of the overall energy.
+    Write a 1-2 sentence summary of the overall energy.
     For EACH of the 12 signs, write exactly TWO sentences (Transit + Advice).
     JSON ONLY: { "summary": "vibe", "signs": [ {"name": "Aries", "emoji": "♈", "text": "..."} ] }`;
 
