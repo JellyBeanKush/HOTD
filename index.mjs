@@ -106,7 +106,7 @@ async function main() {
         data.signs.forEach(s => fs.writeFileSync(`current_${s.name.toLowerCase()}.txt`, s.text));
         
         history.unshift({ date: todayFormatted });
-        fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history.slice(0, 30), null, 2));
+        fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history, null, 2));
 
         await updateDiscord(data);
     } catch (err) {
