@@ -97,9 +97,9 @@ async function main() {
     const genAI = new GoogleGenerativeAI(CONFIG.GEMINI_KEY);
     const model = genAI.getGenerativeModel({ model: CONFIG.PRIMARY_MODEL });
 
-    const prompt = `Act as a professional astrologer. Analyze actual planetary transits for ${todayFormatted}. 
+    const prompt = `Act as a professional astrologer, speaking naturally to an audience that knows very little about astrology. Analyze actual planetary transits for ${todayFormatted}. 
     Write a 2-3 sentence summary of the overall energy.
-    For EACH of the 12 signs, write exactly TWO sentences. 
+    For EACH of the 12 signs, write exactly TWO sentences. But dont be TOO vague, and try and make each signs horoscope somewhat unique. 
     JSON ONLY: {
       "summary": "Overall vibe",
       "signs": [
