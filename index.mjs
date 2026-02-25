@@ -15,7 +15,6 @@ const options = { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'Ame
 const todayFormatted = new Date().toLocaleDateString('en-US', options);
 
 async function updateDiscord(horoscopeData) {
-    // 1. Create the Header Embed
     const embeds = [
         {
             title: `DAILY HOROSCOPE - ${todayFormatted}`,
@@ -24,12 +23,12 @@ async function updateDiscord(horoscopeData) {
         }
     ];
 
-    // 2. Group signs into 4 embeds (3 signs each) to stay under the 10-embed limit
+    // Grouping into 4 embeds to stay under Discord's 10-embed limit
     const groups = [
-        { name: "Fire Signs", indices: [0, 4, 8] },    // Aries, Leo, Sag
-        { name: "Earth Signs", indices: [1, 5, 9] },   // Taurus, Virgo, Cap
-        { name: "Air Signs", indices: [2, 6, 10] },    // Gemini, Libra, Aq
-        { name: "Water Signs", indices: [3, 7, 11] }   // Cancer, Scorpio, Pisces
+        { name: "🔥 FIRE SIGNS", indices: [0, 4, 8] },    // Aries, Leo, Sag
+        { name: "⛰️ EARTH SIGNS", indices: [1, 5, 9] },   // Taurus, Virgo, Cap
+        { name: "🌬️ AIR SIGNS", indices: [2, 6, 10] },    // Gemini, Libra, Aq
+        { name: "💧 WATER SIGNS", indices: [3, 7, 11] }   // Cancer, Scorpio, Pisces
     ];
 
     groups.forEach(group => {
@@ -54,11 +53,8 @@ async function updateDiscord(horoscopeData) {
 
     const urlObj = new URL(CONFIG.DISCORD_URL);
     const threadId = urlObj.searchParams.get('thread_id');
-    
     let finalUrl = `${urlObj.origin}${urlObj.pathname}`;
-    if (messageId) {
-        finalUrl += `/messages/${messageId}`;
-    }
+    if (messageId) finalUrl += `/messages/${messageId}`;
 
     const finalParams = new URLSearchParams();
     if (threadId) finalParams.set('thread_id', threadId);
@@ -76,9 +72,7 @@ async function updateDiscord(horoscopeData) {
         if (!messageId) {
             const result = await response.json();
             fs.writeFileSync(CONFIG.ID_FILE, result.id);
-            console.log("First post successful. ID saved.");
-        } else {
-            console.log("Existing message updated successfully.");
+            console.log("Post successful. ID saved.");
         }
     } else {
         const errText = await response.text();
@@ -92,11 +86,7 @@ async function updateDiscord(horoscopeData) {
 async function main() {
     let history = [];
     if (fs.existsSync(CONFIG.HISTORY_FILE)) {
-        try { 
-            history = JSON.parse(fs.readFileSync(CONFIG.HISTORY_FILE, 'utf8')); 
-        } catch (e) {
-            history = [];
-        }
+        try { history = JSON.parse(fs.readFileSync(CONFIG.HISTORY_FILE, 'utf8')); } catch (e) {}
     }
 
     if (history.length > 0 && history[0].date === todayFormatted) {
@@ -130,25 +120,15 @@ async function main() {
 
     try {
         const result = await model.generateContent(prompt);
-        const textResponse = result.response.text();
-        const cleanJson = textResponse.replace(/```json|```/g, "").trim();
-        const data = JSON.parse(cleanJson);
-        
+        const data = JSON.parse(result.response.text().replace(/```json|```/g, "").trim());
         data.date = todayFormatted;
-
-        // Save local backups
         fs.writeFileSync(CONFIG.SAVE_FILE, JSON.stringify(data, null, 2));
-        data.signs.forEach(s => fs.writeFileSync(`current_${s.name.toLowerCase()}.txt`, s.text));
-        
-        // Update history
         history.unshift({ date: todayFormatted });
-        fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history.slice(0, 30), null, 2));
-
+        fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history.slice(0, 5), null, 2));
         await updateDiscord(data);
     } catch (err) {
         console.error("Critical Failure:", err);
         process.exit(1);
     }
 }
-
 main();
