@@ -29,10 +29,8 @@ jobs:
         run: |
           git config --global user.name 'HoroscopeBot'
           git config --global user.email 'bot@github.com'
-          # Pull latest changes to avoid conflicts
           git pull origin main
-          # Add all files created or updated by the script
+          # We only want to track these specific data files
           git add message_id.txt horoscope_history.json current_horoscope.txt current_*.txt
-          # Commit and push back to your repo
           git commit -m "Update horoscope data [skip ci]" || echo "No changes"
           git push
