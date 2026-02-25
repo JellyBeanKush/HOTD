@@ -8,7 +8,7 @@ const CONFIG = {
     SAVE_FILE: 'current_horoscope.txt',
     HISTORY_FILE: 'horoscope_history.json',
     ID_FILE: 'message_id.txt', 
-    PRIMARY_MODEL: "gemini-2.0-flash" // Recommended for speed and reliability
+    PRIMARY_MODEL: "gemini-2.5-flash" 
 };
 
 const options = { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/Los_Angeles' };
@@ -130,12 +130,13 @@ async function main() {
         
         data.date = todayFormatted;
 
-        // Save local backup
+        // Save local backups
         fs.writeFileSync(CONFIG.SAVE_FILE, JSON.stringify(data, null, 2));
+        data.signs.forEach(s => fs.writeFileSync(`current_${s.name.toLowerCase()}.txt`, s.text));
         
         // Update history
         history.unshift({ date: todayFormatted });
-        fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history.slice(0, 30), null, 2)); // Keep 30 days history
+        fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history.slice(0, 30), null, 2));
 
         await updateDiscord(data);
     } catch (err) {
