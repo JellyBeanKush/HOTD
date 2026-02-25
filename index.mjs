@@ -4,51 +4,58 @@ import fs from 'fs';
 
 const CONFIG = {
     GEMINI_KEY: process.env.GEMINI_API_KEY,
-    DISCORD_URL: process.env.DISCORD_WEBHOOK_URL, // e.g., .../TOKEN?thread_id=123
+    DISCORD_URL: process.env.DISCORD_WEBHOOK_URL,
     SAVE_FILE: 'current_horoscope.txt',
     HISTORY_FILE: 'horoscope_history.json',
     ID_FILE: 'message_id.txt', 
-    PRIMARY_MODEL: "gemini-2.5-flash" 
+    PRIMARY_MODEL: "gemini-2.0-flash" // Recommended for speed and reliability
 };
 
 const options = { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/Los_Angeles' };
 const todayFormatted = new Date().toLocaleDateString('en-US', options);
 
 async function updateDiscord(horoscopeData) {
-    const horoscopeList = horoscopeData.signs.map(s => 
-        `**${s.emoji} ${s.name.toUpperCase()}**\n${s.text}`
-    ).join('\n\n');
-
-    const payload = {
-        embeds: [{
+    // 1. Create the Header Embed (Summary)
+    const embeds = [
+        {
             title: `DAILY HOROSCOPE - ${todayFormatted}`,
-            description: `**Current Cosmic Energy:** ${horoscopeData.summary}\n\n${horoscopeList}`,
+            description: `**Current Cosmic Energy:** ${horoscopeData.summary}`,
             color: 10180886
-        }]
-    };
+        }
+    ];
+
+    // 2. Add an individual embed for each sign
+    horoscopeData.signs.forEach(s => {
+        embeds.push({
+            title: `${s.emoji} ${s.name.toUpperCase()}`,
+            description: s.text,
+            color: 10180886
+        });
+    });
+
+    const payload = { embeds };
 
     let messageId = null;
     if (fs.existsSync(CONFIG.ID_FILE)) {
         messageId = fs.readFileSync(CONFIG.ID_FILE, 'utf8').trim();
     }
 
-    // --- CLEAN URL LOGIC ---
-    // 1. Get the base URL (ID and Token) and the thread_id separately
+    // --- URL LOGIC ---
     const urlObj = new URL(CONFIG.DISCORD_URL);
     const threadId = urlObj.searchParams.get('thread_id');
     
-    // 2. Build the correct path
     let finalUrl = `${urlObj.origin}${urlObj.pathname}`;
     if (messageId) {
         finalUrl += `/messages/${messageId}`;
     }
 
-    // 3. Add parameters back correctly
     const finalParams = new URLSearchParams();
     if (threadId) finalParams.set('thread_id', threadId);
-    if (!messageId) finalParams.set('wait', 'true'); // Required to get ID back on first post
+    if (!messageId) finalParams.set('wait', 'true');
 
     const requestUrl = `${finalUrl}?${finalParams.toString()}`;
+
+    console.log(messageId ? "Attempting to edit message..." : "Sending new message...");
 
     const response = await fetch(requestUrl, { 
         method: messageId ? 'PATCH' : 'POST', 
@@ -65,17 +72,25 @@ async function updateDiscord(horoscopeData) {
             console.log("Existing message updated successfully.");
         }
     } else {
-        const err = await response.text();
-        console.error(`Discord Error: ${response.status}`, err);
-        // Reset if message was deleted manually
-        if (response.status === 404 && messageId) fs.unlinkSync(CONFIG.ID_FILE);
+        const errText = await response.text();
+        console.error(`Discord Error: ${response.status}`, errText);
+        
+        // If message was deleted (404) or payload was bad (400), clear the ID so next run starts fresh
+        if ((response.status === 404 || response.status === 400) && messageId) {
+            console.log("Cleaning up ID file to reset for next run.");
+            fs.unlinkSync(CONFIG.ID_FILE);
+        }
     }
 }
 
 async function main() {
     let history = [];
     if (fs.existsSync(CONFIG.HISTORY_FILE)) {
-        try { history = JSON.parse(fs.readFileSync(CONFIG.HISTORY_FILE, 'utf8')); } catch (e) {}
+        try { 
+            history = JSON.parse(fs.readFileSync(CONFIG.HISTORY_FILE, 'utf8')); 
+        } catch (e) {
+            history = [];
+        }
     }
 
     if (history.length > 0 && history[0].date === todayFormatted) {
@@ -93,20 +108,34 @@ async function main() {
       "summary": "Overall vibe",
       "signs": [
         {"name": "Aries", "emoji": "♈", "text": "Two sentences..."},
-        ... (repeat for all 12 signs)
+        {"name": "Taurus", "emoji": "♉", "text": "Two sentences..."},
+        {"name": "Gemini", "emoji": "♊", "text": "Two sentences..."},
+        {"name": "Cancer", "emoji": "♋", "text": "Two sentences..."},
+        {"name": "Leo", "emoji": "♌", "text": "Two sentences..."},
+        {"name": "Virgo", "emoji": "♍", "text": "Two sentences..."},
+        {"name": "Libra", "emoji": "♎", "text": "Two sentences..."},
+        {"name": "Scorpio", "emoji": "♏", "text": "Two sentences..."},
+        {"name": "Sagittarius", "emoji": "♐", "text": "Two sentences..."},
+        {"name": "Capricorn", "emoji": "♑", "text": "Two sentences..."},
+        {"name": "Aquarius", "emoji": "♒", "text": "Two sentences..."},
+        {"name": "Pisces", "emoji": "♓", "text": "Two sentences..."}
       ]
     }`;
 
     try {
         const result = await model.generateContent(prompt);
-        const data = JSON.parse(result.response.text().replace(/```json|```/g, "").trim());
+        const textResponse = result.response.text();
+        const cleanJson = textResponse.replace(/```json|```/g, "").trim();
+        const data = JSON.parse(cleanJson);
+        
         data.date = todayFormatted;
 
+        // Save local backup
         fs.writeFileSync(CONFIG.SAVE_FILE, JSON.stringify(data, null, 2));
-        data.signs.forEach(s => fs.writeFileSync(`current_${s.name.toLowerCase()}.txt`, s.text));
         
+        // Update history
         history.unshift({ date: todayFormatted });
-        fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history, null, 2));
+        fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history.slice(0, 30), null, 2)); // Keep 30 days history
 
         await updateDiscord(data);
     } catch (err) {
@@ -114,4 +143,5 @@ async function main() {
         process.exit(1);
     }
 }
+
 main();
