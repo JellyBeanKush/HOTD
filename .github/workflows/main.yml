@@ -1,34 +1,38 @@
-name: Update SquishPass
+name: Daily Horoscope
 on:
-  repository_dispatch:
-    types: [update_squishpass]
-  workflow_dispatch:
-    inputs:
-      points:
-        description: 'Manual Point Entry'
-        required: true
-        default: '0'
+  schedule:
+    # This runs daily at 4:00 PM UTC (8:00 AM PST)
+    - cron: '0 16 * * *' 
+  workflow_dispatch:      
+    # This adds a "Run Workflow" button in GitHub so you can test manually
 
 jobs:
-  update:
+  run-horoscope:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+          
+      - name: Install Dependencies
+        run: npm install @google/generative-ai node-fetch
 
-      - name: Run Update
+      - name: Run Bot
         env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          POINTS: ${{ github.event.client_payload.points || github.event.inputs.points }}
-        run: node squishpass.mjs
+        run: node index.mjs
 
-      - name: Save Persistence
+      - name: Save History and IDs
         run: |
-          git config --global user.name 'SquishBot'
+          git config --global user.name 'HoroscopeBot'
           git config --global user.email 'bot@github.com'
+          # Pull latest changes to avoid conflicts
           git pull origin main
-          git add last_post_data.json
-          git commit -m "Update persistence [skip ci]" || echo "No changes"
+          # Add all files created or updated by the script
+          git add message_id.txt horoscope_history.json current_horoscope.txt current_*.txt
+          # Commit and push back to your repo
+          git commit -m "Update horoscope data [skip ci]" || echo "No changes"
           git push
