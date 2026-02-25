@@ -15,7 +15,7 @@ const options = { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'Ame
 const todayFormatted = new Date().toLocaleDateString('en-US', options);
 
 async function updateDiscord(horoscopeData) {
-    // 1. Create the Header Embed (Summary)
+    // 1. Create the Header Embed
     const embeds = [
         {
             title: `DAILY HOROSCOPE - ${todayFormatted}`,
@@ -24,11 +24,23 @@ async function updateDiscord(horoscopeData) {
         }
     ];
 
-    // 2. Add an individual embed for each sign
-    horoscopeData.signs.forEach(s => {
+    // 2. Group signs into 4 embeds (3 signs each) to stay under the 10-embed limit
+    const groups = [
+        { name: "Fire Signs", indices: [0, 4, 8] },    // Aries, Leo, Sag
+        { name: "Earth Signs", indices: [1, 5, 9] },   // Taurus, Virgo, Cap
+        { name: "Air Signs", indices: [2, 6, 10] },    // Gemini, Libra, Aq
+        { name: "Water Signs", indices: [3, 7, 11] }   // Cancer, Scorpio, Pisces
+    ];
+
+    groups.forEach(group => {
+        const groupText = group.indices.map(i => {
+            const s = horoscopeData.signs[i];
+            return `**${s.emoji} ${s.name.toUpperCase()}**\n${s.text}`;
+        }).join('\n\n');
+
         embeds.push({
-            title: `${s.emoji} ${s.name.toUpperCase()}`,
-            description: s.text,
+            title: group.name,
+            description: groupText,
             color: 10180886
         });
     });
@@ -40,7 +52,6 @@ async function updateDiscord(horoscopeData) {
         messageId = fs.readFileSync(CONFIG.ID_FILE, 'utf8').trim();
     }
 
-    // --- URL LOGIC ---
     const urlObj = new URL(CONFIG.DISCORD_URL);
     const threadId = urlObj.searchParams.get('thread_id');
     
@@ -54,8 +65,6 @@ async function updateDiscord(horoscopeData) {
     if (!messageId) finalParams.set('wait', 'true');
 
     const requestUrl = `${finalUrl}?${finalParams.toString()}`;
-
-    console.log(messageId ? "Attempting to edit message..." : "Sending new message...");
 
     const response = await fetch(requestUrl, { 
         method: messageId ? 'PATCH' : 'POST', 
@@ -74,10 +83,7 @@ async function updateDiscord(horoscopeData) {
     } else {
         const errText = await response.text();
         console.error(`Discord Error: ${response.status}`, errText);
-        
-        // If message was deleted (404) or payload was bad (400), clear the ID so next run starts fresh
         if ((response.status === 404 || response.status === 400) && messageId) {
-            console.log("Cleaning up ID file to reset for next run.");
             fs.unlinkSync(CONFIG.ID_FILE);
         }
     }
