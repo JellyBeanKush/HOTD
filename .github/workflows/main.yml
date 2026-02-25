@@ -30,7 +30,8 @@ jobs:
           git config --global user.name 'HoroscopeBot'
           git config --global user.email 'bot@github.com'
           git pull origin main
-          # We only want to track these specific data files
+          # This 'touch' command creates the files if they are missing so git doesn't crash
+          touch message_id.txt horoscope_history.json
           git add message_id.txt horoscope_history.json current_horoscope.txt current_*.txt
           git commit -m "Update horoscope data [skip ci]" || echo "No changes"
           git push
