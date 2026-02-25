@@ -1,65 +1,65 @@
 {
-  "summary": "February 25, 2026, brings a profound and deeply intuitive energy, with a significant stellium in Pisces emphasizing spirituality, compassion, and the dissolution of old forms. Simultaneously, the powerful Jupiter-Uranus conjunction in Taurus heralds sudden, revolutionary shifts in finance, values, and security, urging us to embrace innovation in material matters. Pluto's fresh presence in Aquarius further underscores a new era of collective transformation, balancing idealism with pragmatic change.",
+  "summary": "February 25, 2026, marks a profound cosmic moment as a powerful stellium in Pisces, including the Sun, Mercury, Saturn, and Neptune, dives deeply into collective consciousness and spiritual realities. This watery concentration is harmonized with a transformative Jupiter-Uranus conjunction in Taurus, sparking radical innovation and unexpected shifts in material security and personal values. The day calls for integrating spiritual discipline with practical, revolutionary action, while navigating deep societal currents and personal growth.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Venus freshly in your sign, you're feeling a surge of personal charm and a desire to initiate new connections. Focus on self-love and pursuing what truly ignites your passion, as this energy supports bold romantic or creative starts."
+      "text": "With the North Node in your sign and Venus adding spark, focus on cultivating self-reliance and asserting your authentic desires. However, deeply intuitive energies in your twelfth house urge you to connect with your spiritual core and release old patterns."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "The powerful conjunction of Jupiter and Uranus in your sign promises unexpected breakthroughs and revolutionary shifts in your personal life and finances. Embrace radical honesty about your values and be open to unconventional paths to growth and liberation."
+      "text": "Your financial and value systems are undergoing radical, exciting shifts due to the Jupiter-Uranus conjunction directly in your sign. Embrace innovative ways to cultivate abundance and security, allowing unexpected opportunities to reshape your path."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your career and public image are under a mystical and transformative lens, calling you to align your professional path with your deepest spiritual ideals. While clarity might be elusive, trust your intuition to guide your long-term ambitions and humanitarian efforts."
+      "text": "Significant career developments are on the horizon, urging you to bring your creative and compassionate vision into public view. Structure your long-term goals and accept new responsibilities that align with your deepest spiritual aspirations."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Mars in your sign fuels your actions with emotional intensity and a strong need to protect what you cherish, particularly regarding beliefs and personal growth. You might feel a strong pull towards adventure or expanding your horizons, but ensure your actions are rooted in genuine emotional security."
+      "text": "Mars in your sign fuels your actions with emotional intensity, making you fiercely protective of your beliefs and loved ones. Simultaneously, expansive spiritual journeys or higher education call for a disciplined approach to broaden your worldview."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Deep transformations around shared resources, intimacy, and profound psychological matters are highlighted for you now. This is a powerful time for shedding old patterns and embracing vulnerability to foster deeper connections or financial healing."
+      "text": "Deep transformation in your shared resources and intimate connections is highlighted, requiring you to confront hidden truths and embrace profound change. You're asked to integrate spiritual responsibility with practical adjustments in how you merge with others."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your relationships, both romantic and professional, are imbued with a highly intuitive and perhaps idealistic quality. Seek connections that resonate on a soul level, but ensure you maintain clear boundaries amidst the potential for blurred lines."
+      "text": "Your relationships, both personal and professional, are undergoing significant spiritual and practical restructuring. Seek partnerships that support your highest ideals, but be prepared to set clear boundaries and address any illusions head-on."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your daily routines, work environment, and health practices are undergoing a significant spiritual or intuitive adjustment. Focus on creating compassionate systems that support your well-being, even if it means dissolving less effective habits."
+      "text": "Your daily routines, health, and work environment are infused with spiritual meaning and require a disciplined, compassionate approach. Pay attention to your well-being, release people-pleasing tendencies, and assert your needs for personal balance."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "This period sparks creativity, romance, and a deeper connection to your inner child or joyful expression. Allow your intuition to guide your artistic endeavors and be open to transformative experiences in love and self-expression."
+      "text": "Creative expression, romance, and the pursuit of joy are deeply intertwined with spiritual insights and a need for disciplined artistry. Embrace your passions wholeheartedly, channeling them into meaningful and structured endeavors."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your home, family, and emotional foundations are receiving a profound energetic focus, possibly leading to a more spiritual or fluid understanding of belonging. Embrace compassion within your domestic sphere and trust your inner wisdom regarding your roots."
+      "text": "Your home and family life are undergoing a period of significant spiritual grounding and practical restructuring. You may be called to create more defined boundaries within your domestic sphere or take on new responsibilities for loved ones."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your communication, learning, and local environment are steeped in intuitive and compassionate energies, encouraging you to speak from the heart. While your mind may drift into more spiritual or imaginative realms, find practical ways to express your insights."
+      "text": "Communication, learning, and local connections are imbued with spiritual depth and a need for practical wisdom. This is a powerful time for disciplined study, writing, or connecting with your community on a more profound level."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "With Pluto freshly in your sign, a deep personal transformation and empowerment are beginning to unfold, inviting you to step into your authentic power. Your values and financial world are also seeing significant intuitive influence; trust your gut feelings on what truly matters."
+      "text": "Financial shifts and re-evaluation of your core values are prominent, urging you to find innovative ways to build security. Pluto in your sign also empowers you to transform your identity and assert your unique vision for the future."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "With the Sun, Mercury, Saturn, and Neptune all in your sign, this is an incredibly potent time for self-discovery, spiritual growth, and bringing your dreams into reality. While you may feel highly sensitive and intuitive, Saturn encourages you to ground your visions with practical steps and clear intentions."
+      "text": "With a powerful stellium in your sign, your identity, life path, and spiritual purpose are intensely activated and receiving a dose of reality from Saturn. Embrace disciplined self-expression and allow your compassionate nature to guide your restructured personal foundations."
     }
   ],
   "date": "February 25, 2026"
