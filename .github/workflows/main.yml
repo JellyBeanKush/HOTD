@@ -1,28 +1,34 @@
-name: Daily Horoscope Bot
+name: Update SquishPass
 on:
-  schedule:
-    - cron: '15 14 * * *'
+  repository_dispatch:
+    types: [update_squishpass]
   workflow_dispatch:
+    inputs:
+      points:
+        description: 'Manual Point Entry'
+        required: true
+        default: '0'
+
 jobs:
-  run-bot:
+  update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: npm install
-      - run: node index.mjs
+
+      - name: Run Update
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-      - name: Commit changes
+          POINTS: ${{ github.event.client_payload.points || github.event.inputs.points }}
+        run: node squishpass.mjs
+
+      - name: Save Persistence
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add current_*.txt horoscope_history.json
-          if [ -f message_id.txt ]; then git add message_id.txt; fi
-          git commit -m "Update Daily Horoscope [skip ci]" || echo "No changes to commit"
+          git config --global user.name 'SquishBot'
+          git config --global user.email 'bot@github.com'
+          git pull origin main
+          git add last_post_data.json
+          git commit -m "Update persistence [skip ci]" || echo "No changes"
           git push
