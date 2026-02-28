@@ -1,66 +1,66 @@
 {
-  "summary": "February 27, 2026, brings a deeply introspective and compassionate energy, urging us to connect with our intuition as some significant cycles come to a reflective close. Alongside this reflective tide, there's a powerful urge for new beginnings and societal shifts, particularly in how we connect and value innovation. Expect a fascinating interplay between letting go and boldly stepping into new territories, balancing emotional depth with practical ambition.",
+  "summary": "The end of February 2026 brings a powerful confluence of energies, marked by a rare conjunction of Saturn and Neptune initiating a new cycle in Aries. This period asks us to integrate our grandest visions with practical reality, especially concerning our sense of self and the collective future. Expect a potent mix of intuitive closure and a push towards courageous, yet potentially dissolving, new beginnings.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Aries, your personal desires are ignited, pushing you to embrace new beginnings with a pioneering, compassionate spirit. Focus your powerful drive on ambitious career goals, ensuring your actions align with your highest ideals for success."
+      "text": "You are truly at the forefront this week, Aries, feeling an intense call to redefine who you are and what new beginnings mean for you. With a powerful blend of discipline and boundless imagination in your sign, be mindful of where you draw the line between dreams and action."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Sudden shifts in your personal values or finances are highlighted, urging you to embrace change as a path to greater security and self-worth. Explore new philosophies or travel, allowing an adventurous spirit to guide your practical endeavors."
+      "text": "Expect some unexpected shake-ups around your personal values and how you earn or manage your resources. This is a potent time to embrace innovation and let go of old patterns that no longer serve your evolving sense of security."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your natural curiosity and communication skills are amplified, leading to expansive new ideas and significant opportunities for personal growth. Professionally, deep introspection and a compassionate approach will guide you towards meaningful achievements."
+      "text": "Your natural curiosity might feel a bit internal, as you're prompted to deeply re-evaluate your perspectives and methods of learning. It’s an excellent period for reviewing past information and perhaps realizing there are different ways to connect and communicate your ideas."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Emotionally, you're seeking comfort and recognition, especially regarding your self-worth and the resources you share with others. This is a powerful time for spiritual exploration or higher learning, guiding deep transformations in shared resources or intimacy."
+      "text": "A significant focus falls on your career path and public identity, encouraging you to bring more compassion and idealism to your ambitions. You're navigating a powerful push to transform your professional world, blending practical goals with a deeper, more spiritual purpose."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your emotional needs for self-expression and recognition are strong, pushing you to take center stage in your personal narrative and relationships. A deep dive into shared resources or psychological truths will reveal hidden strengths and expand your social networks."
+      "text": "Big questions around your belief systems, travel, and higher education are stirring, urging you to expand your worldview. You might find yourself dissolving old philosophies to make space for more inclusive and imaginative truths about the world."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your relationships, both personal and professional, are undergoing a period of deep reflection and compassionate understanding. Channel your practical energy into creative projects or romantic endeavors, allowing for structured yet inspired self-expression."
+      "text": "This is a time for deep introspection and transformation concerning shared resources, intimacy, and understanding deeper psychological bonds. Old emotional wounds or financial arrangements could be dissolving, creating space for more spiritual and compassionate connections."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Relationships are buzzing with passionate, new energy, encouraging you to assert your desires and seek balance in partnership. Pay close attention to your daily routines and well-being, as significant shifts in creative expression or romance are unfolding."
+      "text": "Relationships are a core theme, nudging you to find greater balance between your individual needs and your partnerships. You're being asked to courageously define your identity within the context of others, letting go of what no longer serves equitable connection."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Your communication style becomes practical and goal-oriented, allowing you to articulate your ambitious plans effectively. This is a potent time for creative projects or romantic connections, even as unexpected changes in partnerships continue to unfold."
+      "text": "Your daily routines, health, and sense of service are undergoing a significant yet subtle shift, blending practicality with intuition. You might find yourself dissolving old habits to create space for more meaningful, purpose-driven work that aligns with your deeper calling."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Expansive opportunities for growth and learning arise through your partnerships, fostering engaging and stimulating connections. Focus on your home and family life, finding deep compassion and spiritual understanding within your roots and foundations."
+      "text": "Your creative spirit is intensely activated, inspiring you to channel your boundless energy into joyful self-expression and new projects. This is a profound time to rediscover your inner child and explore imaginative ways to bring passion and purpose to your life."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your personal drive and ambition are incredibly potent, pushing you to take decisive action towards your goals. Communication requires a more compassionate and structured approach, especially as you redefine your home environment or family dynamics with fresh eyes."
+      "text": "With a powerful drive in your sign, you're strategically focused on achieving long-term goals with exceptional discipline and ambition. It's a potent moment to put your plans into action, but remember to ground your ambitions with a clear and practical vision for the future."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "With Pluto entering your sign, you're undergoing a profound personal transformation, stepping into your power in entirely new ways. Re-evaluate your values and financial resources, as unexpected changes in your home life are reshaping your sense of security."
+      "text": "Your social life and humanitarian ideals are undergoing a deep re-evaluation, urging you to transform how you connect with communities. Unconventional connections flourish as you reconsider what truly matters in your group dynamics and personal freedom."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "This is a highly significant period for you, Pisces, bringing profound self-reflection and the crystallization of new personal boundaries. Embrace an intuitive approach to your finances and values, as expansive opportunities arise within your home and family life."
+      "text": "As the Sun shines in your sign, you're feeling a deep sense of intuition and a natural inclination to conclude personal cycles. This is a powerful moment to reflect on your identity and embody your spiritual essence before launching into new ventures."
     }
   ],
-  "date": "February 27, 2026"
+  "date": "February 28, 2026"
 }
