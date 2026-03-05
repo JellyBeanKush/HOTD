@@ -8,12 +8,14 @@ const CONFIG = {
     SAVE_FILE: 'current_horoscope.txt',
     HISTORY_FILE: 'horoscope_history.json',
     ID_FILE: 'message_id.txt',
-    // Ordered from newest/cheapest to older reliable models
+    // AUTO-UPDATING MODELS:
+    // 'latest' aliases stay current forever. 
+    // Fallbacks ensure reliability if the newest model is glitchy.
     MODELS: [
-        "gemini-3.1-flash-lite-preview", 
-        "gemini-3-flash-preview", 
-        "gemini-2.5-flash", 
-        "gemini-1.5-flash"
+        "gemini-flash-latest", // Auto-points to Gemini 3.1 Flash-Lite (Fastest)
+        "gemini-pro-latest",   // Auto-points to Gemini 3.1 Pro (Smarts)
+        "gemini-2.5-flash",    // Stable fallback
+        "gemini-1.5-flash"     // Safety net
     ]
 };
 
@@ -77,7 +79,7 @@ async function updateDiscord(horoscopeData) {
         if (!messageId) {
             const result = await response.json();
             fs.writeFileSync(CONFIG.ID_FILE, result.id);
-            console.log("Post successful.");
+            console.log("Discord sync successful.");
         }
     } else {
         const errText = await response.text();
@@ -95,11 +97,11 @@ async function main() {
     }
 
     if (history.length > 0 && history[0].date === todayFormatted) {
-        console.log("Already updated today.");
+        console.log("Bot has already run for today.");
         return;
     }
 
-    const prompt = `Act as a professional astrologer. Analyze planetary transits for ${todayFormatted}. 
+    const prompt = `Act as a professional astrologer. Analyze actual planetary transits for ${todayFormatted}. 
     JSON ONLY: {
       "summary": "2-3 sentences on overall energy",
       "signs": [
@@ -122,42 +124,44 @@ async function main() {
 
     for (const modelName of CONFIG.MODELS) {
         try {
-            console.log(`Attempting generation with ${modelName}...`);
+            console.log(`Using model: ${modelName}`);
             const model = genAI.getGenerativeModel({ model: modelName });
             const result = await model.generateContent(prompt);
             const responseText = result.response.text();
             
+            // Extract JSON even if the model wraps it in markdown blocks
             const jsonMatch = responseText.match(/\{[\s\S]*\}/);
             const data = JSON.parse(jsonMatch ? jsonMatch[0] : responseText);
             data.date = todayFormatted;
 
-            // Save Master File
+            // 1. Save Master JSON
             fs.writeFileSync(CONFIG.SAVE_FILE, JSON.stringify(data, null, 2));
 
-            // Save Individual Signs
+            // 2. Save individual sign files for the Git Repo
             data.signs.forEach(sign => {
                 const fileName = `current_${sign.name.toLowerCase()}.txt`;
                 const content = `${sign.emoji} ${sign.name.toUpperCase()} - ${todayFormatted}\n\n${sign.text}`;
                 fs.writeFileSync(fileName, content);
             });
 
+            // 3. Update local history tracking
             history.unshift({ date: todayFormatted });
             fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history.slice(0, 5), null, 2));
 
+            // 4. Update Discord
             await updateDiscord(data);
-            console.log(`Successfully updated using ${modelName}`);
-            return; // Exit main() on success
+            
+            console.log(`Success! Today's horoscopes generated using ${modelName}.`);
+            return; // Exit on first success
         } catch (err) {
             console.warn(`${modelName} failed: ${err.message}`);
-            if (err.status === 429) {
-                console.warn("Quota limit reached, trying next model...");
+            // If it's the last model in our array, crash out. Otherwise, loop to next model.
+            if (modelName === CONFIG.MODELS[CONFIG.MODELS.length - 1]) {
+                console.error("Critical Failure: All available models failed.");
+                process.exit(1);
             }
-            // Continue to next model in loop
         }
     }
-
-    console.error("All models failed.");
-    process.exit(1);
 }
 
 main();
