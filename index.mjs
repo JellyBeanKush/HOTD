@@ -7,8 +7,14 @@ const CONFIG = {
     DISCORD_URL: process.env.DISCORD_WEBHOOK_URL,
     SAVE_FILE: 'current_horoscope.txt',
     HISTORY_FILE: 'horoscope_history.json',
-    ID_FILE: 'message_id.txt', 
-    PRIMARY_MODEL: "gemini-2.0-flash" // Adjusted to current stable version
+    ID_FILE: 'message_id.txt',
+    // Ordered from newest/cheapest to older reliable models
+    MODELS: [
+        "gemini-3.1-flash-lite-preview", 
+        "gemini-3-flash-preview", 
+        "gemini-2.5-flash", 
+        "gemini-1.5-flash"
+    ]
 };
 
 const options = { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/Los_Angeles' };
@@ -24,10 +30,10 @@ async function updateDiscord(horoscopeData) {
     ];
 
     const groups = [
-        { name: "🔥 FIRE SIGNS", indices: [0, 4, 8] },    // Aries, Leo, Sag
-        { name: "⛰️ EARTH SIGNS", indices: [1, 5, 9] },   // Taurus, Virgo, Cap
-        { name: "🌬️ AIR SIGNS", indices: [2, 6, 10] },    // Gemini, Libra, Aq
-        { name: "💧 WATER SIGNS", indices: [3, 7, 11] }   // Cancer, Scorpio, Pisces
+        { name: "🔥 FIRE SIGNS", indices: [0, 4, 8] },
+        { name: "⛰️ EARTH SIGNS", indices: [1, 5, 9] },
+        { name: "🌬️ AIR SIGNS", indices: [2, 6, 10] },
+        { name: "💧 WATER SIGNS", indices: [3, 7, 11] }
     ];
 
     groups.forEach(group => {
@@ -71,7 +77,7 @@ async function updateDiscord(horoscopeData) {
         if (!messageId) {
             const result = await response.json();
             fs.writeFileSync(CONFIG.ID_FILE, result.id);
-            console.log("Post successful. ID saved.");
+            console.log("Post successful.");
         }
     } else {
         const errText = await response.text();
@@ -93,21 +99,16 @@ async function main() {
         return;
     }
 
-    const genAI = new GoogleGenerativeAI(CONFIG.GEMINI_KEY);
-    const model = genAI.getGenerativeModel({ model: CONFIG.PRIMARY_MODEL });
-
-    const prompt = `Act as a professional astrologer, speaking naturally to an audience that knows very little about astrology. Analyze actual planetary transits for ${todayFormatted}. 
-    Write a 2-3 sentence summary of the overall energy.
-    For EACH of the 12 signs, write exactly TWO sentences. But dont be TOO vague, and try and make each signs horoscope somewhat unique. 
+    const prompt = `Act as a professional astrologer. Analyze planetary transits for ${todayFormatted}. 
     JSON ONLY: {
-      "summary": "Overall vibe",
+      "summary": "2-3 sentences on overall energy",
       "signs": [
-        {"name": "Aries", "emoji": "♈", "text": "Two sentences..."},
-        {"name": "Taurus", "emoji": "♉", "text": "Two sentences..."},
-        {"name": "Gemini", "emoji": "♊", "text": "Two sentences..."},
-        {"name": "Cancer", "emoji": "♋", "text": "Two sentences..."},
-        {"name": "Leo", "emoji": "♌", "text": "Two sentences..."},
-        {"name": "Virgo", "emoji": "♍", "text": "Two sentences..."},
+        {"name": "Aries", "emoji": "♈", "text": "Two unique sentences..."},
+        {"name": "Taurus", "emoji": "♉", "text": "Two unique sentences..."},
+        {"name": "Gemini", "emoji": "♊", "text": "Two unique sentences..."},
+        {"name": "Cancer", "emoji": "♋", "text": "Two unique sentences..."},
+        {"name": "Leo", "emoji": "♌", "text": "Two unique sentences..."},
+        {"name": "Virgo", "emoji": "♍", "text": "Two unique sentences..."},
         {"name": "Libra", "emoji": "♎", "text": "Two sentences..."},
         {"name": "Scorpio", "emoji": "♏", "text": "Two sentences..."},
         {"name": "Sagittarius", "emoji": "♐", "text": "Two sentences..."},
@@ -117,35 +118,46 @@ async function main() {
       ]
     }`;
 
-    try {
-        const result = await model.generateContent(prompt);
-        const responseText = result.response.text().replace(/```json|```/g, "").trim();
-        const data = JSON.parse(responseText);
-        data.date = todayFormatted;
+    const genAI = new GoogleGenerativeAI(CONFIG.GEMINI_KEY);
 
-        // Save the master JSON file
-        fs.writeFileSync(CONFIG.SAVE_FILE, JSON.stringify(data, null, 2));
+    for (const modelName of CONFIG.MODELS) {
+        try {
+            console.log(`Attempting generation with ${modelName}...`);
+            const model = genAI.getGenerativeModel({ model: modelName });
+            const result = await model.generateContent(prompt);
+            const responseText = result.response.text();
+            
+            const jsonMatch = responseText.match(/\{[\s\S]*\}/);
+            const data = JSON.parse(jsonMatch ? jsonMatch[0] : responseText);
+            data.date = todayFormatted;
 
-        // Generate individual text files for each sign
-        data.signs.forEach(sign => {
-            const fileName = `current_${sign.name.toLowerCase()}.txt`;
-            const fileContent = `${sign.emoji} ${sign.name.toUpperCase()} - ${todayFormatted}\n\n${sign.text}`;
-            fs.writeFileSync(fileName, fileContent);
-            console.log(`Saved: ${fileName}`);
-        });
+            // Save Master File
+            fs.writeFileSync(CONFIG.SAVE_FILE, JSON.stringify(data, null, 2));
 
-        // Update history
-        history.unshift({ date: todayFormatted });
-        fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history.slice(0, 5), null, 2));
+            // Save Individual Signs
+            data.signs.forEach(sign => {
+                const fileName = `current_${sign.name.toLowerCase()}.txt`;
+                const content = `${sign.emoji} ${sign.name.toUpperCase()} - ${todayFormatted}\n\n${sign.text}`;
+                fs.writeFileSync(fileName, content);
+            });
 
-        // Send to Discord
-        await updateDiscord(data);
+            history.unshift({ date: todayFormatted });
+            fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history.slice(0, 5), null, 2));
 
-        console.log("Full update complete.");
-    } catch (err) {
-        console.error("Critical Failure:", err);
-        process.exit(1);
+            await updateDiscord(data);
+            console.log(`Successfully updated using ${modelName}`);
+            return; // Exit main() on success
+        } catch (err) {
+            console.warn(`${modelName} failed: ${err.message}`);
+            if (err.status === 429) {
+                console.warn("Quota limit reached, trying next model...");
+            }
+            // Continue to next model in loop
+        }
     }
+
+    console.error("All models failed.");
+    process.exit(1);
 }
 
 main();
