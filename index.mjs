@@ -8,7 +8,7 @@ const CONFIG = {
     SAVE_FILE: 'current_horoscope.txt',
     HISTORY_FILE: 'horoscope_history.json',
     ID_FILE: 'message_id.txt', 
-    PRIMARY_MODEL: "gemini-2.5-flash" 
+    PRIMARY_MODEL: "gemini-2.0-flash" // Adjusted to current stable version
 };
 
 const options = { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/Los_Angeles' };
@@ -23,7 +23,6 @@ async function updateDiscord(horoscopeData) {
         }
     ];
 
-    // Grouping into 4 embeds to stay under Discord's 10-embed limit
     const groups = [
         { name: "🔥 FIRE SIGNS", indices: [0, 4, 8] },    // Aries, Leo, Sag
         { name: "⛰️ EARTH SIGNS", indices: [1, 5, 9] },   // Taurus, Virgo, Cap
@@ -120,15 +119,33 @@ async function main() {
 
     try {
         const result = await model.generateContent(prompt);
-        const data = JSON.parse(result.response.text().replace(/```json|```/g, "").trim());
+        const responseText = result.response.text().replace(/```json|```/g, "").trim();
+        const data = JSON.parse(responseText);
         data.date = todayFormatted;
+
+        // Save the master JSON file
         fs.writeFileSync(CONFIG.SAVE_FILE, JSON.stringify(data, null, 2));
+
+        // Generate individual text files for each sign
+        data.signs.forEach(sign => {
+            const fileName = `current_${sign.name.toLowerCase()}.txt`;
+            const fileContent = `${sign.emoji} ${sign.name.toUpperCase()} - ${todayFormatted}\n\n${sign.text}`;
+            fs.writeFileSync(fileName, fileContent);
+            console.log(`Saved: ${fileName}`);
+        });
+
+        // Update history
         history.unshift({ date: todayFormatted });
         fs.writeFileSync(CONFIG.HISTORY_FILE, JSON.stringify(history.slice(0, 5), null, 2));
+
+        // Send to Discord
         await updateDiscord(data);
+
+        console.log("Full update complete.");
     } catch (err) {
         console.error("Critical Failure:", err);
         process.exit(1);
     }
 }
+
 main();
