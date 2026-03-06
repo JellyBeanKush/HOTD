@@ -1,66 +1,66 @@
 {
-  "summary": "March 5, 2026, carries a profound shift as planetary alignments emphasize the transition from intellectual ideation to tangible manifestation. A harmonious celestial geometry encourages collective progress, urging us to bridge the gap between our visionary dreams and the structural reality of our daily lives.",
+  "summary": "March 6, 2026, ushers in a day of profound emotional currents and transformative social energies. A powerful blend of spiritual idealism and intuitive compassion is present, alongside an intense drive for collective change. Be prepared for opportunities to merge your higher ideals with practical realities, and to navigate potent power dynamics within your community.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Your inner fire is stoked by a sudden surge of motivation regarding your personal ambitions. Trust your instincts when navigating social circles, as your direct approach will yield unexpected professional gains."
+      "text": "With Venus and Neptune in your sign, your relationships and creative expressions are imbued with idealistic and spiritual energy. This is a time to pursue artistic passions and deep connections, but remember to keep a grounded perspective in your romantic pursuits."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "A focus on stability helps you anchor your recent creative breakthroughs into a sustainable plan. Financial intuition is heightened today, making it an ideal time to review long-term investments."
+      "text": "Unexpected shifts in your values and financial landscape continue to unfold, urging you to embrace flexibility and innovation. Pay attention to your intuition regarding shared resources or profound changes occurring behind the scenes."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Communication flows with rare clarity, allowing you to bridge complex misunderstandings with ease. Embrace a collaborative spirit, as your ideas gain significant traction when shared with your inner circle."
+      "text": "Your career and public image are illuminated by a compassionate and intuitive focus, potentially bringing spiritual insights or creative projects into your professional life. While expansion is possible, be mindful of scattering your energy or overcommitting to too many ideas at once."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Emotional sensitivity provides you with a powerful advantage in navigating workplace dynamics. Prioritize your inner peace, as your intuition serves as the ultimate guide for decision-making today."
+      "text": "A strong urge to explore new philosophies, travel, or engage in higher learning may be present, broadening your spiritual and intellectual horizons. Simultaneously, intense transformations within shared resources or intimate relationships demand your powerful attention and decisive action."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The spotlight finds you, offering a platform to showcase your unique leadership capabilities. Your charm acts as a magnet for new opportunities that align perfectly with your heart's true desires."
+      "text": "The Moon highlights your personal needs and desires for self-expression, encouraging you to shine brightly and take the lead in your personal life. Be mindful of intense power dynamics or revolutionary changes occurring within your social groups and community."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Efficiency becomes your superpower as you streamline tasks that have been stagnating for weeks. Dedicate time to refining your daily routines to better support your overarching health and wellness goals."
+      "text": "Your relationships are under a compassionate and intuitive spotlight, inviting deeper empathy and understanding with those closest to you. A powerful conjunction in your sector of work and health calls for transformative changes to your daily routines or professional path, urging you to reclaim your power."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Relationships undergo a period of harmonious recalibration, fostering deeper understanding between you and your partners. Seek balance in your social calendar to ensure you aren't overextending your energetic reserves."
+      "text": "Idealistic energy flows into your partnership sector, fostering spiritual connections and artistic inspiration in your relationships. However, intense, transformative experiences could arise in your creative projects, romantic life, or interactions with children, demanding authentic expression."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Introspection leads to a breakthrough in a long-standing personal mystery you have been investigating. Your sharp mind is capable of cutting through illusions to reveal a deeper, more empowering truth."
+      "text": "The Sun and Mercury in Pisces illuminate your creative self-expression and joy, encouraging a more compassionate and intuitive approach to life's pleasures. Meanwhile, a potent Mars-Pluto conjunction in your home and roots sector demands profound transformations within your family dynamics or living situation."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "The urge to expand your horizons pulls you toward new intellectual or physical adventures. Keep your schedule flexible, as a spontaneous connection could change your perspective on a major goal."
+      "text": "Your home and family life are illuminated by a compassionate and spiritual energy, encouraging deep emotional connections within your domestic sphere. The potent Mars-Pluto conjunction in your communication zone can bring intense, transformative discussions or a powerful drive to advocate for important causes."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Strategic planning is favored today, making this a prime moment to tackle complex logistical hurdles. Your patience and discipline will be rewarded as your hard work begins to pay off in visible ways."
+      "text": "With the Sun and Mercury in your communication sector, your words and ideas carry a compassionate, intuitive resonance, making it an excellent time for creative writing or spiritual dialogue. The powerful Mars-Pluto conjunction in your financial sector suggests a transformative period for your resources and sense of self-worth."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Innovative ideas are percolating, urging you to think outside the traditional frameworks you usually inhabit. Connect with like-minded individuals to refine your vision into something that impacts the greater good."
+      "text": "Your values and finances are highlighted by a compassionate and intuitive approach, encouraging you to integrate your spiritual beliefs with your material world. However, the powerful Mars and Pluto conjunction in your own sign ignites a deeply transformative personal journey, urging you to wield your power for collective change."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your imagination is a wellspring of potential, offering subtle solutions to lingering practical concerns. Lean into your creative flow to dissolve boundaries that have been hindering your progress."
+      "text": "With the Sun, Mercury, and Saturn all in your sign, this day brings a powerful focus on your identity, spiritual purpose, and personal discipline. You're called to embody compassionate leadership, dissolving old limitations and embracing your intuitive wisdom with greater structure."
     }
   ],
-  "date": "March 5, 2026"
+  "date": "March 6, 2026"
 }
