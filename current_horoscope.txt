@@ -1,66 +1,66 @@
 {
-  "summary": "March 6, 2026, ushers in a day of profound emotional currents and transformative social energies. A powerful blend of spiritual idealism and intuitive compassion is present, alongside an intense drive for collective change. Be prepared for opportunities to merge your higher ideals with practical realities, and to navigate potent power dynamics within your community.",
+  "summary": "This day brings a grounding yet contemplative energy, with the Sun and Saturn in Pisces encouraging practical responsibility for our ideals and a realistic approach to spiritual matters. While mental energies are expansive with Jupiter retrograde in Gemini, there's a simultaneous call for reviewing and internalizing information before acting, allowing for deeper insights into collective aspirations and social dynamics.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Venus and Neptune in your sign, your relationships and creative expressions are imbued with idealistic and spiritual energy. This is a time to pursue artistic passions and deep connections, but remember to keep a grounded perspective in your romantic pursuits."
+      "text": "Direct communication and passionate pursuits are highlighted, yet you might feel a subtle pull towards re-evaluating your self-identity and compassion. Pay attention to how your pioneering spirit aligns with your deeper, sometimes hidden, emotional needs."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Unexpected shifts in your values and financial landscape continue to unfold, urging you to embrace flexibility and innovation. Pay attention to your intuition regarding shared resources or profound changes occurring behind the scenes."
+      "text": "Unexpected shifts continue to reshape your personal values and resources, prompting you to adapt and innovate. With Jupiter retrograde in your second house, it's an excellent time to re-evaluate your financial strategies and sense of self-worth."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your career and public image are illuminated by a compassionate and intuitive focus, potentially bringing spiritual insights or creative projects into your professional life. While expansion is possible, be mindful of scattering your energy or overcommitting to too many ideas at once."
+      "text": "Your mind is buzzing with ideas and communication, but with Jupiter retrograde in your sign, you'll benefit from careful reflection rather than immediate action. Connect with groups and innovative ideas that support your intellectual expansion and social connections."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "A strong urge to explore new philosophies, travel, or engage in higher learning may be present, broadening your spiritual and intellectual horizons. Simultaneously, intense transformations within shared resources or intimate relationships demand your powerful attention and decisive action."
+      "text": "Deep philosophical or spiritual inquiries are grounded in reality, pushing you to structure your beliefs and expand your understanding of the world. Your career path sees assertive communication and passionate drive, urging you to take the lead in your professional aspirations."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The Moon highlights your personal needs and desires for self-expression, encouraging you to shine brightly and take the lead in your personal life. Be mindful of intense power dynamics or revolutionary changes occurring within your social groups and community."
+      "text": "This is a time for serious reflection on shared resources, intimacy, and transformation, demanding a mature approach to complex emotional matters. Embrace new philosophies or educational pursuits with vigor, allowing your ideas to inspire others on a grand scale."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your relationships are under a compassionate and intuitive spotlight, inviting deeper empathy and understanding with those closest to you. A powerful conjunction in your sector of work and health calls for transformative changes to your daily routines or professional path, urging you to reclaim your power."
+      "text": "Your relationships and partnerships require a realistic and compassionate approach, focusing on responsibility and mutual support. Career aspirations might need a re-evaluation or deeper study, guiding you towards more meaningful professional paths and public recognition."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Idealistic energy flows into your partnership sector, fostering spiritual connections and artistic inspiration in your relationships. However, intense, transformative experiences could arise in your creative projects, romantic life, or interactions with children, demanding authentic expression."
+      "text": "Daily routines and health matters call for structure and discipline, helping you integrate spiritual practices into your overall well-being. Relationships are infused with assertive communication and passionate energy, encouraging direct expressions of affection and personal desires."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "The Sun and Mercury in Pisces illuminate your creative self-expression and joy, encouraging a more compassionate and intuitive approach to life's pleasures. Meanwhile, a potent Mars-Pluto conjunction in your home and roots sector demands profound transformations within your family dynamics or living situation."
+      "text": "Creative projects, romance, and self-expression are grounded in a serious, committed energy, asking for disciplined passion. Dive into deep emotional waters and shared resources with a reflective mindset, uncovering hidden truths and re-evaluating your investments."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your home and family life are illuminated by a compassionate and spiritual energy, encouraging deep emotional connections within your domestic sphere. The potent Mars-Pluto conjunction in your communication zone can bring intense, transformative discussions or a powerful drive to advocate for important causes."
+      "text": "Focus on your home and family life, bringing structure and responsibility to your roots and emotional foundations. Your partnerships are ripe for re-evaluation and deeper understanding, prompting you to review how you relate to others and the give-and-take dynamics."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "With the Sun and Mercury in your communication sector, your words and ideas carry a compassionate, intuitive resonance, making it an excellent time for creative writing or spiritual dialogue. The powerful Mars-Pluto conjunction in your financial sector suggests a transformative period for your resources and sense of self-worth."
+      "text": "Communication and learning are colored by a serious, practical tone, encouraging you to articulate your compassionate ideas with structure. Your home and family life receive a boost of assertive energy and passionate new beginnings, possibly through renovations or heartfelt discussions."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Your values and finances are highlighted by a compassionate and intuitive approach, encouraging you to integrate your spiritual beliefs with your material world. However, the powerful Mars and Pluto conjunction in your own sign ignites a deeply transformative personal journey, urging you to wield your power for collective change."
+      "text": "Your innovative spirit is empowered to take action, driving significant personal transformation and collective change. While creative projects and romance are highlighted, Jupiter's retrograde movement encourages you to re-think and refine your playful expressions."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "With the Sun, Mercury, and Saturn all in your sign, this day brings a powerful focus on your identity, spiritual purpose, and personal discipline. You're called to embody compassionate leadership, dissolving old limitations and embracing your intuitive wisdom with greater structure."
+      "text": "With the Sun and Saturn in your sign, you're called to ground your dreams in reality and take responsible steps towards your spiritual path. Navigate unexpected shifts in your immediate environment, which may challenge your innovative approach to daily life and communication."
     }
   ],
-  "date": "March 6, 2026"
+  "date": "March 7, 2026"
 }
