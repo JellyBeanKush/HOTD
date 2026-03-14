@@ -1,66 +1,66 @@
 {
-  "summary": "The cosmic atmosphere on March 13, 2026, blends the imaginative depth of Pisces season with the pragmatic discipline of a Capricorn Moon. It is a day for balancing visionary dreams with the structural work required to manifest them into the physical world.",
+  "summary": "March 14, 2026, presents a powerful convergence of visionary energy and disciplined action as Saturn and Neptune sit closely together in early Aries. The Moon in Capricorn provides the necessary grounding to turn these high-level spiritual insights into tangible, long-term structures.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Venus and Saturn in your sign demand a mature approach to both your passions and your personal boundaries. You are learning to channel your fire into long-term structures rather than fleeting impulses."
+      "text": "With Saturn and Neptune in your sign, you are learning to balance your fiery initiative with newfound patience and spiritual depth. Focus on building a concrete foundation for the radical personal changes you wish to see in your life."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "The Pisces Sun highlights your social sector, encouraging you to connect with like-minded visionaries who share your values. Use the grounding energy of the Capricorn Moon to turn a collaborative dream into a concrete plan."
+      "text": "Your ruler Venus is strong in your sign, enhancing your magnetism and your eye for aesthetic or financial value. It is an excellent day to indulge in sensory pleasures while quietly planning your next major investment."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Uranus in your sign continues to spark sudden insights that could disrupt your usual routine in a positive way. Focus on your professional reputation today, as your unique way of communicating attracts the attention of authorities."
+      "text": "Mars and Uranus in your sign provide an electric surge of energy that makes you nearly unstoppable in your communications. Direct this restless power toward innovative projects that require a fresh, unconventional perspective."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "With Mars and Jupiter in your sign, you possess the courage and the luck needed to expand your personal influence. Direct this high energy toward educational pursuits or travel plans that broaden your emotional perspective."
+      "text": "Jupiter exalted in your sign brings a sense of protective abundance and emotional expansion to your inner world. You are encouraged to trust your intuition as you nurture both your professional ambitions and your domestic security."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Intimacy and shared resources are highlighted today, requiring you to look deeper into the dynamics of your closest bonds. Trust your intuition when dealing with financial matters, as the Sun in Pisces reveals what was previously hidden."
+      "text": "The planetary focus on Aries ignites your desire for exploration and the pursuit of higher wisdom. Share your unique creative vision with the world, as your ability to inspire others is currently at an all-time high."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your focus shifts toward your significant others, where empathy and clear communication are essential for harmony. The Capricorn Moon provides the stability needed to discuss future commitments with a grounded and realistic perspective."
+      "text": "As Mercury moves through Pisces, you may find that logic takes a backseat to your intuitive and psychic perceptions. Use this energy to heal old emotional wounds or to connect more deeply with a partner's unspoken needs."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Focus on refining your daily habits and physical wellness routines to better support your long-term ambitions. Small, disciplined changes made today will have a significant impact on your overall vitality and work performance."
+      "text": "Relationships require a delicate balance of visionary empathy and firm boundaries as the Aries planets transit your seventh house. Seek out partnerships that honor your need for independence while providing a structured sense of commitment."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Creative inspiration is abundant, but the challenge lies in giving your artistic visions a tangible form. Express your heart's desires with authenticity, as the current transits support both romantic depth and creative breakthroughs."
+      "text": "Focus on refining your daily habits and physical health routines to support your intense long-term goals. Small, disciplined changes made today will have a transformative impact on your overall productivity and well-being."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your attention is drawn to the home and family, where you may feel a need to establish more permanent roots or security. Balancing your desire for adventure with your domestic responsibilities becomes your primary focus today."
+      "text": "A creative spark is fanned into a steady flame today, encouraging you to take your artistic or romantic pursuits more seriously. This is a time to manifest joy through a structured approach to your most passionate hobbies."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "The Moon in your sign enhances your natural authority and helps you navigate complex social or professional situations with ease. Use this emotional clarity to communicate your ideas effectively to those in your immediate environment."
+      "text": "The Moon in your sign grants you extra authority and emotional resilience as you navigate family or property matters. You are perfectly positioned to act as the pillar of strength for those who rely on your steady guidance."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto in your sign continues to push for a deep transformation of your identity and your role in the collective. Today, focus on aligning your personal finances with your evolving sense of self to ensure long-term stability."
+      "text": "Pluto in your sign continues to refine your sense of self-empowerment and social influence. Use today's mental clarity to network with innovative thinkers who can help you push your humanitarian visions forward."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "As the Sun shines in your sign, your intuitive and psychic abilities are at their peak for the year. Channel this spiritual energy into your personal goals while allowing the Capricorn Moon to provide the necessary grounding."
+      "text": "The Sun and Mercury in your sign amplify your voice and your ability to manifest your dreams into the physical realm. Focus on stabilizing your finances so you have the resources necessary to support your spiritual growth."
     }
   ],
-  "date": "March 13, 2026"
+  "date": "March 14, 2026"
 }
