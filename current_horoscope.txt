@@ -1,66 +1,66 @@
 {
-  "summary": "As the Sun nears the end of its transit through Pisces, the energy is deeply reflective and karmic, emphasizing the need for spiritual closure. With Mars and Uranus in Gemini, there is a sharp contrast between internal contemplation and a restless, communicative drive for innovation.",
+  "summary": "Today marks a profound transition as the Moon conjuncts the Sun in late Pisces, creating a powerful balsamic phase of release and spiritual closure. With the rare conjunction of Saturn and Neptune beginning to stir in early Aries, the collective energy oscillates between dissolving old illusions and building visionary new foundations.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Venus and Saturn in your sign, you are learning to balance personal desires with long-term responsibilities. Focus on stabilizing your finances while allowing space for a new, disciplined approach to self-expression."
+      "text": "With Venus and Saturn currently navigating your sign, you are learning to balance personal desires with significant new responsibilities. Focus on setting intentions that favor long-term stability over immediate gratification during this cosmic reset."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "The current transits suggest a time of quiet preparation and soul-searching before your next big move. Trust your intuition regarding a professional shift, as hidden opportunities are manifesting behind the scenes."
+      "text": "The heavy Pisces emphasis activates your sector of community, prompting a deep assessment of your social circle and long-term dreams. Take time for solitude today to discern which friendships truly align with your evolving spiritual values."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Mars and Uranus in your sign provide a surge of electric energy that can lead to sudden breakthroughs or restlessness. Use this momentum to launch innovative projects, but be mindful of scattered focus in your social interactions."
+      "text": "Your career path is illuminated by a visionary light, encouraging you to pursue professional goals that carry a sense of higher purpose. Don't be afraid to let go of a traditional title if it no longer resonates with your authentic self."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Jupiter continues to offer protection and growth in your sign, making this an ideal time for personal expansion. Your career path feels influenced by a higher purpose today, so align your professional goals with your emotional values."
+      "text": "With Jupiter in your sign, you are the cosmic favorite, but today's transits ask you to expand your philosophical horizons. A sudden insight or spiritual encounter could shift your perspective on what is truly possible for your future."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The Pisces Sun illuminates your sector of shared resources and transformation, urging you to settle old debts or emotional baggage. Looking toward the future, philosophical breakthroughs provide the clarity needed for an upcoming journey."
+      "text": "The focus falls on shared resources and deep psychological transformations, urging you to settle old emotional debts. It is a powerful day for intimacy and vulnerability, provided you are honest about your boundaries."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Partnerships are currently under a foggy but spiritual lens, requiring you to practice radical empathy and patience. Direct your analytical skills toward understanding the deeper motivations of those you interact with daily."
+      "text": "Relationships are your primary mirror today, revealing both your greatest strengths and your lingering insecurities. Seek a balance between your need for practical order and your partner's need for emotional connection."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Focus on your daily rituals and physical well-being as the planets highlight the importance of self-care. Your social life may feel more demanding, so set firm boundaries to protect your energy and maintain internal harmony."
+      "text": "Your daily routines require a touch of magic and a heavy dose of organization to keep you grounded. Focus on health rituals that support both your physical body and your nervous system during this high-frequency transit."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Creative inspiration is at an all-time high, allowing you to channel intense emotions into beautiful and lasting works. Romantic encounters today have a fated quality, so stay open to unexpected connections that feel like home."
+      "text": "Creative inspiration is peaking, making this an ideal time to channel your intensity into a meaningful artistic project. In matters of the heart, allow your intuition to guide you toward connections that feel soul-deep."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "The focus remains on your domestic life and finding a sense of belonging within your own four walls. It is a day for healing ancestral wounds and strengthening the foundations upon which your future adventures are built."
+      "text": "The energy centers on your home and family life, where a cycle of healing and release is currently unfolding. Creating a sense of sanctuary in your private space will provide the fuel you need for your external adventures."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your communication style is both direct and imaginative today, helping you bridge the gap between logic and intuition. Use this influence to negotiate contracts or have difficult conversations that require a gentle touch."
+      "text": "Your words carry extra weight today, so use your communication skills to advocate for the changes you wish to see. A conversation with a sibling or neighbor could spark a revolutionary idea for your local community."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto in your sign continues to refine your sense of self and personal power at a fundamental level. Focus on your material security today, ensuring your financial habits reflect the revolutionary changes occurring within you."
+      "text": "Financial matters are coming into focus, asking you to align your spending habits with your humanitarian values. Trust your instincts regarding a new income stream that involves modern technology or niche interests."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "With the Sun and Mercury in your sign, your psychic sensitivity is heightened and your presence is magnetic. This is a powerful day for setting intentions before your solar year concludes, so trust your dreams and visions."
+      "text": "As the Moon and Sun unite in your sign, you are the focal point of a major personal rebirth. Embrace the sensitivity you feel today, as it is your greatest superpower in manifesting a brand new life chapter."
     }
   ],
-  "date": "March 17, 2026"
+  "date": "March 18, 2026"
 }
