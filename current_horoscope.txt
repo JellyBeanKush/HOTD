@@ -1,66 +1,66 @@
 {
-  "summary": "Today marks a profound transition as the Moon conjuncts the Sun in late Pisces, creating a powerful balsamic phase of release and spiritual closure. With the rare conjunction of Saturn and Neptune beginning to stir in early Aries, the collective energy oscillates between dissolving old illusions and building visionary new foundations.",
+  "summary": "This is the final day of the astrological year, characterized by an intense buildup of energy in Aries as the Moon joins Saturn and Neptune. Expect a potent mix of visionary dreaming and the need for structural integrity before the Spring Equinox begins tomorrow.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Venus and Saturn currently navigating your sign, you are learning to balance personal desires with significant new responsibilities. Focus on setting intentions that favor long-term stability over immediate gratification during this cosmic reset."
+      "text": "The Moon enters your sign today, joining Saturn to bring a serious but empowering focus to your personal identity. It is time to commit to a long-term goal that aligns with your true inner vision."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "The heavy Pisces emphasis activates your sector of community, prompting a deep assessment of your social circle and long-term dreams. Take time for solitude today to discern which friendships truly align with your evolving spiritual values."
+      "text": "Mars in your sign provides the stamina needed to tackle stubborn projects, but don't push too hard today. Use the pre-equinox energy to clear out psychological clutter and prepare for a fresh start."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your career path is illuminated by a visionary light, encouraging you to pursue professional goals that carry a sense of higher purpose. Don't be afraid to let go of a traditional title if it no longer resonates with your authentic self."
+      "text": "Uranus in your sign continues to inspire radical new ways of thinking and communicating. Collaborative efforts with friends or community groups will feel particularly charged and innovative right now."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "With Jupiter in your sign, you are the cosmic favorite, but today's transits ask you to expand your philosophical horizons. A sudden insight or spiritual encounter could shift your perspective on what is truly possible for your future."
+      "text": "Career matters demand your full attention today as the Aries Moon highlights your professional sector. Balance your ambitious drive with the need for emotional security and family time."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The focus falls on shared resources and deep psychological transformations, urging you to settle old emotional debts. It is a powerful day for intimacy and vulnerability, provided you are honest about your boundaries."
+      "text": "Jupiter in your sign is boosting your confidence and desire for grand experiences. Explore a new philosophical path or plan a journey that challenges your current worldview."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Relationships are your primary mirror today, revealing both your greatest strengths and your lingering insecurities. Seek a balance between your need for practical order and your partner's need for emotional connection."
+      "text": "The focus is on shared resources and deep psychological insights today. Be prepared to have an honest conversation about finances or intimacy to clear the air before the new season."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your daily routines require a touch of magic and a heavy dose of organization to keep you grounded. Focus on health rituals that support both your physical body and your nervous system during this high-frequency transit."
+      "text": "One-on-one partnerships are at the forefront as the Aries Moon highlights your solar seventh house. You may need to set firm boundaries with others while maintaining your signature diplomatic approach."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Creative inspiration is peaking, making this an ideal time to channel your intensity into a meaningful artistic project. In matters of the heart, allow your intuition to guide you toward connections that feel soul-deep."
+      "text": "Practical tasks and health routines require a disciplined mindset today. Organize your workspace and focus on small, incremental improvements to your daily habits for long-term success."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "The energy centers on your home and family life, where a cycle of healing and release is currently unfolding. Creating a sense of sanctuary in your private space will provide the fuel you need for your external adventures."
+      "text": "A creative project may require more structure and effort than you initially anticipated. Trust the process and use this disciplined energy to turn a fleeting inspiration into a tangible reality."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your words carry extra weight today, so use your communication skills to advocate for the changes you wish to see. A conversation with a sibling or neighbor could spark a revolutionary idea for your local community."
+      "text": "Domestic matters and your sense of roots are highlighted as the astrological year closes. Take some time to secure your home environment and connect with family members on a deeper level."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Financial matters are coming into focus, asking you to align your spending habits with your humanitarian values. Trust your instincts regarding a new income stream that involves modern technology or niche interests."
+      "text": "Pluto in your sign is slowly transforming your self-image and how you exert your power. Engage in meaningful conversations today that reflect the new, more authentic version of yourself."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "As the Moon and Sun unite in your sign, you are the focal point of a major personal rebirth. Embrace the sensitivity you feel today, as it is your greatest superpower in manifesting a brand new life chapter."
+      "text": "Venus in your sign makes this a beautiful day for self-expression and indulging in your favorite comforts. Reflect on the growth you have achieved over the last month as the Sun prepares to leave your sign."
     }
   ],
-  "date": "March 18, 2026"
+  "date": "March 19, 2026"
 }
