@@ -1,66 +1,66 @@
 {
-  "summary": "The 2026 Spring Equinox marks a historic 'Great Reset' as the Sun, Saturn, and Neptune align at zero degrees of Aries. This potent combination initiates a decade-long cycle of manifesting spiritual ideals into concrete, physical structures.",
+  "summary": "The Spring Equinox marks a powerful initiatory moment as a rare stellium in Aries, involving the Sun, Saturn, and Neptune, creates a profound blend of visionary dreaming and disciplined action. This is a time of collective rebirth where bold new beginnings are supported by a grounded Moon in Taurus, demanding that we manifest our highest ideals into physical reality.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The Equinox occurring in your sign alongside the Saturn-Neptune conjunction marks a total personal reinvention and the birth of a new identity. You are the architect of a fresh reality, tasked with blending your fiery drive with disciplined spiritual maturity."
+      "text": "With the Sun and Saturn in your sign, you are feeling a potent mix of personal drive and significant responsibility. Use this energy to launch a long-term project that requires both your natural courage and a newly disciplined approach to leadership."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "With Mars in your sign, you have the physical stamina to navigate the massive shifts occurring in your subconscious and spiritual realms. Use this time to close old karmic loops and prepare for a grounded, yet revolutionary, new chapter in your life."
+      "text": "The Moon in your sign provides a stabilizing anchor amidst the high-velocity energy of the Spring Equinox. Focus on sensory comforts and financial grounding today, as your intuition is particularly sharp regarding your material security."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Uranus in your sign continues to electrify your mind, while the Aries cluster highlights your social networks and long-term aspirations. Collaborative projects centered on innovative technology or social reform will yield significant results if you remain focused."
+      "text": "Uranus in your sign continues to spark revolutionary ideas that challenge your traditional way of thinking. This is an ideal time to network with visionary groups who share your desire to innovate and disrupt the status quo."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "The focus moves to your career and public image, where a major structural shift is demanding you step into a position of visionary leadership. You must balance your intuitive nurturing style with the rigorous demands of a changing professional landscape."
+      "text": "Mars and Jupiter in your sign grant you an incredible boost of physical energy and protective charisma. Direct this expansive power toward your personal goals, but remain mindful of overextending yourself emotionally in professional settings."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Jupiter in your sign grants you immense charisma and protection as the world undergoes this massive astrological transition. Your belief systems are expanding, urging you to seek higher education or international connections that align with your creative soul."
+      "text": "The Aries energy lights up your sector of higher learning and adventure, urging you to expand your horizons. Whether through travel or study, you are being called to lead others toward a more inspired and philosophical way of living."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "The Aries alignment activates your eighth house, signaling a period of deep psychological purging and the restructuring of shared financial assets. Trust in the process of transformation as you learn to merge your resources with others in more soulful, disciplined ways."
+      "text": "Transformation is the key theme as you navigate deep changes in your shared resources or intimate bonds. Trust the process of letting go, as clearing out old psychological baggage is necessary to make room for new growth."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your primary partnerships are the stage for the Saturn-Neptune conjunction, requiring a balance between idealistic devotion and practical boundaries. You are redefining what commitment means, seeking relationships that are both spiritually fulfilling and sustainably grounded."
+      "text": "Partnerships are highlighted today, requiring you to find a balance between your personal identity and your commitments to others. Negotiations may feel intense, but they offer a chance to restructure your relationships on a more honest foundation."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "This transit brings a powerful focus to your health and daily routines, encouraging a holistic overhaul of your lifestyle. It is the perfect moment to implement a disciplined wellness practice that honors both your physical vitality and your spiritual needs."
+      "text": "Your daily routine and health habits undergo a period of renewal, demanding a more disciplined and structured approach. Small, consistent actions taken now will lead to major improvements in your overall productivity and physical well-being."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your creative spark is ignited by the Aries influx, pushing you to manifest your artistic visions into something tangible and enduring. Romance and self-expression take on a more serious, yet deeply inspired, tone as you seek authentic joy."
+      "text": "Creativity and self-expression are flowing freely as the Aries stellium ignites your house of joy. Don't be afraid to take center stage and share your unique talents, as your enthusiasm is currently contagious to everyone around you."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "The Equinox illuminates your domestic sector, signaling a major transition regarding your home life and ancestral roots. You are building a new internal foundation that supports your evolving public role while providing spiritual sanctuary."
+      "text": "Focus shifts to your home life and inner foundations, where you may feel a need to establish more permanence or structure. Balancing your ambitious career goals with your domestic responsibilities is essential for your long-term peace of mind."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "With Pluto and Venus in your sign, you possess intense personal magnetism and the power to influence your immediate environment. The Aries transits energize your communication, helping you speak your revolutionary ideas into existence with newfound authority."
+      "text": "Pluto in your sign continues to evolve your sense of self while the current transits emphasize clear and bold communication. Your words carry weight today, making it a perfect time to speak your truth and influence your local community."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "As your ruler Neptune leaves your sign for Aries, you are transitioning from the world of dreams into the world of manifestation. Focus on stabilizing your finances and recognizing the tangible value of the spiritual wisdom you have gained over the last several years."
+      "text": "As the personal planets move through your house of values, you are encouraged to ground your spiritual insights into tangible financial plans. Recognize your own worth and ensure that your professional pursuits align with your deepest moral convictions."
     }
   ],
-  "date": "March 20, 2026"
+  "date": "March 21, 2026"
 }
