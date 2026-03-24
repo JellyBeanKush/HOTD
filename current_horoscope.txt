@@ -1,66 +1,66 @@
 {
-  "summary": "The cosmic landscape is dominated by an intense Aries stellium, marking a period of profound new beginnings and structural shifts as Saturn and Neptune align at the zero point of the zodiac. With the Moon in Gemini, communication is fast-paced and versatile, though the collective focus remains on pioneering individual paths and navigating deep spiritual transitions.",
+  "summary": "Today marks a historic cosmic shift as Saturn and Neptune align at the zero-degree mark of Aries, signaling a profound rebirth of collective identity and structure. The fiery energy of the Sun in Aries is balanced by the Moon's transition into Cancer, blending bold initiative with a need for emotional security.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Your season is supercharged with Saturn and Neptune sitting on your doorstep, urging you to balance raw ambition with spiritual discipline. Focus on building long-term structures while allowing your creative visions to take a tangible, grounded shape."
+      "text": "With the Sun, Saturn, and Neptune all converging in your sign, you are the focal point of a major life restructuring. Trust your intuition as you build a new foundation that balances your pioneering spirit with long-term discipline."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Internal reflections are heightened today as a cluster of planets moves through your twelfth house of the subconscious. It is a vital time to release old psychological patterns to make room for the expansion Jupiter is currently offering in your private life."
+      "text": "Venus in your sign acts as a gentle anchor while the world around you feels increasingly turbulent. Focus on the simple pleasures of the physical realm to stay grounded during these intense collective shifts."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "With the Moon transiting your sign, your intellectual curiosity is at an all-time high and your social calendar is likely buzzing. Use this communicative boost to network within your community, but keep an eye on your long-term career goals as Mars stirs sensitivity in your professional sector."
+      "text": "As the Moon moves from your sign into Cancer, your focus shifts from social networking to personal reflections on security. Uranus continues to inspire radical changes in your social circles, encouraging you to seek out unconventional allies."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Career opportunities are blossoming under the Aries stellium, requiring you to step into a leadership role with newfound authority. Jupiter in your sign provides a protective and expansive aura, ensuring that your personal growth aligns with your public ambitions."
+      "text": "The Moon's entry into your sign today provides you with the emotional strength needed to navigate professional demands. Listen to your gut feelings, as they are currently your most reliable guide for making career-related decisions."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The urge to travel or expand your philosophical horizons is irresistible right now as fire energy dominates the sky. Embrace new educational pursuits or spiritual practices that challenge your current worldview and ignite your inner passion."
+      "text": "The powerful conjunction of Mars and Jupiter in your sign grants you an extraordinary boost in confidence and physical vitality. Use this surge of energy to lead others, but remain wary of overextending your promises or your resources."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Financial matters involving shared resources or inheritances may come to the forefront, demanding a disciplined yet intuitive approach. Deep transformative work is possible now, especially if you focus on healing old wounds regarding trust and intimacy."
+      "text": "Mercury in Pisces encourages you to embrace a more poetic and less analytical approach to your interactions. While the world demands action, you may find that silence and deep listening provide the answers you seek."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your partnerships are under a cosmic spotlight, calling for a balance between your personal needs and those of your significant others. As Saturn and Neptune influence your house of commitment, you are learning to define boundaries while maintaining a sense of shared magic."
+      "text": "The heavy planetary presence in your opposite sign of Aries places a significant emphasis on your partnerships and legal agreements. You are learning to assert your own needs without sacrificing the harmony you hold so dear."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Daily routines and health habits require a fresh start, possibly through integrating more spiritual or imaginative practices into your workday. Your focus on productivity is intense, but ensure you are not neglecting your emotional well-being in the process."
+      "text": "Daily routines and health habits are ripe for a total overhaul as the Aries transits spark a desire for efficiency. Focus on small, actionable changes that prioritize your physical well-being and long-term stamina."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Creative projects and romantic endeavors are infused with a sense of destiny and structure as the Aries energy hits your fifth house. Express your unique voice boldly, but be prepared to put in the hard work necessary to turn a hobby into a lasting legacy."
+      "text": "A grand fire trine boosts your creative output and brings a sense of joyful spontaneity to your romantic life. This is an excellent moment to take a calculated risk on a project that fuels your passion."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Home and family life are undergoing a foundational shift, asking you to rebuild your sense of security from the ground up. Balancing professional demands with domestic responsibilities is key, especially as you navigate new emotional depths."
+      "text": "Your ruler Saturn's conjunction with Neptune in your fourth house suggests a spiritualization of your home life and personal roots. You are redefining what 'security' means, moving away from material assets toward emotional authenticity."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Your local environment and sibling relationships are highlighted, sparking frequent interactions and a flurry of new ideas. With Pluto in your sign, your words carry transformative power, so speak with intention and clarity today."
+      "text": "Pluto in your sign continues to catalyze deep internal transformation, making you more aware of your personal power. Communication with siblings or neighbors may take on a more serious or visionary tone today."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Financial stability and personal values are the focus as Mars moves through your sign, giving you the drive to pursue your material goals. Trust your intuition regarding investments, but stay grounded in reality as the Aries stellium tests your fiscal boundaries."
+      "text": "As Mercury finishes its transit through your sign, your mental clarity returns regarding financial matters and personal values. Use this time to manifest the dreams you've been visualizing into a concrete plan of action."
     }
   ],
-  "date": "March 23, 2026"
+  "date": "March 24, 2026"
 }
