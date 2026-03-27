@@ -1,66 +1,66 @@
 {
-  "summary": "March 26, 2026, vibrates with a rare concentration of planets in Aries, fueling a massive drive for new beginnings and personal sovereignty. The Moon in Cancer provides a sensitive backdrop, urging you to balance this bold outward momentum with internal emotional care and domestic focus.",
+  "summary": "A powerful convergence of Saturn and Neptune in Aries creates a day where visionary dreams meet the necessity of disciplined action. The Moon in Cancer highlights a tension between professional pioneering and the need for emotional security at home.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With an extraordinary lineup of planets in your sign, your leadership potential and personal drive are at an all-time peak. Trust your instincts to launch a major project that establishes your unique identity in the world."
+      "text": "The rare alignment of Saturn and Neptune in your sign demands that you ground your highest ideals into a concrete reality. Your identity is evolving, requiring you to act as both the dreamer and the architect of your future."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Venus in your sign enhances your natural charm and invites a period of stabilizing your financial foundations. While the world moves at a frantic pace, your gift today lies in finding luxury and peace within the present moment."
+      "text": "Deep subconscious shifts are occurring, prompting you to release outdated fears that hinder your progress. Use this quiet period for spiritual reflection to prepare for the tangible growth coming your way."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Uranus continues to spark revolutionary ideas in your mind, making you the primary source of innovation in your social circles. Connect with forward-thinking groups to refine these concepts into something truly transformative for your community."
+      "text": "Collaboration is essential today, as your social networks provide the structure needed for your most ambitious ideas. Look for mentors within your friend group who can help turn your visions into a collective movement."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "The Moon's presence in your home sign heightens your intuition and highlights a need for emotional security amidst professional shifts. Honor your inner world today by creating a sanctuary that protects your energy from the external noise."
+      "text": "The Moon in your sign amplifies your sensitivity, making it a perfect day to nurture your personal goals. You may feel a push to lead in your career, but ensure your emotional well-being remains the foundation of your choices."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Jupiter in your sign radiates confidence and brings expansive opportunities for you to showcase your creative talents. Say yes to invitations that allow you to take center stage and inspire others with your natural warmth."
+      "text": "With Jupiter in your sign, your natural radiance is at an all-time high, attracting new opportunities for expansion. Focus on higher education or long-distance travel to satisfy your growing hunger for wisdom and adventure."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "This is a powerful time for deep psychological insights and refining your approach to shared resources or intimacy. Use your analytical skills to untangle complex emotional ties and build more efficient systems for your personal growth."
+      "text": "Shared resources and intimacy require a careful balance of trust and practical boundaries today. You are learning to navigate complex emotional waters without losing sight of your material security."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "The focus is squarely on your one-on-one relationships, where a balance between independence and cooperation is essential. Seek out partners who respect your need for autonomy while providing the intellectual stimulation you crave."
+      "text": "Significant partnerships are undergoing a period of restructuring, asking you to define what you truly need from others. Honesty about your long-term commitments will lead to deeper, more authentic connections."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Focus on the fine details of your daily routines and physical health to harness the intense energy currently available to you. Your ability to transform your workplace environment through sheer willpower is significantly amplified today."
+      "text": "Your daily habits and health routines benefit from a blend of imaginative new methods and strict discipline. Focus on the small, repetitive tasks that will eventually lead to a major breakthrough in your productivity."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "A surge of fiery energy encourages you to pursue a new romantic interest or a daring creative hobby. Embrace the spirit of adventure and let your natural optimism lead you toward experiences that broaden your horizons."
+      "text": "Creative projects demand a more serious commitment, pushing you to master your craft with renewed focus. Romance may take a turn toward the spiritual, requiring both vulnerability and a sense of shared purpose."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your attention is drawn to the foundations of your life, requiring a blend of traditional discipline and new emotional approaches. Establishing a stronger sense of belonging at home will empower your long-term ambitions and career goals."
+      "text": "The focus is on your domestic sphere, where you are tasked with building a sanctuary that reflects your evolving soul. Balancing the demands of your public legacy with private rest is your primary challenge today."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto in your sign continues to demand a radical personal evolution and a shift in how you communicate your truths. Your words carry weight today, so use your influence to advocate for the collective progress you believe in."
+      "text": "Your words carry extra weight today, making it an excellent time for teaching, writing, or negotiating. Be clear about your boundaries while remaining open to the inspired perspectives of those in your local community."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Material security and your sense of self-worth are under the spotlight, prompting a fresh look at your values. Trust your imagination to find unconventional ways to manifest wealth while staying true to your spiritual path."
+      "text": "Financial matters require both your intuitive foresight and a pragmatic approach to long-term budgeting. Reevaluate your values to ensure that your income streams align with your newly emerging sense of self."
     }
   ],
-  "date": "March 26, 2026"
+  "date": "March 27, 2026"
 }
