@@ -1,66 +1,66 @@
 {
-  "summary": "A powerful convergence of Saturn and Neptune in Aries creates a day where visionary dreams meet the necessity of disciplined action. The Moon in Cancer highlights a tension between professional pioneering and the need for emotional security at home.",
+  "summary": "March 28, 2026 brings a dynamic tension between personal desires and relational needs, amplified by a Cardinal T-Square involving the Sun, Moon, and Mars. This configuration heightens emotional intensity around home and security, urging a balance between assertion and compromise. Simultaneously, a powerful Jupiter-Saturn square challenges us to integrate expansive ideas with practical realities, fostering growth through disciplined idealism.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The rare alignment of Saturn and Neptune in your sign demands that you ground your highest ideals into a concrete reality. Your identity is evolving, requiring you to act as both the dreamer and the architect of your future."
+      "text": "Your leadership and pioneering spirit are strongly activated, urging you to assert your individuality. While you feel a powerful push towards new beginnings, carefully navigate relationship dynamics that require balance."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Deep subconscious shifts are occurring, prompting you to release outdated fears that hinder your progress. Use this quiet period for spiritual reflection to prepare for the tangible growth coming your way."
+      "text": "Grounding energies in love and finances are key, bringing a focus on stability and comfort. Be open to slow, evolutionary shifts in your values and resources that may lead to unexpected, yet ultimately beneficial, changes."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Collaboration is essential today, as your social networks provide the structure needed for your most ambitious ideas. Look for mentors within your friend group who can help turn your visions into a collective movement."
+      "text": "Your mind is alight with expansive ideas and a hunger for knowledge, encouraging intellectual exploration. However, you might encounter friction as you attempt to integrate these grand visions with practical or spiritual limitations, requiring thoughtful discernment."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "The Moon in your sign amplifies your sensitivity, making it a perfect day to nurture your personal goals. You may feel a push to lead in your career, but ensure your emotional well-being remains the foundation of your choices."
+      "text": "A strong emotional drive around home, family, and personal security is prominent, potentially leading to increased assertiveness or protectiveness. Navigate any tensions carefully, as your desire to safeguard your sanctuary could clash with external demands."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "With Jupiter in your sign, your natural radiance is at an all-time high, attracting new opportunities for expansion. Focus on higher education or long-distance travel to satisfy your growing hunger for wisdom and adventure."
+      "text": "Your natural warmth and leadership can be a guiding light through the day's intensity, especially in creative problem-solving. Focus on bringing generosity and perspective to relationship challenges, ensuring your self-expression also uplifts others."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Shared resources and intimacy require a careful balance of trust and practical boundaries today. You are learning to navigate complex emotional waters without losing sight of your material security."
+      "text": "It's a day for practical application and organizing your inner and outer worlds amidst the emotional currents. Your analytical skills are vital for understanding the nuances of current challenges and refining your daily routines for greater peace."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Significant partnerships are undergoing a period of restructuring, asking you to define what you truly need from others. Honesty about your long-term commitments will lead to deeper, more authentic connections."
+      "text": "Relationships are your primary focus, but you're called to release old patterns of compromise that no longer serve your true self. Strive for genuine harmony by asserting your individual needs while still valuing equitable partnerships."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Your daily habits and health routines benefit from a blend of imaginative new methods and strict discipline. Focus on the small, repetitive tasks that will eventually lead to a major breakthrough in your productivity."
+      "text": "Deep emotional currents are at play, making it a potent time for internal transformation, especially concerning shared resources or intimate bonds. Trust your powerful intuition to guide you through any intensity and uncover hidden truths."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Creative projects demand a more serious commitment, pushing you to master your craft with renewed focus. Romance may take a turn toward the spiritual, requiring both vulnerability and a sense of shared purpose."
+      "text": "Your adventurous spirit seeks freedom and expansion, but practical or relational commitments might demand your attention. Find ways to broaden your horizons through wisdom and understanding, integrating your quest for truth with current responsibilities."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "The focus is on your domestic sphere, where you are tasked with building a sanctuary that reflects your evolving soul. Balancing the demands of your public legacy with private rest is your primary challenge today."
+      "text": "Focus on strengthening your foundations and long-term objectives amidst the day's emotional dynamics. Your disciplined approach can provide a stable anchor, allowing you to build greater security in both your personal and professional life."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Your words carry extra weight today, making it an excellent time for teaching, writing, or negotiating. Be clear about your boundaries while remaining open to the inspired perspectives of those in your local community."
+      "text": "Profound shifts in your approach to community, friendships, and future visions are transforming your world. Embrace revolutionary ideas and humanitarian ideals, but consider how your desire for change impacts personal connections."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Financial matters require both your intuitive foresight and a pragmatic approach to long-term budgeting. Reevaluate your values to ensure that your income streams align with your newly emerging sense of self."
+      "text": "You're likely feeling a strong pull towards spiritual discipline or a need to define your creative path with greater structure. Balancing your expansive ideals with practical realities will lead to more grounded and meaningful achievements."
     }
   ],
-  "date": "March 27, 2026"
+  "date": "March 28, 2026"
 }
