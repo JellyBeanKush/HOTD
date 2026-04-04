@@ -1,66 +1,66 @@
 {
-  "summary": "April 3, 2026, is dominated by the energetic aftermath of a Full Moon in Libra, directly opposing an intense stellium of planets in Aries (Sun, Mercury, Venus, Saturn, Neptune). This powerful configuration creates a dynamic tension between personal desires and the need for harmonious relationships, urging individuals to assert their will while seeking balance and fairness. Expect a strong focus on new beginnings, direct communication, and a pioneering spirit, though managing impulsiveness and ego is crucial.",
+  "summary": "April 4, 2026, ushers in a powerful surge of pioneering energy, driven by a significant stellium in Aries that ignites new beginnings and direct communication. While there's a strong impulse for independent action and intellectual expansion, unexpected shifts in values or relationships may require adaptability and a willingness to integrate evolving truths.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With the Sun, Mercury, Venus, Saturn, and Neptune all in your sign, this is an incredibly potent period for self-discovery and initiating bold new ventures. Embrace your pioneering spirit, but remember to balance your assertiveness with awareness of others."
+      "text": "With the Sun, Mercury, Neptune, and North Node in your sign, this is a highly activating time for personal breakthroughs and initiating bold new ventures. Your pioneering spirit is amplified, encouraging direct action and confident self-expression."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Uranus in your sign continues to bring unexpected shifts, particularly regarding your personal values and financial stability. Be open to unconventional approaches that liberate you from old patterns and embrace adaptive strategies."
+      "text": "Venus and Uranus in your sign bring a mix of stability and sudden, exciting changes to your values, resources, and personal aesthetics. You might experience unexpected opportunities or shifts in how you define comfort and security, prompting innovative approaches to your material world."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Mars in your sign energizes your communication and intellectual pursuits, making it an excellent time for lively discussions and new learning. Channel this dynamic energy effectively to avoid scattered focus or engaging in unnecessary debates."
+      "text": "Jupiter in your sign supercharges your intellectual curiosity and communication, encouraging abundant learning and the sharing of diverse ideas. However, tension with Saturn suggests you may need to apply structure to your thoughts or face realistic boundaries regarding your beliefs and grand plans."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Jupiter retrograde in your sign invites deep introspection into your emotional security, home life, and family foundations. This period encourages internal growth and healing, prompting you to nurture your roots before expanding outward."
+      "text": "Your focus may turn inward, contemplating deep transformative shifts in your community or long-term goals due to Pluto's influence in your shared resources sector. The vibrant Aries energy in your career house might push you to take bold, assertive steps in your public image, even if it feels a bit out of your emotional comfort zone."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The Full Moon highlights your sector of creativity, romance, and self-expression, urging you to bring a project or emotional experience to a head. Use the strong Aries energy to courageously pursue what truly ignites your passion and joy."
+      "text": "Mars in your sign fuels your desire for creative self-expression and dramatic action, making you feel invigorated and ready to lead with passion. However, dynamic tension with Venus and Uranus in Taurus suggests a need to balance your personal desires with practical realities or unexpected changes in your material world."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "With the North Node in your sign, this day emphasizes your path of service, health routines, and practical improvements. Balance your natural inclination for perfection with the assertive Aries energy, focusing on pragmatic steps towards personal well-being."
+      "text": "With Saturn in your opposing sign of Pisces, you are encouraged to bring more structure and disciplined realism to your partnerships and spiritual practices. The vibrant Aries energy in your house of shared resources might prompt you to boldly negotiate or initiate new joint financial ventures, demanding your careful attention to detail."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "As the Moon shines brightly in your sign, this Full Moon is a powerful moment for illuminating your relationships and personal identity. Seek balance and fairness in your partnerships, making conscious decisions that honor both your needs and those of others."
+      "text": "Your relationships are a key focus, with the powerful Aries stellium in your partnership sector encouraging directness and new beginnings in your one-on-one connections. You might find yourself asserting your needs more clearly, fostering new dynamics or a fresh start in your significant relationships."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "This day brings heightened awareness to your shared resources, intimacy, and subconscious patterns as the Full Moon illuminates your opposing house. It's a potent time for transformation, requiring you to release what no longer serves your deeper emotional well-being."
+      "text": "Pluto, your ruler, retrograding in Aquarius brings a period of re-evaluation regarding your home, family, or emotional foundations, prompting deep introspection. The strong Aries energy in your work and health sector calls for energetic and pioneering approaches to daily routines and overall well-being."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your focus shifts towards higher learning, travel, and expanding your philosophical horizons, perhaps through an assertive pursuit of knowledge. The intense Aries energy encourages you to boldly explore new perspectives and embark on exciting intellectual adventures."
+      "text": "Jupiter, your ruler, in Gemini expands your focus on partnerships and significant others, bringing opportunities for growth through diverse connections and communication. Creative projects and self-expression are also highlighted, urging you to take courageous steps in how you share your unique voice and passions."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your professional life and public image are intensely highlighted, demanding discipline and strategic planning to achieve your long-term goals. The Full Moon may bring a culmination or important decision regarding your work-life balance or career direction."
+      "text": "Your home life and foundational roots receive a powerful surge of pioneering energy, encouraging you to initiate new projects or assert yourself within your domestic sphere. Saturn in Pisces prompts deeper reflection on your communication style and local environment, encouraging a more empathetic and structured approach to your daily interactions."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto's influence in your sign continues to reshape your personal identity and close relationships, bringing profound transformations and shifts in power dynamics. Embrace your unique vision, using your assertiveness to champion humanitarian causes or innovative ideas."
+      "text": "Pluto retrograde in your sign continues a deep transformation of your identity and life direction, allowing you to re-evaluate what truly empowers you and how you wish to evolve. Your communication and immediate environment are buzzing with new ideas and a direct, assertive energy, encouraging you to speak your truth courageously."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "This period encourages deep spiritual insights and exploration of your subconscious mind, perhaps revealing hidden talents or aspirations. The strong Aries influence can inspire you to assert your spiritual beliefs or initiate practices that bring greater clarity and courage."
+      "text": "Saturn in your sign asks you to establish clearer boundaries and bring realism to your dreams, self-perception, and spiritual practices. Meanwhile, the strong Aries energy in your sector of values and resources encourages bold new approaches to earning, managing your finances, and asserting your worth."
     }
   ],
-  "date": "April 3, 2026"
+  "date": "April 4, 2026"
 }
