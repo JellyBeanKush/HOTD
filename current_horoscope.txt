@@ -1,66 +1,66 @@
 {
-  "summary": "April 4, 2026, ushers in a powerful surge of pioneering energy, driven by a significant stellium in Aries that ignites new beginnings and direct communication. While there's a strong impulse for independent action and intellectual expansion, unexpected shifts in values or relationships may require adaptability and a willingness to integrate evolving truths.",
+  "summary": "The cosmic energy today is defined by a potent Aries cluster driving bold initiatives and a call for disciplined leadership. With the Moon in Scorpio squaring Pluto, deep emotional transformations are catalyzed, demanding honesty and a release of outdated power structures.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With the Sun, Mercury, Neptune, and North Node in your sign, this is a highly activating time for personal breakthroughs and initiating bold new ventures. Your pioneering spirit is amplified, encouraging direct action and confident self-expression."
+      "text": "With the Sun and Saturn in your sign, you are tasked with merging your natural courage with newfound organizational discipline. Focus on pioneering a long-term goal that requires both your fiery passion and a steady, mature hand."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Venus and Uranus in your sign bring a mix of stability and sudden, exciting changes to your values, resources, and personal aesthetics. You might experience unexpected opportunities or shifts in how you define comfort and security, prompting innovative approaches to your material world."
+      "text": "The Scorpio Moon activates your house of partnerships, prompting a need for deep, authentic connection over superficial harmony. Trust your intuition when dealing with others, as hidden truths may surface to help you strengthen your most vital bonds."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Jupiter in your sign supercharges your intellectual curiosity and communication, encouraging abundant learning and the sharing of diverse ideas. However, tension with Saturn suggests you may need to apply structure to your thoughts or face realistic boundaries regarding your beliefs and grand plans."
+      "text": "Mars and Uranus in your sign provide a surge of electric, restless energy that favors innovative problem-solving and rapid communication. Direct this intellectual spark toward community projects or networking opportunities that benefit from your unique perspective."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Your focus may turn inward, contemplating deep transformative shifts in your community or long-term goals due to Pluto's influence in your shared resources sector. The vibrant Aries energy in your career house might push you to take bold, assertive steps in your public image, even if it feels a bit out of your emotional comfort zone."
+      "text": "Jupiter in your sign continues to offer a sense of expansion and grace, particularly within your home and emotional life. Today, use this abundance to nurture your professional reputation while staying true to your core values and heritage."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Mars in your sign fuels your desire for creative self-expression and dramatic action, making you feel invigorated and ready to lead with passion. However, dynamic tension with Venus and Uranus in Taurus suggests a need to balance your personal desires with practical realities or unexpected changes in your material world."
+      "text": "The Aries planetary influence encourages you to expand your horizons through travel, higher learning, or philosophical exploration. Avoid getting caught in ego battles and instead use your charisma to inspire others toward a shared, visionary goal."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "With Saturn in your opposing sign of Pisces, you are encouraged to bring more structure and disciplined realism to your partnerships and spiritual practices. The vibrant Aries energy in your house of shared resources might prompt you to boldly negotiate or initiate new joint financial ventures, demanding your careful attention to detail."
+      "text": "Financial introspection is key today as the Scorpio Moon highlights shared resources and complex investments. This is a powerful time for psychological research or diving deep into a project that requires your signature precision and focus."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your relationships are a key focus, with the powerful Aries stellium in your partnership sector encouraging directness and new beginnings in your one-on-one connections. You might find yourself asserting your needs more clearly, fostering new dynamics or a fresh start in your significant relationships."
+      "text": "The focus remains on your relationships, where you are learning to balance your own needs with those of your significant others. Assert your independence within your partnerships to create a healthier, more honest dynamic that respects both parties."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Pluto, your ruler, retrograding in Aquarius brings a period of re-evaluation regarding your home, family, or emotional foundations, prompting deep introspection. The strong Aries energy in your work and health sector calls for energetic and pioneering approaches to daily routines and overall well-being."
+      "text": "With the Moon in your sign, your psychic sensitivity is at an all-time high, allowing you to see through any facade. Use this intensity to streamline your daily routines and focus on holistic health practices that rejuvenate your spirit."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Jupiter, your ruler, in Gemini expands your focus on partnerships and significant others, bringing opportunities for growth through diverse connections and communication. Creative projects and self-expression are also highlighted, urging you to take courageous steps in how you share your unique voice and passions."
+      "text": "The fiery Aries energy ignites your creative sector, making this a perfect day for artistic expression or romantic pursuits. Take a bold leap of faith toward a passion project, but keep one eye on the practical details to ensure its success."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your home life and foundational roots receive a powerful surge of pioneering energy, encouraging you to initiate new projects or assert yourself within your domestic sphere. Saturn in Pisces prompts deeper reflection on your communication style and local environment, encouraging a more empathetic and structured approach to your daily interactions."
+      "text": "Structural changes at home are highlighted as the Aries cluster emphasizes your foundational fourth house. Balance your drive for professional achievement with the necessary work of building a secure and disciplined domestic environment."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto retrograde in your sign continues a deep transformation of your identity and life direction, allowing you to re-evaluate what truly empowers you and how you wish to evolve. Your communication and immediate environment are buzzing with new ideas and a direct, assertive energy, encouraging you to speak your truth courageously."
+      "text": "Pluto in your sign continues its slow transformation of your identity, while Gemini transits stimulate your curiosity and local social life. Engage in stimulating conversations that challenge your thinking and help you articulate your revolutionary ideas."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Saturn in your sign asks you to establish clearer boundaries and bring realism to your dreams, self-perception, and spiritual practices. Meanwhile, the strong Aries energy in your sector of values and resources encourages bold new approaches to earning, managing your finances, and asserting your worth."
+      "text": "Venus in your sign brings a touch of magic to your personal aura, making it a great day for self-care and attraction. Focus on your self-worth and material security, as the universe is currently aligned to reward your imaginative talents."
     }
   ],
-  "date": "April 4, 2026"
+  "date": "April 5, 2026"
 }
