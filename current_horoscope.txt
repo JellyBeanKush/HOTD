@@ -1,66 +1,66 @@
 {
-  "summary": "April 6, 2026, is marked by a powerful concentration of planets in Aries, fueling a collective drive for radical self-reinvention and new beginnings. However, Mercury retrograde in Aries and the Moon in Scorpio create a complex tension between impulsive action and deep emotional processing.",
+  "summary": "April 7, 2026, presents a dynamic blend of assertive new beginnings tempered by a need for structure and emotional security. The Sun's conjunction with Saturn in Aries urges disciplined action and realistic approaches to personal identity and fresh starts, while the powerful Mars-Jupiter conjunction in Cancer fosters significant growth and protective instincts within home and family spheres. This combination encourages both bold initiative and empathetic, nurturing connections, particularly within personal foundations.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With the Sun, Saturn, and Neptune in your sign, you are feeling a profound weight of responsibility regarding your personal identity and long-term legacy. Use the Mercury retrograde period to refine your presentation rather than launching entirely new ventures today."
+      "text": "With the Sun and Saturn in your sign, this day calls for focused energy on grounding your aspirations and taking disciplined steps toward personal goals. You're empowered to initiate new ventures, but remember to build a sturdy foundation rather than rushing headlong."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "The cosmic energy is currently focused on your subconscious, making this an ideal day for deep meditation or dream work. As your ruling planet Venus moves through Pisces, lean into your intuition to navigate any financial or professional uncertainties."
+      "text": "Mercury in your sign supports practical communication and careful planning, helping you articulate your needs with clarity. Unexpected shifts around your values or finances may arise with Uranus, prompting you to embrace flexibility while maintaining your core stability."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Mars and Uranus in your sign provide a double dose of erratic but brilliant energy that can help you break through old limitations. Be careful with your words, as Mercury retrograde might cause your innovative ideas to be misunderstood by your social circle."
+      "text": "Your focus may shift inward as you process information and communicate with greater deliberation than usual. Pay attention to your intuition regarding long-term plans or hidden truths, allowing quiet reflection to inform your next steps."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Jupiter continues to grace your sign with growth, but the heavy Aries influence pulls your attention toward demanding career obligations. The Moon in Scorpio provides the emotional depth needed to handle professional pressure with grace and resilience."
+      "text": "A powerful conjunction of Mars and Jupiter in your sign supercharges your emotional courage, drive, and capacity for growth, particularly concerning home and family. This is an excellent time to expand your personal comfort zone and passionately pursue what brings you security and joy."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "You are feeling a strong pull toward expanding your horizons through travel or study, yet delays are likely due to the current planetary alignment. Revisit old philosophical texts or past travel destinations to find the inspiration you are currently seeking."
+      "text": "Ambitious projects and a desire for expansion are highlighted, encouraging you to step forward with a clear sense of purpose. While you feel a strong urge to lead, remember that disciplined effort and a realistic assessment of resources will yield the best long-term results."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Financial introspection is key today as planets transit your house of shared resources and transformation. The Scorpio Moon encourages you to look beneath the surface of your investments and personal bonds to find hidden truths."
+      "text": "Practical matters and shared resources demand your analytical attention today, offering an opportunity to refine and optimize current arrangements. Your astute observations can help bring structure to joint finances or intimate partnerships, ensuring a more secure future."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Relationships are your primary focus as the Aries cluster highlights your seventh house of partnerships. Practice patience with others, as Mercury retrograde may bring back unresolved issues from the past that require a new, disciplined approach."
+      "text": "Relationships are a focal point, as you may encounter challenges that require a balanced approach and a commitment to clear communication. Personal initiative around your partnerships and sense of self is key, pushing you to define your boundaries and expectations."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "With the Moon in your sign squaring Pluto, you may feel an intense urge to take control of your environment. Channel this energy into restructuring your daily routines and health habits rather than engaging in power struggles with colleagues."
+      "text": "Deep emotional insights may surface, prompting a reevaluation of your daily routines and personal well-being. This is a potent time for internal transformation, allowing you to release old habits and embrace a more supportive structure for your health and work."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your creative spark is ignited by the fire energy in Aries, though you may feel restricted by certain domestic or familial duties. Balance your desire for play with the necessary work required to build a lasting foundation for your artistic pursuits."
+      "text": "Creative expression and romantic endeavors are highlighted, inviting you to take bold, disciplined steps in pursuing your passions. The moon moving into your sign enhances your adventurous spirit, urging you to explore new ideas and philosophies with optimism."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "The focus is on your home life and inner world, where you are being asked to integrate old lessons with a new sense of authority. Communication with family members might be tricky today, so choose your words carefully and lead with empathy."
+      "text": "Your home and foundational structures are under review, requiring disciplined effort to establish a more secure and nurturing environment. While facing responsibilities, you'll find significant opportunities for personal growth and emotional expansion through family connections."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Your intellectual curiosity is peaking, but Pluto in your sign demands that your ideas carry real substance and transformative power. The Scorpio Moon asks you to verify the facts before speaking, ensuring your visionary outlook remains grounded in reality."
+      "text": "Profound personal transformation continues to unfold, encouraging you to redefine your identity and role within collective structures. Communication and new learning initiatives are favored, helping you articulate your evolving insights and connect with like-minded individuals."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Venus in your sign makes you especially magnetic today, yet the Aries transits urge you to be practical about your finances and self-worth. It is a day to appreciate the beauty around you while setting firm boundaries regarding your time and resources."
+      "text": "With Venus in your sign, your intuitive and compassionate nature is amplified, fostering deep, empathetic connections and artistic inspiration. Focus on grounding your spiritual insights into practical self-worth, recognizing the value you bring to the world."
     }
   ],
-  "date": "April 6, 2026"
+  "date": "April 7, 2026"
 }
