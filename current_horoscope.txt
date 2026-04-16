@@ -1,66 +1,66 @@
 {
-  "summary": "Today’s energy is defined by a potent blend of fiery initiative and deep emotional intuition as the Aries Sun squares an exalted Jupiter in Cancer. You are encouraged to balance bold personal ambitions with a nurturing approach to your home life and inner foundation.",
+  "summary": "Today features a potent New Moon in Aries, signaling a massive cosmic reset and the spark of a new identity. With several planets clustering in the sign of the Ram, the energy is hyper-initiatory, urging you to break free from old cycles and embrace a bold, authentic path.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With the Sun in your sign squaring Jupiter, you may feel an intense drive to expand your personal influence. Channel this restless energy into physical activity or a creative project to avoid unnecessary friction with others."
+      "text": "The New Moon in your sign marks a personal rebirth and a total transformation of your self-image. It is time to initiate the grand project you have been dreaming about with unwavering courage."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Spiritual insights are highlighted today as the Moon and Venus align in your sector of the subconscious. Take a moment for quiet reflection to process the significant shifts occurring in your private life."
+      "text": "Your subconscious is stirring with deep insights as the lunar cycle begins in your house of endings and spirituality. Clear out the psychic clutter to make room for the grounded growth coming your way."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Mars and Uranus in your sign provide a surge of innovative energy and a strong desire for personal independence. Focus on collaborative projects that allow you to express your unique perspective without feeling restricted."
+      "text": "New social circles and long-term aspirations are coming into sharp focus today. Your mental agility helps you navigate a sudden shift in your community dynamics or collaborative goals."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Jupiter in your sign amplifies your confidence, though the square from the Sun suggests tension between public roles and personal needs. Trust your instincts when navigating career opportunities, as your emotional intelligence is currently your greatest asset."
+      "text": "A significant career milestone or a shift in public direction is catalyzed by today's fiery lunar energy. Trust your intuition as you step into a leadership role that demands both strength and vulnerability."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your desire for adventure and higher learning is piqued today, encouraging you to look far beyond your current horizon. Balance your bold aspirations with a practical plan to ensure your long-term visions can actually take root."
+      "text": "The urge for expansion and higher learning is irresistible as the stars light up your sector of philosophy and travel. New horizons are calling, and your adventurous spirit is the key to unlocking a broader perspective."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Financial matters or deep psychological insights come to the forefront as you navigate complex interpersonal dynamics. Use this time to establish healthy boundaries that protect both your resources and your emotional well-being."
+      "text": "Deep transformations regarding shared resources or intimate bonds are surfacing now. It is a powerful moment to renegotiate boundaries and release emotional debts that no longer serve your growth."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Relationships are the primary focus today, demanding a delicate balance between your own identity and the needs of others. Harmonious connections are possible if you approach conflicts with empathy and a genuine willingness to compromise."
+      "text": "Your focus shifts entirely toward partnerships and the balance between your needs and those of others. A fresh start in a significant relationship allows for a more authentic and assertive connection."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Productivity is high today, but you must be careful not to overextend yourself in the pursuit of perfection. Focus on small, sustainable changes to your daily routine that support your long-term physical health."
+      "text": "Today’s energy revitalizes your daily routines and health practices with a surge of renewed motivation. Tackle your to-do list with precision and prioritize the habits that empower your physical vitality."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Creative inspiration flows easily today, urging you to express your authentic self through art or romance. Don't be afraid to take a calculated risk, as the cosmic alignment supports bold leaps of faith."
+      "text": "Creative inspiration strikes like lightning, urging you to express your most authentic self without reservation. Joy and romance are highlighted, making this an ideal time to pursue what truly makes your heart race."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your focus shifts toward home and family life, where emotional breakthroughs are likely to occur today. Seek a balance between your professional ambitions and the necessity of creating a stable, nurturing environment."
+      "text": "Matters of home and family take center stage, prompting a fresh start in your domestic environment. Use this initiatory energy to strengthen your foundations and create a space of emotional security."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Communication is key today, and your words carry more weight than usual while Pluto moves through your sign. Engage in meaningful dialogue that challenges the status quo and promotes innovative community solutions."
+      "text": "Your communication style becomes sharper and more direct as the New Moon activates your mental sphere. It is the perfect time to launch a writing project or engage in meaningful local networking."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "With the Moon and Venus in your sign, your intuitive and artistic powers are currently at an all-time high. This is an ideal time to manifest your desires by aligning your inner emotions with your outer reality."
+      "text": "Financial beginnings and a reassessment of your personal values are the themes of the day. Focus on manifesting material security while staying true to the spiritual lessons you have recently integrated."
     }
   ],
-  "date": "April 15, 2026"
+  "date": "April 16, 2026"
 }
