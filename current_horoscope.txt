@@ -1,66 +1,66 @@
 {
-  "summary": "Today features a potent New Moon in Aries, signaling a massive cosmic reset and the spark of a new identity. With several planets clustering in the sign of the Ram, the energy is hyper-initiatory, urging you to break free from old cycles and embrace a bold, authentic path.",
+  "summary": "The energy of April 17, 2026, is defined by a potent concentration of planets in Aries, including a retrograde Mercury and Saturn, forcing a collision between impulsive action and structural boundaries. This is a day for deep internal review and recalibrating personal ambitions before moving forward into new collective cycles.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The New Moon in your sign marks a personal rebirth and a total transformation of your self-image. It is time to initiate the grand project you have been dreaming about with unwavering courage."
+      "text": "With the Sun, Saturn, and Mercury retrograde in your sign, you are navigating a complex review of your personal identity and long-term goals. Patience is required as you reconcile your desire for speed with the necessity of fixing past mistakes."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Your subconscious is stirring with deep insights as the lunar cycle begins in your house of endings and spirituality. Clear out the psychic clutter to make room for the grounded growth coming your way."
+      "text": "As the Moon shifts into your sign, you find a moment of emotional grounding amidst a season of intense psychological processing. Focus on tangible comforts to help soothe the restless thoughts stirred by the heavy activity in your sector of the subconscious."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "New social circles and long-term aspirations are coming into sharp focus today. Your mental agility helps you navigate a sudden shift in your community dynamics or collaborative goals."
+      "text": "Mercury is retrograde, but with Venus, Mars, and Uranus in your sign, your social magnetism and personal drive are exceptionally high. Expect serendipitous encounters that challenge your current path, even if communications feel a bit scrambled right now."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "A significant career milestone or a shift in public direction is catalyzed by today's fiery lunar energy. Trust your intuition as you step into a leadership role that demands both strength and vulnerability."
+      "text": "Jupiter continues to grace your sign, offering a protective buffer as career tensions peak under the heavy Aries stellium. Balance your professional ambitions with the internal wisdom you have gained during this year of significant emotional expansion."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The urge for expansion and higher learning is irresistible as the stars light up your sector of philosophy and travel. New horizons are calling, and your adventurous spirit is the key to unlocking a broader perspective."
+      "text": "The fiery Aries energy harmonizes with your spirit, encouraging you to rethink your higher philosophies and long-distance travel plans. Use this retrograde period to revisit a project or destination that once sparked your passion but was recently set aside."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Deep transformations regarding shared resources or intimate bonds are surfacing now. It is a powerful moment to renegotiate boundaries and release emotional debts that no longer serve your growth."
+      "text": "Financial matters or deep emotional bonds require a careful audit as Mercury moves backward through your house of shared resources. Avoid signing major contracts today and instead focus on uncovering hidden details that have been overlooked since the spring began."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your focus shifts entirely toward partnerships and the balance between your needs and those of others. A fresh start in a significant relationship allows for a more authentic and assertive connection."
+      "text": "Relationships are the primary focus as the planetary cluster in your opposite sign forces you to re-evaluate how you maintain independence within partnerships. It is a time for honest dialogue, even if the conversations feel repetitive or difficult to initiate."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Today’s energy revitalizes your daily routines and health practices with a surge of renewed motivation. Tackle your to-do list with precision and prioritize the habits that empower your physical vitality."
+      "text": "Your daily routines and health habits are under the microscope, demanding a slower pace to avoid burnout or physical strain. Re-examine your work methods to find more efficient ways to handle the mounting pressure of your professional responsibilities."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Creative inspiration strikes like lightning, urging you to express your most authentic self without reservation. Joy and romance are highlighted, making this an ideal time to pursue what truly makes your heart race."
+      "text": "Creative projects and romantic endeavors are highlighted, though you may feel a tug-of-war between spontaneous fun and serious commitment. Revisit an old hobby or creative spark that brings you joy, as the past holds the key to your current inspiration."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Matters of home and family take center stage, prompting a fresh start in your domestic environment. Use this initiatory energy to strengthen your foundations and create a space of emotional security."
+      "text": "Domestic life and foundational security are the focus as you manage significant shifts within your home environment. You are learning to balance your stoic nature with the need for emotional vulnerability during this period of deep internal restructuring."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Your communication style becomes sharper and more direct as the New Moon activates your mental sphere. It is the perfect time to launch a writing project or engage in meaningful local networking."
+      "text": "Pluto in your sign continues its slow transformation of your identity, while the Aries stellium activates your communication sector. Be mindful of your words today, as they carry more weight than usual and could spark unexpected debates or realizations."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Financial beginnings and a reassessment of your personal values are the themes of the day. Focus on manifesting material security while staying true to the spiritual lessons you have recently integrated."
+      "text": "Financial values and self-worth are the main themes as you navigate the influence of Neptune and Saturn in your neighboring sign. Take a pragmatic approach to your budget while remaining open to the spiritual lessons that come from releasing material attachments."
     }
   ],
-  "date": "April 16, 2026"
+  "date": "April 17, 2026"
 }
