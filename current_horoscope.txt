@@ -1,66 +1,66 @@
 {
-  "summary": "Today features a high-energy transition as the Sun completes its journey through Aries, square to the powerful Jupiter-Mars conjunction in Cancer. This alignment creates a dynamic tension between the impulse for bold individual action and the need for emotional security and protective domesticity.",
+  "summary": "Today marks the Sun's entry into Taurus, grounding the collective energy and shifting focus toward material stability and sensory pleasures. This transit, combined with a restless Gemini Moon, creates a dynamic tension between the desire for comfort and a craving for intellectual stimulation.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The Sun in your final degrees encourages a powerful push to wrap up personal initiatives before the energy shifts. With Saturn and Neptune conjunct in your sign, you must balance your fiery drive with a newfound sense of karmic responsibility."
+      "text": "The Sun leaves your sign today, encouraging you to transition from high-energy action to practical financial management. Focus on securing your resources and defining your personal values for the months ahead."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "As you prepare for your upcoming solar return, use this day for deep introspection and psychological clearing. Venus in Pisces enhances your social charms, making it a perfect moment for gentle, soulful interactions with your community."
+      "text": "Happy birthday season begins as the Sun enters your sign, providing a powerful boost to your vitality and personal magnetism. Use this surge of solar energy to redefine your identity and set ambitious new personal goals."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "The Moon moving through your sign alongside Uranus sparks sudden flashes of brilliance and a craving for intellectual novelty. Your social networks are electrified today, so remain open to unconventional advice from unexpected sources."
+      "text": "With the Moon, Venus, and Uranus all highlighting your sign, your charm is at an all-time high and surprises are likely. Embrace the spontaneous energy of the day, but remember to take moments of quiet as the Sun shifts into your sector of solitude."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Mars and Jupiter conjunct in your sign grant you an extraordinary boost of physical vitality and personal magnetism. You have the courage to defend your territory and expand your influence, provided you lead with your heart."
+      "text": "Mars and Jupiter in your sign continue to amplify your drive and confidence, making you nearly unstoppable in your pursuits. As the Sun moves into Taurus, look toward your social circles and friendships for long-term support and collaboration."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your focus turns toward the horizon as you seek meaning through travel, study, or philosophical exploration. While your public life is busy, make time for quiet retreats to process the rapid shifts occurring in your professional world."
+      "text": "Your professional life takes center stage as the Sun enters your career sector, highlighting your public image and achievements. It is a prime time to showcase your reliability and steady leadership to those in positions of power."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Deep transformations are underway as you navigate complex financial or emotional entanglements with precision. Trust your analytical mind to sift through the noise, but allow Venus to soften your approach when dealing with partners."
+      "text": "The shift of the Sun into Taurus opens your mind to new philosophies and the possibility of long-distance travel. Your curiosity is piqued by unconventional ideas, leading to breakthroughs in how you view the world around you."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "The emphasis remains on your one-on-one relationships, where a balance between independence and compromise is required. You may find that your career ambitions are currently influenced by the emotional needs of those closest to you."
+      "text": "A deeper, more intense focus on shared resources and intimate bonds begins today as the Sun enters your eighth house. Financial matters involving others require your steady hand and clear communication to ensure long-term stability."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "This is an ideal day to overhaul your daily routines and focus on optimizing your physical health through disciplined action. Your intuition is exceptionally sharp regarding workplace dynamics, allowing you to navigate power shifts with ease."
+      "text": "The Sun moves into your opposite sign today, placing a bright spotlight on your one-on-one relationships and partnerships. Seek balance and harmony with others, allowing their perspectives to ground your own intense ambitions."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "A surge of creative fire encourages you to express your most authentic self through art, romance, or play. While the energy is lighthearted, don't ignore the deeper emotional insights surfacing within your shared resources."
+      "text": "Practicality becomes your priority as the Sun enters your sector of health and daily routines. It is the perfect time to implement a new wellness regimen or to organize your work environment for maximum efficiency."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Home and family matters demand your attention as you seek to build a more solid emotional foundation for your future. Tension between your private needs and your public reputation may require a tactical and patient approach today."
+      "text": "Creative inspiration and romantic opportunities flourish as the Sun moves into a fellow earth sign today. Allow yourself to step away from your heavy responsibilities and indulge in activities that bring you genuine joy and pleasure."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Your words carry significant weight today, making it a prime time for negotiations, writing, or local community leadership. Pluto in your sign continues to transform your identity, urging you to communicate with absolute honesty and power."
+      "text": "The focus shifts to your home and family life, urging you to create a more stable and comfortable domestic environment. While Pluto in your sign drives personal transformation, your roots provide the necessary anchor for your evolution."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Venus in your sign brings a sense of grace and beauty to your personal presence, attracting favorable opportunities your way. Focus on grounding your imaginative ideas into tangible assets as you reconsider your long-term financial values."
+      "text": "Communication becomes more deliberate and grounded as the Sun enters your third house of local interactions. You may find yourself busy with community projects or short trips that require both your intuition and your practical attention."
     }
   ],
-  "date": "April 19, 2026"
+  "date": "April 20, 2026"
 }
