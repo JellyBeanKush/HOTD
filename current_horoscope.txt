@@ -1,66 +1,66 @@
 {
-  "summary": "April 24, 2026, presents a dynamic blend of grounding energy and transformative potential. With the Sun and Venus in stable Taurus trining the Moon in Capricorn, there's a strong emphasis on practical endeavors and tangible results. However, squares to Pluto in Aquarius demand a deep re-evaluation of values and power dynamics, urging significant shifts in personal resources and relational structures.",
+  "summary": "The alignment of the Sun and Venus in Taurus provides a grounding foundation, while the Moon in Leo encourages bold self-expression and creative flair. This day highlights a tension between the desire for material security and the need for personal recognition, driven by the visionary Saturn-Neptune conjunction in Aries.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Your communication is infused with a unique blend of idealism and directness today, though clarity might be a fleeting challenge. Channel this energetic flow into creative expressions or spiritual insights, but be mindful of potential misunderstandings with loved ones."
+      "text": "With Saturn and Neptune conjunct in your sign, you are tasked with turning your most abstract dreams into a disciplined reality. Mercury’s presence here ensures your words carry weight and authority during important negotiations."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Your personal values and desires are under an intense spotlight, prompting a significant re-evaluation of your resources and self-worth. Embrace the call for transformation, especially regarding financial matters or long-held attachments, even if it feels unsettling."
+      "text": "The Sun and Venus in your sign amplify your natural magnetism and desire for physical comfort. It is an excellent day to invest in your personal appearance or to stabilize your financial interests."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your intellectual curiosity is expansive, allowing you to connect big ideas with innovative social change. This is a prime time for learning, networking, and sharing your vision, as your words carry a greater potential for positive impact."
+      "text": "Mars in your sign provides an extra boost of vitality, making you feel restless and ready for intellectual challenges. Focus this energy on a singular project to avoid scattering your mental resources across too many tasks."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "You might feel a push-pull between your desire to act assertively and the need to navigate restrictive emotional boundaries or family responsibilities. Approach home and personal matters with patience and structure, as direct confrontation could meet unexpected resistance."
+      "text": "Jupiter continues to grace your sign, bringing a sense of protection and emotional expansion to your private life. You may find that nurturing others brings you unexpected rewards and a deeper sense of belonging."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your focus is drawn to your career and public image, where a desire for stability may clash with an underlying need for control or transformation. Seek practical solutions in your professional life, but be prepared for unexpected shifts in your reputation or long-term goals."
+      "text": "The Moon in your sign squares the Taurus Sun, prompting a need to balance your public image with your internal desires. Use this dynamic energy to showcase your talents without losing sight of your practical responsibilities."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "You're encouraged to expand your horizons through learning, travel, or exploring philosophical concepts that challenge your worldview. Embrace opportunities for intellectual growth and spiritual insights, allowing new perspectives to inform your practical approach to life."
+      "text": "This is a potent time for quiet reflection and behind-the-scenes work as your ruler Mercury moves through bold Aries. Analyzing your subconscious patterns will help you clear the way for upcoming professional advancements."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Intense energies surround your shared resources, intimate relationships, and financial commitments, requiring a deep dive into power dynamics. Look for opportunities to transform old patterns related to trust and vulnerability, but be prepared for uncomfortable revelations or necessary shifts."
+      "text": "Social connections are highlighted as the Leo Moon illuminates your sector of friendships and networking. Collaboration is key today, but ensure that your own unique voice is not lost within the group dynamic."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Your partnerships, both personal and professional, are a central theme, as you seek balance amidst powerful undercurrents. Navigate your relationships with honesty and integrity, recognizing that true collaboration requires a willingness to transform and adapt together."
+      "text": "Career ambitions are front and center, requiring you to navigate high-pressure situations with your signature intensity. Ground your actions in the steady Taurus energy to ensure your professional moves are sustainable."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your practical routines and daily responsibilities are under scrutiny, demanding a grounded and structured approach. Focus on organizing your work environment and attending to your well-being, as thoughtful preparation will yield significant long-term benefits."
+      "text": "An adventurous spirit takes hold, urging you to explore new philosophical territories or plan a significant journey. The fiery Aries placements support your quest for truth and help you communicate your findings with passion."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your emotional needs align well with practical ambitions today, making it an excellent time to put your feelings into tangible action. You feel supported in pursuing your goals with discipline and determination, finding a stable foundation for personal and professional growth."
+      "text": "Deep psychological insights are possible today as Pluto continues its transformative work in your solar second house. Focus on redefining what truly matters to you, moving away from outdated definitions of success."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Deep personal transformations continue to unfold, challenging your sense of identity and how you assert your independence. While there may be powerful urges to break free, use this retrograde period to reflect on where you truly want to direct your personal power."
+      "text": "Pluto in your sign asks you to embrace a total rebirth of your identity and personal power. Relationships may act as mirrors today, showing you where you need to integrate your inner strength more fully."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your intuition and creative spirit are heightened, making this a good time for introspection and connecting with your inner world. Pay attention to subtle messages and dreams, as they may offer profound insights into your path, but be mindful of potential escapism."
+      "text": "Focusing on your daily habits and physical health will provide the structure needed to channel your heightened intuition. Small, methodical improvements in your routine will lead to long-term spiritual and professional clarity."
     }
   ],
-  "date": "April 24, 2026"
+  "date": "April 25, 2026"
 }
