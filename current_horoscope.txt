@@ -1,66 +1,66 @@
 {
-  "summary": "April 28, 2026, presents a dynamic blend of grounded practicality and expansive emotional seeking. While the Sun and Mercury in Taurus emphasize stability and methodical thought, the Moon in Sagittarius encourages an adventurous and truth-seeking spirit. This day invites you to find harmony between your practical needs and your higher aspirations, navigating potential tensions between immediate desires and emotional security with careful consideration.",
+  "summary": "A powerful Taurus stellium involving the Sun, Venus, and Mars emphasizes physical stability, financial persistence, and sensual grounding. The Moon in Libra balances this earthy intensity by encouraging diplomatic solutions and a focus on harmonious interpersonal dynamics.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Saturn and Neptune newly in your sign, you're navigating a significant period of defining your identity and setting disciplined foundations for the future. Financial matters receive a practical focus as the Sun and Mercury illuminate your second house, urging stable decision-making around your resources."
+      "text": "With Saturn and Neptune inhabiting your sign, you are learning to merge your visionary dreams with structural reality. Mercury in your domain aids quick thinking, but the Taurus energy suggests you should slow down to ensure your plans are financially viable."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "The Sun and Mercury in your sign empower you with clarity and a strong sense of purpose, making this an ideal time for personal initiatives and clear communication. Your emotions are geared towards deeper understanding and shared resources, as the Moon in Sagittarius highlights themes of intimacy and transformation."
+      "text": "The Sun, Venus, and Mars are all aligned in your sign, granting you immense personal power and magnetism. This is a peak time for manifesting physical goals, provided you channel your heightened energy into productive rather than stubborn pursuits."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Uranus in your sign heralds innovative personal shifts, encouraging you to embrace new ways of expressing yourself and connecting with others. You're drawn to introspection and processing subconscious thoughts, finding clarity in quiet moments or behind-the-scenes work."
+      "text": "Uranus in your sign continues to stir a desire for radical personal change and intellectual breakthrough. Use the current grounded energy to filter through your many ideas and select the one that offers the most long-term stability."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "With Mars and Jupiter in your sign, you feel a potent surge of energy and optimism, perfect for pursuing personal growth and expanding your horizons. Your focus on community and long-term goals is grounded and practical, seeking stable and meaningful connections within your social circles."
+      "text": "Jupiter exalted in your sign brings a sense of protection and emotional abundance to your current endeavors. Focus on expanding your social circles, as group collaborations are likely to yield significant rewards under today's planetary alignment."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your career and public image are prominent, with a practical and determined approach to achieving your professional ambitions. You're inspired to explore new philosophies or travel, finding passionate energy in expanding your worldview through disciplined learning."
+      "text": "Your career sector is highly activated, demanding a balance between your natural flair for leadership and the need for practical results. Ensure you are giving credit to your partners, as the Libra Moon highlights the importance of professional equity."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your quest for knowledge and understanding is strong, with a practical eye toward higher education, travel, or refining your personal philosophy. Friendships and group activities offer nurturing connections and opportunities for growth, fostering a sense of belonging and support."
+      "text": "Expanding your horizons through travel or higher learning feels especially rewarding as the Taurus planets support your quest for truth. Your analytical mind is best used today to organize a long-term plan for personal or spiritual growth."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Relationships are a focal point, urging you to approach partnerships with passion and directness while also instilling a sense of responsibility and structure. Your communication style is adventurous and seeks truth, particularly in local interactions or short journeys."
+      "text": "The Moon in your sign puts you in the driver's seat of your emotional life, emphasizing the need for peace and partnership. Shared financial matters or deep transformations are highlighted, requiring you to be both firm and fair in your negotiations."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "A grounded focus on partnerships brings stability and clear communication to your most important connections. Your beliefs and worldview are expanding, encouraging growth through higher education or inspiring travel experiences that broaden your perspective."
+      "text": "Opposition from the Taurus stellium brings your focus heavily onto your significant others and business partners. It is a day for finding strength in compromise and building foundations that can withstand emotional intensity."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "With the Moon in your sign, your emotions are expressive and seek freedom, inspiring you to follow your adventurous spirit. Daily routines and work matters receive a practical and methodical approach, helping you organize your responsibilities effectively."
+      "text": "Your daily work routine and health habits benefit from the steadying influence of the current planetary transits. Dedicating yourself to a disciplined practice now will provide the stamina needed for your next great adventure."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Creative pursuits and romantic connections benefit from a practical and stable approach, allowing you to build lasting joy and expression. Your partnerships are infused with nurturing energy and opportunities for growth, strengthening your closest bonds with care and generosity."
+      "text": "A creative or romantic spark is ignited as the Taurus energy flows harmoniously with your own earth-sign nature. Allow yourself to enjoy the fruits of your labor by engaging in activities that bring genuine pleasure and relaxation."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto in your sign marks a period of profound personal transformation, empowering you to redefine your identity and wield significant influence. Your home and family life benefit from a grounded and practical focus, ensuring a stable and secure emotional foundation."
+      "text": "Pluto in your sign continues to facilitate a deep metamorphosis of your core identity and life purpose. Today, grounding yourself in home and family matters provides the necessary stability to handle these profound internal shifts."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your financial matters and personal values are imbued with a spiritual or idealistic quality, prompting you to consider what truly nourishes your soul. Communication is clear and practical, making it a good time for local connections and expressing your thoughts with stability."
+      "text": "Your communication is infused with both imagination and practicality, making it an excellent time for writing or speaking. Small connections within your immediate environment could lead to major insights regarding your future path."
     }
   ],
-  "date": "April 28, 2026"
+  "date": "April 29, 2026"
 }
