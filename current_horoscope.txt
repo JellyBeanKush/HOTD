@@ -1,66 +1,66 @@
 {
-  "summary": "The celestial alignment for April 30, 2026, features a potent Sun-Pluto square that demands structural evolution and personal empowerment. With the Moon in Scorpio and several planets in Aries, the day is marked by an intense drive to transform internal visions into tangible realities.",
+  "summary": "The energy of May 1, 2026, is defined by the historic Saturn-Neptune conjunction in early Aries, blending spiritual vision with the discipline to manifest new beginnings. While the Sun in Taurus provides a grounding influence, Mars in Gemini accelerates the pace of intellectual exchange and social connectivity.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Mercury and Venus in your sign empower your voice and your charm simultaneously. It is a prime moment to pitch radical ideas while the Saturn-Neptune conjunction clarifies your long-term path."
+      "text": "The rare alignment of Saturn and Neptune in your sign grants you the power to turn a long-held dream into a concrete reality. Focus on disciplined self-expression and allow your intuition to guide your leadership style."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "As the Sun highlights your identity, focus on grounding your energy amidst the transformative pressure from Pluto. Your patience is your greatest asset today as you navigate unexpected shifts in your professional status."
+      "text": "With the Sun in your sign, you are the steady anchor in a sea of rapid change. Use this day to harmonize your material needs with the internal psychological shifts occurring behind the scenes."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Mars and Uranus in your sign provide an electrifying boost to your physical energy and mental agility. Break free from stagnant routines by initiating a project that reflects your most eccentric interests."
+      "text": "Mars and Uranus in your sign provide an electric surge of energy that is perfect for launching innovative ideas or breaking old habits. Channel this restlessness into a collaborative project that requires quick thinking and versatility."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Jupiter in your sign continues to bring expansive opportunities for emotional growth and domestic abundance. Use this period of grace to manifest a nurturing environment that supports your highest aspirations."
+      "text": "Jupiter in your sign continues to bring abundance and emotional growth to your private world. The supportive trine from Saturn suggests that your nurturing efforts today will build a lasting legacy for your family."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Public recognition is within reach as the Taurus Sun illuminates your career sector with steady light. Balance your ambition with the Scorpio Moon's demand for privacy and psychological renewal."
+      "text": "Your professional ambitions are fueled by a desire for meaningful impact rather than just status. Look for ways to integrate your creative vision into your career path while navigating the shifting dynamics of your social circle."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your philosophical outlook is shifting as you integrate new spiritual insights into your practical worldview. Focus on details without losing sight of the broader horizons calling your name today."
+      "text": "The focus is on expanding your horizons through travel or higher education as you seek deeper truths. Practical application of new philosophies will help you find stability in an increasingly complex world."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Collaborative finances or shared resources require a careful balance of transparency and strategic planning. Trust the healing energy of Venus in Aries to help you resolve lingering tensions in your closest relationships."
+      "text": "Intimate connections and shared finances require a balance of boundaries and empathy today. Clear communication about your long-term expectations will help solidify a partnership that is currently evolving."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "The Moon in your sign heightens your intuition and personal magnetism to a powerful degree. It is a day for deep emotional processing and reclaiming your power within a significant partnership."
+      "text": "The Moon in your sign intensifies your intuition and allows you to see through the surface of any situation. Use this clarity to strengthen your primary relationships and address any lingering emotional debts."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Prioritize your physical well-being by streamlining your daily habits and focusing on nervous system regulation. You will find that small, consistent changes lead to the freedom you are currently seeking."
+      "text": "Focus on refining your daily habits and work environment to better serve your evolving health needs. Small, disciplined changes made now will result in a significant boost to your overall vitality and focus."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Creative expression becomes a channel for your most profound ambitions under the current Aries-Taurus influence. Do not be afraid to let your guard down and allow raw inspiration to guide your productivity."
+      "text": "Your creative projects and romantic life are infused with a sense of destiny and serious commitment. Don't be afraid to invest your heart into something that feels both spiritually fulfilling and structurally sound."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto in your sign asks you to shed old identities to make room for a more authentic version of yourself. Use the stability of your home life as an anchor while you undergo this deep internal transformation."
+      "text": "Pluto in your sign continues its transformative work on your identity, while home life provides a necessary grounding force. Focus on creating a sanctuary that reflects the person you are becoming rather than who you were."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Communication with siblings or neighbors may spark a brilliant new idea for a local community project. Your imagination is potent now, so record your dreams as they likely contain keys to your future success."
+      "text": "Your words carry extra weight today as you bridge the gap between abstract concepts and practical reality. It is an ideal time for writing, teaching, or negotiating terms for a project that requires a visionary touch."
     }
   ],
-  "date": "April 30, 2026"
+  "date": "May 1, 2026"
 }
