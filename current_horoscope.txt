@@ -1,66 +1,66 @@
 {
-  "summary": "The energy of May 3, 2026, is defined by a powerful tension between the stabilizing Taurus Sun and an intense Scorpio Moon, highlighting the balance between personal security and shared transformations. With Saturn and Neptune conjunct in early Aries, there is a collective push to manifest visionary dreams through disciplined, pioneering action.",
+  "summary": "May 4, 2026, ushers in a day of grounding practicality intertwined with expansive social energy. The strong presence of Taurus planets emphasizes values, stability, and communication, while Gemini placements encourage optimism, connection, and intellectual growth. However, a significant square to Saturn in Pisces reminds us that true expansion requires disciplined effort, realistic boundaries, and a careful balance of enthusiasm with responsibility.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The Saturn-Neptune conjunction in your sign asks you to anchor your spiritual ideals into a concrete reality. Focus on self-discipline to ensure your new personal identity is built on a foundation of truth rather than illusion."
+      "text": "With the North Node in your sign, this day is pivotal for defining your personal direction and embarking on new beginnings. Embrace subtle inspirations, but remain grounded in your assertive drive to manifest your goals."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "As the Sun illuminates your sign, you feel a strong urge to solidify your physical and financial world. Balance your need for autonomy with the deep emotional revelations occurring within your primary partnerships today."
+      "text": "The Sun, Mercury, and Uranus in your sign put you squarely in the spotlight, highlighting your personal identity, values, and potential for unexpected shifts. Communicate your needs clearly and embrace innovative approaches to your resources and self-worth."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "With Venus and Mercury gracing your sign, your intellectual charm is at an all-time high. Use this expressive energy to resolve subconscious fears and bring hidden talents into the light of your social circles."
+      "text": "Your social life and emotional world are highly active and optimistic today, thanks to the Moon, Venus, and Jupiter in your sign. Embrace opportunities for connection and learning, but be mindful of over-committing or promising more than you can realistically deliver."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Jupiter’s transit through your sign continues to bring abundance and a sense of emotional expansion. Today, look to your social networks for opportunities that align with your long-term goals and personal values."
+      "text": "As the Moon shifts into your sign, your emotional landscape and home life become a primary focus, encouraging nurturing and introspection. Earlier, the Gemini energy encourages exploring your subconscious and spiritual connections with an open mind."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Mars in your sign provides you with incredible drive and the courage to pursue your most ambitious career goals. Ensure you are directing this fire toward constructive leadership rather than unnecessary power struggles with authority figures."
+      "text": "The Taurus energy in your career sector brings a desire for stability and practical advancements in your public life. Meanwhile, the expansive Gemini energy encourages connecting with your wider community and exploring future aspirations with enthusiasm."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "You are prompted to explore new philosophical horizons or educational pursuits that challenge your current worldview. Merging your meticulous nature with a sense of adventurous faith will yield the best results for your professional reputation."
+      "text": "With your ruler Mercury in stable Taurus, you're focused on higher education, travel, or expanding your worldview with practical, grounded goals. The Mars-Saturn conjunction in Pisces highlights your partnerships, calling for disciplined and realistic approaches to shared endeavors."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "The focus today shifts toward shared resources and deep psychological insights. It is an ideal time to negotiate financial agreements or to dive deep into transformative self-work that frees you from old burdens."
+      "text": "Your ruler Venus in Gemini brings an expansive and social focus to shared resources and intimate connections, encouraging lively interactions. The South Node in your sign continues to prompt you to release old relationship patterns that no longer serve your individual growth."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "With the Moon in your sign, your intuition is razor-sharp and your emotional presence is felt by everyone you meet. Use this sensitivity to deepen your one-on-one connections while maintaining healthy boundaries with others."
+      "text": "The Taurus energy in your partnership sector brings a desire for stability and practical conversations within your relationships. The strong Mars-Saturn conjunction in Pisces energizes your creative projects and self-expression, demanding discipline and perseverance to bring your visions to life."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "This is a day for refining your daily rituals and focusing on your physical well-being. Integrating structured spiritual practices into your work routine will help you manage the high energy levels currently surrounding your lifestyle."
+      "text": "Your ruler Jupiter in Gemini highlights your partnership sector, bringing opportunities for growth and optimistic interactions with others. However, the square to Saturn advises caution against over-optimism and encourages a focus on your daily routines and well-being with realistic expectations."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your creative projects and romantic life are infused with a sense of serious purpose and inspired vision. Trust your ability to lead others toward a collective goal while expressing your unique, innovative voice."
+      "text": "While Pluto's influence in Aquarius continues to transform your values and resources, the Taurus energy brings focus to your creative self-expression and joy, grounding your pursuits. The Mars-Saturn conjunction in Pisces emphasizes disciplined communication, learning, and local interactions, requiring clear boundaries."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto in your sign continues its slow transformation of your core identity, urging you to find stability in your domestic life. Strengthening your roots at home will provide the necessary foundation for the radical personal changes you are undergoing."
+      "text": "Pluto retrograding in your sign continues to drive deep personal transformation, and the square to the Sun in Taurus challenges your home life and foundational values. The expansive Gemini energy focuses on your romantic life, creativity, and self-expression, bringing optimistic opportunities for enjoyment."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your communication style is both grounded and imaginative today, making it a perfect time for writing or teaching. Reach out to your local community to find practical ways to manifest the altruistic visions you hold dear."
+      "text": "With Mars and Saturn conjunct in your sign, you are feeling a strong pull towards disciplined action and defining your personal boundaries. This energy is perfect for grounding spiritual work or dedicated self-improvement, but requires careful management of your energy and emotional needs."
     }
   ],
-  "date": "May 3, 2026"
+  "date": "May 4, 2026"
 }
