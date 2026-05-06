@@ -1,66 +1,66 @@
 {
-  "summary": "The cosmic landscape on May 5, 2026, features a grounding Taurus Sun balanced by an adventurous Sagittarius Moon, fostering a blend of material focus and philosophical curiosity. With Saturn and Neptune conjunct in Aries, there is a powerful collective drive to give structure to visionary dreams through courageous, pioneering action.",
+  "summary": "The energy of May 6, 2026, is defined by a grounded Taurus Sun harmonizing with Saturn, while a massive Gemini stellium drives social curiosity. It is a day of balancing structural discipline with rapid mental expansion and communicative breakthroughs.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Saturn and Neptune conjunct in your sign, you are tasked with turning your most ethereal visions into a concrete reality through disciplined effort. Focus on your domestic environment as Mars in Cancer encourages you to protect and nurture your private foundations."
+      "text": "Saturn and Neptune in your sign demand a serious look at your personal boundaries and long-term legacy. Use the Gemini stellium to vocalize your vision and connect with close peers for collaborative support."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "The Sun in your sign amplifies your personal magnetism and provides a steady surge of vitality for your primary goals. Mercury's presence here ensures your communication is both practical and persuasive, making it an ideal day for financial negotiations."
+      "text": "With the Sun in your sign, your vitality is high and your focus is on stabilizing your material resources. A favorable sextile to Saturn helps you turn your creative dreams into concrete and manageable plans."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Uranus in your sign continues to spark a radical evolution of your self-identity, urging you to embrace your most eccentric qualities. Take time for solitude and reflection as the Sun moves through your twelfth house, helping you process deep subconscious shifts."
+      "text": "A powerful cluster of planets in your sign supercharges your charisma and drive for new experiences. Expect a whirlwind of social activity and rapid intellectual shifts that keep you highly engaged with the world."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "With both Jupiter and Mars energizing your sign, you possess an incredible capacity for growth and the courage to pursue your heartfelt ambitions. Your intuition is at an all-time high, allowing you to navigate social dynamics with both empathy and tactical precision."
+      "text": "Jupiter in your sign continues to offer expansion, though the Gemini energy pulls you toward introspection and private research. Trust your intuition when dealing with family matters, as the Capricorn Moon highlights your partnership dynamics."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your professional life is highlighted today, demanding a patient and methodical approach to career advancement under the Taurus Sun. Pluto in your opposite sign is transforming your one-on-one connections, forcing you to find power through collaboration rather than solo dominance."
+      "text": "The heavy emphasis on Gemini activates your social sector, making this an ideal time for networking and group collaborations. Focus on innovative ideas shared within your community while staying grounded in your professional responsibilities."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "The Taurus Sun encourages you to expand your intellectual horizons through study or long-distance travel. Use your natural analytical prowess to organize the influx of new information, ensuring your philosophical growth has a practical application."
+      "text": "Career advancement is highlighted as the Gemini stellium puts your professional reputation and public image in the spotlight. Balancing these high-paced demands with the grounding influence of the Taurus Sun ensures long-term success."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Deep internal transformations are favored today as the Sun illuminates your eighth house of shared resources and psychological depth. Venus in Aries adds a spark of passion and directness to your relationships, prompting you to advocate for your own needs more boldly."
+      "text": "Your desire for adventure and higher learning is piqued by the intense activity in your ninth house of expansion. It is a perfect day to plan travel or dive into a new philosophy that challenges your current perspective."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Partnerships are your primary focus as the Sun highlights your seventh house, calling for stability and loyalty in your commitments. The Sagittarius Moon provides an emotional release, encouraging you to look toward the future with a renewed sense of optimism."
+      "text": "Intimacy and shared resources are under scrutiny as several planets move through your transformative eighth house. Use the disciplined Capricorn Moon to handle financial matters and deep emotional conversations with precision."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "The Moon in your sign boosts your spirits and highlights your need for personal freedom and exploration. Focus on grounding this restless energy by attending to your daily health routines and work responsibilities under the Taurus Sun's influence."
+      "text": "The focus remains squarely on your one-on-one relationships, where communication needs to be both swift and honest. While others may seem flighty, your ability to see the bigger picture helps maintain stability in your partnerships."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Creative self-expression and romantic pursuits are favored today, provided you approach them with your signature sense of tradition and persistence. Your inner world is undergoing a significant restructuring, making it vital to find joy in steady, tangible progress."
+      "text": "The Moon in your sign provides the emotional resilience needed to tackle an increasingly busy and demanding daily schedule. Prioritize your health and efficiency as the Gemini energy requires you to multitask across multiple complex projects."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Focus on your home and family life, as the Taurus Sun suggests that building a secure personal base is essential for your current growth. Pluto in your sign continues its long-term work of stripping away outmoded parts of your ego to reveal your true power."
+      "text": "Creative expression and romantic pursuits are highly energized, encouraging you to step out of your comfort zone. Pluto in your sign ensures that any recreational pursuits are backed by a deep sense of personal evolution."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your communication is particularly grounded today, allowing you to express complex emotions with clarity and practical wisdom. With your ruler Jupiter in Cancer, you find profound support and spiritual nourishment through your closest emotional bonds and family connections."
+      "text": "Domestic life and family roots are the primary focus, inviting you to reorganize your home environment for better mental clarity. The interaction between Saturn and the Taurus Sun provides the patience needed for lasting home improvements."
     }
   ],
-  "date": "May 5, 2026"
+  "date": "May 6, 2026"
 }
