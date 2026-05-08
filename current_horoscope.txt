@@ -1,66 +1,66 @@
 {
-  "summary": "Today’s energy is defined by a potent square between the Sun in Taurus and Pluto in Aquarius, demanding a transformation of personal values. With Saturn and Neptune conjunct in early Aries, there is a collective push to manifest long-held dreams through disciplined action.",
+  "summary": "Today's energy features a grounded Taurus Sun harmonizing with an innovative Aquarius Moon, creating a bridge between tradition and the future. The presence of Mars and Uranus in Gemini fuels rapid intellectual exchanges and unexpected breakthroughs in communication.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The conjunction of Saturn and Neptune in your sign asks you to bridge the gap between your highest ideals and reality. Mars in Gemini boosts your communication, making it an excellent time to pitch bold new ideas."
+      "text": "With Mercury and Saturn in your sign, your words carry significant weight and require a disciplined approach. Focus on structuring your long-term ambitions rather than acting on momentary impulses."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "The Sun in your sign squares Pluto, forcing a confrontation with power dynamics in your career or public life. Ground yourself in your physical senses to navigate the intensity of this personal evolution."
+      "text": "The Sun and Venus in your sign enhance your natural charm and attract favorable financial opportunities. It is a perfect day to indulge in sensory pleasures while maintaining your practical boundaries."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "With Mercury, Mars, and Uranus all transiting your sign, your mental agility is at a peak performance level. Channel this high-octane energy into a creative project rather than letting it turn into restless anxiety."
+      "text": "Mars and Uranus are transiting your sign, providing a surge of electric energy and a desire for radical change. Channel this high-octane drive into creative projects to avoid feeling restless or scattered."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Jupiter exalted in your sign continues to bring a sense of grace and expansion to your emotional world. Trust your intuition today, as it is your strongest guide for navigating social complexities."
+      "text": "Jupiter in your sign continues to expand your emotional capacity and personal growth. Use this time to nurture your closest relationships and reflect on your evolving sense of security."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Tensions may arise between your professional ambitions and your long-term community goals. Focus on leading with authenticity rather than trying to control the outcome of a group project."
+      "text": "The Aquarius Moon highlights your partnerships, urging you to seek objective feedback and collaborative solutions. Balance your need for recognition with the collective goals of your professional circle."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Information is moving fast today, and your ability to synthesize data will be your greatest asset. Use the Gemini energy to network and gather the resources you need for your next big adventure."
+      "text": "Your focus shifts toward expanding your horizons and integrating new philosophical insights into your daily routine. Practical adjustments to your workflow now will lead to significant long-term productivity gains."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Venus in Aries challenges you to find a balance between your personal independence and your commitments to others. You are learning that setting firm boundaries is actually an act of love and self-respect."
+      "text": "Deep transformations are occurring in your shared resources and intimate connections today. Use your innate diplomacy to navigate complex emotional terrain and reach a new level of mutual trust."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "The Sun-Pluto square hits your house of relationships, revealing hidden truths that need to be addressed. Transformation is inevitable now, so embrace the process of shedding old patterns to make room for deeper intimacy."
+      "text": "Stability in your primary relationships is highlighted, though the Aquarius Moon may prompt a sudden need for personal space. Honest communication will help bridge the gap between your need for depth and your partner's need for freedom."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your daily routine may feel somewhat chaotic with so much activity in your opposite sign of Gemini. Prioritize your tasks and stay flexible, as unexpected invitations could lead to exciting new partnerships."
+      "text": "Focus on your physical well-being and streamlining your work habits to accommodate your growing list of interests. A structured approach to your health today will provide the stamina needed for upcoming adventures."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "The Moon in your sign provides you with the emotional resilience needed to handle a demanding workload. Focus on long-term stability, but don't be afraid to incorporate a few innovative techniques into your strategy."
+      "text": "Your creative expression is grounded and fruitful, making this an excellent time for artistic or business endeavors. Allow yourself to enjoy a playful moment, as the current transits support lighthearted romantic connections."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto in your sign is being challenged by the Taurus Sun, highlighting a conflict between your inner transformation and domestic stability. Use this friction to redefine what 'home' and 'security' mean to the person you are becoming."
+      "text": "The Moon in your sign places you in the spotlight, heightening your intuition and personal magnetism. Use this influence to ground your innovative ideas into your domestic life and family dynamics."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Jupiter in Cancer supports your creative self-expression, bringing a sense of joy and fertility to your ideas. Balance this flow with the practical requirements of the Aries planets to ensure your visions take physical form."
+      "text": "Your subconscious mind is highly active, bringing vivid dreams and intuitive hits that require careful processing. Focus on clear communication in your local environment to ensure your spiritual insights are understood by others."
     }
   ],
-  "date": "May 7, 2026"
+  "date": "May 8, 2026"
 }
