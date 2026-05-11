@@ -1,66 +1,66 @@
 {
-  "summary": "The alignment on May 10, 2026, is dominated by a rare and fortunate conjunction of Venus and Jupiter in Cancer, fostering deep emotional growth and abundance in domestic matters. While the Taurus Sun provides stability, a square between the Pisces Moon and Gemini planets warns of potential misunderstandings between intuition and logic.",
+  "summary": "May 11, 2026, features a grounded Taurus Sun emphasizing material stability, while the Moon's transition into Aries sparks a shift toward bold action. The presence of Saturn and Neptune in Aries creates a unique atmosphere where spiritual visions are urged to take a structured, disciplined form.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Saturn and Neptune in your sign, you are learning to balance rigorous discipline with spiritual surrender. Use the grounding energy of the Taurus Sun to turn your visionary ideas into tangible financial security."
+      "text": "The Moon enters your sign today, heightening your emotional intuition and desire for self-starting initiatives. With Saturn also in your sign, focus on projects that require both your natural courage and a high degree of long-term responsibility."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Your solar season continues to shine a light on your personal identity and long-term vitality. The harmonious sextile between the Sun and Saturn helps you build a lasting foundation for your most ambitious projects."
+      "text": "The Sun and Mercury in your sign provide you with exceptional clarity regarding your personal values and financial goals. It is an ideal day to communicate your needs clearly, as your words carry more weight and authority than usual."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Mercury and Mars in your sign provide a massive boost to your intellect and drive, though you must stay focused to avoid burnout. Be mindful of the Pisces Moon, which may cast a temporary veil of confusion over your professional communications."
+      "text": "With Mars and Uranus transiting your sign, you are filled with restless, innovative energy that demands an outlet. Use this surge to break free from outdated mental habits and explore unconventional solutions to old problems."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "A spectacular conjunction of Venus and Jupiter in your sign brings immense blessings, magnetism, and personal expansion. This is a premier day for manifesting love and abundance, as your nurturing spirit is your greatest superpower."
+      "text": "Venus and Jupiter in your sign bring a wave of abundance, making you feel particularly nurtured and socially attractive. This is a powerful time for expanding your home life or deepening the bonds with those you consider family."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The focus shifts toward your inner world and spiritual health as planets transit your sector of solitude. Pay close attention to your subconscious cues, as they are revealing a path toward significant professional transformation."
+      "text": "The focus remains on your professional reputation and public standing as the Taurus energy highlights your career sector. Balance your drive for recognition with the emotional insights gained from a morning of quiet introspection."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your social connections and community involvement are thriving under the expansive influence of the Cancer placements. Collaborative efforts started today are likely to receive significant support and lead to long-term group success."
+      "text": "Intellectual expansion and the search for truth are your primary motivators today as the planets align in your house of wisdom. You may find that a specific mentor or educational pursuit offers the practical guidance you have been seeking."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Career prospects look exceptionally bright as Venus and Jupiter light up your house of public reputation. Your natural charm and diplomatic skills will help you secure a major professional victory or a prestigious new role."
+      "text": "Shared resources and intimate connections require a delicate touch and a focus on long-term stability. You are encouraged to look beneath the surface of your interactions to understand the underlying power dynamics at play."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "An urge for adventure and higher learning is amplified by the watery placements in Cancer and Pisces. Trust your gut instincts when exploring new philosophical territories or planning a journey that expands your perspective."
+      "text": "Your primary relationships are in the spotlight, inviting you to find a balance between independence and partnership. Trust in the transformative process currently occurring in your one-on-one connections to lead toward greater authenticity."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Complex financial matters and intimate bonds are highlighted, offering a chance for deep emotional healing. Honest conversations about shared resources will lead to a more stable and supportive partnership dynamic."
+      "text": "Efficiency in your daily work and physical health should be your main priority as you navigate a busy schedule. Small, disciplined changes to your routine today will pave the way for major improvements in your overall vitality."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Benefic planets in your opposite sign make this a golden period for all types of partnerships. Whether in business or romance, your ability to commit and build with others is currently at an all-time high."
+      "text": "A creative or romantic spark brings a sense of joy and vitality to your day, encouraging you to step out of your comfort zone. Apply your signature discipline to a hobby or passion project to turn a dream into something tangible."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto in your sign continues to demand personal evolution, while Gemini transits spark your creative and romantic interests. Focus on refining your daily routines to support the high-frequency energy currently moving through your life."
+      "text": "Inner reflection and domestic matters take precedence as you work to build a secure emotional foundation. Pluto's presence in your sign continues to push for a total rebirth, starting with how you define your sense of home."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "With the Moon in your sign, your psychic sensitivity and artistic talents are exceptionally potent today. Use this emotional depth to fuel your creative projects, but be sure to set boundaries against the mental noise of others."
+      "text": "As the Moon completes its transit of your sign, you may feel a sense of emotional culmination and readiness for action. Your ability to communicate complex, soulful ideas in a grounded way is your greatest asset today."
     }
   ],
-  "date": "May 10, 2026"
+  "date": "May 11, 2026"
 }
