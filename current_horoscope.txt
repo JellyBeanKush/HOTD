@@ -1,66 +1,66 @@
 {
-  "summary": "A potent blend of Taurean stability and Gemini’s intellectual curiosity defines this day as Uranus begins its disruptive yet innovative transit through the sign of communication. The Saturn-Neptune conjunction in Aries demands a disciplined approach to manifestation, merging spiritual idealism with concrete action.",
+  "summary": "Today features a grounding New Moon in Taurus, offering a powerful reset for financial goals and personal values. While Mars and Venus in Cancer heighten emotional sensitivity, the lunar energy provides the stability needed to plant seeds for long-term material security.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Saturn and Neptune in your sign require you to ground your highest visions into a workable daily structure. Mars in Cancer shifts your drive toward the home front, urging you to protect and nurture your emotional foundations."
+      "text": "The New Moon in your second house invites you to set concrete intentions regarding your income and self-worth. Focus on stabilizing your resources while Saturn in your sign demands a disciplined approach to your new identity."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "With the Sun in your sign, your personal vitality is at a peak, though Uranus in Gemini suggests sudden shifts in your financial landscape. Focus on your physical well-being while remaining adaptable to unconventional new income streams."
+      "text": "This is your personal lunar new year, providing a potent opportunity for self-reinvention and physical renewal. Trust in your ability to manifest lasting change as the Sun and Moon align in your sign."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Mercury, Venus, and Uranus are all in your sign, creating an electric atmosphere for radical self-expression and intellectual breakthroughs. You are the center of innovation today, so use your heightened charisma to pitch your most daring ideas."
+      "text": "With Mercury and Uranus in your sign, your mind is racing with innovative ideas, yet the Taurus New Moon calls for quiet retreat. Use this time to process subconscious insights before launching your next big project."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Jupiter and Mars in your sign provide a massive surge of confidence and the physical energy to pursue your most ambitious personal goals. While your public profile rises, remember to use this expansive luck to fortify your domestic security."
+      "text": "Mars and Venus in your sign amplify your charisma, making this an excellent day for nurturing important social connections. The New Moon encourages you to find a supportive community that aligns with your long-term vision."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The Sun in Taurus highlights your career sector, demanding a steady and patient approach to your long-term professional ambitions. Unexpected social invitations or networking opportunities arise through Gemini energy, potentially connecting you with influential eccentrics."
+      "text": "Jupiter in your sign continues to expand your horizons, while today’s New Moon brings a fresh start to your professional life. Focus on building a career legacy that provides both recognition and tangible stability."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your ruler Mercury in Gemini encourages you to expand your reach through high-level communication and digital platforms. Professional growth is accelerated today if you are willing to pivot and embrace new technologies in your workflow."
+      "text": "Your belief systems are undergoing a transformation, urging you to seek wisdom that has practical applications. This is an ideal moment to plan a journey or enroll in a course that broadens your perspective."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Venus in Gemini brings a lighthearted curiosity to your philosophical outlook, making it a perfect time for travel or higher learning. Financial collaborations are undergoing a steady transformation, requiring you to balance shared resources with your own values."
+      "text": "Today’s energy highlights shared resources and deep emotional bonds, asking you to settle debts or rebalance power. A fresh start in how you handle intimacy and joint finances is possible if you remain grounded."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "The Sun in Taurus illuminates your partnership sector, calling for stability and commitment in your closest relationships. Meanwhile, Jupiter in Cancer offers spiritual protection and growth through deep, emotional connections or long-distance ventures."
+      "text": "The New Moon in your opposite sign marks a significant turning point for your closest partnerships. Whether in business or love, focus on building foundations based on mutual trust and material reliability."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Uranus in Gemini is shaking up your interpersonal dynamics, bringing sudden changes to your one-on-one agreements. Focus on organizing your daily routines to manage the influx of new information and busy mental energy."
+      "text": "Focus on the small details of your daily routine and physical health to improve your overall productivity. Implementing a new, sustainable wellness habit today will lead to long-term vitality and success."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "A Taurus Sun brings a sense of grounded joy to your creative projects and romantic life. As your workload increases due to Gemini transits, prioritize efficiency and clever shortcuts to maintain your characteristic productivity."
+      "text": "Your creative spark is grounded in reality today, making it a perfect time to start a project that requires both heart and craft. Romance may also take a more serious or committed turn under this Taurus Moon."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto in your sign continues its long-term transformation of your identity, while Gemini energy sparks a newfound desire for play and experimentation. Secure your home base first so you have a solid platform for your radical personal evolution."
+      "text": "Pluto in your sign continues your deep internal evolution, but today’s focus shifts toward your home and family roots. Establish a sense of sanctuary in your living space to better support your external transformations."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Mars and Jupiter in Cancer ignite your sector of passion, making this an excellent day for romance and artistic expression. Local travel or discussions with neighbors might yield surprising insights thanks to the current Gemini planetary cluster."
+      "text": "The New Moon encourages a fresh approach to how you communicate and interact with your immediate environment. It is a fertile time for writing, learning a new skill, or strengthening bonds with your siblings or neighbors."
     }
   ],
-  "date": "May 15, 2026"
+  "date": "May 16, 2026"
 }
