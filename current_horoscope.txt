@@ -1,66 +1,66 @@
 {
-  "summary": "The cosmic energy is exceptionally vibrant and intellectually charged as a massive stellium in Gemini fuels rapid communication and social expansion. With several planets transiting air signs, the focus shifts toward adaptability, innovative thinking, and the dissemination of new ideas.",
+  "summary": "The cosmic energy of May 20, 2026, is marked by the Sun's transition into inquisitive Gemini, sparking intellectual curiosity and lively communication. Meanwhile, a nurturing Moon-Jupiter alignment in Cancer anchors our hearts, encouraging us to balance mental exploration with deep emotional security.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Saturn and Neptune in your sign require you to ground your visionary ideas into a practical, step-by-step plan. Utilize the heavy Gemini influence to network and gather the specific information needed to advance your long-term goals."
+      "text": "The Moon-Jupiter alignment in Cancer softens your ambitious drive, urging you to focus on home and family dynamics. With Saturn and Neptune in your sign, balancing discipline with your dreams is essential today."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "As the Sun finishes its transit through your sign, your attention turns toward stabilizing your personal resources and values. Look for intellectual ways to diversify your income, as the current planetary alignment favors mental agility in financial matters."
+      "text": "As the Sun finishes its journey through your sign, you feel a strong urge to consolidate your recent personal victories. Use the supportive Cancer Moon to communicate your feelings clearly to those who anchor you."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "With an extraordinary cluster of planets in your sign, you are currently the center of the astrological universe. This is a powerful day for personal rebranding and launching projects that rely on your unique communication skills and curiosity."
+      "text": "The Sun enters your sign today, bringing a powerful surge of vitality, mental clarity, and fresh beginnings. Your intellectual curiosity is highly stimulated, making it the perfect time to launch new personal projects."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Mars in your sign provides you with the physical drive to protect your interests and improve your home environment. While the world feels loud and fast-paced, find strength in your intuition and take necessary moments of private reflection."
+      "text": "With the Moon and Jupiter occupying your sign, your intuitive and emotional faculties are operating at an all-time high. Embrace this nurturing energy to practice self-care and heal any lingering personal vulnerabilities."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your social life is experiencing a major surge, offering you the chance to connect with influential groups or like-minded visionaries. Lean into collaborative efforts today, as your ability to inspire others is heightened by the breezy Gemini energy."
+      "text": "This is a day for quiet contemplation and spiritual retreat as planetary energy highlights your solar twelfth house. Pay close attention to your dreams and subconscious cues, as they hold valuable keys to your emotional healing."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Professional heights are within reach if you can master the art of multi-tasking and quick decision-making today. Your career sector is glowing, making it an ideal time to present new ideas to superiors or pivot your public image."
+      "text": "Collaborative efforts and social connections are highly favored today under the warm influence of the Cancer Moon. Lean on your community for support and share your innovative ideas with trusted allies who value your precision."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "The planetary alignment in fellow air sign Gemini stimulates your desire for travel, education, and philosophical exploration. It is a perfect moment to break out of your routine and seek out experiences that broaden your mental horizons."
+      "text": "Your professional life takes center stage today, offering opportunities for recognition and emotional fulfillment in your career. Balance these public demands by keeping a steady hand on your domestic responsibilities."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "The focus falls on your shared resources and deep psychological transformations, urging you to communicate your hidden needs. Verbalizing your boundaries will help you navigate complex emotional or financial ties with much greater clarity."
+      "text": "A thirst for knowledge and spiritual expansion guides your choices today, encouraging you to step outside your comfort zone. Trust your deep intuition as you explore new philosophical perspectives or plan future travels."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "A heavy emphasis on your opposite sign brings partnerships and one-on-one negotiations to the forefront of your day. Be prepared for fast-moving dialogues that could lead to exciting new contracts or deeper personal commitments."
+      "text": "Deep emotional bonds and shared resources are highlighted today, urging you to have honest conversations about trust. It is an excellent day for transformative inner work and letting go of outdated psychological baggage."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your daily routines and work habits are being revolutionized by the current influx of air sign energy. Embrace new technology or streamlined communication methods to handle the increased volume of tasks on your plate."
+      "text": "Your relationships are bathed in a warm, nurturing light today, making it ideal for resolving conflicts with partners. Focus on mutual support and allow yourself to be vulnerable with those you trust most."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "With Pluto in your sign trining the Gemini stellium, your creative self-expression and romantic life are undergoing a powerful transformation. Don't be afraid to experiment with new hobbies or reveal a more playful side of your personality."
+      "text": "Daily routines and health habits benefit from a gentle, intuitive approach rather than strict discipline today. Finding joy in small, compassionate acts of service will boost both your physical and emotional well-being."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Domestic matters and family dynamics require your mental focus as the planetary energy highlights your private sphere. Use this communicative influence to clear the air at home and implement more flexibility into your living situation."
+      "text": "Creative self-expression and romantic pursuits are highly favored as the water energy aligns beautifully with your sensitive nature. Allow your imagination to run wild and share your artistic talents with the world."
     }
   ],
-  "date": "May 18, 2026"
+  "date": "May 20, 2026"
 }
