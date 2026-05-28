@@ -1,66 +1,66 @@
 {
-  "summary": "Today's energy is highly charged and intellectually stimulating as the Sun in Gemini aligns closely with revolutionary Uranus, sparking brilliant breakthroughs and sudden insights. With the Moon gliding through diplomatic Libra, there is a strong urge to harmonize these innovative ideas within our personal relationships and collaborative projects. It is a potent day for breaking old mental patterns and embracing progressive, forward-thinking conversations.",
+  "summary": "The cosmic energy today is driven by the inquisitive Gemini Sun, encouraging dynamic conversations and intellectual agility. With Pluto retrograding in Aquarius and Saturn anchoring early Aries, there is a potent call to balance lighthearted social connections with profound structural transformations.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The cosmic energy encourages you to channel your bold ideas into local community projects or exciting new studies. Your words carry extra electric power today, so speak your truth while remaining open to unexpected conversations."
+      "text": "With Saturn and Neptune activating your sign, you are feeling a deep pressure to restructure your personal identity and long-term ambitions. Lean into the communicative Gemini Sun today to express these internal shifts to those who support your growth."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Financial breakthroughs are highly possible today as the Gemini transits illuminate your house of values and resources. Stay flexible with your budget, as a sudden flash of genius could reveal a lucrative new stream of income."
+      "text": "As Uranus wraps up its journey through your sign, you are finalizing major breakthroughs regarding your personal values and financial independence. Use today's grounding energy to organize your resources and invest in your long-term security."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "With the Sun and Uranus electrifying your sign, you are standing directly in the spotlight of personal transformation. Embrace your quirky, unique traits today, because your authentic self is your greatest magnetic asset right now."
+      "text": "Happy solar return season as the Sun shines brightly in your first house, boosting your vitality and magnetic charm. It is a perfect day to initiate new projects and share your brilliant ideas with an eager audience."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Your subconscious mind is buzzing with vivid dreams and sudden intuitive hits that deserve your full attention. Take some quiet time to meditate and let your busy mind rest, as profound inner healing is occurring behind the scenes."
+      "text": "The Gemini Sun illuminates your solar twelfth house, urging you to step back from the social hustle and prioritize mental rest. Pay close attention to your dreams and intuitive nudges, as they hold the keys to releasing old emotional baggage."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "An unexpected connection within your social network could suddenly open doors to a major collaborative dream. Say yes to spontaneous group invitations today, because inspiration is flowing through your friendships and community."
+      "text": "With benevolent Jupiter expanding your sign, you are radiating confidence and attracting exciting opportunities for personal recognition. Direct this expansive energy toward collaborative group projects and networking events that align with your grandest visions."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Exciting and unpredictable shifts in your professional sphere could thrust you into an unexpected leadership role today. Trust your sharp intellect to navigate these fast-paced career changes, as your adaptability is your superpower."
+      "text": "Your career and public standing are highlighted today, making it an excellent time to showcase your meticulous skills to higher-ups. Do not let minor communication glitches distract you from your ultimate professional objectives."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "The Moon in your sign enhances your natural charm, while the Gemini transits spark a deep craving for adventure and higher learning. This is the perfect day to plan a spontaneous trip or dive into a mind-expanding new philosophy."
+      "text": "The Gemini Sun inspires a powerful urge to expand your horizons through higher learning, travel, or philosophical exploration. Embrace spontaneous discussions today, as they could spark a profound shift in your global perspective."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Deep psychological insights and sudden financial shifts regarding shared resources require your adaptability today. Embrace the process of letting go of outdated attachments, as this clears space for a powerful personal rebirth."
+      "text": "Today's transits draw your focus inward, prompting deep reflections on shared resources, intimacy, and psychological growth. Trust your sharp intuition to navigate complex financial matters or sensitive interpersonal dynamics successfully."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Electric energy infuses your committed partnerships, bringing sudden breakthroughs or unexpected declarations from loved ones. Keep the lines of communication wide open, as collaborative ventures can reach exciting new heights today."
+      "text": "Your relationships take center stage today as the Sun highlights your partnership sector, encouraging open and honest dialogues. It is a wonderful time to negotiate contracts or deepen commitments with both romantic and professional allies."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "A sudden disruption to your daily routine might actually introduce a much more efficient way of managing your wellness and work. Stay open to adopting new health habits or innovative digital tools to streamline your everyday life."
+      "text": "Focus on refining your daily routines and wellness habits today to optimize your productivity and physical vitality. Small, disciplined adjustments to your schedule will yield significant long-term benefits for your overall well-being."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Creative inspiration strikes like lightning today, urging you to express your artistic side without any self-censorship. Romantic encounters could also take an unexpected, thrilling turn that beautifully disrupts your usual expectations."
+      "text": "Pluto retrograding in your sign continues to quietly revolutionize your sense of self and personal power. Channel this intense evolutionary energy into creative self-expression, romance, or playful hobbies that bring you genuine joy."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Changes or sudden realizations regarding your home life and family dynamics may require you to pivot quickly today. Creating a flexible, intellectually stimulating sanctuary at home will help you process these rapid emotional shifts."
+      "text": "Home and family matters require your attention today, offering a comforting sanctuary from the busy outside world. Focus on nurturing your domestic space and connecting with your roots to find emotional stability."
     }
   ],
-  "date": "May 27, 2026"
+  "date": "May 28, 2026"
 }
