@@ -1,66 +1,66 @@
 {
-  "summary": "The planetary alignments on May 30, 2026, feature an intellectually charged Gemini Sun squaring Saturn in Aries, demanding disciplined execution of our boldest concepts. With the Moon transitioning into adventurous Sagittarius, there is a powerful collective drive to seek truth, synthesize complex ideas, and break free from outdated mental frameworks.",
+  "summary": "Today features a powerful Lunar Eclipse in Sagittarius, marking a profound turning point in our global perspectives, belief systems, and search for truth. This cosmic event encourages us to release dogmatic thinking and align our daily conversations with a grander, more philosophical vision.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Saturn and Neptune in your sign, you feel a profound calling to ground your most ambitious visions into tangible reality today. Use the communicative Gemini Sun to voice your ideas, but ensure your plans are structurally sound before taking action."
+      "text": "The Sagittarius Lunar Eclipse lights up your ninth house of exploration, prompting a major shift in your core belief systems. It is time to release outdated philosophies and boldly step into a more expansive life adventure."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Financial restructuring is highly favored today as the Gemini Sun shines a light on your personal resources and values. Focus on long-term security by organizing your budget and cutting out any unnecessary, impulsive expenditures."
+      "text": "This eclipse activates your eighth house of shared resources, bringing a critical financial or emotional cycle to a close. Embrace this opportunity to untangle yourself from energetic debts and reclaim your personal power."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "It is your solar season, boosting your physical vitality and sharpening your brilliant communicative talents. However, a tense square from Saturn advises you to pace yourself and avoid taking on more commitments than you can realistically handle."
+      "text": "With the Lunar Eclipse falling in your opposite sign of Sagittarius, a key partnership dynamic reaches a major turning point. Let go of the need to always be right so you can foster deeper, more authentic connections."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Deep subconscious insights emerge today, encouraging you to release old emotional patterns that have run their course. Solitude and quiet reflection will provide the mental clarity you need to navigate challenging professional decisions."
+      "text": "The eclipse illuminates your sixth house of wellness, highlighting the need to abandon habits that no longer serve your physical health. Prioritize self-care and streamline your daily schedule to create space for genuine productivity."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Collaborative projects and exciting networking opportunities are highlighted, but you must establish clear boundaries with peers. Ensure that your personal goals genuinely align with the group's vision before committing your creative energy."
+      "text": "Creative projects or romantic dynamics reach a dramatic culmination today as the Sagittarius eclipse sparks your expressive fifth house. Trust your heart's desires and allow yourself to release any fears of vulnerability."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your professional life takes center stage today, demanding both intellectual adaptability and strict adherence to rules. Balancing these career ambitions with your domestic responsibilities will require patience and strategic time management."
+      "text": "Focus turns to your fourth house of home and family, where the Lunar Eclipse brings underlying domestic issues to light. This is a powerful moment for healing ancestral patterns and redefining what security means to you."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "A strong desire to expand your horizons through travel or higher study may conflict with your immediate daily obligations. Prioritize your mental well-being by finding a healthy compromise between practical duties and your thirst for adventure."
+      "text": "Your third house of communication is highly activated by today's eclipse, bringing a sudden breakthrough in how you express your ideas. Outdated ways of thinking must be cleared out to make room for more honest dialogue."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Intimate relationships and shared financial matters require honest, vulnerable conversations under today's penetrating planetary sky. Let go of the need to control outcomes and trust the natural process of emotional transformation."
+      "text": "Financial matters and personal values take center stage as the eclipse illuminates your second house of security. It is time to release scarcity mindsets and recognize your true worth, paving the way for abundance."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your close partnerships act as a mirror today, highlighting where you must balance personal freedom with mutual commitment. Clear, compassionate communication is your best tool for bridging any gaps created by Saturn's sober influence."
+      "text": "Hosting today's powerful Lunar Eclipse, you are standing at a major threshold of personal reinvention and self-discovery. Shed the old versions of yourself that you have outgrown and step confidently into your authentic truth."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Focus on your physical health and daily routines, as streamlining your habits will greatly boost your productivity today. Avoid overworking to meet perfectionist standards, and make sure to schedule time for restorative self-care."
+      "text": "The eclipse falls in your spiritual twelfth house, urging you to surrender control and release subconscious burdens. Pay close attention to your dreams and intuition, as they hold the keys to deep psychological healing."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Your creative juices are flowing, but you may encounter temporary self-doubt regarding your unique self-expression. Push through this hesitation by focusing on the technical mastery of your craft rather than seeking external validation."
+      "text": "Social networks and long-term hopes are highlighted today as the Sagittarius eclipse activates your eleventh house. You may find yourself parting ways with certain groups to align with communities that truly share your vision."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Home and family matters require your direct attention, prompting you to build a more stable and secure domestic foundation. Address any lingering emotional tensions with maturity and a genuine willingness to compromise."
+      "text": "This powerful eclipse illuminates your tenth house of career, marking a significant milestone or transition in your professional life. Release any ambitions driven solely by ego and align your path with your higher purpose."
     }
   ],
-  "date": "May 30, 2026"
+  "date": "May 31, 2026"
 }
