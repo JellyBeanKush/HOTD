@@ -1,66 +1,66 @@
 {
-  "summary": "June 1, 2026, brings a dynamic interplay of mental curiosity and grounded practicality, with the Sun in adaptable Gemini encouraging communication and learning. A significant emphasis on re-evaluating personal values and resources emerges from the concentration of planets in Taurus, urging practical adjustments amidst desires for harmony. The day also highlights the balance between personal assertiveness and diplomatic relationships, fostering passionate self-expression and spiritual introspection.",
+  "summary": "Today's transits blend the intellectual curiosity of the Gemini Sun and Mercury with the stabilizing, ambitious influence of a Capricorn Moon. It is an ideal day to translate your most innovative ideas into structured, highly actionable plans while remaining open to spontaneous connections.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Your natural assertiveness is balanced by a strong call for diplomacy and partnership, especially in your interactions. Creative projects and bold self-expression receive a powerful boost, encouraging you to pursue your passions with enthusiasm."
+      "text": "Mars in Leo boosts your creative confidence, urging you to boldly showcase your unique talents. Balance this fiery enthusiasm with patience as Saturn encourages you to build lasting foundations."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "This day brings significant focus to your personal values, finances, and sense of security, potentially ushering in unexpected shifts or breakthroughs. You're encouraged to embrace new approaches to stability and re-evaluate your relationship with material resources."
+      "text": "Venus in your sign enhances your personal magnetism, making this a wonderful day for self-care and romance. The grounding Capricorn Moon supports you in making practical, highly beneficial financial decisions."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "The spotlight is firmly on you, enhancing your communication skills and intellectual curiosity. It's an opportune time for sharing ideas, networking, and exploring new avenues of learning with open-mindedness."
+      "text": "With both the Sun and Mercury illuminating your sign, your mental acuity and communication skills are exceptionally sharp. Use this vibrant energy to network, but stay anchored by focusing on one major task at a time."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Your emotional well-being and close relationships are prioritized, bringing a desire for nurturing connections and comfort. You may feel more inclined to create a harmonious home environment or express deep affection to loved ones."
+      "text": "Jupiter in your sign continues to offer profound opportunities for personal growth and emotional expansion. Take a quiet moment to retreat today, allowing your deep intuition to guide your next steps."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your drive for creative expression and self-assertion is particularly strong today, fueling your passions and leadership qualities. Channel this vibrant energy into projects that allow you to shine and inspire others with your unique talents."
+      "text": "Mars in your sign fills you with dynamic energy, making it easy to take the lead on important projects. Just be mindful of your delivery in group settings to ensure collaborative harmony."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Practical matters and routine adjustments come into focus, encouraging you to organize your resources effectively and efficiently. There's a subtle push to integrate more spiritual or compassionate elements into your daily structure and work life."
+      "text": "The supportive Capricorn Moon harmonizes with your earth energy, helping you organize your professional ambitions with absolute precision. Trust your analytical insights today, but remain open to unexpected workplace conversations."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Emotional balance and the dynamics of your key relationships are highlighted, prompting you to seek harmony and fairness. Pay attention to how you balance your own needs with those of others, learning to assert yourself when necessary."
+      "text": "Your desire for mental expansion is highly activated, making it a perfect day to explore new philosophies or skills. Seek out connections with people who challenge your perspectives and broaden your horizons."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Deep transformations around community and future visions continue, urging you to re-evaluate your role in collective endeavors. Your passions are ignited, encouraging a courageous approach to personal expression and creative pursuits."
+      "text": "Deep, transformative insights are available to you today as you navigate complex emotional matters or shared resources. Use this focused, probing energy to release outdated habits and declutter your mind."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Interactions and partnerships are prominent, inviting you to engage in stimulating conversations and broaden your perspectives. Practical opportunities for growth in your financial or value systems are also present, encouraging a stable approach."
+      "text": "Your relationships take center stage today, encouraging warm and intellectually stimulating dialogues with partners. Balance your natural optimism with the realistic boundaries requested by the pragmatic Capricorn Moon."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Responsibilities related to your long-term goals and spiritual development are highlighted, asking you to dissolve rigid structures where needed. There's an invitation to bring more compassion and intuition into your disciplined approach to life."
+      "text": "The Moon in your sign amplifies your emotional resilience and focuses your attention on self-improvement. It is an excellent day to establish structured routines that support your long-term wellness goals."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "This day continues to emphasize deep personal and societal transformation, urging you to redefine your power within groups and your vision for the future. You're re-evaluating what true collective progress looks like and how you contribute to it."
+      "text": "Creative inspiration flows effortlessly today, urging you to express your individuality through innovative projects. Keep an eye on domestic matters, as subtle shifts at home may require your grounded presence."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your spiritual path and personal boundaries are a key focus, encouraging you to bring structure to your compassionate nature. This is a powerful time for self-reflection and integrating your dreams with practical reality and daily routines."
+      "text": "Your focus shifts toward the domestic sphere, making this an ideal time to beautify your living space. Nurture your inner world today, trusting that quiet moments of reflection will bring immense clarity."
     }
   ],
-  "date": "June 1, 2026"
+  "date": "June 2, 2026"
 }
