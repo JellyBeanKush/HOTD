@@ -1,66 +1,66 @@
 {
-  "summary": "June 4, 2026, is defined by an intellectually charged Gemini stellium alongside the Moon in Aquarius, fostering a highly communicative, innovative, and social atmosphere. With Mars in Leo adding a dramatic spark of creative confidence, it is an ideal day for networking, sharing breakthrough ideas, and embracing rapid cognitive shifts.",
+  "summary": "The day is heavily influenced by a powerful Cancer stellium, emphasizing deep emotional connections, family matters, and nurturing instincts. While there's a strong drive for personal action and initiative thanks to Mars in Aries, the collective mood leans towards introspection, security, and significant shifts in personal values and societal structures.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Mars in Leo boosts your creative confidence today, giving you the perfect drive to showcase your unique talents. Meanwhile, navigating the intense mental buzz of the Gemini stellium requires you to ground your thoughts before speaking."
+      "text": "With Mars, Neptune, and the North Node in your sign, this day ignites a powerful drive for self-discovery and courageous new beginnings. Embrace your pioneering spirit and assert your independence, trusting your intuition to guide bold action."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "The heavy Gemini alignment activates your financial sector, prompting you to explore diverse streams of income or intellectual assets. Take time to organize your resources, as sudden ideas could lead to lucrative communication-based projects."
+      "text": "Uranus in your sign continues to shake up your personal values and financial stability, urging you to embrace unexpected changes. Be open to new ways of earning and defining your self-worth, even if it feels a bit unsettling."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "With the Sun, Venus, Mercury, and Uranus all charging your sign, your personal magnetism and brilliance are operating at an all-time high. Embrace the sudden breakthroughs occurring today, but mind your nervous system to prevent mental burnout."
+      "text": "The Sun in your sign highlights your intellectual curiosity and desire for connection, making communication key to your day. You'll find clarity and versatility as you navigate various ideas and social interactions."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "The busy air energy invites you to retreat and process your thoughts behind closed doors, making it a perfect day for journaling or meditation. Jupiter remaining in your sign provides a protective, optimistic buffer against any external chaos."
+      "text": "A powerful stellium of Mercury, Venus, and Jupiter in your sign amplifies your emotional depth, intuition, and nurturing qualities. This is an excellent time for focusing on family, home, and expanding your sense of security and well-being."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Mars in your sign fuels your physical vitality, pushing you to take bold, decisive action toward your personal ambitions. Collaborative projects and friendships are highly favored today as the Gemini stellium enlivens your social sector."
+      "text": "The Moon in your sign encourages vibrant self-expression and a desire to shine, bringing your creative and leadership instincts to the forefront. Allow yourself to be seen and appreciated for your unique warmth and generosity."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Career opportunities demand rapid adaptability today as a swarm of planets illuminates your house of professional ambitions. Your ability to multi-task and communicate effectively under pressure will highly impress those in authority."
+      "text": "This day invites a focus on your inner world and subconscious patterns, prompting you to reflect on your daily routines and service to others. Practical matters might merge with intuitive insights, guiding you towards more compassionate self-care."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "The airy Gemini energy harmonizes beautifully with your chart, sparking a profound desire for adventure, travel, or higher learning. Share your philosophy with others today, as your words carry a unique power to inspire and uplift."
+      "text": "Your relationships and shared resources are a strong focus, encouraging deep emotional exchanges and potential for transformative connections. Be prepared to navigate intense feelings and find balance in collaborative efforts."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Complex financial negotiations or deep psychological insights come to the forefront under today's intense Gemini transits. While Mars in Leo challenges you to stand out professionally, focus on balancing your public ambitions with private transformations."
+      "text": "This day highlights your partnerships and commitments, urging you to delve into the emotional depths of your most significant bonds. Explore opportunities for growth and expansion through intimate connections and mutual understanding."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Relationships take center stage today as the Gemini stellium sparks lively dialogues and unexpected proposals from close partners. Keep your interactions flexible and open-minded, as collaborative brainstorming will yield incredible results."
+      "text": "Your daily routines, health, and work environment are illuminated, encouraging you to bring optimism and a fresh perspective to practical matters. Look for ways to expand your knowledge and skills in your everyday life."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your daily work routine and wellness habits require a high degree of flexibility today due to busy, fast-paced planetary transits. Streamline your tasks by utilizing new digital tools, but remember to schedule brief moments of mental rest."
+      "text": "Creative self-expression, romance, and joyful pursuits are emphasized, urging you to connect with your inner child and explore new passions. Allow yourself to embrace spontaneity and find pleasure in lighthearted activities."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "The Moon in your sign aligns beautifully with the Gemini stellium, supercharging your creative expression and romantic life. Allow your innovative spirit to run free today, as others are highly receptive to your eccentric and futuristic ideas."
+      "text": "With Pluto retrograde in your sign, this day brings a subtle yet profound internal shift concerning your personal power and future vision. Reflect on your role within communities and how you wish to contribute to collective transformation."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your domestic sphere is bustling with activity today, making it a great time for redecorating, hosting, or having vital family discussions. Lean into your intuition to navigate the fast-paced chatter, ensuring you find a quiet corner to recharge."
+      "text": "Saturn in your sign continues its work of bringing structure to your spiritual path and dissolving old illusions. Pay attention to intuitive messages and ground your compassionate impulses with practical boundaries."
     }
   ],
-  "date": "June 4, 2026"
+  "date": "June 5, 2026"
 }
