@@ -1,66 +1,66 @@
 {
-  "summary": "The cosmos on June 6, 2026, is dominated by a highly intellectual and communicative Gemini energy, amplified by Uranus and the Sun aligning in this air sign. Concurrently, the Moon in Aquarius fosters a desire for collective progress, while Venus and Mars in Leo add a passionate, creative spark to our personal interactions. This creates a vibrant day for innovative ideas, social connections, and bold self-expression.",
+  "summary": "On June 7, 2026, the cosmic landscape is charged with an intellectual and highly communicative Gemini Sun, prompting us to seek novel connections and information. As the Moon shifts into intuitive Pisces, a wave of emotional sensitivity softens the analytical atmosphere, urging a balance between logical thought and spiritual reflection.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Saturn and Neptune in your sign demand a balance between realistic boundaries and spiritual growth. Use the fiery Leo energy of Venus and Mars to fuel your creative passions and social life today."
+      "text": "Saturn and Neptune in your sign prompt a serious re-evaluation of your personal identity and long-term dreams. Take advantage of the Gemini Sun's curious energy to articulate these inner shifts to those you trust."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "The heavy Gemini emphasis highlights your financial sector, prompting innovative ways to boost your income. Keep an eye on your home life as Venus and Mars spark dynamic activity in your domestic sphere."
+      "text": "Financial planning gets a boost of innovative thinking today as you look for unconventional ways to secure your future. As the Moon enters Pisces, seek comfort in your social circles and share your long-term visions with supportive friends."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "With the Sun, Mercury, and Uranus in your sign, you are bursting with brilliant, unconventional ideas and magnetic charisma. Embrace this powerful intellectual peak to initiate new personal projects and express your authentic self."
+      "text": "With the Sun shining brightly in your sign, your natural curiosity and magnetism are operating at an all-time high. Use this vibrant energy to kickstart personal projects, but remember to ground your thoughts when the Pisces Moon stirs your emotional depth."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "The vibrant Gemini transits encourage deep introspection, making this an ideal day for spiritual practices and journal writing. Trust your intuition as the Moon in Aquarius guides you to uncover hidden emotional truths."
+      "text": "Deep subconscious processing is highlighted today, making it an excellent time for meditation, journaling, and restful solitude. Let your intuitive instincts guide your decisions as the Moon transitions into fellow water sign Pisces."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Venus and Mars both lighting up your sign bring an irresistible wave of confidence, charm, and romantic allure your way. Meanwhile, Gemini transits emphasize your social circle, making it a perfect night to connect with inspiring friends."
+      "text": "Venus entering your sign brings a dramatic boost to your personal charm, making it a stellar time for romance and creative self-expression. Connect with your community today, as collaborative ideas have the potential to spark something truly brilliant."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "The stellar line-up in Gemini activates your career sector, bringing sudden opportunities or breakthrough ideas regarding your professional path. Ensure you balance this public momentum by tending to your health and daily routines."
+      "text": "Your career and public standing are illuminated by the Gemini Sun, opening doors for clever presentations or important professional conversations. Balance this busy mental energy by retreating into a quiet, creative space as the day draws to a close."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "The supportive air-sign energy of Gemini and the Aquarius Moon expands your horizons, inviting you to explore new philosophies or travel plans. Your creative pursuits benefit from this intellectual stimulation, helping you express your aesthetic vision with ease."
+      "text": "A strong desire to expand your horizons, whether through study or travel, dominates your mind under today's supportive transits. Sharing these philosophical breakthroughs with others will strengthen your bonds and bring deep intellectual satisfaction."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Intense focus on your shared resources and psychological insights helps you release old patterns under today's Gemini influence. The Leo transits illuminate your professional life, driving you to pursue your career goals with passion."
+      "text": "Complex financial matters or shared resources require your sharp analytical focus today, so don't shy away from hard numbers. As the Pisces Moon activates your house of creativity, allow yourself to unwind through artistic expression or romantic pursuits."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Relationships take center stage today as the Gemini planetary alignment highlights your commitment sector. Be open to exciting, unconventional conversations with partners that can revolutionize your dynamic."
+      "text": "Your relationships take center stage today, offering beautiful opportunities for lively debates and heartfelt, intellectually stimulating conversations. Embrace the emotional depth that emerges later in the day, helping you connect with partners on a more soulful level."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your daily routines and wellness habits receive a boost of innovative energy from the Gemini transits. Meanwhile, the Aquarius Moon highlights your finances, encouraging smart, forward-thinking adjustments to your budget."
+      "text": "Focusing on your daily routines and physical well-being brings a sense of order and productivity to your morning. When the Moon shifts into Pisces, shift your focus from practical tasks to creative communication and intuitive writing."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "The Moon in your sign aligns beautifully with the Gemini planets, boosting your self-expression and creative genius. Love and romance are also highly dynamic today, fueled by the expressive Leo transits in your partnership sector."
+      "text": "Creative inspiration flows effortlessly today, making it the perfect time to showcase your unique talents or dive into a passion project. Keep your heart open to unexpected romantic encounters or playful interactions that disrupt your usual routine."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Domestic matters and family dynamics are highly active today, urging you to bring fresh, communicative energy into your home. Lean into your daily rituals to ground yourself amidst these fast-moving intellectual currents."
+      "text": "Your attention is drawn to home and family matters, prompting comforting conversations and a desire to beautify your living space. As the Moon enters your sign, your intuitive and empathetic qualities are magnified, allowing you to manifest your deepest desires."
     }
   ],
-  "date": "June 6, 2026"
+  "date": "June 7, 2026"
 }
