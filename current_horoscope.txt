@@ -1,66 +1,66 @@
 {
-  "summary": "On June 7, 2026, the cosmic landscape is charged with an intellectual and highly communicative Gemini Sun, prompting us to seek novel connections and information. As the Moon shifts into intuitive Pisces, a wave of emotional sensitivity softens the analytical atmosphere, urging a balance between logical thought and spiritual reflection.",
+  "summary": "June 8, 2026 is buzzing with dynamic Gemini energy, as the Sun, Mercury, and Jupiter illuminate communication, learning, and adaptability, encouraging mental expansion and curiosity. Beneath this intellectual zest, potent planetary squares involving Mars and Uranus in Taurus to Pluto in Aquarius suggest a period of significant shifts regarding material resources and collective values. Venus in Cancer softens the edges, promoting emotional connection and nurturing within your personal sphere.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Saturn and Neptune in your sign prompt a serious re-evaluation of your personal identity and long-term dreams. Take advantage of the Gemini Sun's curious energy to articulate these inner shifts to those you trust."
+      "text": "Your focus on communication and local connections is amplified, making it an excellent day for networking and short trips. Be mindful of sudden shifts concerning your finances or personal values, as unexpected insights could prompt a reevaluation."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Financial planning gets a boost of innovative thinking today as you look for unconventional ways to secure your future. As the Moon enters Pisces, seek comfort in your social circles and share your long-term visions with supportive friends."
+      "text": "This day brings a powerful emphasis on your personal identity and how you assert yourself in the world, potentially leading to sudden, transformative shifts in your path. Your financial sector is also highlighted, encouraging new ways to think about your resources and worth."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "With the Sun shining brightly in your sign, your natural curiosity and magnetism are operating at an all-time high. Use this vibrant energy to kickstart personal projects, but remember to ground your thoughts when the Pisces Moon stirs your emotional depth."
+      "text": "With the Sun, Mercury, and Jupiter in your sign, your energy and intellect are at their peak, making you a magnet for new ideas and opportunities. This expansive period also encourages you to delve into your subconscious and release any hidden blockages that may be impeding your growth."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Deep subconscious processing is highlighted today, making it an excellent time for meditation, journaling, and restful solitude. Let your intuitive instincts guide your decisions as the Moon transitions into fellow water sign Pisces."
+      "text": "Your emotional world is in the spotlight, fostering deep introspection and a desire for nurturing connections. You might find yourself drawn to spiritual practices or quiet reflection, while group dynamics or friendships could undergo unexpected transformations."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Venus entering your sign brings a dramatic boost to your personal charm, making it a stellar time for romance and creative self-expression. Connect with your community today, as collaborative ideas have the potential to spark something truly brilliant."
+      "text": "Social connections and group activities are vibrant, offering opportunities for intellectual stimulation and shared visions. Be prepared for sudden changes or disruptions in your professional life or public image, which could prompt a reevaluation of your career path."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your career and public standing are illuminated by the Gemini Sun, opening doors for clever presentations or important professional conversations. Balance this busy mental energy by retreating into a quiet, creative space as the day draws to a close."
+      "text": "Your career and public standing receive a significant boost, making this an ideal time to communicate your professional goals and aspirations. Be open to unexpected shifts in your beliefs or travel plans, as these could lead to profound personal growth."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "A strong desire to expand your horizons, whether through study or travel, dominates your mind under today's supportive transits. Sharing these philosophical breakthroughs with others will strengthen your bonds and bring deep intellectual satisfaction."
+      "text": "Higher learning, travel, and philosophical pursuits are strongly favored, inspiring you to broaden your horizons and explore new perspectives. Shared resources or intimate relationships may experience sudden shake-ups, urging you to confront hidden power dynamics."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Complex financial matters or shared resources require your sharp analytical focus today, so don't shy away from hard numbers. As the Pisces Moon activates your house of creativity, allow yourself to unwind through artistic expression or romantic pursuits."
+      "text": "This day deepens your focus on shared resources, intimacy, and profound transformation, inviting you to explore the hidden layers of your connections. Your one-on-one relationships could face unexpected challenges or awakenings, prompting a need for greater authenticity."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your relationships take center stage today, offering beautiful opportunities for lively debates and heartfelt, intellectually stimulating conversations. Embrace the emotional depth that emerges later in the day, helping you connect with partners on a more soulful level."
+      "text": "Relationships are a central theme, with opportunities for expansive conversations and deeper understanding with partners. Your daily routines and work environment might experience sudden shifts, encouraging you to adapt and find innovative solutions to challenges."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Focusing on your daily routines and physical well-being brings a sense of order and productivity to your morning. When the Moon shifts into Pisces, shift your focus from practical tasks to creative communication and intuitive writing."
+      "text": "Your daily work and health routines are highlighted, urging you to optimize your efficiency and well-being through innovative methods. Creative projects or romantic pursuits might undergo unexpected changes, prompting a need for flexibility and a fresh approach."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Creative inspiration flows effortlessly today, making it the perfect time to showcase your unique talents or dive into a passion project. Keep your heart open to unexpected romantic encounters or playful interactions that disrupt your usual routine."
+      "text": "This is a dynamic time for creative expression, romance, and joyful self-discovery, inviting you to explore new hobbies or passions. Be prepared for unexpected shifts in your home life or family dynamics, as deep transformation unfolds in your foundational structures."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your attention is drawn to home and family matters, prompting comforting conversations and a desire to beautify your living space. As the Moon enters your sign, your intuitive and empathetic qualities are magnified, allowing you to manifest your deepest desires."
+      "text": "Your home and family life are a focal point, encouraging open communication and deeper connections within your domestic sphere. Communication and local travel may present unexpected turns, challenging you to adapt your perspective and embrace new ideas."
     }
   ],
-  "date": "June 7, 2026"
+  "date": "June 8, 2026"
 }
