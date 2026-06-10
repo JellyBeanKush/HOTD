@@ -1,66 +1,66 @@
 {
-  "summary": "June 8, 2026 is buzzing with dynamic Gemini energy, as the Sun, Mercury, and Jupiter illuminate communication, learning, and adaptability, encouraging mental expansion and curiosity. Beneath this intellectual zest, potent planetary squares involving Mars and Uranus in Taurus to Pluto in Aquarius suggest a period of significant shifts regarding material resources and collective values. Venus in Cancer softens the edges, promoting emotional connection and nurturing within your personal sphere.",
+  "summary": "The day's astrology highlights expansive communication and intellectual growth with the Sun and Jupiter conjunct in Gemini, fostering optimism and opportunity. However, a challenging square from Mars in Leo to Uranus in Taurus introduces a dynamic tension, bringing sudden urges for freedom and potential disruption. This vibrant energy is tempered by a discerning square to Saturn in Pisces, suggesting that grand ideas may require grounded discipline and practical spiritual wisdom to manifest.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Your focus on communication and local connections is amplified, making it an excellent day for networking and short trips. Be mindful of sudden shifts concerning your finances or personal values, as unexpected insights could prompt a reevaluation."
+      "text": "Your inherent drive is powerful, but be mindful of sudden impulses or clashes with authority figures challenging your path. Neptune's retrograde motion in your sign encourages deep introspection about your identity and future direction."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "This day brings a powerful emphasis on your personal identity and how you assert yourself in the world, potentially leading to sudden, transformative shifts in your path. Your financial sector is also highlighted, encouraging new ways to think about your resources and worth."
+      "text": "Unexpected changes to your values or financial security may arise, prompting you to assert your independence and adapt. Ground yourself by focusing on what truly brings you comfort and stability amidst the shifts."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "With the Sun, Mercury, and Jupiter in your sign, your energy and intellect are at their peak, making you a magnet for new ideas and opportunities. This expansive period also encourages you to delve into your subconscious and release any hidden blockages that may be impeding your growth."
+      "text": "This is a profoundly expansive day for you, with the Sun and Jupiter in your sign amplifying your intellect, communication, and overall optimism. Embrace opportunities for learning, sharing ideas, and connecting with a wider network."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Your emotional world is in the spotlight, fostering deep introspection and a desire for nurturing connections. You might find yourself drawn to spiritual practices or quiet reflection, while group dynamics or friendships could undergo unexpected transformations."
+      "text": "Your emotional world is vibrant, as Mercury and Venus in your sign deepen your capacity for empathy and nurturing communication. Focus on building secure connections and creating a comforting atmosphere at home."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Social connections and group activities are vibrant, offering opportunities for intellectual stimulation and shared visions. Be prepared for sudden changes or disruptions in your professional life or public image, which could prompt a reevaluation of your career path."
+      "text": "Your passion and desire for self-expression are strongly activated, urging you to confidently pursue your desires. Be cautious of impulsive actions or power struggles that could disrupt your plans."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your career and public standing receive a significant boost, making this an ideal time to communicate your professional goals and aspirations. Be open to unexpected shifts in your beliefs or travel plans, as these could lead to profound personal growth."
+      "text": "The day begins with a practical and analytical focus, allowing you to effectively organize your thoughts and duties. Later, your attention shifts towards balancing relationships and seeking harmony in your environment."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Higher learning, travel, and philosophical pursuits are strongly favored, inspiring you to broaden your horizons and explore new perspectives. Shared resources or intimate relationships may experience sudden shake-ups, urging you to confront hidden power dynamics."
+      "text": "As the Moon enters your sign, your natural inclination for balance, beauty, and harmonious relationships takes center stage. Prioritize fairness and diplomacy in your interactions, nurturing connections that bring peace."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "This day deepens your focus on shared resources, intimacy, and profound transformation, inviting you to explore the hidden layers of your connections. Your one-on-one relationships could face unexpected challenges or awakenings, prompting a need for greater authenticity."
+      "text": "You are called to explore the depths of your relationships and shared resources, seeking profound transformation and understanding. Trust your intuition to navigate complex emotional landscapes and uncover hidden truths."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Relationships are a central theme, with opportunities for expansive conversations and deeper understanding with partners. Your daily routines and work environment might experience sudden shifts, encouraging you to adapt and find innovative solutions to challenges."
+      "text": "With your ruler Jupiter forming a powerful conjunction, your intellect is stimulated, and opportunities for learning and travel abound. Engage in lively discussions and freely share your expansive wisdom."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your daily work and health routines are highlighted, urging you to optimize your efficiency and well-being through innovative methods. Creative projects or romantic pursuits might undergo unexpected changes, prompting a need for flexibility and a fresh approach."
+      "text": "Saturn in Pisces offers a stabilizing influence, bringing maturity and depth to your emotional interactions and spiritual practices. Ground your compassionate insights with practical, long-term actions."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "This is a dynamic time for creative expression, romance, and joyful self-discovery, inviting you to explore new hobbies or passions. Be prepared for unexpected shifts in your home life or family dynamics, as deep transformation unfolds in your foundational structures."
+      "text": "Pluto continues to transform your identity and your role within collective groups, challenging you to redefine your purpose. Embrace innovative ideas and contribute to changes that benefit the broader community."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your home and family life are a focal point, encouraging open communication and deeper connections within your domestic sphere. Communication and local travel may present unexpected turns, challenging you to adapt your perspective and embrace new ideas."
+      "text": "Your sensitivity and intuition are heightened, but Saturn in your sign asks you to bring structure to your spiritual journey. Cultivate healthy boundaries while maintaining your compassionate nature."
     }
   ],
-  "date": "June 8, 2026"
+  "date": "June 10, 2026"
 }
