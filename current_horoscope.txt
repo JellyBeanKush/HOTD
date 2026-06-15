@@ -1,66 +1,66 @@
 {
-  "summary": "The celestial landscape of June 14, 2026, is defined by the visionary alignment of Saturn and Neptune in pioneering Aries, clashing creatively with the curious Gemini Sun. This potent energy demands that we ground our most abstract, idealistic dreams into concrete, courageous actions while staying intellectually flexible.",
+  "summary": "June 15, 2026, is energized by a powerful intellectual current, with the Sun and Jupiter conjoining in Gemini, expanding communication and optimistic outlooks. Simultaneously, emotional depth and nurturing desires are strong as Mercury and Venus reside in Cancer, encouraging heartfelt connections. This day blends mental expansion with emotional sensitivity, urging both dynamic action and thoughtful processing of personal values.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Saturn and Neptune anchoring in your first house, you are undergoing a profound restructuring of your identity and personal drive. Embrace this opportunity to turn your spiritual visions into a disciplined, long-term reality."
+      "text": "Your pioneering spirit is highly activated, compelling you to initiate new projects or bravely tackle challenges. Channel this surge of energy into productive endeavors, being mindful of impulsive urges that might lead to unnecessary friction."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "The current transits encourage you to look inward and heal old subconscious patterns that limit your growth. Quiet meditation and solitude will reveal the practical steps needed to secure your inner peace."
+      "text": "Unexpected changes concerning your values, resources, or sense of stability may arise, prompting you to adapt. Embrace innovative solutions for financial matters and personal security, allowing flexibility rather than rigid resistance."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "The Sun illuminating your sign boosts your vitality and places you at the center of intellectual and social circles. Express your multifaceted ideas confidently, as your words carry a unique power to inspire others today."
+      "text": "This is a peak day for your intellectual prowess, communication, and social connections, bringing opportunities for significant growth. Share your ideas freely and engage in stimulating conversations, as optimism and expansion are strongly favored."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "This is a time for quiet contemplation and behind-the-scenes work as you prepare for your upcoming solar return. Trust your intuitive hunches, especially regarding your long-term career aspirations and public life."
+      "text": "Your emotional intelligence and desire for security are amplified, fostering deep, meaningful connections with loved ones. Express your feelings authentically and focus on creating a nurturing environment in your personal life and relationships."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Dynamic planetary alignments in fire signs amplify your charisma, creative energy, and desire for adventure. Use this passionate momentum to lead community projects or pursue a bold personal passion."
+      "text": "A strong drive for self-expression and recognition fuels your actions, encouraging you to step into the spotlight with confidence. Lead with passion and creativity, but be aware of how your bold moves might impact established structures or shared resources."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your focus shifts toward career ambitions and public recognition, demanding a balance between logic and intuition. Trust that structural changes in your professional life are aligning you with your true calling."
+      "text": "This period highlights the need to integrate your expansive ideas with practical, actionable plans, especially in your career. Your analytical skills are crucial for refining visionary concepts into tangible, sustainable achievements."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "The cosmos invites you to expand your intellectual horizons and explore new philosophies or travel opportunities. Nurture your partnerships by engaging in deep, mind-opening conversations that challenge your perspectives."
+      "text": "Your relationships are a central theme, as you seek balance between your personal autonomy and commitments to others. Open and honest communication can help navigate evolving dynamics and foster deeper understanding."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Intimate bonds and shared financial ventures require an honest, transformative assessment under today's transits. Reclaiming your personal power involves letting go of old control dynamics and embracing vulnerability."
+      "text": "Deep emotional or financial transformations may be stirring, prompting you to confront power dynamics within intimate partnerships or shared resources. Utilize your intuitive insights to navigate these complex layers with courage and strategic foresight."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your relationships take center stage, reflecting back to you the balance between your personal freedom and commitment. Collaborative efforts thrive when you bring your signature optimism and honesty to the table."
+      "text": "Your adventurous spirit is amplified in your approach to relationships and daily routines, encouraging exploration of new ideas and collaborations. Seek to broaden your understanding of others and infuse joy into your interactions and projects."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Prioritize your physical well-being and refine your daily routines to boost your productivity. Small, disciplined adjustments to your work habits today will yield profound long-term health benefits."
+      "text": "Focus on practical improvements in your daily work, health routines, and overall sense of well-being. While you're called to innovate, ensure your methods remain grounded and contribute to your long-term stability and goals."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "With Pluto in your sign, your personal evolution is deeply intertwined with your creative self-expression and romantic pursuits. Do not be afraid to stand out and showcase your most authentic, unconventional talents."
+      "text": "This time encourages introspection regarding your personal freedom, your role in collective endeavors, and your future visions. Transformative insights about community and humanitarian efforts are likely as you re-evaluate your path."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "The planetary focus highlights your domestic sphere, urging you to create a sanctuary that supports your sensitive nature. Ground your dreams by strengthening your foundational roots and connecting deeply with family."
+      "text": "Your spiritual journey and sense of identity are undergoing a profound period of compassionate growth and refined discipline. Trust your intuition to guide you through dissolving boundaries and embrace a more structured approach to your dreams."
     }
   ],
-  "date": "June 14, 2026"
+  "date": "June 15, 2026"
 }
