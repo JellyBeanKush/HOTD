@@ -1,66 +1,66 @@
 {
-  "summary": "Today's energy is highly dynamic and intellectually charged as the Gemini Sun aligns with the innovative frequencies of Uranus, sparking brilliant breakthroughs. Meanwhile, the pioneering Saturn-Neptune conjunction in early Aries demands that we ground our most inspired visions into practical, structured realities. It is a potent day for embracing unconventional ideas while maintaining the discipline required to build them.",
+  "summary": "June 17, 2026, brings a dynamic interplay between intellectual expansion and a powerful urge for personal freedom and security. While the Sun in Gemini amplifies communication and curiosity, it squares a potent Mars-Uranus conjunction in Taurus, suggesting unexpected challenges or sudden shifts in established routines and values. This day calls for balancing mental agility with a grounded approach to material realities and emotional stability, embracing innovation amidst potential friction.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The conjunction of Saturn and Neptune in your sign urges you to ground your highest spiritual visions into concrete reality today. Trust the slow, deliberate process of self-reinvention rather than rushing into impulsive actions."
+      "text": "Your drive for independence and innovation is strong, but you might find yourself challenging established values or seeking new forms of security. Embrace the unexpected shifts in your routine or financial landscape, as they ultimately lead to growth, even if initially jarring to your communication."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "With your ruling planet Venus harmonizing with the stable elements of your chart, it is an ideal day to review your financial structures and personal values. Seek out quiet moments of comfort and sensory indulgence to recharge your spirit."
+      "text": "With a potent Mars-Uranus conjunction in your sign, this day brings a powerful urge for personal transformation and a shake-up of your established routines. You might feel a strong pull to assert your independence and break free from anything that no longer serves your sense of security, possibly clashing with others' ideas."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "The Sun and Uranus in your sign ignite a spark of brilliant, unconventional genius that demands to be expressed. Embrace the unexpected shifts in your personal identity and share your innovative ideas with the world."
+      "text": "Your natural curiosity and communication skills are greatly amplified today, offering excellent opportunities for learning and sharing ideas. However, be prepared for potential friction as your intellectual explorations might challenge or disrupt established comforts and security in your daily life."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "The Moon's supportive energy heightens your intuition, prompting you to retreat into your private sanctuary to process deep emotional shifts. Pay close attention to your dreams, as they hold valuable keys to your subconscious desires."
+      "text": "Your emotional landscape is rich with opportunities for nurturing your relationships and expressing your deepest feelings, finding grounding in compassionate communication. Be mindful of sudden emotional shifts or a pull between emotional comfort and mental exploration as the day progresses, particularly in your home life."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Jupiter in your sign amplifies your natural charisma and luck, making this a spectacular day for taking bold center stage. Align your expansive vision with collaborative group efforts to maximize your impact on the community."
+      "text": "Your focus is on intellectual pursuits and social connections, making it an ideal day to share your vibrant ideas with a wider audience. However, these new perspectives might unexpectedly disrupt your sense of stability or challenge your professional standing, urging innovative adaptation."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Professional breakthroughs are highly favored today as your analytical mind aligns beautifully with career goals. Do not be afraid to propose radical, outside-the-box solutions to long-standing workplace challenges."
+      "text": "Practical matters might take an emotional turn, prompting you to apply your analytical skills with greater empathy and intuition. This is a favorable time to organize your personal life and nurture your inner sanctuary, finding stable solutions through compassionate understanding of your beliefs."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your desire for higher learning and adventure is stimulated by the intellectual Gemini energy dominant in the heavens. Take a leap of faith toward expanding your horizons, whether through philosophy, travel, or a new study."
+      "text": "Your focus on harmony extends to your domestic life and close relationships, encouraging deep emotional connections and nurturing exchanges. Seek balance by honoring your personal needs while still reaching out to others with compassion, building lasting emotional security through shared resources."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Deep transformation is highlighted today as you navigate complex shared resources or intimate emotional bonds. Trust the shedding of old skins, knowing that vulnerability is currently your greatest source of psychological power."
+      "text": "Intense emotional undercurrents may prompt you to re-evaluate your relationships and shared resources, demanding profound transformation. Embrace the opportunity to release old patterns that no longer serve your deepest sense of power and intimacy, especially if confronted by others' demands for freedom in partnerships."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Significant relationships take center stage, inviting you to balance your personal freedom with committed partnerships. Open, honest dialogues will reveal surprising alignments and help you co-create an exciting future path."
+      "text": "Your innate desire for exploration and truth is channeled into intellectual pursuits and vibrant conversations today, promising new insights and connections. While you're eager to expand, a subtle tension around boundaries or practical limitations might require careful consideration of your ideals, particularly regarding home and career."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your daily routines and physical well-being require a mindful balance of practical discipline and spiritual surrender. Focus on optimizing your work habits while leaving plenty of room for restorative self-care."
+      "text": "Practical responsibilities might feel intertwined with your spiritual path, prompting you to build compassionate structures in your daily life. This is a good day to integrate your ideals with tangible action, offering service with wisdom and finding emotional grounding in your efforts and communication."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "With Pluto slowly reshaping your identity, today's playful and creative alignments offer a welcome, joyful outlet for your intense inner growth. Allow yourself to flirt with new artistic mediums or romantic possibilities without overthinking the outcome."
+      "text": "Your independent spirit is powerfully engaged in finding innovative solutions within your personal values and material world, potentially leading to sudden, forceful changes. Profound shifts in your community and social ideals are brewing, calling for you to embrace your role as a visionary leader, even if it disrupts the status quo in your creative endeavors."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your attention turns toward home and foundational roots, encouraging you to create a harmonious sanctuary for your soul. Nurturing your family connections or redecorating your space will provide the emotional stability you currently crave."
+      "text": "Your spiritual journey takes on a more disciplined yet compassionate tone, urging you to bring your dreams into practical form with a sense of purpose. Embrace your intuition to guide new beginnings and dissolve any boundaries that hinder your holistic well-being, paving a path forward for your personal values."
     }
   ],
-  "date": "June 16, 2026"
+  "date": "June 17, 2026"
 }
