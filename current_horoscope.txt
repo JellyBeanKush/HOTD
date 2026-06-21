@@ -1,66 +1,66 @@
 {
-  "summary": "The cosmic energy today centers on the transition toward the Solstice, grounding our high-flying ideas into practical, meticulous action as the Moon in Virgo trines Mars in Taurus. A vibrant undercurrent of creative self-expression is amplified by Venus and Jupiter in Leo, encouraging us to share our hearts openly while maintaining solid foundations.",
+  "summary": "The Summer Solstice arrives today as the Sun enters Cancer, marking a powerful seasonal shift focused on emotional rebirth, family, and inner foundations. With supportive alignments promoting creative self-expression and intuitive breakthroughs, it is a perfect time to set intentions for nurturing your long-term dreams.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Saturn in your sign asks you to build lasting structures, while today's Virgo Moon helps you focus on the daily routines that support your long-term goals. Channel your fiery energy into refining your physical wellness and organizing your workspace for maximum efficiency."
+      "text": "The Solstice illuminates your domestic sphere, urging you to focus on home improvement and emotional grounding. Connect with your roots today to find the stability needed for your ambitious outer-world pursuits."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Mars in your sign gives you immense stamina, which harmonizes beautifully with the Virgo Moon to boost your creative projects and romantic pursuits. It is an excellent day to take slow, deliberate actions toward manifesting a deeply held personal passion."
+      "text": "Your communication sector lights up, encouraging heartfelt conversations and local explorations. Share your thoughts openly, as your words carry a nurturing and persuasive power right now."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "As the Sun prepares to leave your sign, use today's grounding Virgo Moon to tend to your home base and nurture your emotional roots. Clearing physical clutter from your living space will help quiet your mind and prepare you for the shifting seasonal energies."
+      "text": "As the Sun leaves your sign, the focus shifts toward securing your financial resources and appreciating your self-worth. Take a practical approach to your budget while honoring your innate talents."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "With Mercury in your sign, your intuitive insights are incredibly sharp, making this a perfect day for heartfelt conversations and writing. The analytical Virgo Moon supports you in organizing these thoughts into actionable plans before the Solstice tomorrow."
+      "text": "Happy Solar Return as the Solstice in your sign boosts your vitality and offers a fresh slate for personal goals. Step into the spotlight and let your natural intuition guide your next steps."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Venus and Jupiter in your sign amplify your magnetic charm and creative vision, making you the center of attention today. Use the practical Virgo Moon to budget for your grand plans and ensure your resources match your generous spirit."
+      "text": "The Sun's transition into your twelfth house invites a period of quiet reflection, healing, and spiritual renewal. Take time to recharge your battery behind the scenes before your birthday season begins."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "The Moon is in your sign today, sharpening your instincts and aligning perfectly with Mars to give you a powerful boost of physical vitality. It is a brilliant time to focus on personal development and take tangible steps toward your self-improvement goals."
+      "text": "Your social circle and future aspirations receive a warm glow of energy, making it an excellent day for networking. Collaborating with like-minded individuals will bring both joy and practical progress to your projects."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Today's energy invites you to step back from the social spotlight and find comfort in moments of quiet reflection and spiritual replenishment. Trust your subconscious insights now, as they are preparing you for a major shift in your public and professional life."
+      "text": "The Solstice elevates your professional sector, shining a spotlight on your career ambitions and public reputation. Trust your leadership instincts and don't hesitate to showcase your accomplishments."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Collaboration and networking are highly favored today as the Virgo Moon activates your house of community and hopes for the future. Align yourself with practical, like-minded allies who can help you ground your most ambitious dreams into reality."
+      "text": "An urge for adventure and higher learning is sparked today, encouraging you to broaden your mental horizons. Explore new philosophies or plan a journey that feeds your deep curiosity about the world."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Professional matters take center stage today, offering you a golden opportunity to showcase your competence and attention to detail. Your career goals receive a steady boost of determination, helping you make a lasting impression on authority figures."
+      "text": "Deep emotional bonds and shared resources are highlighted today, prompting transformative inner growth. Embrace vulnerability with trusted partners to unlock a deeper level of intimacy and mutual support."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "A desire for expansion and higher learning is highlighted today, urging you to explore new intellectual or spiritual horizons. Your grounded nature finds comfort in planning long-distance travel or diving deep into a complex subject of study."
+      "text": "Your relationship sector is highly activated, bringing opportunities for harmony, balance, and deeper commitments. Focus on cooperative efforts and try to see your life through the eyes of those you love most."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "With Pluto transforming your identity, today's deep Virgo Moon encourages you to examine shared resources, investments, and intimate bonds. It is a powerful day for psychological breakthroughs and cutting away any energetic cords that no longer serve your growth."
+      "text": "It is time to streamline your daily routines and prioritize your physical well-being. Small, mindful adjustments to your work habits today will yield significant long-term productivity and peace of mind."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Relationships are your primary focus today, demanding a balance between your idealistic dreams and practical, everyday realities. Honest, grounded communication with partners will strengthen your emotional bonds and resolve any lingering misunderstandings."
+      "text": "The Solstice sparks your creative passion, romantic life, and desire for joyful self-expression. Dive into artistic endeavors and allow your inner child to play without restriction."
     }
   ],
-  "date": "June 20, 2026"
+  "date": "June 21, 2026"
 }
