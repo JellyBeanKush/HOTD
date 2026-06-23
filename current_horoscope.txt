@@ -1,66 +1,66 @@
 {
-  "summary": "The Summer Solstice arrives today as the Sun enters Cancer, marking a powerful seasonal shift focused on emotional rebirth, family, and inner foundations. With supportive alignments promoting creative self-expression and intuitive breakthroughs, it is a perfect time to set intentions for nurturing your long-term dreams.",
+  "summary": "June 23, 2026, centers around emotional expansion and security, with the Sun and Jupiter conjunct in nurturing Cancer. This powerful alignment fosters optimism and growth in personal and family life, while also highlighting the importance of clear communication amidst potential confusion. Expect dynamic shifts in personal values and collective dynamics, urging a re-evaluation of what truly provides stability.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The Solstice illuminates your domestic sphere, urging you to focus on home improvement and emotional grounding. Connect with your roots today to find the stability needed for your ambitious outer-world pursuits."
+      "text": "With Saturn retrograde in your sign, this is a prime time for deep introspection regarding your identity and personal authority. You are encouraged to restructure your approach to independence and self-assertion, learning valuable lessons from past initiatives."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Your communication sector lights up, encouraging heartfelt conversations and local explorations. Share your thoughts openly, as your words carry a nurturing and persuasive power right now."
+      "text": "Mars and Uranus in your sign ignite a potent drive for personal change, particularly concerning your finances and core values. Be ready for unexpected shifts that challenge your comfort zones, demanding adaptable and steady action."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "As the Sun leaves your sign, the focus shifts toward securing your financial resources and appreciating your self-worth. Take a practical approach to your budget while honoring your innate talents."
+      "text": "Mercury in your sign sharpens your wit and enhances communication, making it an excellent day for networking and exchanging ideas. However, a square to Neptune suggests you should be extra mindful of potential misunderstandings or mental fog."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Happy Solar Return as the Solstice in your sign boosts your vitality and offers a fresh slate for personal goals. Step into the spotlight and let your natural intuition guide your next steps."
+      "text": "The powerful conjunction of the Sun and Jupiter in your sign amplifies your emotional life, bringing immense opportunities for personal growth and deep emotional security. This is a highly auspicious day to nurture family connections and expand your sense of belonging."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The Sun's transition into your twelfth house invites a period of quiet reflection, healing, and spiritual renewal. Take time to recharge your battery behind the scenes before your birthday season begins."
+      "text": "With the Moon and Venus in your sign, your innate creativity and desire for joyful expression are heightened today. You'll feel a magnetic pull to engage socially and receive appreciation, enhancing your relationships with warmth and generosity."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your social circle and future aspirations receive a warm glow of energy, making it an excellent day for networking. Collaborating with like-minded individuals will bring both joy and practical progress to your projects."
+      "text": "Focus on refining your daily routines and paying meticulous attention to your well-being, as practical matters require your analytical precision. Seek clarity in your responsibilities and avoid overthinking minor details, promoting inner peace."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "The Solstice elevates your professional sector, shining a spotlight on your career ambitions and public reputation. Trust your leadership instincts and don't hesitate to showcase your accomplishments."
+      "text": "Your relationships are a focal point, as you seek balance and harmony within your most important partnerships. You may find yourself mediating situations or striving to create fairness in shared endeavors, advocating for mutual respect."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "An urge for adventure and higher learning is sparked today, encouraging you to broaden your mental horizons. Explore new philosophies or plan a journey that feeds your deep curiosity about the world."
+      "text": "Deep emotional insights are accessible, prompting powerful transformations related to shared resources or intimate connections. Trust your strong intuition to navigate complex situations and uncover hidden truths with courage."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Deep emotional bonds and shared resources are highlighted today, prompting transformative inner growth. Embrace vulnerability with trusted partners to unlock a deeper level of intimacy and mutual support."
+      "text": "Your adventurous spirit feels a strong pull towards exploring new philosophies and expanding your horizons through learning or travel. Seek opportunities for intellectual growth and broadening your perspective, embracing wisdom."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your relationship sector is highly activated, bringing opportunities for harmony, balance, and deeper commitments. Focus on cooperative efforts and try to see your life through the eyes of those you love most."
+      "text": "Dedicate your energy to your professional aspirations and long-term goals, as disciplined effort will yield substantial progress. Embrace responsibilities with your characteristic pragmatism, as consistent strategy builds lasting success."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "It is time to streamline your daily routines and prioritize your physical well-being. Small, mindful adjustments to your work habits today will yield significant long-term productivity and peace of mind."
+      "text": "With Pluto retrograde in your sign, profound internal shifts are underway, challenging your perspectives on community and individual freedom. Embrace this period to redefine your role within groups and innovate your approach to social change."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "The Solstice sparks your creative passion, romantic life, and desire for joyful self-expression. Dive into artistic endeavors and allow your inner child to play without restriction."
+      "text": "Neptune retrograde in your sign enhances your spiritual sensitivity, deepening your connection to the imaginative and compassionate realms. Trust your inner wisdom to discern truth from illusion, grounding your intuitive insights."
     }
   ],
-  "date": "June 21, 2026"
+  "date": "June 23, 2026"
 }
