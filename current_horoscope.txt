@@ -1,66 +1,66 @@
 {
-  "summary": "June 23, 2026, centers around emotional expansion and security, with the Sun and Jupiter conjunct in nurturing Cancer. This powerful alignment fosters optimism and growth in personal and family life, while also highlighting the importance of clear communication amidst potential confusion. Expect dynamic shifts in personal values and collective dynamics, urging a re-evaluation of what truly provides stability.",
+  "summary": "June 25, 2026, highlights a dynamic interplay between emotional introspection and expansive mental energy. With Mercury retrograde in Cancer trining the stabilizing Moon in Taurus, revisiting personal feelings and home matters can bring a sense of grounded understanding. Meanwhile, the potent conjunction of Mars and Jupiter in Gemini ignites a powerful urge for communication and broad intellectual exploration, though scattered focus is a risk.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Saturn retrograde in your sign, this is a prime time for deep introspection regarding your identity and personal authority. You are encouraged to restructure your approach to independence and self-assertion, learning valuable lessons from past initiatives."
+      "text": "With Neptune retrograde in your sign, you're deeply reassessing your identity and spiritual path, questioning long-held ideals about yourself. Focus on practical matters related to your finances and self-worth, seeking comfort and stability as the Moon grounds you in Taurus."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Mars and Uranus in your sign ignite a potent drive for personal change, particularly concerning your finances and core values. Be ready for unexpected shifts that challenge your comfort zones, demanding adaptable and steady action."
+      "text": "Your sense of security and personal values is emphasized as the Moon transits your sign, encouraging you to prioritize comfort and stability. Be mindful of potential tension in relationships as the Moon squares Venus, reminding you to seek harmony in your emotional expressions."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Mercury in your sign sharpens your wit and enhances communication, making it an excellent day for networking and exchanging ideas. However, a square to Neptune suggests you should be extra mindful of potential misunderstandings or mental fog."
+      "text": "Your mental and communicative powers are incredibly amplified today, thanks to the conjunction of Mars and Jupiter in your sign, fueling big ideas and energetic pursuits. Channel this expansive energy into productive avenues, avoiding the temptation to spread yourself too thin across too many exciting ventures."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "The powerful conjunction of the Sun and Jupiter in your sign amplifies your emotional life, bringing immense opportunities for personal growth and deep emotional security. This is a highly auspicious day to nurture family connections and expand your sense of belonging."
+      "text": "With both the Sun and Mercury retrograde in your sign, this day is profoundly about self-reflection, re-evaluating your personal narrative, and revisiting emotional foundations. The Moon trining Mercury brings a natural flow to understanding your deepest feelings and communicating them effectively."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "With the Moon and Venus in your sign, your innate creativity and desire for joyful expression are heightened today. You'll feel a magnetic pull to engage socially and receive appreciation, enhancing your relationships with warmth and generosity."
+      "text": "Your affections and creative expressions are particularly vibrant and attention-seeking today, encouraging you to embrace your desire for recognition. Be aware of potential clashes between your need for comfort and your expressive desires as the Moon squares Venus in your sign."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Focus on refining your daily routines and paying meticulous attention to your well-being, as practical matters require your analytical precision. Seek clarity in your responsibilities and avoid overthinking minor details, promoting inner peace."
+      "text": "Your emotional well-being and the dynamics within your social circles are highlighted, as past group interactions or future aspirations may need introspective review. This is an opportune time to communicate about your community or long-term goals with thoughtful consideration."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your relationships are a focal point, as you seek balance and harmony within your most important partnerships. You may find yourself mediating situations or striving to create fairness in shared endeavors, advocating for mutual respect."
+      "text": "Your career and public image are receiving significant energetic boosts, potentially bringing expansive opportunities or recognition through your communication skills. Balance this outward drive with the need for emotional security and nurturing within your personal and home life."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Deep emotional insights are accessible, prompting powerful transformations related to shared resources or intimate connections. Trust your strong intuition to navigate complex situations and uncover hidden truths with courage."
+      "text": "Deep dives into philosophical concepts, travel plans, or educational pursuits are favored, though you may be revisiting old beliefs or ideas about the world. Allow yourself to explore spiritual growth and foreign cultures, but be prepared to re-think what you thought you knew, particularly regarding your daily routines."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your adventurous spirit feels a strong pull towards exploring new philosophies and expanding your horizons through learning or travel. Seek opportunities for intellectual growth and broadening your perspective, embracing wisdom."
+      "text": "Relationships, both personal and professional, are a vibrant hub of activity and expansive communication today, bringing opportunities for significant connection. While collaboration is favored, ensure you're not over-committing or becoming overwhelmed by shared ideas and energies."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Dedicate your energy to your professional aspirations and long-term goals, as disciplined effort will yield substantial progress. Embrace responsibilities with your characteristic pragmatism, as consistent strategy builds lasting success."
+      "text": "Your partnerships and one-on-one relationships are highlighted, calling for deep emotional introspection and a re-evaluation of shared commitments. It's a time to revisit agreements and ensure your emotional and material needs are being met within significant connections, supported by stable communication."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "With Pluto retrograde in your sign, profound internal shifts are underway, challenging your perspectives on community and individual freedom. Embrace this period to redefine your role within groups and innovate your approach to social change."
+      "text": "Your personal transformation journey continues with Pluto retrograde in your sign, pushing you to redefine your power and influence within your community. Be open to deep internal shifts that challenge your societal roles and future visions, inviting a profound re-assessment of your place in the world."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Neptune retrograde in your sign enhances your spiritual sensitivity, deepening your connection to the imaginative and compassionate realms. Trust your inner wisdom to discern truth from illusion, grounding your intuitive insights."
+      "text": "You are navigating a profound period of spiritual discipline and the dissolution of old boundaries, challenging your perception of reality with Saturn in your sign. Simultaneously, Neptune retrograde in Aries prompts a re-evaluation of your self-worth and financial ideals, encouraging introspection on personal value."
     }
   ],
-  "date": "June 23, 2026"
+  "date": "June 25, 2026"
 }
