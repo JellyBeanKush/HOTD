@@ -1,66 +1,66 @@
 {
-  "summary": "The celestial landscape today is dominated by a profound watery harmony, as the Moon in Scorpio forms a supportive trine to the Sun and Jupiter in sensitive Cancer. This alignment deepens our intuitive capacities, urging us to protect our emotional sanctuaries while courageously seeking truth under the pioneering gaze of Saturn and Neptune in Aries.",
+  "summary": "The cosmic landscape today balances the nurturing, intuitive Cancer Sun with an adventurous Sagittarius Moon, sparking a desire for both emotional security and philosophical freedom. It is a potent day to honor your deepest feelings while courageously expanding your intellectual and spiritual horizons.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Saturn and Neptune stirring your identity sector, today asks you to anchor your wildest dreams into practical daily steps. The watery trine encourages you to look inward and address any private emotional habits that might be holding your ambitions back."
+      "text": "The Sagittarius Moon harmonizes with your fiery nature, urging you to explore new intellectual horizons or plan a spontaneous journey. Keep an eye on your domestic sphere, as the Cancer Sun asks you to balance this wanderlust with family responsibilities."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Collaborative projects and friendships are highly favored today as the Cancer-Scorpio watery current opens up deep channels of trust. Express your loyalty openly, but maintain healthy boundaries to ensure your generous energy isn't depleted."
+      "text": "Financial matters and deep-seated emotional bonds are highlighted today, urging you to seek security without stifling growth. Utilize the communicative energy of the day to have honest, transformative conversations with those you trust most."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your focus shifts toward financial stability and career alignment, urging you to blend intuitive hunches with practical organization. Let go of superficial pursuits and invest your focus into projects that carry true, lasting value."
+      "text": "Relationships take center stage as the Moon shines in your opposite sign, inviting collaborative endeavors and heartfelt compromises. Meanwhile, the Cancer Sun focuses your attention on stabilizing your personal resources and realizing your self-worth."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "With the Sun and Jupiter magnifying your personal power, you are radiating an irresistible magnetic and nurturing energy today. The Scorpio Moon assists you in expressing your deepest passions, helping you manifest opportunities that align with your soul's true purpose."
+      "text": "The Sun shining in your sign empowers your personal intentions and boosts your vitality to its yearly peak. Use today’s practical Moon to organize your daily routines and align your wellness goals with your renewed sense of self."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "This is a deeply reflective day that invites you to retreat from the spotlight and recharge your spiritual batteries. Pay close attention to your dreams and gut feelings, as your subconscious mind is delivering vital keys to your personal growth."
+      "text": "Your creative impulses are highly activated today, urging you to express your unique talents and play without inhibition. Take some time to retreat and recharge behind the scenes as the Cancer Sun encourages occasional quiet introspection."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your social circle and community networks offer immense emotional nourishment and intellectual inspiration today. Trust your instincts when collaborating with others, as a shared vision can easily materialize under this supportive sky."
+      "text": "Focus on your domestic foundations and inner emotional landscapes today, as home brings the greatest sense of alignment. Your social networks and future dreams are also illuminated, inviting you to connect with supportive, like-minded communities."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Professional ambitions are highlighted, inviting you to lead with empathy and emotional intelligence rather than rigid authority. Balancing your public duties with your domestic needs will bring a profound sense of inner harmony today."
+      "text": "Your intellectual curiosity is piqued, making this an excellent day for writing, learning, or engaging in lively discussions. Professionally, the Cancer Sun urges you to align these creative ideas with your long-term career aspirations."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "The Moon in your sign aligns beautifully with the Cancer Sun, elevating your perception and making this a stellar day for spiritual exploration. Share your wisdom with courage, as your authentic voice has the power to deeply inspire those around you."
+      "text": "Financial planning and recognizing your personal assets are highlighted, prompting a grounded approach to your material security. At the same time, the watery Cancer Sun supports your desire to seek out profound spiritual or philosophical truths."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Deep psychological insights are available today, helping you release outdated emotional baggage or complex financial entanglements. Embrace the transformative currents by focusing on shared resources and vulnerable, honest intimacy with loved ones."
+      "text": "With the Moon in your sign today, your emotional vitality is exceptionally high, making it the perfect time to prioritize your personal needs. Let your natural optimism guide your partnerships, balancing your independent streak with collaborative efforts."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your close partnerships take center stage today, offering a beautiful opportunity for deep healing and mutual understanding. Let down your guard and allow your vulnerable side to strengthen the bonds you share with those who truly matter."
+      "text": "Take a step back from the hustle to indulge in much-needed rest and spiritual reflection as the Moon activates your solar twelfth house. Your relationships require tender, focused attention under the Cancer Sun, so practice open-hearted listening today."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "A harmonious blend of intuition and discipline helps you streamline your daily routines and optimize your physical well-being. Focus on small, mindful adjustments to your workspace and lifestyle to cultivate a deeply supportive daily flow."
+      "text": "Connecting with friends and aligning with humanitarian goals brings a deep sense of fulfillment and joy today. Your daily work and wellness routines are also highlighted, encouraging you to bring more mindfulness into your everyday tasks."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "This highly creative day sparks your imagination, making it the perfect time to express your feelings through artistic mediums or romance. Your heart is wide open, allowing you to attract joyful experiences and deep connections effortlessly."
+      "text": "Your professional ambitions and public reputation are in the spotlight, making it an ideal time to showcase your unique talents. Follow your creative heart, as the supportive Cancer Sun enhances your artistic expression and romantic endeavors."
     }
   ],
-  "date": "June 26, 2026"
+  "date": "June 27, 2026"
 }
