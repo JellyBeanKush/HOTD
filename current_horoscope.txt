@@ -1,66 +1,66 @@
 {
-  "summary": "The energy of June 28, 2026, presents a dynamic interplay between emotional introspection and an adventurous quest for truth, driven by the Sun in nurturing Cancer and the Moon in spirited Sagittarius. It is a powerful day to balance your inner sanctuary with outer exploration, utilizing passionate Leo alignments to express your creative desires.",
+  "summary": "The energy of June 29, 2026, is defined by a constructive tension between the Capricorn Moon and the Cancer Sun, highlighting the balance between professional duty and emotional security. With Saturn and Neptune closely aligned in early Aries, there is a powerful collective drive to ground spiritual visions into tangible, pioneering realities.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The Sagittarius Moon ignites your house of higher learning and travel, encouraging you to break free from your daily routine. Channel this fiery enthusiasm into expanding your horizons, but keep your emotional reactions grounded."
+      "text": "The alignment of Saturn and Neptune in your sign urges you to manifest a long-held dream through disciplined action. Focus on channeling your fiery initiative into practical, long-term foundations rather than impulsive starts."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Financial matters and deep psychological insights are highlighted today as the Moon moves through your eighth house. It is an excellent time to renegotiate boundaries and seek emotional clarity within your closest partnerships."
+      "text": "Financial and material shifts are stabilizing as you integrate the lessons of recent outer-planet transits. Take time today to nurture your inner world, allowing your intuition to guide your career decisions."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your focus shifts directly to your relationships, where the Sagittarius Moon encourages open, honest, and philosophical dialogues. Seek a balance between your personal independence and your commitment to others today."
+      "text": "With Uranus sparking your sector of self-expression, innovative ideas are flowing rapidly. Connect with your community today to share these visions, as collaborative efforts are highly favored."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "With the Sun shining bright in your sign, you feel a strong sense of personal identity and emotional depth. Use today's energetic Sagittarius Moon to optimize your daily routines and bring a sense of adventure to your wellness practices."
+      "text": "The Sun in your sign shines a spotlight on your personal goals and identity. Balance this self-focus by addressing the needs of your close partnerships, which may require structural adjustments."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Creative inspiration flows easily today as the Moon illuminates your fifth house of self-expression and romance. Let your passionate heart lead the way, but remember to honor the quiet, nurturing needs of your loved ones."
+      "text": "As Jupiter prepares to enter your sign, you are standing on the precipice of a major personal expansion. Use this day for quiet reflection and spiritual preparation before stepping into the spotlight."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your focus turns toward home, family, and your emotional foundations under today's transits. Creating a sanctuary that allows for both physical comfort and intellectual freedom will bring you peace."
+      "text": "Social dynamics and collaborative projects take center stage today. Ensure you are balancing your service to others with necessary boundaries to protect your mental well-being."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your mind is incredibly active today, sparking curiosity and a desire for lively conversations with those in your immediate circle. Express your ideas boldly, but remain receptive to the emotional undercurrents of your interactions."
+      "text": "Career demands may clash with your desire for domestic peace today. Finding a harmonious balance between your professional ambitions and your home life is key to maintaining stability."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Financial security and personal values take center stage today, prompting you to assess what truly brings you stability. Trust your intuition to guide you toward lucrative opportunities that also align with your deeper spiritual path."
+      "text": "Your worldview is expanding, prompting a desire for deeper learning or future travel plans. Embrace conversations that challenge your perspectives and allow your core beliefs to evolve naturally."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "The Moon is in your sign, amplifying your emotional vitality, natural charisma, and desire for personal freedom. It is a perfect day to embark on a new personal quest while remaining mindful of your commitments to others."
+      "text": "Deep financial matters or shared resources require your careful attention today. Approach these negotiations with both your natural optimism and a realistic, grounded strategy."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "A quiet, reflective mood takes over today, urging you to step back from the hustle and recharge your spiritual batteries. Use this introspective transit to release old emotional patterns and prepare for a fresh cycle."
+      "text": "The Moon in your sign amplifies your personal needs and emotional sensitivity. Balancing your personal drive with the expectations of key partners will bring harmony today."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Collaboration and social connections are highly favored today as the Moon enlivens your eleventh house of community. Share your visionary ideas with like-minded friends, but keep your feet on the ground."
+      "text": "With Pluto in your sign, profound personal transformation is quietly underway. Focus on behind-the-scenes healing today, letting go of old routines that no longer serve your growth."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your career and public reputation are highlighted today, pushing you to showcase your unique talents to the world. Strive for a balance between your professional ambitions and your deep-seated need for domestic tranquility."
+      "text": "Creative inspiration is high, but you must find a structured outlet for your artistic visions today. Connecting with like-minded peers will provide the supportive network you need to thrive."
     }
   ],
-  "date": "June 28, 2026"
+  "date": "June 29, 2026"
 }
