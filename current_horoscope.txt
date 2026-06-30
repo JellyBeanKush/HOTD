@@ -1,66 +1,66 @@
 {
-  "summary": "The energy of June 29, 2026, is defined by a constructive tension between the Capricorn Moon and the Cancer Sun, highlighting the balance between professional duty and emotional security. With Saturn and Neptune closely aligned in early Aries, there is a powerful collective drive to ground spiritual visions into tangible, pioneering realities.",
+  "summary": "June 30, 2026, brings a focus on emotional security and practical adjustments, enhanced by several outer planets in retrograde which encourage deep introspection. While there's a drive for expansive communication and connection, it's balanced by a need to re-evaluate boundaries and spiritual integrity.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The alignment of Saturn and Neptune in your sign urges you to manifest a long-held dream through disciplined action. Focus on channeling your fiery initiative into practical, long-term foundations rather than impulsive starts."
+      "text": "With Neptune and the North Node in your sign, this day emphasizes a spiritual awakening regarding your identity and purpose. You may feel a strong pull to pioneer new ideas, but ensure your vision is grounded in reality."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Financial and material shifts are stabilizing as you integrate the lessons of recent outer-planet transits. Take time today to nurture your inner world, allowing your intuition to guide your career decisions."
+      "text": "Uranus in your sign continues to shake up your personal values and material world, prompting unexpected insights into your financial security. Embrace flexibility and innovative solutions rather than clinging to old ways."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "With Uranus sparking your sector of self-expression, innovative ideas are flowing rapidly. Connect with your community today to share these visions, as collaborative efforts are highly favored."
+      "text": "Venus and Jupiter in your sign amplify your social charm and intellectual curiosity, making it an excellent time for connections and learning. However, ensure your expansive ideas don't overlook important details or commitments."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "The Sun in your sign shines a spotlight on your personal goals and identity. Balance this self-focus by addressing the needs of your close partnerships, which may require structural adjustments."
+      "text": "With the Sun and Mars in your sign, your emotional core and assertiveness are deeply activated, bringing focus to home, family, and personal security. You're empowered to defend your space, but be mindful of intense power dynamics."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "As Jupiter prepares to enter your sign, you are standing on the precipice of a major personal expansion. Use this day for quiet reflection and spiritual preparation before stepping into the spotlight."
+      "text": "Mercury just entered your sign, boosting your expressive communication and confidence in sharing your ideas. Use this energy to articulate your unique perspective with passion and creativity, inspiring others in the process."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Social dynamics and collaborative projects take center stage today. Ensure you are balancing your service to others with necessary boundaries to protect your mental well-being."
+      "text": "The Moon in your sign highlights your need for practical order and emotional well-being, urging you to address health and daily routines. This is a favorable time for organizing and finding innovative solutions to everyday challenges."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Career demands may clash with your desire for domestic peace today. Finding a harmonious balance between your professional ambitions and your home life is key to maintaining stability."
+      "text": "You might find yourself re-evaluating partnerships and personal identity as the energetic push from the Aries North Node influences your relationships. Seek balance between your needs and the needs of others, particularly regarding new directions."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Your worldview is expanding, prompting a desire for deeper learning or future travel plans. Embrace conversations that challenge your perspectives and allow your core beliefs to evolve naturally."
+      "text": "Emotional depths are stirred as the Sun and Mars in Cancer harmonize with your water nature, inviting you to connect with your intuition and home life. This is a time to address inner transformations and perhaps revisit family dynamics."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Deep financial matters or shared resources require your careful attention today. Approach these negotiations with both your natural optimism and a realistic, grounded strategy."
+      "text": "Your expansive spirit might feel some tension as Jupiter in Gemini squares Saturn in Pisces, prompting you to balance your thirst for knowledge with spiritual discernment. Focus on clear communication and ethical expansion of your beliefs."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "The Moon in your sign amplifies your personal needs and emotional sensitivity. Balancing your personal drive with the expectations of key partners will bring harmony today."
+      "text": "You may feel a pull between personal security and broader community involvement as Mars in Cancer opposes retrograde Pluto in Aquarius. Deep transformation around your public image and group affiliations is underway."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "With Pluto in your sign, profound personal transformation is quietly underway. Focus on behind-the-scenes healing today, letting go of old routines that no longer serve your growth."
+      "text": "With Pluto retrograding in your sign and opposing Mars, this day initiates deep internal transformations regarding your personal power and influence within your community. Re-examine your role in collective change and how you assert your unique vision."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Creative inspiration is high, but you must find a structured outlet for your artistic visions today. Connecting with like-minded peers will provide the supportive network you need to thrive."
+      "text": "Saturn retrograde in your sign urges a deep re-evaluation of your boundaries, responsibilities, and spiritual practices. While you're called to practical discipline, remember to balance it with compassion and avoid feeling overwhelmed by expansive social demands."
     }
   ],
-  "date": "June 29, 2026"
+  "date": "June 30, 2026"
 }
