@@ -1,66 +1,66 @@
 {
-  "summary": "The energy of July 1, 2026, is defined by a powerful tension between the nurturing Sun in Cancer and the structured Moon in Capricorn, urging a balance between private emotional security and public duty. Meanwhile, a fiery stellium of Jupiter, Venus, and Mars in Leo ignites a passionate desire for self-expression, creativity, and bold leadership across the zodiac.",
+  "summary": "July 2, 2026 brings a nurturing and introspective energy, with the Sun and Mercury in Cancer encouraging focus on home, family, and emotional well-being. However, a dynamic tension between Mars in Virgo and Jupiter in Gemini suggests a need to balance ambitious ideas with practical, detailed action to avoid overextension. Saturn retrograde in Pisces invites deep reflection on spiritual boundaries and long-term dreams, urging a compassionate re-evaluation of your inner world.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Mars heating up Leo alongside Venus and Jupiter, your creative passions and romantic life are set ablaze. Focus on channeling this vibrant, expressive energy while balancing the practical demands of your home and family life."
+      "text": "With Neptune retrograde in your sign, you're called to re-evaluate your personal identity and the ideals that drive your actions. Seek clarity on what truly inspires your pioneering spirit before charging ahead."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "The Cancer Sun highlights your local community, urging you to connect deeply and share your thoughts with those nearby. Keep an eye on domestic developments as dynamic Leo placements bring warmth, growth, and potential restructuring to your home front."
+      "text": "Uranus in your sign continues to bring unexpected shifts to your values and material world, urging you to embrace innovation in your approach to resources. You might find unconventional ways to build security or express your self-worth."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Uranus in your sign sparks brilliant, unconventional ideas that can radically transform your personal perspective. Use this mental agility to navigate important financial decisions as the Cancer-Capricorn axis highlights your resources and shared investments."
+      "text": "Jupiter in your sign amplifies your desire for knowledge and connection, but Mars squaring it might scatter your energies across too many ideas. Focus your brilliant communicative skills on practical outcomes rather than just gathering information."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "With the Sun illuminating your sign, your personal vitality and sense of self are beautifully renewed. The Capricorn Moon highlights your relationships, asking you to find a healthy compromise between your personal needs and those of your partner."
+      "text": "The Sun and Mercury in your sign highlight your emotional core, making it a powerful day for self-expression and intuitive communication within your personal sphere. Nurture your inner world and express your needs clearly to those closest to you."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "A spectacular alignment of Jupiter, Venus, and Mars in your sign surrounds you with magnetic charm, courage, and abundant opportunities. Embrace this peak moment to step into the spotlight, but remember to rest as the Sun in your twelfth house calls for quiet introspection."
+      "text": "Venus in your sign shines a spotlight on your creative expression and romantic life, urging you to embrace grand gestures and heart-centered connections. Be mindful of sudden shifts in relationships or values as Uranus in Taurus squares Venus."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your social circles and dreams for the future are illuminated today, encouraging warm collaborations and heartfelt networking. Pay attention to your inner world, as active Leo transits in your subconscious sector trigger deep spiritual insights and vivid dreams."
+      "text": "Mars in your sign fuels your desire for productivity and service, but its square to Jupiter in Gemini could lead to overthinking or taking on too many detailed tasks. Prioritize what truly matters and refine your approach to efficiency."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "The tension between your career aspirations and your home life comes to the forefront today under the Capricorn Moon. Lean on your network and friends, as a highly supportive Leo stellium brings joy and creative inspiration through group activities."
+      "text": "Your focus might shift towards deep transformations in collective ideals or community involvement with Pluto retrograde in Aquarius impacting your social circles. Seek balance in your humanitarian efforts, re-evaluating where your energy is best applied for change."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Opportunities for career advancement and public recognition are highly favored as a powerful lineup of planets crowns your professional sector. Balance this ambitious drive by exploring new philosophical horizons or planning an educational escape."
+      "text": "With the Sun and Mercury in fellow water sign Cancer, your intuitive abilities are heightened, making it an excellent time to delve into family matters or emotional depths. Reflect on shared resources or intimate bonds, seeking deeper understanding and security."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your desire for adventure, learning, and travel is highly stimulated by the fiery Leo placements aligning beautifully with your Sagittarius nature. Make sure to settle financial balances or deep emotional commitments first, as the Capricorn Moon demands practical focus."
+      "text": "The Moon's transit through your sign early in the day encourages expansive feelings, transitioning into a more grounded and responsible emotional tone as it enters Capricorn. Balance your adventurous spirit with practical considerations regarding your emotional needs and resources."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "The Moon transiting your sign heightens your sensitivity and focus on personal goals, contrasting with the Cancer Sun's emphasis on partnerships. Look to shared resources or deep psychological breakthroughs, which are energized by active transits in your eighth house."
+      "text": "The Moon entering your sign later in the day grounds your emotions, bringing a focus on practical responsibilities and security. While the Sun in Cancer draws your attention to relationships, strive for a balanced approach to your personal and professional commitments."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Your relationships take center stage as a brilliant Leo stellium lights up your partnership sector, bringing warmth, excitement, and growth to your connections. Take time to care for your physical well-being, balancing your social commitments with necessary quiet time."
+      "text": "Pluto's retrograde motion in your sign continues to transform your sense of self and personal power, prompting a deep re-evaluation of your authentic identity. Embrace this period of introspection to redefine your role within your community and future aspirations."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "The planetary energies urge you to bring more joy, creativity, and playfulness into your daily routines and work environment. Focus on balancing your artistic desires with the emotional needs of your children, romantic partner, or creative projects."
+      "text": "Saturn retrograde in your sign urges you to re-examine your personal boundaries, spiritual beliefs, and long-term dreams with a critical yet compassionate eye. This reflective period is crucial for solidifying your inner structure and understanding your emotional resilience."
     }
   ],
-  "date": "July 1, 2026"
+  "date": "July 2, 2026"
 }
