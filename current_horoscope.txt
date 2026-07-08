@@ -1,66 +1,66 @@
 {
-  "summary": "July 7, 2026, presents a dynamic interplay between emotional security and expansive intellectual pursuits. With the Sun and Venus in Cancer, there's a strong pull towards home and nurturing, while Mars and Jupiter in Gemini fuel curious minds and communication. Mercury retrograde in Leo, however, urges a thoughtful re-evaluation of self-expression and creative projects, adding an introspective layer to the day's energetic forward momentum.",
+  "summary": "July 8, 2026, ushers in a day of deep emotional introspection and re-evaluation, particularly concerning power dynamics and hidden desires, due to Mars retrograding in Scorpio. While the Sun and Mercury in Cancer encourage nurturing communication and focus on home, Venus in Leo seeks dramatic self-expression and connection. Expansive Jupiter in Gemini fosters intellectual curiosity, balancing the intensity with opportunities for learning and dialogue.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Your pioneering spirit is strongly activated, urging you to step into new territories and define your personal truth. Be mindful of potential idealistic visions that might blur practical realities, ensuring your enthusiasm is well-grounded."
+      "text": "You might feel a push-pull between domestic duties and a powerful desire for personal recognition and creative expression. Mars retrograding in Scorpio urges a deep re-evaluation of shared resources and intimate connections, perhaps unearthing old power struggles that need resolution."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Unexpected shifts in your values or financial landscape may present themselves, calling for adaptability and an open mind. Embrace innovative approaches to security and resources, allowing for growth beyond traditional comforts."
+      "text": "Home and family matters are central, possibly with some unexpected shifts in your personal values or financial security due to Uranus in your sign. Mars retrograde in your relationship sector calls for re-examining underlying power dynamics in partnerships, both personal and professional."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your communication and intellectual curiosity are greatly amplified, encouraging bold discussions and expansive learning opportunities. Channel this heightened energy into networking and exploring diverse interests, but avoid scattering your focus too widely."
+      "text": "Your communication skills are significantly enhanced, and you're eager to learn and connect with diverse ideas, amplified by Jupiter in your sign. Focus on expressing your feelings and ideas with empathy, especially regarding financial or personal security within your immediate environment."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "With the Sun and Venus gracing your sign, you're deeply attuned to emotional security, family, and nurturing connections. This is a prime time to create a comforting home environment and deepen bonds with loved ones."
+      "text": "With the Sun and Mercury in your sign, you're in your element, radiating warmth and seeking deep emotional connection with others. It's a prime time for nurturing yourself and loved ones, but be mindful of dramatic emotional displays as the Moon transits your sector of self-expression."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Mercury retrograde in your sign prompts a significant period of introspection regarding your self-expression and creative projects. Use this time to refine your ideas and leadership style, rather than pushing forward with new initiatives."
+      "text": "Your affections are strong and dramatically expressed with Venus in your sign, seeking joy, admiration, and creative fulfillment. While your focus is on self-expression and romance, domestic responsibilities or emotional security needs highlighted by Cancer energy require your thoughtful attention."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "The Moon begins the day in your sign, highlighting practical matters and a desire for order and service. As the day progresses, a shift towards relational harmony and seeking balance in partnerships will become more prominent."
+      "text": "You're balancing a desire for practical service and detailed matters with a deep emotional sensitivity concerning your home and family life. Communication about domestic affairs is crucial, and you might be called to nurture others while still attending to your own meticulous planning."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "You're encouraged to release old patterns of people-pleasing and embrace a more assertive, independent approach in your relationships. Seek true balance by honoring your own needs while still valuing connection and fairness."
+      "text": "Your social sphere and sense of belonging are highlighted, prompting you to seek harmony in group interactions and friendships. However, you might find yourself re-evaluating your personal values and self-worth due to Mars retrograde, particularly concerning your financial independence."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Deep transformations within your social circles and future aspirations are unfolding, requiring you to look beneath the surface of group dynamics. This is a powerful time for uncovering hidden truths in your community and shared goals."
+      "text": "With Mars retrograde in your sign, this is a powerful period of internal re-assessment regarding your drive, desires, and personal power. You're diving deep into your emotional core, and career aspirations might be linked to uncovering hidden family origins or psychological patterns."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Expansive learning and communication are key themes, encouraging you to broaden your horizons through intellectual exchange and diverse connections. Your ruling planet, Jupiter, inspires enthusiastic engagement, but remember to refine your focus."
+      "text": "Your natural expansive and philosophical nature is amplified by Jupiter, prompting intellectual exploration and broad communication, especially within partnerships. Be aware that deep, hidden patterns or past psychological issues could surface, demanding your introspective attention."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your usual structured approach is infused with a compassionate, spiritual dimension, prompting you to integrate intuition with practical responsibilities. You may find new ways to bring emotional maturity to your long-term goals."
+      "text": "You're navigating complex emotional and shared resource dynamics, possibly related to intimate partnerships or joint investments. Pluto retrograding in Aquarius suggests a powerful re-evaluation of your role within community and collective goals, impacting your personal finances."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Profounds re-evaluation of your collective ideals and friendships is underway as Pluto retrogrades in your sign. This is a crucial period for internalizing your vision for the future and transforming your approach to community."
+      "text": "Relationships are a significant focus, as you seek balance between your independent nature and partnership needs, especially in daily routines. With Pluto retrograding in your sign, expect profound internal transformations regarding your identity and your unique contribution to society."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Saturn in your sign asks you to establish firm yet compassionate boundaries, bringing structure to your spiritual path and emotional landscape. You're learning to differentiate between dreams and reality, fostering practical wisdom."
+      "text": "Your daily routines and well-being are in focus, encouraging practical attention to self-care and work-life balance. Saturn in your sign asks you to establish clearer boundaries and bring more discipline to your spiritual or creative pursuits, challenging any existing illusions about your path."
     }
   ],
-  "date": "July 7, 2026"
+  "date": "July 8, 2026"
 }
