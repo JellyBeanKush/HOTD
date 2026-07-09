@@ -1,66 +1,66 @@
 {
-  "summary": "July 8, 2026, ushers in a day of deep emotional introspection and re-evaluation, particularly concerning power dynamics and hidden desires, due to Mars retrograding in Scorpio. While the Sun and Mercury in Cancer encourage nurturing communication and focus on home, Venus in Leo seeks dramatic self-expression and connection. Expansive Jupiter in Gemini fosters intellectual curiosity, balancing the intensity with opportunities for learning and dialogue.",
+  "summary": "This July 9th is charged with the illuminating energy of a Full Moon in Capricorn, directly opposing the Sun and generous Jupiter in Cancer. This potent alignment brings a powerful culmination point, highlighting the dynamic interplay between personal emotional security, home life, and practical responsibilities or public ambition. Expect significant revelations and opportunities for growth as you navigate the balance between nurturing your inner world and meeting external demands.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "You might feel a push-pull between domestic duties and a powerful desire for personal recognition and creative expression. Mars retrograding in Scorpio urges a deep re-evaluation of shared resources and intimate connections, perhaps unearthing old power struggles that need resolution."
+      "text": "Your personal ambitions are under scrutiny today, Aries, as practical realities demand your attention and emotional maturity. Strive to find a healthy balance between your pioneering spirit and the needs of your home and family life."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Home and family matters are central, possibly with some unexpected shifts in your personal values or financial security due to Uranus in your sign. Mars retrograde in your relationship sector calls for re-examining underlying power dynamics in partnerships, both personal and professional."
+      "text": "Your actions are deliberate and grounded right now, Taurus, making this a powerful time to assert your needs and build tangible security. Focus on creating comfort and stability within your immediate environment and through your communications."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your communication skills are significantly enhanced, and you're eager to learn and connect with diverse ideas, amplified by Jupiter in your sign. Focus on expressing your feelings and ideas with empathy, especially regarding financial or personal security within your immediate environment."
+      "text": "Your mind is buzzing with innovative ideas, Gemini, but be mindful of how you communicate your passions and express yourself. Harness this mental energy to foster growth within your personal finances and secure your sense of self-worth."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "With the Sun and Mercury in your sign, you're in your element, radiating warmth and seeking deep emotional connection with others. It's a prime time for nurturing yourself and loved ones, but be mindful of dramatic emotional displays as the Moon transits your sector of self-expression."
+      "text": "This Full Moon shines brightly on your relationships and partnerships, Cancer, urging you to balance personal emotional needs with practical obligations to others. Embrace opportunities for significant personal growth and nurturing secure, authentic connections."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your affections are strong and dramatically expressed with Venus in your sign, seeking joy, admiration, and creative fulfillment. While your focus is on self-expression and romance, domestic responsibilities or emotional security needs highlighted by Cancer energy require your thoughtful attention."
+      "text": "Your voice is strong and clear, Leo, but watch for potential clashes between your confident self-expression and stubborn resistance from daily routines. Creative communication can help navigate any tension surrounding your work and well-being."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "You're balancing a desire for practical service and detailed matters with a deep emotional sensitivity concerning your home and family life. Communication about domestic affairs is crucial, and you might be called to nurture others while still attending to your own meticulous planning."
+      "text": "Your relationships are seeking practical expression and service, Virgo, making this an ideal time to show care through thoughtful action. Find emotional satisfaction in bringing order and support to your creative projects and romantic connections."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your social sphere and sense of belonging are highlighted, prompting you to seek harmony in group interactions and friendships. However, you might find yourself re-evaluating your personal values and self-worth due to Mars retrograde, particularly concerning your financial independence."
+      "text": "A significant culmination arises concerning your home life versus your public image, Libra; you're called to make decisions about foundational security. Seek harmony by balancing your personal needs for comfort with your career aspirations and responsibilities."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "With Mars retrograde in your sign, this is a powerful period of internal re-assessment regarding your drive, desires, and personal power. You're diving deep into your emotional core, and career aspirations might be linked to uncovering hidden family origins or psychological patterns."
+      "text": "Deep insights are revealed in your daily communications and learning, Scorpio, urging you to speak your truth with practical wisdom. Explore new philosophical perspectives that bring emotional depth and expansion to your worldview and travels."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your natural expansive and philosophical nature is amplified by Jupiter, prompting intellectual exploration and broad communication, especially within partnerships. Be aware that deep, hidden patterns or past psychological issues could surface, demanding your introspective attention."
+      "text": "Financial matters reach a peak today, Sagittarius, prompting you to review your shared resources, investments, and personal values. Transformative emotional experiences are supported by a grounded approach to your material well-being."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "You're navigating complex emotional and shared resource dynamics, possibly related to intimate partnerships or joint investments. Pluto retrograding in Aquarius suggests a powerful re-evaluation of your role within community and collective goals, impacting your personal finances."
+      "text": "This powerful Full Moon is in your sign, Capricorn, bringing personal illumination and a strong focus on your identity and sense of self. Balance your need for structure with the emotional generosity offered by your closest bonds and partnerships."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Relationships are a significant focus, as you seek balance between your independent nature and partnership needs, especially in daily routines. With Pluto retrograding in your sign, expect profound internal transformations regarding your identity and your unique contribution to society."
+      "text": "Unseen emotional currents are illuminated, Aquarius, urging you to release what no longer serves your daily routines and well-being. Focus on practical self-care and finding spiritual clarity amidst your work responsibilities and subconscious patterns."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your daily routines and well-being are in focus, encouraging practical attention to self-care and work-life balance. Saturn in your sign asks you to establish clearer boundaries and bring more discipline to your spiritual or creative pursuits, challenging any existing illusions about your path."
+      "text": "Your community and long-term goals come into sharp focus, Pisces, as you find emotional fulfillment through creative expression and genuine connections. Embrace your artistic spirit while aligning with your broader social aspirations and friendships."
     }
   ],
-  "date": "July 8, 2026"
+  "date": "July 9, 2026"
 }
