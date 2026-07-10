@@ -1,66 +1,66 @@
 {
-  "summary": "This July 9th is charged with the illuminating energy of a Full Moon in Capricorn, directly opposing the Sun and generous Jupiter in Cancer. This potent alignment brings a powerful culmination point, highlighting the dynamic interplay between personal emotional security, home life, and practical responsibilities or public ambition. Expect significant revelations and opportunities for growth as you navigate the balance between nurturing your inner world and meeting external demands.",
+  "summary": "July 10, 2026 brings a complex interplay of personal security versus transformative shifts, urging a re-evaluation of emotional foundations and material values. While a desire for bold self-expression emerges, unexpected events and underlying tensions around responsibility and power dynamics will require careful navigation and adaptability.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Your personal ambitions are under scrutiny today, Aries, as practical realities demand your attention and emotional maturity. Strive to find a healthy balance between your pioneering spirit and the needs of your home and family life."
+      "text": "Your energy is being redirected inward, prompting a critical re-evaluation of your material security and personal values. Unexpected financial or resource-related shifts demand flexibility, while your innate desire for independent action may feel softened by a spiritual or idealistic undertow."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Your actions are deliberate and grounded right now, Taurus, making this a powerful time to assert your needs and build tangible security. Focus on creating comfort and stability within your immediate environment and through your communications."
+      "text": "Your steadfast nature is met with electrifying change, as Mars retrograde conjunct Uranus in your sign creates unpredictable shifts in your personal life and finances. This is a potent time for reinventing your self-worth and embracing radical new approaches to stability, even if it feels unsettling."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your mind is buzzing with innovative ideas, Gemini, but be mindful of how you communicate your passions and express yourself. Harness this mental energy to foster growth within your personal finances and secure your sense of self-worth."
+      "text": "Your mind is exceptionally expansive, drawing you into diverse conversations and intellectual explorations that broaden your horizons. Express your ideas with confidence and a touch of dramatic flair, as your words hold significant influence and charm now."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "This Full Moon shines brightly on your relationships and partnerships, Cancer, urging you to balance personal emotional needs with practical obligations to others. Embrace opportunities for significant personal growth and nurturing secure, authentic connections."
+      "text": "This is a pivotal time for solidifying your emotional foundations and taking serious responsibility for your personal security and family life. You're building lasting structures, yet this process may bring underlying tensions as you navigate your individual needs against collective expectations or deeper psychological patterns."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your voice is strong and clear, Leo, but watch for potential clashes between your confident self-expression and stubborn resistance from daily routines. Creative communication can help navigate any tension surrounding your work and well-being."
+      "text": "Your natural radiance is amplified, making this a prime time for creative expression, romance, and self-promotion. Communicate your passions and affections boldly, but be mindful that a desire for freedom in your relationships or finances might spark unexpected developments."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your relationships are seeking practical expression and service, Virgo, making this an ideal time to show care through thoughtful action. Find emotional satisfaction in bringing order and support to your creative projects and romantic connections."
+      "text": "You're being gently guided to release old habits of excessive self-critique or over-analyzing the details of your service to others. Embrace a more compassionate and intuitive approach to your daily routines and well-being, trusting in a broader, more spiritual flow."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "A significant culmination arises concerning your home life versus your public image, Libra; you're called to make decisions about foundational security. Seek harmony by balancing your personal needs for comfort with your career aspirations and responsibilities."
+      "text": "Relationships and partnerships are a central focus, as you navigate a desire for harmony while facing emotional challenges related to commitment or personal security. You're called to balance your need for fairness with the demands of deeper emotional honesty, preparing for a period of intense introspection."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Deep insights are revealed in your daily communications and learning, Scorpio, urging you to speak your truth with practical wisdom. Explore new philosophical perspectives that bring emotional depth and expansion to your worldview and travels."
+      "text": "Deep emotional currents are stirred, pushing you to confront ingrained patterns and power dynamics, especially in shared resources or intimate connections. This is a powerful period of psychological transformation and release, as you shed old skins to emerge revitalized."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Financial matters reach a peak today, Sagittarius, prompting you to review your shared resources, investments, and personal values. Transformative emotional experiences are supported by a grounded approach to your material well-being."
+      "text": "Your thirst for knowledge and exploration finds fertile ground in intellectual pursuits and lively conversations, expanding your mental landscape. Opportunities for learning and connecting with diverse perspectives abound, fueling your optimistic and curious spirit."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "This powerful Full Moon is in your sign, Capricorn, bringing personal illumination and a strong focus on your identity and sense of self. Balance your need for structure with the emotional generosity offered by your closest bonds and partnerships."
+      "text": "Significant responsibilities concerning your home, family, or emotional well-being are paramount, demanding a mature and structured approach. You are laying down solid foundations for your long-term security, which may require navigating power struggles or deep-seated issues that challenge your control."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Unseen emotional currents are illuminated, Aquarius, urging you to release what no longer serves your daily routines and well-being. Focus on practical self-care and finding spiritual clarity amidst your work responsibilities and subconscious patterns."
+      "text": "Your personal identity and long-term vision are undergoing profound transformation, challenging you to release outdated structures and embrace radical self-reinvention. Unexpected shifts in your material world or value system act as catalysts, pushing you towards greater authenticity and freedom."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your community and long-term goals come into sharp focus, Pisces, as you find emotional fulfillment through creative expression and genuine connections. Embrace your artistic spirit while aligning with your broader social aspirations and friendships."
+      "text": "The universe encourages you to embrace compassion, intuition, and spiritual connection as you align with your higher purpose. Your idealistic visions are merging with an urge for independent action, guiding you to manifest your dreams with gentle determination and self-assurance."
     }
   ],
-  "date": "July 9, 2026"
+  "date": "July 10, 2026"
 }
