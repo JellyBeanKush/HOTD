@@ -1,66 +1,66 @@
 {
-  "summary": "This day is marked by a potent Cancer stellium (Sun, Venus, Jupiter) highlighting themes of nurturing, emotional security, and expansive growth within home and family life. However, this deep emotional focus is challenged by transformative shifts from Pluto retrograde in Aquarius and a call for re-evaluation of personal independence and collective responsibility due to Saturn and Neptune retrograde in Aries. Expect a mix of heartfelt connection and introspective review of foundational structures.",
+  "summary": "July 14, 2026, presents a dynamic interplay between emotional security and expansive, intellectual pursuits. While the Sun in Cancer encourages nurturing and home life, the Mars-Jupiter conjunction in Gemini ignites a restless drive for knowledge and communication. This energetic push, however, meets the grounding influence of Saturn in Pisces, urging practical considerations and spiritual discernment amidst the enthusiasm.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Saturn and Neptune retrograde in your sign, you're prompted to deeply reconsider your personal boundaries and what true independence means. This is a critical time for re-evaluating your life's direction and pioneering path, especially concerning your individual identity."
+      "text": "Your emotional directness is high today, making it a powerful time for personal initiatives. Be mindful of impulsive actions, channeling your assertiveness productively."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Mars in your sign provides a surge of grounded energy for pursuing your desires, while Uranus there suggests sudden shifts in your values or financial landscape. Be open to unexpected opportunities that challenge your comfort zone and bring new forms of security."
+      "text": "Your values and sense of security continue to evolve, prompted by unexpected shifts. Embrace innovation in your material world and personal definitions of comfort."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your communicative abilities are enhanced, though you might find a tension between your bold ideas and the action required for emotional security. This is a day to carefully consider how your plans align with your deeper emotional needs before making big moves."
+      "text": "With Mars and Jupiter in your sign, your energy and curiosity are amplified, driving you towards new intellectual adventures. Channel this expansive drive into focused learning and communication without scattering your efforts."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "With the Sun, Venus, and Jupiter all gracing your sign, you are radiating warmth, charm, and emotional abundance. This powerful stellium empowers you to nurture yourself and your loved ones, inviting significant personal growth and expanded well-being."
+      "text": "The Sun in your sign empowers your emotional core and highlights your need for security. Nurture your home life and inner world, finding strength in your foundations."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your communication takes on a bold, heart-centered flair, allowing you to express your ideas with confidence and creativity. Prepare for a period of significant expansion as Jupiter prepares to enter your sign, bringing good fortune and growth to your personal endeavors."
+      "text": "Your communication is bold and expressive, allowing you to articulate your ideas with confidence. Unexpected insights or challenges might arise, prompting you to adapt your message."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "While the spotlight isn't directly on you, the prevailing emotional currents suggest a time for tending to your inner world and planning future steps. Focus on grounding yourself and organizing your thoughts as you prepare for upcoming changes and responsibilities."
+      "text": "Practicality in relationships and personal values is key, guiding you to discern what truly serves you. You might face situations that challenge your ideals, requiring grounded decisions."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "The Moon transits your sign for much of the day, emphasizing harmony, relationships, and balance in your emotional world. Later, as the Moon enters Scorpio, you'll feel a pull towards deeper emotional connection and transformation, inviting introspection into shared resources."
+      "text": "Finding balance in your daily routines and partnerships is paramount. Pay attention to how your collaborative efforts impact your personal well-being."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "As the Moon moves into your sign, your emotions become more intense and your intuition heightened, urging you to explore deeper truths. You may feel a strong desire for transformation and a need to uncover hidden aspects of yourself or your intimate relationships."
+      "text": "Deep transformations in shared resources and intimate connections continue to reshape your perspective. Embrace the power of regeneration to build stronger foundations."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your adventurous spirit might feel a pull between personal freedom and responsibilities towards home and family. Seek ways to expand your horizons that also honor your roots and provide emotional security, perhaps through a creative or nurturing endeavor."
+      "text": "Your boundless enthusiasm for exploration might encounter a need for practical grounding or spiritual boundaries. Balance your expansive nature with a focus on core responsibilities."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "You might feel some tension between your long-term ambitions and your immediate need for emotional security and comfort within your relationships. This is a day to balance your practical goals with self-nurturing and compassionate understanding, especially in close partnerships."
+      "text": "Structure and discipline remain your strengths, helping you navigate emotional currents. Focus on building lasting foundations in your career and public image."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "With Pluto retrograde in your sign, deep transformation continues in areas of community, social ideals, and personal power within group dynamics. You are called to critically re-examine how you exert influence and contribute to collective change, particularly in your daily routines."
+      "text": "Pluto retrograde in your sign continues to prompt deep introspection regarding your role in collective change. Re-evaluate personal freedom and your contribution to innovative ideals."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your compassionate nature is amplified, and you're encouraged to tap into your intuition and creativity for self-expression and joy. Ensure you maintain healthy boundaries as emotional currents run strong, protecting your sensitive energy and focusing on what truly brings you happiness."
+      "text": "Saturn in your sign calls for clear boundaries and spiritual discipline. Integrate your compassionate nature with practical structures that support your growth and well-being."
     }
   ],
-  "date": "July 13, 2026"
+  "date": "July 14, 2026"
 }
