@@ -1,66 +1,66 @@
 {
-  "summary": "July 21, 2026, presents a dynamic blend of emotional depth and pioneering cosmic energy. With Jupiter expanding intuitive waters while Saturn and Neptune inspire active drive, breakthrough creative impulses merge with practical vision. It is a powerful day to trust your instincts and lay ground-level foundations for bold future endeavors.",
+  "summary": "The Sun enters its home sign of Leo today, ushering in a radiant shift toward dynamic self-expression, heart-centered leadership, and creative passion. With visionary outer planet transits inspiring bold action, this is a powerful time to step into your authentic light and embrace newfound confidence.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Cosmic forces in your sign urge you to balance ambitious dreams with practical discipline. Trust your leadership instincts today as a dynamic shift opens clear pathways toward personal reinvention."
+      "text": "With Saturn and Neptune anchoring your sign, you are balancing practical discipline with profound spiritual reorientation. Focus today on channeling your fiery initiative into long-term creative goals that align with your higher purpose."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Reflective energy invites you to quiet your mind and honor your private emotional growth. A subtle personal breakthrough occurs when you trust your inner timing over external pressure."
+      "text": "The shifting solar energy encourages you to find comfort in your home life while processing subtle emotional realignments. Take time to nourish your roots, as quiet reflection will yield strong financial and personal clarity."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Electric social connections bring inspiring intellectual sparks that expand your future plans. Collaborate with forward-thinking friends who encourage your unique vision."
+      "text": "Uranus in your sign continues to spark innovative ideas, making your mind sharper and more inventive than usual. Share your vision with local networks and welcome unexpected conversations that open exciting new horizons."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Jupiter in your sign continues to amplify your natural magnetism and professional visibility. Express your core values boldly to attract meaningful career advancements."
+      "text": "As the Sun leaves your sign while Jupiter continues to expand your resources, confidence in your talents reaches a high point. Focus on solidifying your financial ground and celebrating how much you have grown over the past year."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "As the Sun prepares to enter your sign, take time to integrate recent spiritual growth. Your internal fire is quietly building, preparing you for a radiant new personal cycle."
+      "text": "Happy birthday season begins as the Sun enters your sign, invigorating your vitality, charisma, and personal presence. Step boldly into the spotlight and set ambitious, heart-led intentions for your upcoming personal year."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Collaborative endeavors and community projects bring deep emotional fulfillment today. Stay receptive to unconventional wisdom offered by a trusted ally."
+      "text": "Solar energy shifting into your twelfth house signals a restful period of intuitive reflection, dreamwork, and closure. Prioritize self-care and allow your inner wisdom to guide your future plans behind the scenes."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Harmonizing your career trajectory with your personal life yields rewarding professional clarity. A creative approach to leadership earns respect from peers and mentors alike."
+      "text": "Your social sphere lights up with creative potential as collaborative projects receive a sudden boost of enthusiastic energy. Connect with visionary friends who inspire you to dream bigger and express your true individuality."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Expanding your horizons through new learning or long-term planning unlocks profound insights. Trust your transformative nature as you step outside of your comfort zone."
+      "text": "Career ambitions take center stage today as solar energy illuminates the top of your chart, bringing recognition for your dedication. Stand tall in your authority and trust your instincts when navigating major professional opportunities."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Focusing on shared commitments and deep emotional ties reveals pathways to personal empowerment. Embrace necessary inner shifts to create long-term stability."
+      "text": "A fiery rush of optimism inspires you to seek new philosophical horizons, plan travel, or dive into higher learning. Embrace bold perspectives today and let your adventurous spirit lead you toward expanding your worldview."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "One-on-one partnerships are highlighted with an influx of warmth and practical support. Balance your ambitious goals with open, empathetic dialogue with key allies."
+      "text": "Deep transformative energy invites you to release outdated habits and focus on shared resources or emotional intimacy. Trust the process of internal renewal, as honest vulnerability will strengthen your closest commitments."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Reinventing your daily routines allows you to reclaim vital personal energy and focus. Prioritize practical self-care that aligns your work habits with your highest truth."
+      "text": "Pluto in your sign combined with solar focus on your partnership sector highlights key dynamics in your relationships. Focus on mutual growth and authentic communication to build balanced, empowering connections."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Creative inspiration flows effortlessly as your intuitive vision meets grounded initiative. Channel this vibrant artistic energy into passion projects that spark genuine joy."
+      "text": "The Leo Sun energizes your daily routines and wellness, encouraging you to bring passion into your practical duties. Small, intentional upgrades to your health habits will boost both your physical vitality and productivity."
     }
   ],
-  "date": "July 21, 2026"
+  "date": "July 22, 2026"
 }
