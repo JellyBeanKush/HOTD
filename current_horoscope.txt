@@ -1,66 +1,66 @@
 {
-  "summary": "With the Sun and expansive Jupiter igniting vibrant Leo, today unleashes a powerful wave of creative confidence and joyful self-expression. As fire and air transits dominate the cosmic landscape, bold initiatives find strong momentum, encouraging everyone to step proudly into their personal spotlight.",
+  "summary": "The Sun and Jupiter unite in radiant Leo, igniting a wave of dramatic confidence, creativity, and expansive optimism across the zodiac. With Saturn and Neptune anchoring in pioneering Aries, visionary ideas demand both courageous initiative and disciplined effort.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Saturn and Neptune in your sign urge you to balance visionary dreams with practical discipline today. Tap into the radiant Leo energy to launch passion projects with undeniable confidence."
+      "text": "Saturn and Neptune in your sign encourage you to build your personal dreams with steady determination. Lean into the vibrant Leo energy today to express your passions with undeniable confidence."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Focus your energy on refining your sanctuary and strengthening domestic ties as planetary light illuminates your home sector. Unexpected creative insights will help you solve a lingering personal dilemma."
+      "text": "Expansive planetary alignments illuminate your domestic sphere, bringing warmth and abundance to your home life. Focus on creating an inspiring personal sanctuary that grounds your spirit."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Uranus in your sign fuels your intellectual curiosity, making this an ideal day for dynamic conversations and networking. Your words carry extra warmth and persuasion, so share your boldest ideas freely."
+      "text": "Your communication sector lights up, making this a prime moment to pitch bold ideas and connect with dynamic minds. Share your visionary thoughts openly, as your voice carries magnetic influence."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "As the cosmic focus shifts, your attention turns toward solidifying financial goals and recognizing your true worth. Generous planetary alignments encourage you to invest wisely in your long-term talents."
+      "text": "Generous transits bring a boost to your financial outlook and sense of personal value. Invest in opportunities that align with your long-term security and nourish your self-worth."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "With both the Sun and jovial Jupiter gracing your sign, your magnetism and optimism are at an all-time peak today. Step forward into new opportunities, as the universe is fully conspiring in your favor."
+      "text": "With the Sun and Jupiter magnifying your sign, your charisma and vitality reach an extraordinary peak. Step boldly onto center stage and launch heart-centered projects that showcase your authentic power."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Introspective cosmic energies invite you to step back and recharge your mental and spiritual batteries today. Pay close attention to your vivid dreams, as they hold valuable keys to your next big move."
+      "text": "Quiet contemplation and spiritual rest offer deeper breakthroughs than busy activity today. Pay close attention to your dreams, as your intuition is delivering powerful guidance."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Collaborative projects flourish under today's skies, bringing uplifting and influential connections into your social circle. Lead your community with natural charm, as shared vision breeds incredible success."
+      "text": "Your social circle expands with warm, supportive allies who share your grandest aspirations. Collaborate enthusiastically, as group efforts will spark incredible future possibilities."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "The cosmic spotlight turns directly toward your professional achievements, offering prime opportunities for career advancement. Trust your authority and step forward without hesitation as others look to you for guidance."
+      "text": "Career momentum accelerates rapidly under today's auspicious planetary beam focused on your professional life. Claim your authority and take ambitious steps toward leadership opportunities."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "A fiery urge for adventure inspires you to expand your horizons through learning or bold new travel plans. Embrace spontaneity today, as favorable alignments reward your daring leaps of faith."
+      "text": "A strong thirst for adventure and higher learning pushes you to step far outside your comfort zone. Trust your optimism and explore new philosophical or geographical horizons."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Deep emotional transformations and shared financial matters come into clear, productive focus today. Embrace honest conversations to release old limitations and forge powerful, lasting commitments."
+      "text": "Deep emotional connections and shared investments receive a powerful surge of transformative energy. Vulnerability in your closest relationships will unlock unprecedented trust and mutual strength."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Dynamic relationship opportunities highlight your path to personal growth while Pluto transforms your sign. Open your heart to authentic partnerships that inspire and support your visionary ambitions."
+      "text": "Radiant light shines upon your one-on-one partnerships, fostering joy, generosity, and mutual growth. Open your heart to meaningful collaborations that expand your world."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Today's transits bring a fresh burst of vitality to streamline your daily routines and wellness practices. Small, intentional adjustments in your work environment will yield massive improvements in your peace of mind."
+      "text": "Infuse your daily routines and wellness practices with renewed enthusiasm and pride. Small, positive habits established now will build a magnificent foundation for your physical vitality."
     }
   ],
-  "date": "July 23, 2026"
+  "date": "July 24, 2026"
 }
