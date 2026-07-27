@@ -1,66 +1,66 @@
 {
-  "summary": "On July 26, 2026, dynamic cosmic energy prevails as the Sun in Leo aligns with expansive Jupiter, igniting creativity, confidence, and passion across the zodiac. With pioneering Saturn in Aries encouraging decisive momentum, this is a powerful day to pursue courageous initiatives and trust your heart's desires.",
+  "summary": "With the Sun radiant in Leo and dynamic cosmic alignments inspiring innovation, today brings a powerful burst of creative confidence. It is an ideal moment to align your passion projects with forward-thinking strategies and embrace bold personal growth.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Saturn in your sign demands discipline while the vibrant Leo energy sparks your creative fire. Focus your passion into tangible goals today to build long-lasting success."
+      "text": "Your natural drive is heightened today, inspiring you to step into leadership roles with newfound vigor. Direct this passionate energy into personal projects that require courage and a fresh perspective."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Powerful solar influences bring warmth and abundance to your domestic sphere and emotional roots. Take time to nurture family bonds and elevate your personal sanctuary."
+      "text": "Grounding cosmic influences encourage you to solidify your personal plans while remaining open to unexpected family insights. Focus on creating a stable foundation that honors both your security needs and future aspirations."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Innovative thoughts surge through your mind as cosmic transits enliven your communication house. Share your visionary ideas with your community to spark inspiring new collaborations."
+      "text": "Brilliant ideas flow effortlessly today, making it a prime time for strategic communication and learning. Share your visionary thoughts with trusted peers who can help bring your creative concepts to life."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Expansive energy lights up your financial sector, encouraging you to step into your true worth. Claim new opportunities for prosperity with complete confidence in your abilities."
+      "text": "Financial clarity comes into focus as you re-evaluate what truly brings you emotional and physical security. Trust your intuitive instincts when making decisions regarding investments and personal values."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The Sun and Jupiter unite in your sign, bestowing exceptional charisma, optimism, and vital energy. Step boldly into the spotlight and lead with your generous heart."
+      "text": "The Sun illuminating your sign boosts your vitality and places your personal goals squarely in the spotlight. Radiate your natural charisma, but remain mindful of balancing self-expression with dynamic collaboration."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Deep intuitive insights emerge today as planetary currents highlight your reflective inner world. Trust your instincts to release old patterns and make room for emotional renewal."
+      "text": "Subtle planetary shifts encourage a period of restful introspection and mental decluttering today. Pay close attention to your subtle creative insights, as they hold valuable keys to your next practical steps."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Social connections and collaborative projects receive a major boost of enthusiasm today. Lean into your network, as a friend may present a thrilling vision for your future."
+      "text": "Social connections offer vibrant inspiration, opening doors to exciting collaborative ventures and fresh friendships. Lean into your diplomatic nature to facilitate meaningful dynamic growth within your community."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Your professional ambitions and public reputation shine bright under current planetary alignments. Take decisive strides toward your career goals while your dedication is fully visible."
+      "text": "Career ambitions take center stage as cosmic aspects push you to step assertively into your professional authority. Focus on long-term strategy and embrace the constructive changes required to reach your goals."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "A fiery wave of inspiration urges you to expand your horizons through learning or travel. Embrace bold spiritual and intellectual adventures that broaden your perspective."
+      "text": "A thirst for adventure and higher understanding invites you to expand your intellectual and physical horizons. Seek out broad perspectives that challenge your current outlook and invigorate your spirit."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Transformative cosmic energy encourages meaningful bonding and shared financial growth. Open yourself to vulnerable conversations that build deep trust and mutual empowerment."
+      "text": "Intense focus on shared resources prompts strategic conversations about trust and long-term commitments. Embrace key personal adjustments today to unlock greater emotional and financial freedom moving forward."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Relationships take center stage as warm planetary forces brighten your partnership sector. Cultivate joyful connections that celebrate both your independence and mutual respect."
+      "text": "Transformative energy highlights dynamic shifts in your one-on-one relationships, urging authentic personal alignment. Focus on mutual respect and transparent communication to deepen your most significant bonds."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Creative enthusiasm infuses your daily work routines and wellness practices today. Reorganize your schedule to bring more efficiency, vitality, and joy to your everyday life."
+      "text": "Cosmic energy supports streamlining your daily habits and prioritizing overall wellness routines. Small, intentional adjustments made today will yield profound long-term benefits for your vitality."
     }
   ],
-  "date": "July 26, 2026"
+  "date": "July 27, 2026"
 }
