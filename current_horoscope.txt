@@ -1,66 +1,66 @@
 {
-  "summary": "With the Sun radiant in Leo and dynamic cosmic alignments inspiring innovation, today brings a powerful burst of creative confidence. It is an ideal moment to align your passion projects with forward-thinking strategies and embrace bold personal growth.",
+  "summary": "The cosmic energy on July 28, 2026, radiates high creative confidence and passionate momentum as the Sun and Jupiter align in bold Leo. Meanwhile, Saturn and Neptune in Aries push for courageous self-definition and structured action toward new frontiers. It is a powerful day to step into the spotlight, embrace visionary ambitions, and lead from the heart.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Your natural drive is heightened today, inspiring you to step into leadership roles with newfound vigor. Direct this passionate energy into personal projects that require courage and a fresh perspective."
+      "text": "Saturn and Neptune in your sign demand that you build your boldest dreams on solid foundations. Channel your raw drive into disciplined action, as major leadership opportunities are calling your name."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Grounding cosmic influences encourage you to solidify your personal plans while remaining open to unexpected family insights. Focus on creating a stable foundation that honors both your security needs and future aspirations."
+      "text": "Your focus turns inward toward home and emotional security, prompting deep reflections on what truly grounds you. Expressing your heartfelt desires to loved ones today unlocks unexpected joy and long-term stability."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Brilliant ideas flow effortlessly today, making it a prime time for strategic communication and learning. Share your visionary thoughts with trusted peers who can help bring your creative concepts to life."
+      "text": "With Uranus revitalizing your intellect, groundbreaking ideas come to you with effortless speed today. Share your unique perspective with your network, as brilliant sparks in conversation can ignite major future success."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Financial clarity comes into focus as you re-evaluate what truly brings you emotional and physical security. Trust your intuitive instincts when making decisions regarding investments and personal values."
+      "text": "Radiant energy hits your financial sector, inspiring you to claim your worth and seek new avenues of abundance. Trust your instincts when negotiating terms or investing in pursuits that support your emotional and material growth."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The Sun illuminating your sign boosts your vitality and places your personal goals squarely in the spotlight. Radiate your natural charisma, but remain mindful of balancing self-expression with dynamic collaboration."
+      "text": "The Sun and Jupiter illuminating your sign fill you with magnetic confidence, warmth, and expansive vitality. Take center stage and launch your favorite passion projects, as the cosmos fully supports your self-expression."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Subtle planetary shifts encourage a period of restful introspection and mental decluttering today. Pay close attention to your subtle creative insights, as they hold valuable keys to your next practical steps."
+      "text": "Quiet introspection brings profound psychological breakthroughs as hidden personal strengths come into full view. Honor your need for solitude and spiritual alignment before stepping back into the busy world."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Social connections offer vibrant inspiration, opening doors to exciting collaborative ventures and fresh friendships. Lean into your diplomatic nature to facilitate meaningful dynamic growth within your community."
+      "text": "Your social sphere shines under dynamic cosmic influences, encouraging inspiring collaborations and vibrant community work. Connect with visionary friends who share your values, as teamwork yields remarkable growth right now."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Career ambitions take center stage as cosmic aspects push you to step assertively into your professional authority. Focus on long-term strategy and embrace the constructive changes required to reach your goals."
+      "text": "Ambition takes center stage as high-visibility opportunities manifest in your professional realm. Stand tall in your personal authority and allow your undeniable talents to speak for themselves."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "A thirst for adventure and higher understanding invites you to expand your intellectual and physical horizons. Seek out broad perspectives that challenge your current outlook and invigorate your spirit."
+      "text": "A powerful urge for expansion pushes you to explore new horizons through travel, study, or bold philosophical pursuits. Embrace fresh perspectives today, as open-mindedness will lead directly to a major breakthrough."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Intense focus on shared resources prompts strategic conversations about trust and long-term commitments. Embrace key personal adjustments today to unlock greater emotional and financial freedom moving forward."
+      "text": "Deep transformative shifts encourage you to release outmoded attachments and cultivate stronger shared resources. Practicing vulnerability will fortify your key bonds, unlocking newfound emotional and financial power."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Transformative energy highlights dynamic shifts in your one-on-one relationships, urging authentic personal alignment. Focus on mutual respect and transparent communication to deepen your most significant bonds."
+      "text": "Relationships take absolute priority under today's sky, bringing warmth and creative expansion to your closest partnerships. Stay open to dynamic collaborations that challenge you and elevate your long-term vision."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Cosmic energy supports streamlining your daily habits and prioritizing overall wellness routines. Small, intentional adjustments made today will yield profound long-term benefits for your vitality."
+      "text": "Positive energy flows into your daily routines and wellness habits, urging you to optimize your lifestyle. Implementing creative solutions to your work-life balance brings immediate relief and renewed vitality."
     }
   ],
-  "date": "July 27, 2026"
+  "date": "July 28, 2026"
 }
