@@ -1,66 +1,66 @@
 {
-  "summary": "With the Sun and Jupiter joining forces in dynamic Leo alongside groundbreaking energy in Air and Fire signs, July 30, 2026, presents an extraordinary atmosphere for bold self-expression and creative breakthroughs. This powerful cosmic alignment encourages us to step into our personal authority while fearlessly innovating for the collective good. It is a day to lead with generosity, embrace transformative ideas, and celebrate authentic individuality.",
+  "summary": "July 31, 2026, electrifies the air with a potent blend of innovation and unpredictability. The close conjunction of Mars and Uranus in Gemini sparks radical ideas and sudden shifts in action, while a challenging Venus-Uranus square may bring unexpected twists to relationships and financial matters. Expect a day marked by a strong urge for freedom and mental breakthroughs, tempered by the Moon in Aquarius aligning with Pluto retrograde, prompting a deeper look at collective power and emotional detachment.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Disciplined Fire energy empowers you to turn your visionary ideas into concrete achievements today. Trust your leadership instincts, but remember that patience will make your ultimate victory far sweeter."
+      "text": "Your ruling planet Mars conjoins Uranus in Gemini, igniting a surge of innovative ideas and a restless urge for new forms of communication or learning. Embrace this pioneering mental energy to break free from old thought patterns, but be mindful of sudden impulses."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Warm cosmic energy illuminates your home sector, urging you to create space for both personal rest and creative expression. Balancing your need for stability with a touch of spontaneous flair brings deep satisfaction."
+      "text": "With your ruler Venus squaring Uranus, prepare for unexpected developments in your relationships or financial matters, challenging your need for security and comfort. This is a potent time to experiment with unconventional approaches to love or resources, embracing change rather than resisting it."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your intellect is supercharged today, making it an ideal time for brilliant breakthroughs and compelling communication. Share your forward-thinking ideas widely, as your words hold the power to inspire real change."
+      "text": "A powerful conjunction of Mars and Uranus in your sign supercharges your intellect and drive, bringing groundbreaking ideas and a strong desire for personal freedom. Channel this potent, restless energy into innovative projects or communication, but be aware of its potential for abrupt shifts and impulsive actions."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Focus turns toward your resources and self-worth, highlighting dynamic opportunities to increase your abundance. Believe in the unique value you bring to the table and invest in your long-term security."
+      "text": "Jupiter in your sign continues to expand your sense of self and emotional well-being, especially concerning home and family, while opposing Pluto retrograde. This alignment prompts significant growth by encouraging you to confront deep-seated power dynamics within your community or social circles."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "With the Sun and optimistic Jupiter expanding your sign, your natural radiance and magnetic presence are at an all-time high. Step boldly into the spotlight and launch the personal endeavors closest to your heart."
+      "text": "The Sun and Mercury in your sign amplify your natural confidence and communication skills, making it an excellent time for bold self-expression and sharing your unique ideas. You'll find a supportive energy for structuring your creative passions and asserting your leadership."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Subtle, reflective transits invite you to look inward and honor your spiritual growth before taking public action. Quiet insights today will provide the exact blueprint you need for upcoming professional moves."
+      "text": "With Venus in your sign, your relationships and values are infused with a practical and discerning energy, focused on service and attention to detail. However, Venus's square to Uranus suggests unexpected changes or a need for more freedom in your connections, challenging your desire for perfection."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your social circle becomes a catalyst for inspiration and exciting new collaborative possibilities today. Seek out visionary allies who uplift your creative spirit and support your highest ambitions."
+      "text": "This day may bring unexpected dynamics within your close relationships, as the active Venus-Uranus square urges a need for both connection and individual freedom. Seek balance by being open to unconventional approaches and embracing a more independent spirit within your partnerships."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Career momentum reaches a powerful peak as your professional talents capture key attention. Lead with confidence and allow your authentic passion to showcase your expertise."
+      "text": "Your traditional ruler Mars conjuncting Uranus ignites your intellect with a sudden urge for transformation and an intense drive to uncover hidden truths in your immediate environment. Simultaneously, the developing Jupiter-Pluto opposition encourages deep growth by confronting power dynamics in your shared resources or intimate connections."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "An expansive surge of energy activates your desire for travel, higher learning, and broad new horizons. Embrace adventurous opportunities that stretch your mindset and share your optimism with everyone you meet."
+      "text": "Jupiter's position in Cancer highlights themes of emotional security and deep intimacy, prompting you to nurture your roots and shared resources. This transit encourages profound growth through empathy, but may also bring a gentle tension as you reassess collective values and power structures."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Deep transformational transits encourage you to streamline shared investments and emotional bonds. Honesty and strategic focus will help you release old patterns and build lasting power."
+      "text": "Your ruler, Saturn in Aries, encourages disciplined action and maturing your sense of independence, particularly in areas of home and personal foundations. You're called to build structure around your assertiveness, ensuring your foundational security aligns with your long-term goals and boundaries."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "One-on-one relationships are highlighted under vibrant cosmic energy, encouraging warm and generous connections. Balancing your fierce independence with open-hearted collaboration brings profound mutual growth."
+      "text": "With your ruler Uranus conjunct Mars in Gemini, your mind is buzzing with innovative ideas and a powerful drive to enact sudden, progressive changes in your self-expression. The Moon's transit through your sign, aligning with Pluto retrograde, intensifies your emotional connection to collective ideals and personal transformation."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your focus shifts toward optimizing daily habits, work routines, and overall well-being. Ground your vivid imagination in practical actions to build a sustainable, inspiring everyday lifestyle."
+      "text": "Your traditional ruler Jupiter in Cancer fosters deep emotional growth and a focus on nurturing your inner world or family connections. While Neptune retrograde in Aries encourages a re-evaluation of your sense of self and spiritual courage, guiding you towards inner introspection and dissolving old identities."
     }
   ],
-  "date": "July 30, 2026"
+  "date": "July 31, 2026"
 }
