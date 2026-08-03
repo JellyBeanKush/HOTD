@@ -1,66 +1,66 @@
 {
-  "summary": "The cosmos on August 2, 2026, features the Sun and Mercury in confident Leo, radiating a powerful call for self-expression and leadership. Mars and Uranus conjunct in Taurus ignite a potent desire for sudden, transformative shifts in personal values and financial landscapes. Meanwhile, the Moon entering Libra brings a focus on harmonizing relationships and seeking balance amidst dynamic energies.",
+  "summary": "August 3, 2026 brings an invigorating blend of fiery passion and swift intellectual movement as the Sun and Jupiter align in Leo while Mars energizes Gemini. This celestial alignment encourages bold self-expression, rapid idea generation, and courageous steps toward your long-term ambitions.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Your pioneering spirit is strongly activated, urging you to assert your individuality and leadership in new ways. Embrace opportunities to redefine your personal courage and direct your path forward, especially in self-discovery."
+      "text": "With Saturn and Neptune in your sign, you are feeling a deep call to ground your visionary dreams into tangible reality. Direct your fiery enthusiasm toward personal projects that honor both your discipline and creative instincts."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "You're feeling a powerful urge for personal freedom and sudden, potentially revolutionary changes in your values or financial approach. This is a pivotal time to break free from old patterns and ground innovative ideas into practical action."
+      "text": "As the Moon glides into your domain, prioritize grounding self-care while reflecting on recent financial insights. Steady persistence will help you turn dynamic ideas into lasting security."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your mind is alight with creative ideas and the desire for bold self-expression through communication and local connections. Unexpected shifts behind the scenes might prompt you to re-evaluate your domestic life or inner sense of security."
+      "text": "Mars and Uranus in your sign spark an unstoppable urge to innovate and express your unique perspective. Stay open to unexpected breakthroughs, but channel your high energy into focused action."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Jupiter in your sign amplifies your emotional growth and sense of security, especially within your home and family life. Focus on nurturing your inner world and finding stability through your personal values and how you manage your resources."
+      "text": "Vibrant Leo energy highlights your values sector, prompting you to evaluate what truly brings you long-term stability. Take quiet time to recharge your inner reserves before stepping into upcoming opportunities."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "With the Sun and Mercury in your sign, your confidence and communication are at an all-time high, ready for bold self-expression and creative pursuits. Be mindful of power dynamics in significant relationships, as a deep transformation of your identity may be unfolding."
+      "text": "With the Sun and expansive Jupiter lighting up your sign, your charisma and confidence are at an all-time peak. Embrace the spotlight to launch passionate endeavors, but remain mindful of collaborative efforts."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Venus in your sign enhances your charm and brings a practical, discerning energy to your relationships and daily routines. You may find innovative solutions to material concerns or experience unexpected, positive shifts in your work life."
+      "text": "Introspective planetary energy encourages you to declutter your mind and refine your professional strategies behind the scenes. Trust that quiet preparation now will lead to significant public success soon."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "The Moon's ingress into your sign highlights your need for balance and harmony in relationships and social interactions. This is a crucial time to address karmic patterns and assert your needs without sacrificing your core values."
+      "text": "Dynamic social transits stimulate your network and invite exciting new collaborations into your sphere. Share your creative vision openly, as group efforts hold immense transformative potential today."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Tensions may arise between your personal ambitions and the need for deeper intimacy or shared resources with others. You might encounter surprising challenges in close partnerships, demanding a re-evaluation of shared commitments."
+      "text": "Career ambitions take center stage today as cosmic movements push you to claim your authority and public standing. Channel your intensity into productive leadership while maintaining balance in personal relationships."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your adventurous spirit is boosted, inspiring you to explore new philosophies, plan travel, or expand your mind through higher learning. Financial or intimate relationships may offer opportunities for significant growth and deeper understanding."
+      "text": "Your adventurous spirit is awakened by harmonious fire and air transits, inspiring new philosophical quests or travel plans. Expand your horizons confidently, trusting that your wisdom will guide your path."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "You're encouraged to transform your relationship with your personal resources and values, embracing new ways of defining security and stability. Communications and daily interactions might require a re-evaluation of your boundaries or spiritual beliefs."
+      "text": "Deep personal transformation is favored as you navigate joint resources and shared emotional commitments. Focus on releasing outdated patterns to build a more authentic foundation for your future."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Your sense of individuality and collective purpose is undergoing profound transformation, challenging your ego in significant partnerships. Embrace your unique vision and use your social connections to inspire deep change within your community."
+      "text": "Pluto in your sign combined with dynamic air energy brings profound insights to your key relationships and contracts. Be honest about your desire for independence while cultivating meaningful, equal partnerships."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Saturn's retrograde in your sign prompts a deep review of your personal responsibilities, boundaries, and spiritual path. This period encourages profound emotional and creative growth, allowing you to solidify your dreams with practical effort."
+      "text": "Focus on your daily routines and well-being, using today's uplifting alignment to fine-tune your creative habits. Small, intuitive adjustments in your schedule will yield powerful health and productivity benefits."
     }
   ],
-  "date": "August 2, 2026"
+  "date": "August 3, 2026"
 }
