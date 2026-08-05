@@ -1,66 +1,66 @@
 {
-  "summary": "On August 4, 2026, the vibrant Leo Sun energizes our collective desire for creative self-expression and courageous leadership. Meanwhile, balanced planetary aspects encourage us to ground our boldest passions in practical, actionable steps.",
+  "summary": "August 5, 2026, carries a vibrant and expansive atmosphere dominated by radiant Leo energy and dynamic fire-air alignments. Visionary ideas and bold self-expression take center stage, encouraging everyone to act on their passions with confidence.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The Leo Sun lights up your creative sector, urging you to express your unique talents without hesitation. Trust your intuitive sparks today, as they point toward exciting personal breakthroughs."
+      "text": "With Saturn and Neptune anchoring your sign, disciplined dreaming is your greatest superpower today. Channel your passionate momentum into building a lasting personal foundation."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Focus turns toward your domestic sphere, encouraging you to nurture your inner sanctuary and family connections. A grounded aspect helps you solve practical household matters with calm efficiency."
+      "text": "Grounding your home life helps balance the fast-moving social energy surrounding you. Take time to nourish your inner sanctuary while staying open to fresh practical ideas."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Dynamic cosmic energy sharpens your intellect and inspires stimulating conversations with those around you. Stay open to spontaneous local news or learning opportunities that broaden your outlook."
+      "text": "Uranus in your sign sparks brilliant intellectual breakthroughs and unexpected, exciting conversations. Share your unique perspective freely, as others are eager to follow your lead."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Financial clarity arrives today, giving you the confidence to align your budget with your long-term values. A thoughtful approach to your resources will bring a sense of grounded security."
+      "text": "Lucrative possibilities shine brightly under current planetary alignments, rewarding your diligent planning. Trust your strong intuition when making decisions about your resources and self-worth."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "With the Sun illuminating your sign, your natural magnetism and vitality reach a powerful peak today. Channel this radiant momentum into personal passion projects that truly reflect your authentic self."
+      "text": "With the Sun and expansive Jupiter electrifying your sign, your charisma and vitality reach magnificent new heights. Step boldly into the spotlight and launch the personal projects close to your heart."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Quiet reflection provides profound emotional insights and helps restore your mental clarity. Prioritize rest and solitude today so you can recharge for upcoming professional opportunities."
+      "text": "Quiet reflection brings powerful clarity to long-standing personal dilemmas today. Give yourself space to rest, allowing your inner wisdom to guide your next moves."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Collaborative energy flourishes in your social sector, making this an ideal moment for networking and group ventures. Your diplomatic flair helps build meaningful connections that support your future aspirations."
+      "text": "Collaborative endeavors flourish as fiery cosmic alignments activate your social connection sector. Connect with inspiring networks and allies who share your vision for the future."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Your career ambitions take center stage as key figures notice your dedication and sharp instincts. Strategic moves executed now will lay a solid foundation for long-term recognition."
+      "text": "Your professional ambitions receive a potent surge of motivation and visibility today. Stand firm in your authority while welcoming creative innovations in your career path."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "An adventurous transit encourages you to seek out fresh perspectives, higher learning, or physical travel. Embrace new philosophical views that challenge and expand your current worldview."
+      "text": "Your thirst for adventure and higher knowledge is intensely sparked by harmonious cosmic transits. Expand your horizons through new philosophical pursuits, creative projects, or travel plans."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Shared resources and deep emotional bonds require your focused, pragmatic attention today. Honest communication will strengthen your closest partnerships and foster lasting trust."
+      "text": "Deep insights help transform your approach to shared assets and emotional vulnerability. Direct your natural discipline toward releasing past fears and cultivating genuine trust."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "One-on-one relationships take precedence as harmonious energies favor collaboration and mutual understanding. Listening closely to a partner's perspective will unlock creative solutions for both of you."
+      "text": "Key partnerships take center stage today, encouraging dynamic collaboration and mutual growth. Embrace unconventional approaches to connection that inspire both freedom and loyalty."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your daily routines and physical well-being call for gentle recalibration and thoughtful care. Implementing small, healthy habits today will boost your energy and streamline your workload."
+      "text": "Focusing on your daily routines and well-being brings a deeply satisfying sense of balance. Small, intentional updates to your lifestyle will yield lasting physical and mental vitality."
     }
   ],
-  "date": "August 4, 2026"
+  "date": "August 5, 2026"
 }
