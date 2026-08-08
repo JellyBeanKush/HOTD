@@ -1,66 +1,66 @@
 {
-  "summary": "The Sun's journey through vibrant Leo highlights creative self-expression and dynamic personal authority. Meanwhile, supportive outer planet transits foster visionary thinking while grounding intuition into actionable momentum.",
+  "summary": "August 8, 2026, radiates vibrant creative energy as the buoyant Leo Sun harmonizes with dynamic air and fire transits. The communicative Gemini Moon encourages lively intellectual exchanges and curious exploration. Embrace bold self-expression today while remaining open to sudden, brilliant flashes of insight.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With transformative transits energizing your sign, focus your fiery enthusiasm into disciplined, long-term goals. Visionary thinking combined with structured action will yield significant personal breakthroughs today."
+      "text": "With Saturn in your sign forming supportive alignments, your focused efforts turn ambitious visions into tangible reality today. Express your boldest ideas freely, as others are eager to champion your natural leadership."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "The Leo Sun illuminates your foundation, encouraging you to bring warmth and security into your sanctuary. Focus on stabilizing your emotional core while remaining open to innovative ideas from loved ones."
+      "text": "Financial and personal opportunities emerge through unexpected channels, prompting you to rethink how you utilize your resources. Ground yourself in physical comfort while staying open to innovative ways to build security."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Electric transits in your sign amplify mental agility and draw exciting intellectual opportunities to your doorstep. Express your unique perspective clearly, but take time to anchor your ideas into realistic steps."
+      "text": "The Moon in your sign amplifies your innate charm, making this an ideal day for persuasive communication and lively networking. Your quick wit inspires those around you to view persistent challenges from a fresh perspective."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Expansive energy continues to uplift your confidence, allowing your natural intuition to guide major personal decisions. Focus on nurturing your values and trust that your self-worth is expanding rapidly."
+      "text": "Jupiter exalted in your sign enhances your intuition and brings a deep sense of emotional and personal renewal. Trust your instincts to guide you toward nurturing both your self-care and your highest ambitions."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Solar power radiates through your sign, enhancing your natural charisma, vitality, and creative leadership. Step boldly into the spotlight and launch initiatives that reflect your authentic passions."
+      "text": "Solar energy fills your spirit with magnetic confidence, placing your talents squarely in the spotlight today. Share your passionate artistic vision with friends and allies to spark an inspiring group achievement."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Quiet reflection provides profound clarity as subtle cosmic shifts highlight your inner world. Allow yourself rest today, as subconscious insights will reveal your best strategic moves forward."
+      "text": "Quiet moments of strategic reflection reveal a creative breakthrough regarding your long-term career path. Combine your signature attention to detail with bold inspiration to build an enduring professional strategy."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Collaborative energy flourishes, bringing inspiring allies and supportive networks into your orbit. Share your vision openly with friends who align with your highest long-term aspirations."
+      "text": "Expanding your mental horizons through stimulating conversations or learning opportunities brings profound joy today. Connect with diverse communities to discover fresh perspectives that harmonize your creative drive."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Your professional drive receives a powerful boost, urging you to showcase your innate authority and skill. Align your strategic ambitions with your personal values to secure lasting progress."
+      "text": "Deep emotional insights empower you to release outdated patterns and step fully into your personal power. Collaborative ventures offer substantial rewards when you balance strategic control with honest vulnerability."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "A supportive cosmic backdrop expands your horizons and sparks a desire for deeper wisdom. Seek out new learning experiences, travel opportunities, or philosophical pursuits that stretch your mind."
+      "text": "Dynamic partnership energy invites you to explore inspiring new intellectual and creative territories alongside others. Seek out connections that challenge your current worldview and fuel your innate love for adventure."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Focus shifts to deep emotional transformations and the strategic management of shared resources. Focus on building trust and establishing strong, sustainable foundations for upcoming ventures."
+      "text": "Streamlining your daily work routines yields dramatic improvements in your productivity and holistic well-being. Combining disciplined focus with innovative habits allows you to overcome practical hurdles effortlessly."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Dynamic energy highlights your one-on-one relationships, encouraging deep emotional clarity and mutual growth. Balance your need for personal freedom with meaningful, transformative commitments."
+      "text": "Transformative energy in your sign supercharges your artistic, romantic, and visionary self-expression. Step boldly into your authentic uniqueness, as your original ideas deeply resonate with those in your orbit."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Prioritize your daily routines and holistic well-being to streamline your productivity and mental space. Small, practical shifts made today will yield long-lasting wellness and peace of mind."
+      "text": "Emotional clarity brings newfound peace to your domestic life and personal foundation today. Dedicate time to nourishing your imaginative spirit to create an inspiring sanctuary for future growth."
     }
   ],
-  "date": "August 7, 2026"
+  "date": "August 8, 2026"
 }
