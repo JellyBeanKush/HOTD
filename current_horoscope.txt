@@ -1,66 +1,66 @@
 {
-  "summary": "A monumental Total Solar Eclipse in dramatic Leo aligns closely with expansive Jupiter today, sparking bold breakthroughs and creative rebirths across the zodiac. Coupled with supportive trines from Saturn and Neptune in Aries, this rare cosmic reset demands authentic self-expression and courageous new beginnings.",
+  "summary": "The cosmic landscape remains vibrant and charged in the immediate wake of the potent Leo Solar Eclipse, inviting profound personal rebirth and creative courage. As planetary energies align, you are encouraged to integrate recent powerful insights and channel bold heart-centered passions into tangible reality.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The powerful Leo Solar Eclipse illuminates your creative fifth house, reigniting your passion for bold self-expression and personal joy. With Saturn in your sign forming a harmonious trine to this alignment, long-term artistic projects or romantic connections receive a surge of structured inspiration."
+      "text": "The post-eclipse atmosphere ignites your creative spark and desire for authentic romantic connection. Channel this dynamic surge into your favorite passion projects while keeping a steady anchor on daily commitments."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Today's momentous eclipse at the root of your chart initiates profound shifts within your home, family dynamic, and sense of security. As expansive Jupiter powers this event, expect sudden breakthroughs that help you establish a truly authentic foundation for your future."
+      "text": "A powerful shift in your domestic sector encourages you to cultivate greater comfort and emotional warmth at home. Focus on strengthening your core so you feel empowered to build a resilient personal sanctuary."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Dynamic mental energy surges as the Leo Solar Eclipse activates your third house of communication, supported by Uranus in your sign. Bold ideas and inspiring conversations will pave the way for exciting local ventures or intellectual pursuits."
+      "text": "Sparks fly in your sector of communication, inspiring innovative ideas and memorable conversations. Share your vision with clarity, but allow yourself moment to process thoughts before acting."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "The Leo Solar Eclipse lights up your second house of finances and personal values, opening lucrative doors for growth and self-worth. Trust in the expansive influence of Jupiter to transform your income streams as you step confidently into your true value."
+      "text": "Financial awareness and personal self-worth take center stage as cosmic forces illuminate your material world. Trust your intuition when evaluating new income avenues or redefining what truly brings stability."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "This is your personal cosmic reset as a sensational Total Solar Eclipse and Jupiter unite in your sign to catapult you into a dramatic new chapter. Embrace your radiance and step boldly into the spotlight, because the universe is amplifying your personal authority and magnetism."
+      "text": "Radiant transformational potential surrounds you as you step into a powerful new personal chapter. Embrace this surge of self-definition to step boldly into the spotlight and showcase your authentic brilliance."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Powerful inner shifts occur as the Leo Solar Eclipse illuminates your twelfth house of spirituality and subconscious renewal. Surrender old emotional habits to clear the canvas, making room for profound spiritual growth and quiet personal epiphanies."
+      "text": "Quiet introspection brings breakthroughs as cosmic activity highlights your subconscious landscape. Take time to rest and process recent events before stepping into your upcoming active cycle."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your social sphere explodes with vibrant possibilities as the Solar Eclipse in Leo energizes your eleventh house of community and future dreams. Collaborating with visionary allies now can propel your long-held aspirations into tangible reality."
+      "text": "Your social network receives an inspiring boost, encouraging collaborative projects and fresh aspirations. Connect with visionaries who honor your values and fuel your long-term dreams."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "A dramatic transformation unfolds in your tenth house of career and public reputation thanks to today's potent Solar Eclipse in Leo. Massive professional doors are opening, so claim your leadership status with unwavering confidence and clarity."
+      "text": "Professional momentum builds rapidly, placing your ambitions and leadership skills in the spotlight. Step into your authority with quiet grace, knowing your dedication is recognized by those who matter."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "The fiery Leo Solar Eclipse electrifies your ninth house of higher learning, travel, and philosophy, inspiring you to expand your horizons. Fortune favors your adventurous spirit today, encouraging you to leap into grand new intellectual or global pursuits."
+      "text": "A fresh wave of optimism urges you to expand your horizons through higher learning, travel, or philosophy. Follow your intellectual curiosity, as broad perspectives reveal exciting new pathways forward."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Deep emotional and financial transformations are highlighted as the Leo Solar Eclipse activates your eighth house of shared resources and intimacy. Powerful revelations help you release outdated attachments and embrace a revitalized sense of personal empowerment."
+      "text": "Deep internal growth and shared resources call for your strategic, grounded approach today. Embrace emotional vulnerability within your closest bonds while maintaining solid personal boundaries."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Relationships take center stage as the dramatic Solar Eclipse in Leo lights up your seventh house of committed partnerships. Expect powerful new unions or significant breakthroughs that align your closest bonds with your highest path."
+      "text": "Important relationship dynamics come into focus, encouraging meaningful evolution in your primary partnerships. Seek balance between your need for freedom and the deep beauty of genuine collaboration."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "The Solar Eclipse energizes your sixth house of daily routines, health, and service, driving you to revolutionize how you manage your life. Infusing your daily work with creativity and enthusiasm will unlock new levels of well-being and productivity."
+      "text": "Reorganizing your daily routines and personal wellness habits brings immediate relief and vitality. Intentional adjustments made now will establish a foundation for sustainable wellness and efficiency."
     }
   ],
-  "date": "August 12, 2026"
+  "date": "August 13, 2026"
 }
