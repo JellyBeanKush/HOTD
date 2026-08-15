@@ -1,66 +1,66 @@
 {
-  "summary": "August 14, 2026, ushers in a period of intense, often disruptive transformation, particularly around personal values, finances, and security, driven by the potent Mars/Uranus conjunction in Taurus opposing Pluto in Aquarius. This dynamic energy challenges our ego and desire for recognition (Sun in Leo), creating a pivotal moment to redefine personal will, relationships, and societal structures. Reassessment of emotional foundations and communication styles is also highlighted, urging a practical yet nurturing approach amidst the significant changes.",
+  "summary": "August 15, 2026, is energized by a powerful Leo stellium (Sun, Venus, Jupiter), emphasizing self-expression, creativity, and a strong desire for recognition and joy. Meanwhile, Mars and Saturn in Cancer call for attention to emotional security, home, and family responsibilities, balancing the vibrant Leo energy with a need for foundational stability.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Financial disruptions or a sudden reevaluation of your values may clash with your desire for creative expression or romantic pursuits. Embrace the courage to pioneer new paths, allowing unexpected changes to redefine your sense of personal worth and self-assertion."
+      "text": "Your natural leadership is amplified, drawing attention to your bold initiatives and creative projects. Find joy in expressing yourself authentically, but be mindful of balancing personal ambition with family obligations."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Your personal identity and approach to life are undergoing radical, perhaps unsettling, shifts, challenging your innate desire for stability. Be prepared for sudden impulses or rebellious urges that may impact your home life or family dynamics, pushing you towards greater authenticity."
+      "text": "Unexpected shifts in your financial landscape or values continue to unfold, prompting you to re-evaluate what truly matters. Focus on bringing stability to your home life while embracing new, creative ways to express yourself."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your communication and intellectual curiosity are greatly expanded, but you might find yourself scattering your energy across too many ideas. Balancing your need for intellectual freedom with practical demands at home or emotional security will be a key challenge for your daily interactions."
+      "text": "Communication is key, as your mind is buzzing with ideas and a desire to connect, especially within your immediate environment. You're exploring new ways to find joy and express your affection, perhaps through intellectual pursuits."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Your emotional landscape is under reevaluation, as Saturn asks you to refine your boundaries and take serious responsibility for your feelings and nurturing nature. Financial matters and your sense of self-worth are directly influenced by your ability to create emotional security, possibly requiring a more disciplined approach to resources."
+      "text": "With Mars and Saturn in your sign, you're navigating significant emotional responsibilities and structuring your personal world. Prioritize self-care while also finding creative outlets to express your deep feelings and protective instincts."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your desire for recognition and leadership is strong, yet unexpected upheavals or rebellious tendencies in your career may challenge your public persona. Be prepared for your personal will to clash with sudden changes in your professional path, urging you to redefine your public role with originality."
+      "text": "This is a powerful time for you, as the Sun, Venus, and Jupiter align in your sign, showering you with opportunities for growth and self-expression. Embrace your confidence and radiate generosity, inspiring others with your joy and creative spirit."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your analytical mind is sharp and focused on practical improvements, making this an ideal time for meticulous planning and organizing your personal space. Pay attention to your subconscious insights and dreams, as hidden energies are being brought to light, prompting you to refine your inner world and release old patterns."
+      "text": "Your analytical mind is sharp, helping you to organize and refine creative projects, perhaps working diligently behind the scenes. You might be working on a significant family or home-related project that requires practical planning and emotional care."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Friendships and group dynamics may experience sudden shifts or unexpected financial changes, challenging your sense of harmony within your social circles. Deep, transformative changes involving shared resources or intimate partnerships could create tension with your community ideals, demanding adaptability."
+      "text": "Social connections and group activities bring you much joy, expanding your network and creative collaborations. Balance your desire for connection with responsibilities concerning your public image or long-term career path."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Your professional path or public image is a focal point, yet expect sudden, disruptive changes within your close partnerships or significant relationships. Power dynamics in your home or family life are undergoing deep transformation, potentially clashing with external relationship upheavals and forcing a redefinition of commitment."
+      "text": "This period highlights your career and public image, bringing opportunities for recognition and leadership in your chosen field. Your emotional and spiritual life is undergoing a profound transformation, urging you to trust your intuition in shared resources."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your desire for adventure and higher knowledge is strong, prompting expansive insights and a broader worldview, especially through learning and travel. Partnerships may bring both intellectual stimulation and a tendency towards scattered communication, requiring you to find balance between freedom and commitment."
+      "text": "Opportunities for travel, learning, and expanding your horizons are abundant, igniting your adventurous spirit. You're also called to address shared resources or intimate relationships with greater emotional depth and responsibility."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "You are re-evaluating responsibilities and boundaries within your closest relationships, seeking to build more secure and mature emotional foundations. Shared finances or intimate bonds are under a spotlight, urging you to confront deep-seated issues and transform your approach to joint resources with discipline."
+      "text": "Deep emotional and financial partnerships are a focal point, requiring structured commitment and careful communication. You're finding joy and perhaps even some extravagance in shared experiences or intimate connections that bring you closer."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Deep, transformative forces are at play within your personal identity, urging you to re-evaluate your unique purpose and how you wield personal power. Unexpected disruptions in your home or family life may clash with your relationships, demanding that you embrace revolutionary changes to your foundations while navigating partnerships."
+      "text": "Significant transformations are occurring in your relationships, encouraging you to redefine how you connect with others on a fundamental level. You're finding joy and creative inspiration through partnerships and one-on-one interactions, fostering deeper bonds."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your daily routines and work environment may feel more vibrant, yet also demand attention to self-care and a creative approach to practical tasks. Financial matters and your sense of personal worth are undergoing a re-evaluation, encouraging you to align your spiritual ideals with your material reality."
+      "text": "Your daily routines and health practices are undergoing a spiritual evolution, urging you to listen to your body's subtle cues. Find creative expression and joy in your work life, making your daily tasks more fulfilling and personally rewarding."
     }
   ],
-  "date": "August 14, 2026"
+  "date": "August 15, 2026"
 }
