@@ -1,66 +1,66 @@
 {
-  "summary": "August 20, 2026 presents a vibrant interplay between expressive individuality and meticulous practicality, urging a focus on clear communication and discerning relationships. Deep insights and transformative dialogues are possible, while a powerful trine between Jupiter and Saturn supports balanced emotional growth and responsible spiritual grounding.",
+  "summary": "August 21, 2026, presents a dynamic and mentally stimulating energy, dominated by a prominent mutable T-square between the Mercury-Venus conjunction in Virgo and the Mars-Jupiter conjunction in Gemini. This configuration sparks intellectual curiosity, expansive communication, and a drive for action, while also highlighting the need for precision and practical application. As the Moon shifts from Gemini to Cancer, the day transitions from a restless mental energy to a deeper need for emotional security and nurturing.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Neptune newly in your sign, your idealism for new beginnings is potent. Channel this imaginative energy into compassionate action and envisioning a better future."
+      "text": "With Saturn and Neptune in your sign, this day encourages disciplined self-exploration and spiritual insights, particularly around your sense of self and direction. Be mindful of mental restlessness from the mutable T-square, channeling it into constructive action rather than impulsive decisions concerning your daily life or communication."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Uranus in your sign continues to shake up your sense of security and values, prompting innovative solutions. Embrace flexibility in your approach to finances and material possessions, preparing for fresh perspectives."
+      "text": "Uranus in your sign continues to prompt significant personal shifts, and today’s mutable square might create tension around your values, finances, or practical applications. Focus on integrating new ideas into your stable routines without feeling overwhelmed by changes, especially those affecting your social circles or communication."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "The Moon and Mars in your sign amplify your communicative prowess and drive for action. Utilize this potent energy for intellectual pursuits and sharing your ideas, as transformative insights are readily available."
+      "text": "Your sign hosts the potent Mars-Jupiter conjunction, fueling your intellectual curiosity and desire for action, but it squares Mercury-Venus in your home sector. Be mindful that while your ideas are expansive, careful communication and practical details are key to avoid misunderstandings with family or overextending yourself in personal matters."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Jupiter in your sign brings expansive opportunities for emotional well-being and nurturing. A harmonious trine to Saturn helps you build stable foundations for your home and family life with compassionate wisdom."
+      "text": "As the Moon enters your sign later in the day, your focus shifts to emotional security and nurturing your inner world, bringing a sense of comfort after mental activity. Navigate the earlier hustle by prioritizing self-care and connecting with loved ones, allowing you to find solace and stability amidst the day's busy exchanges."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The Sun in your sign highlights your innate desire for recognition and creative expression. Shine brightly and embrace your leadership qualities, preparing to shift your focus towards practical organization and daily routines."
+      "text": "With the Sun in your sign, your natural confidence shines, but be aware of the mutable T-square which could create friction in your communication and financial dealings. Channel your creative energy into solving practical problems, ensuring your words align with your actions, especially regarding your resources and immediate environment."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "With Mercury and Venus gracing your sign, your communication and relationships benefit from clarity and discernment. This is an opportune time to refine your skills, attract harmonious connections, and serve with meticulous attention to detail."
+      "text": "Mercury and Venus conjunct in your sign, bringing a sharp focus on detailed communication and discerning relationships, yet squaring the Mars-Jupiter conjunction in your career sector. You'll find clarity in meticulous planning, but avoid getting bogged down in perfectionism when bold action or a more expansive outlook might be required for your public image."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Focus on inner reflection and finding harmony within your subconscious processes. Intuitive insights may guide your path, urging you to address hidden patterns that influence your daily life."
+      "text": "This dynamic mutable energy might highlight themes of work-life balance and daily routines, encouraging you to bring harmony to your hidden thoughts and subconscious processes. Seek equilibrium between intellectual pursuits and practical responsibilities, ensuring your spiritual practices or quiet reflection remain a source of inner support."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Transformative power is available through your connections with groups and community endeavors. You possess a unique ability to influence collective efforts, so channel your passion into shared visions for change."
+      "text": "You might feel a subtle pull towards deeper understanding in your personal growth and shared resources, as the mutable square affects your friendships and long-term goals. Embrace transformation by analyzing details carefully, but also be open to expansive new ideas that challenge your fixed perspectives within group dynamics or future visions."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your professional path and public standing are undergoing a significant review, emphasizing long-term responsibility. Structure your ambitions with integrity, understanding that disciplined effort leads to lasting success."
+      "text": "With Mars and Jupiter in your opposing sign, relationships and partnerships are highly energized, though the square to Mercury-Venus suggests a need for balance between your personal life and career. Channel your expansive spirit into clear, honest communication to bridge any gaps between your big ideas for professional advancement and your domestic realities."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Expand your philosophical horizons and explore new avenues of knowledge or travel. Deep insights into universal truths can transform your worldview, offering a broader perspective on your life's purpose."
+      "text": "The day's mutable energy could stir up activity concerning your daily routines, health, or distant travels, requiring you to adapt your strategies. Ground yourself in practical plans and disciplined effort, while remaining open to new information that could enhance your long-term goals or philosophical understanding of the world."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto in your sign continues its profound reshaping of your personal identity and sense of power. Embrace this period of intense evolution by bravely shedding old patterns and stepping into your most authentic, transformative self."
+      "text": "Pluto in your sign continues its transformative work, and today’s mutable square might stimulate your intellectual curiosity and desire for creative connection. Embrace innovative communication methods in your self-expression, but ensure your ideas are grounded in reality to foster genuine collaboration, particularly concerning shared resources or intimacy."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Saturn's retrograde in your sign encourages a deep re-evaluation of your personal boundaries and spiritual practices. This is a crucial time to redefine your self-worth and build solid, compassionate structures for your emotional well-being."
+      "text": "This dynamic T-square might create tension around your finances, values, or sense of security, asking you to establish clearer boundaries within your relationships and home life. Trust your intuition to navigate the day's mental intensity, finding creative solutions that support your spiritual and material well-being in your most personal spheres."
     }
   ],
-  "date": "August 20, 2026"
+  "date": "August 21, 2026"
 }
