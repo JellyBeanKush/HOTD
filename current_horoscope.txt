@@ -1,66 +1,66 @@
 {
-  "summary": "August 21, 2026, presents a dynamic and mentally stimulating energy, dominated by a prominent mutable T-square between the Mercury-Venus conjunction in Virgo and the Mars-Jupiter conjunction in Gemini. This configuration sparks intellectual curiosity, expansive communication, and a drive for action, while also highlighting the need for precision and practical application. As the Moon shifts from Gemini to Cancer, the day transitions from a restless mental energy to a deeper need for emotional security and nurturing.",
+  "summary": "August 22, 2026, is marked by a potent blend of culmination and strategic action, with the Sun at the critical 29th degree of Leo urging a final push in creative endeavors. A significant Mars-Saturn square creates tension between impulsive emotional needs and the demands of discipline, requiring thoughtful navigation. Meanwhile, expansive ideas and social interactions flourish, balanced by grounded, practical communication.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Saturn and Neptune in your sign, this day encourages disciplined self-exploration and spiritual insights, particularly around your sense of self and direction. Be mindful of mental restlessness from the mutable T-square, channeling it into constructive action rather than impulsive decisions concerning your daily life or communication."
+      "text": "The challenging Mars-Saturn square directly impacts your energy, requiring you to balance assertive action with responsible commitments. Discipline is key today, transforming potential frustrations into structured progress towards your goals."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Uranus in your sign continues to prompt significant personal shifts, and today’s mutable square might create tension around your values, finances, or practical applications. Focus on integrating new ideas into your stable routines without feeling overwhelmed by changes, especially those affecting your social circles or communication."
+      "text": "You're urged to re-evaluate your material values and personal security, as unexpected insights could bring innovative solutions to financial matters. Focus on practical adjustments and embrace the necessary shifts to solidify your foundation."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your sign hosts the potent Mars-Jupiter conjunction, fueling your intellectual curiosity and desire for action, but it squares Mercury-Venus in your home sector. Be mindful that while your ideas are expansive, careful communication and practical details are key to avoid misunderstandings with family or overextending yourself in personal matters."
+      "text": "Your social sphere is vibrant, filled with expansive ideas and opportunities for intellectual growth, though you might feel inclined to overindulge in conversation. Channel your brilliance into clear, grounded communication to avoid scattering your focus."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "As the Moon enters your sign later in the day, your focus shifts to emotional security and nurturing your inner world, bringing a sense of comfort after mental activity. Navigate the earlier hustle by prioritizing self-care and connecting with loved ones, allowing you to find solace and stability amidst the day's busy exchanges."
+      "text": "A strong drive to protect your emotional and domestic security clashes with external demands, creating a need for careful self-assertion. It's crucial to find a balance between nurturing your inner world and taking disciplined action in the outer."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "With the Sun in your sign, your natural confidence shines, but be aware of the mutable T-square which could create friction in your communication and financial dealings. Channel your creative energy into solving practical problems, ensuring your words align with your actions, especially regarding your resources and immediate environment."
+      "text": "The Sun's culmination in your sign brings a powerful sense of creative achievement and a desire for recognition. While your generous spirit may lead to over-the-top social interactions, channel this energy into structured projects for lasting impact."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Mercury and Venus conjunct in your sign, bringing a sharp focus on detailed communication and discerning relationships, yet squaring the Mars-Jupiter conjunction in your career sector. You'll find clarity in meticulous planning, but avoid getting bogged down in perfectionism when bold action or a more expansive outlook might be required for your public image."
+      "text": "Your meticulous mind is exceptionally sharp today, ideal for practical problem-solving and innovative communication. Harmonize your analytical skills with intuitive emotional understanding to refine your routines and embrace new, efficient methods."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "This dynamic mutable energy might highlight themes of work-life balance and daily routines, encouraging you to bring harmony to your hidden thoughts and subconscious processes. Seek equilibrium between intellectual pursuits and practical responsibilities, ensuring your spiritual practices or quiet reflection remain a source of inner support."
+      "text": "Your relationships are a focal point, offering opportunities for joyous connections and stimulating intellectual exchange. You're encouraged to express your affections openly, fostering harmony and balance in your social and romantic partnerships."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "You might feel a subtle pull towards deeper understanding in your personal growth and shared resources, as the mutable square affects your friendships and long-term goals. Embrace transformation by analyzing details carefully, but also be open to expansive new ideas that challenge your fixed perspectives within group dynamics or future visions."
+      "text": "Deep emotional currents are at play, urging you towards profound personal transformation and intuitive action. Navigate any internal tension by trusting your gut feelings and focusing your intense energy on what truly needs to be changed or released."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "With Mars and Jupiter in your opposing sign, relationships and partnerships are highly energized, though the square to Mercury-Venus suggests a need for balance between your personal life and career. Channel your expansive spirit into clear, honest communication to bridge any gaps between your big ideas for professional advancement and your domestic realities."
+      "text": "While your optimism and desire for expansion are strong, you may encounter resistance that requires a more disciplined approach to your grand visions. Integrate practical steps and structure into your quest for knowledge to ensure sustainable growth."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "The day's mutable energy could stir up activity concerning your daily routines, health, or distant travels, requiring you to adapt your strategies. Ground yourself in practical plans and disciplined effort, while remaining open to new information that could enhance your long-term goals or philosophical understanding of the world."
+      "text": "You're tasked with balancing significant professional responsibilities with your domestic and emotional needs, which may feel like a delicate act. Prioritize setting clear boundaries and allocating your energy wisely to prevent burnout and maintain stability."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto in your sign continues its transformative work, and today’s mutable square might stimulate your intellectual curiosity and desire for creative connection. Embrace innovative communication methods in your self-expression, but ensure your ideas are grounded in reality to foster genuine collaboration, particularly concerning shared resources or intimacy."
+      "text": "Transformative energies around community and future ideals are powerfully activated, offering a chance to deeply influence your social circles. Engage with innovative ideas and collective endeavors, allowing your progressive vision to expand into tangible change."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "This dynamic T-square might create tension around your finances, values, or sense of security, asking you to establish clearer boundaries within your relationships and home life. Trust your intuition to navigate the day's mental intensity, finding creative solutions that support your spiritual and material well-being in your most personal spheres."
+      "text": "Your compassionate nature and intuition are heightened, but you might feel a pull between your spiritual insights and the practical demands of daily life. Ground your dreams by clearly communicating your needs and focusing on what truly nourishes your soul."
     }
   ],
-  "date": "August 21, 2026"
+  "date": "August 22, 2026"
 }
