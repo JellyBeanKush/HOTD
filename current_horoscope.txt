@@ -1,66 +1,66 @@
 {
-  "summary": "August 22, 2026, is marked by a potent blend of culmination and strategic action, with the Sun at the critical 29th degree of Leo urging a final push in creative endeavors. A significant Mars-Saturn square creates tension between impulsive emotional needs and the demands of discipline, requiring thoughtful navigation. Meanwhile, expansive ideas and social interactions flourish, balanced by grounded, practical communication.",
+  "summary": "With the Sun and Mercury in discerning Virgo, a strong call for practical analysis and detailed planning emerges, emphasizing organization and health. However, the expansive conjunction of Mars and Jupiter in Gemini, squaring retrograde Saturn in Pisces, creates tension between big ideas and the necessity for grounded, realistic boundaries. This day demands critical thinking and adaptability while navigating intense emotions and the re-evaluation prompted by outer planetary retrogrades.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The challenging Mars-Saturn square directly impacts your energy, requiring you to balance assertive action with responsible commitments. Discipline is key today, transforming potential frustrations into structured progress towards your goals."
+      "text": "With retrograde Neptune in your sign, you might be re-evaluating your identity and personal vision, especially concerning idealism. Focus on asserting your needs while navigating potential confusion in your path forward, as the Moon in Scorpio illuminates deep emotional ties."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "You're urged to re-evaluate your material values and personal security, as unexpected insights could bring innovative solutions to financial matters. Focus on practical adjustments and embrace the necessary shifts to solidify your foundation."
+      "text": "Uranus retrograding in your sign prompts a re-evaluation of your values and financial stability, urging you to embrace practical innovations. The intense Moon in Scorpio illuminates your relationship sector, bringing profound emotional dynamics or hidden truths to the surface."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your social sphere is vibrant, filled with expansive ideas and opportunities for intellectual growth, though you might feel inclined to overindulge in conversation. Channel your brilliance into clear, grounded communication to avoid scattering your focus."
+      "text": "The conjunction of Mars and Jupiter in your sign amplifies your energy and desire for expansion, yet a square to retrograde Saturn in Pisces calls for realistic boundaries. Your daily routines and work life might feel intense or require deep emotional processing due to the Moon's transit through Scorpio."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "A strong drive to protect your emotional and domestic security clashes with external demands, creating a need for careful self-assertion. It's crucial to find a balance between nurturing your inner world and taking disciplined action in the outer."
+      "text": "With the Sun in Virgo highlighting your communication, expect a day suitable for practical discussions and detailed planning in your immediate environment. The Moon in Scorpio energizes your sector of creativity, romance, and self-expression, inviting deep emotional engagement in your passions."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The Sun's culmination in your sign brings a powerful sense of creative achievement and a desire for recognition. While your generous spirit may lead to over-the-top social interactions, channel this energy into structured projects for lasting impact."
+      "text": "Venus in your sign continues to emphasize your desire for love and self-expression, bringing warmth and generosity to relationships. However, the Moon in Scorpio deeply activates your home and family sector, prompting intense emotional conversations or a desire for security."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your meticulous mind is exceptionally sharp today, ideal for practical problem-solving and innovative communication. Harmonize your analytical skills with intuitive emotional understanding to refine your routines and embrace new, efficient methods."
+      "text": "Happy Birthday to early Virgos! With the Sun and Mercury in your sign, your analytical skills are at their peak, making this a prime time for detailed work and organization. The Moon in Scorpio sparks deep conversations and investigative pursuits, allowing you to uncover hidden information."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your relationships are a focal point, offering opportunities for joyous connections and stimulating intellectual exchange. You're encouraged to express your affections openly, fostering harmony and balance in your social and romantic partnerships."
+      "text": "Your focus may shift inward with the Sun in your privacy sector, encouraging introspection and attention to behind-the-scenes matters. The Moon in Scorpio emphasizes your financial and value sectors, bringing intense emotional awareness to your resources and sense of self-worth."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Deep emotional currents are at play, urging you towards profound personal transformation and intuitive action. Navigate any internal tension by trusting your gut feelings and focusing your intense energy on what truly needs to be changed or released."
+      "text": "With the Moon in your sign, your emotions are heightened and your intuition is sharp, making it a powerful day for self-reflection and personal transformation. Your social circles and group connections are highlighted by the Sun in Virgo, encouraging practical networking and collaborative efforts."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "While your optimism and desire for expansion are strong, you may encounter resistance that requires a more disciplined approach to your grand visions. Integrate practical steps and structure into your quest for knowledge to ensure sustainable growth."
+      "text": "Your career and public image are illuminated by the Virgo Sun, urging a practical and detailed approach to professional goals. The Moon in Scorpio activates your subconscious, possibly bringing deep insights or hidden emotions to the surface, encouraging quiet contemplation."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "You're tasked with balancing significant professional responsibilities with your domestic and emotional needs, which may feel like a delicate act. Prioritize setting clear boundaries and allocating your energy wisely to prevent burnout and maintain stability."
+      "text": "The Sun in fellow earth sign Virgo encourages an expansive approach to knowledge, travel, or higher education, favoring detailed planning. Your social networks and future aspirations are activated by the intense Moon in Scorpio, inviting profound connections within your community."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Transformative energies around community and future ideals are powerfully activated, offering a chance to deeply influence your social circles. Engage with innovative ideas and collective endeavors, allowing your progressive vision to expand into tangible change."
+      "text": "Pluto retrograde in your sign continues to reshape your personal power and identity, urging deep transformation from within. The Sun in Virgo shines a light on shared resources and intimate partnerships, demanding a practical and analytical approach to joint ventures or emotional depths."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your compassionate nature and intuition are heightened, but you might feel a pull between your spiritual insights and the practical demands of daily life. Ground your dreams by clearly communicating your needs and focusing on what truly nourishes your soul."
+      "text": "Saturn retrograding in your sign requires a re-evaluation of your boundaries and self-identity, bringing karmic lessons to the forefront. Your partnership sector is highlighted by the Sun in Virgo, calling for practical compromise and detailed attention in your closest relationships."
     }
   ],
-  "date": "August 22, 2026"
+  "date": "August 23, 2026"
 }
