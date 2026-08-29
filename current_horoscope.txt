@@ -1,66 +1,66 @@
 {
-  "summary": "August 28, 2026, brings a dynamic blend of intellectual activity and social engagement, with a strong emphasis on communication and relationship dynamics. The day encourages practical adjustments and a thoughtful re-evaluation of personal values and collective responsibilities. Expect opportunities for harmonious exchanges balanced by calls to address deeper emotional security and boundaries.",
+  "summary": "August 29, 2026, presents a dynamic interplay between practical analysis and expressive energies, urging us to refine daily routines while embracing our unique voice. Communication is highlighted, favoring diplomacy and intellectual curiosity, yet several retrograde outer planets encourage a deep, internal re-evaluation of personal foundations and long-term security. It's a day to balance the desire for meticulous improvement with the need for authentic self-expression and relational harmony.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "You'll find yourself revisiting your personal drive and what truly ignites your passion, possibly leading to a more grounded approach to self-assertion. Practical adjustments in your daily routine or health could bring unexpected improvements, fostering efficiency and well-being."
+      "text": "With Saturn and Neptune retrograde in your sign, you are deeply reflecting on your identity and pioneering spirit. Focus on integrating past lessons about self-assertion with your spiritual ideals and finding clarity in your path forward."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Unexpected insights regarding your personal values or financial security may surface, prompting you to re-evaluate what truly brings stability. Lean into innovative solutions for long-standing problems, especially those affecting your resources or sense of comfort."
+      "text": "Your financial and value systems are subtly influenced by Venus in Leo, encouraging bold and creative expressions of affection. Pay attention to your resources and how you might strategically enhance them through innovative ideas."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your communication is exceptionally active and engaging, making it an excellent day for lively conversations and expressing your ideas. Embrace the harmonious social interactions, but be mindful of scattered energy that could lead to restlessness or minor disagreements."
+      "text": "Mars and Uranus in your sign amplify your innovative energy and drive for communication, making you quick-witted and restless. Expect sudden insights or urges for independence that keep you on your toes and encourage new ways of thinking."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Responsibilities related to your home and emotional security are highlighted, requiring you to establish clear boundaries in your relationships. Seek comfort in your personal space while diligently working to build a more stable emotional foundation for yourself and loved ones."
+      "text": "Jupiter retrograde in your sign invites a deep, inward re-evaluation of your personal growth and sense of security. Embrace opportunities to nurture your emotional foundations and family bonds, re-assessing what truly brings you comfort."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your natural expressiveness is amplified, encouraging you to revisit your beliefs and re-evaluate how you confidently share your unique voice. This is a powerful time for clarifying your message and inspiring others through your authentic self-expression."
+      "text": "The Moon begins in your sign, highlighting your need for recognition and creative expression before shifting to a more practical focus. Venus in Leo further amplifies your desire for love and beauty, encouraging you to shine brightly and generously."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "It's a prime time for you to focus on practical improvements and details, especially concerning your daily routines or health matters. Unexpected and ingenious solutions to long-standing issues can emerge when you combine your meticulous nature with an open mind."
+      "text": "The Sun in your sign brings a strong focus on your personal goals, health, and daily routines, encouraging meticulous organization. Later in the day, the Moon also enters Virgo, deepening your need for practical analysis and service to others."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your relationships are a central focus, calling for harmonious interaction and balanced decision-making in your partnerships. Be prepared to address emotional responsibilities, ensuring fairness and clear boundaries within your closest bonds."
+      "text": "Mercury in your sign emphasizes diplomatic communication and fair-mindedness in all your interactions and relationships. Seek balance and harmony in your connections, expressing your thoughts with grace and consideration."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "You might find yourself delving into deeper insights about shared resources or intimate partnerships, prompting a re-evaluation of power dynamics. Transformative communication can bring hidden truths to light, fostering deeper understanding and connection."
+      "text": "This day encourages you to delve into the practicalities of your shared resources and intimate connections, seeking deeper understanding. You may find significant insights by reflecting on how you blend your energy with others and manage joint ventures."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your adventurous spirit is tempered by a need to re-evaluate your long-term goals and philosophical perspectives on life. Seek wisdom through introspection, ensuring your grand vision is truly aligned with your inner truth and values."
+      "text": "Your focus may turn towards partnerships and how you navigate the give-and-take in your closest relationships and professional alliances. Be open to re-evaluating long-term commitments and finding new, more balanced ways to collaborate."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Responsibilities related to your career or public image might require careful attention, especially as you balance them with your emotional security at home. Practical changes concerning your resources or values could bring unexpected improvements to your foundational stability."
+      "text": "Pay close attention to your daily routines, work environment, and overall well-being, seeking efficient and practical improvements. A service-oriented mindset will bring the most satisfaction and tangible results today."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Your vision for the future and your role within group affiliations are undergoing a deep re-evaluation, possibly shifting your perspective on collective movements. Focus on authentic self-expression within your community, inspiring thoughtful transformation among your peers."
+      "text": "With Pluto retrograde in your sign, profound transformations in your personal identity and public image are an ongoing, internal theme. Embrace opportunities for creative self-expression and pleasure, despite these deeper, more intense shifts."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your intuitive insights are powerful, but you might be re-examining your spiritual path or personal ideals concerning your ambition. Ground your compassionate nature with practical action, especially in service to others or through enhancing your daily well-being."
+      "text": "Your home and family life may be a significant area of focus, inviting you to create a more nurturing and harmonious environment. Pay attention to your emotional needs and deep-seated sense of security, seeking peace in your domestic sphere."
     }
   ],
-  "date": "August 28, 2026"
+  "date": "August 29, 2026"
 }
