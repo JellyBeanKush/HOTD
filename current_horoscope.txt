@@ -1,66 +1,66 @@
 {
-  "summary": "August 29, 2026, presents a dynamic interplay between practical analysis and expressive energies, urging us to refine daily routines while embracing our unique voice. Communication is highlighted, favoring diplomacy and intellectual curiosity, yet several retrograde outer planets encourage a deep, internal re-evaluation of personal foundations and long-term security. It's a day to balance the desire for meticulous improvement with the need for authentic self-expression and relational harmony.",
+  "summary": "August 30, 2026, brings a strong emphasis on introspection and re-evaluation, with a majority of outer planets in retrograde motion. The practical demands of the Virgo Sun clash with the desire for emotional expression and recognition from the Leo Moon, creating a dynamic tension. Relationships and the pursuit of harmony are highlighted by Mercury and Venus in Libra, urging diplomatic and balanced communication amidst a backdrop of internal transformation.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Saturn and Neptune retrograde in your sign, you are deeply reflecting on your identity and pioneering spirit. Focus on integrating past lessons about self-assertion with your spiritual ideals and finding clarity in your path forward."
+      "text": "Your usual assertive drive may feel more internalized with Mars retrograde, prompting a crucial re-evaluation of your long-term ambitions and professional trajectory. Focus on strategic planning rather than immediate action, as you refine your approach to leadership and personal power."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Your financial and value systems are subtly influenced by Venus in Leo, encouraging bold and creative expressions of affection. Pay attention to your resources and how you might strategically enhance them through innovative ideas."
+      "text": "With Uranus and Neptune both retrograde in or near your sign, you're experiencing profound internal shifts in your values and how you envision your future security and well-being. Venus in Libra brings opportunities for balanced and harmonious connections, helping you ground these internal transformations in stable relationships."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Mars and Uranus in your sign amplify your innovative energy and drive for communication, making you quick-witted and restless. Expect sudden insights or urges for independence that keep you on your toes and encourage new ways of thinking."
+      "text": "Jupiter retrograde in your sign invites a deep re-examination of your beliefs, knowledge, and personal philosophy, urging you to refine your wisdom rather than just expanding it. Your communication style benefits from Mercury in Libra, encouraging diplomacy and fairness in all your interactions and intellectual pursuits."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Jupiter retrograde in your sign invites a deep, inward re-evaluation of your personal growth and sense of security. Embrace opportunities to nurture your emotional foundations and family bonds, re-assessing what truly brings you comfort."
+      "text": "While your emotions seek vibrant expression with the Moon in Leo, the Virgo Sun encourages a practical and organized approach to your daily routines and personal well-being. You may feel a gentle tension between needing personal recognition and the quiet satisfaction of attending to important details within your home life."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The Moon begins in your sign, highlighting your need for recognition and creative expression before shifting to a more practical focus. Venus in Leo further amplifies your desire for love and beauty, encouraging you to shine brightly and generously."
+      "text": "The Moon in your sign amplifies your desire for self-expression and recognition, encouraging you to shine brightly and share your creative spirit with confidence. While your spirit is expansive, the Sun in Virgo reminds you to ground your endeavors in practical planning and attention to the smaller details that support your grand vision."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "The Sun in your sign brings a strong focus on your personal goals, health, and daily routines, encouraging meticulous organization. Later in the day, the Moon also enters Virgo, deepening your need for practical analysis and service to others."
+      "text": "With the Sun in your sign, this is a powerful time for personal renewal and focusing on your health, work, and service to others with meticulous care. Mercury in Libra supports you in finding balance and fairness in your communications and daily interactions, making it easier to articulate your needs and boundaries."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Mercury in your sign emphasizes diplomatic communication and fair-mindedness in all your interactions and relationships. Seek balance and harmony in your connections, expressing your thoughts with grace and consideration."
+      "text": "Your ruling planet Venus, alongside Mercury, graces your sign, making this an exceptional period for enhancing your relationships, diplomacy, and personal charm. You are naturally inclined to seek harmony and justice, and these transits empower you to negotiate and connect with others more effectively than ever."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "This day encourages you to delve into the practicalities of your shared resources and intimate connections, seeking deeper understanding. You may find significant insights by reflecting on how you blend your energy with others and manage joint ventures."
+      "text": "With Mars and Pluto both retrograde, this period calls for deep introspection regarding your ambitions and the power dynamics within your community and long-term goals. Re-evaluating your approach to collective endeavors and internalizing your drive will be more productive than pushing forward externally at this time."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your focus may turn towards partnerships and how you navigate the give-and-take in your closest relationships and professional alliances. Be open to re-evaluating long-term commitments and finding new, more balanced ways to collaborate."
+      "text": "Jupiter retrograde in your opposing sign invites you to deeply reconsider your personal philosophies and how they intersect with your closest relationships and partnerships. This is a time to refine your wisdom and communication, ensuring your expansive ideas are grounded and clearly articulated in your interactions."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Pay close attention to your daily routines, work environment, and overall well-being, seeking efficient and practical improvements. A service-oriented mindset will bring the most satisfaction and tangible results today."
+      "text": "Mars retrograde in your sign demands a thorough re-evaluation of your personal drive and ambitions, urging you to redefine what true success means to you. Saturn retrograde in Pisces encourages you to re-examine your spiritual foundations and compassionate boundaries, balancing your structured nature with deeper empathy."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "With Pluto retrograde in your sign, profound transformations in your personal identity and public image are an ongoing, internal theme. Embrace opportunities for creative self-expression and pleasure, despite these deeper, more intense shifts."
+      "text": "Pluto retrograde in your sign initiates a profound internal transformation concerning your identity, personal power, and your role within collective movements. This is a time to re-evaluate your unique contributions and how you authentically express your innovative spirit, rather than immediately enacting radical change."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your home and family life may be a significant area of focus, inviting you to create a more nurturing and harmonious environment. Pay attention to your emotional needs and deep-seated sense of security, seeking peace in your domestic sphere."
+      "text": "Saturn retrograde in your sign emphasizes a deep, personal review of your boundaries, responsibilities, and spiritual practices, asking you to refine your compassionate nature. You're called to discern illusion from reality within your values and resources, as Neptune retrograde in Taurus prompts a re-evaluation of your material and spiritual security."
     }
   ],
-  "date": "August 29, 2026"
+  "date": "August 30, 2026"
 }
