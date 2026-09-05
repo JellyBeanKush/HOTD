@@ -1,66 +1,66 @@
 {
-  "summary": "The day's energy blends the meticulous, service-oriented focus of the Virgo Sun with the ambitious, structured emotional drive of the Capricorn Moon. A potent conjunction of Mars and Jupiter in Gemini fuels expansive communication and intellectual exploration, making it an excellent time for learning and sharing ideas. However, be mindful of potential over-commitment or scattered energy due to the dynamic Gemini influence.",
+  "summary": "With the Sun and Mercury, currently retrograde, both in meticulous Virgo, September 5, 2026, emphasizes detailed review, analysis, and the need for precision, though communication may be prone to delays or re-dos. Venus in harmonious Libra offers a diplomatic counter-balance, encouraging grace in relationships and a search for aesthetic balance amidst the practical scrutiny.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Neptune in your sign, you might feel a surge of inspired action or a pull towards spiritual quests. The dynamic Gemini transits can spark new ideas, but ensure your communications are clear and not overly scattered."
+      "text": "Your daily routines and well-being take center stage, prompting a necessary re-evaluation of your work-life balance and health habits.\nYour passionate and creative energies are high, urging you to express yourself boldly, but be mindful of details in practical matters."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Uranus in your sign continues to shake up your personal values and finances, encouraging innovative approaches to security. Focus on practical matters related to daily routines and health, while also being open to new ways of working."
+      "text": "Creative projects or romantic endeavors are highlighted, inviting you to refine your approach and perhaps revisit old ideas or artistic expressions.\nWhile unexpected shifts continue to reshape your personal landscape, finding balance and peace in your daily work environment is key."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "With Mars and Jupiter in your sign, you're experiencing a significant surge of personal energy, drive, and expansive opportunities. This is a powerful time for self-expression and pursuing new intellectual ventures, just avoid over-committing."
+      "text": "Your focus is drawn to home and family matters, where communication may require extra patience and a careful revisiting of past discussions.\nWith Jupiter boosting your personal endeavors, you're bursting with ideas, but ensure clarity in domestic arrangements before forging ahead."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "The Capricorn Moon highlights your relationship sector, bringing focus to partnerships and shared responsibilities. While your emotional world might feel more disciplined, a strong emphasis on service and daily routines will bring satisfaction."
+      "text": "Communication and short journeys take center stage, but prepare for potential misunderstandings or delays, necessitating thorough double-checks.\nSaturn in your sign urges you to take responsibility for your emotional foundations, integrating practicality into your daily interactions."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your creativity and self-expression are seeking practical application, especially in your daily work or health routines. Be prepared to communicate your ideas clearly, as there's a lot of mental energy buzzing around."
+      "text": "Your financial landscape requires close scrutiny, prompting you to re-evaluate budgets and spending habits to ensure long-term security.\nYour personal drive and charisma are undeniable, providing the necessary energy to tackle practical matters with confidence and flair."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "With the Sun in your sign, this is your time to shine, focusing on personal goals, health, and organization. The Capricorn Moon encourages a disciplined approach to your home life and emotional foundations."
+      "text": "This is a powerful time for personal reflection and refinement, as you are invited to re-examine your goals and self-presentation.\nPay extra attention to how you communicate your needs and ideas, as misunderstandings are possible and clarity is paramount."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your ruling planet Venus is influencing how you approach privacy or subconscious matters, perhaps blending practical considerations with artistic leanings. Your mind is buzzing with ideas, encouraging diplomacy and balance in communication."
+      "text": "A period of introspection is favored, urging you to explore your subconscious patterns and release old habits that no longer serve you.\nYour natural charm and diplomatic skills are enhanced, making it easier to navigate social situations and foster harmonious connections."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Financial matters and shared resources are a key focus, especially with the energetic Gemini transits encouraging new ways of thinking about your money. Emotional discipline helps you navigate complex interpersonal dynamics."
+      "text": "Your friendships and long-term aspirations are under review, calling for a re-evaluation of your collaborations and future goals.\nWhile you may need to revisit discussions with your network, your intense focus allows you to meticulously plan for your next big move."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your relationships and partnerships are under a strong spotlight, with dynamic energy urging expansion and new perspectives in these areas. Practical applications of your ideals and service to others can be deeply rewarding."
+      "text": "Your career and public image are prominent, prompting a careful re-assessment of your professional trajectory and external communications.\nDespite potential career hiccups or needing to re-do work, your optimistic spirit helps you maintain a positive outlook on your ambitions."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "With the Moon in your sign, your emotions are aligned with your ambitious and disciplined nature, making it easier to take structured action. Focus on daily routines, health, and finding practical ways to implement your goals."
+      "text": "Themes of higher education, long-distance travel, or philosophical pursuits are highlighted, requiring you to refine your plans and beliefs.\nAny journeys or learning endeavors may encounter delays, making it wise to double-check details and be open to flexible arrangements."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto in your sign continues its slow but profound transformation of your identity and purpose. The energy for creative expression and finding joy is high, pushing you to embrace innovative solutions in your daily life."
+      "text": "Shared resources and intimate relationships are a focus, urging you to review financial agreements and address unspoken truths with sensitivity.\nDeep transformations in your personal power continue, and this period encourages you to meticulously restructure your approach to collaborative ventures."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Saturn in your sign brings important lessons about boundaries and self-discipline, especially in relation to your spiritual or sensitive nature. Focus on grounding yourself through home and family matters while embracing compassionate service."
+      "text": "Your primary relationships and partnerships come into sharp focus, requiring careful communication and a re-evaluation of commitments.\nWhile your intuitive nature is strong, ensure clarity in agreements to avoid misunderstandings, especially in contractual matters."
     }
   ],
-  "date": "September 4, 2026"
+  "date": "September 5, 2026"
 }
