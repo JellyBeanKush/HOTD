@@ -1,66 +1,66 @@
 {
-  "summary": "September 9, 2026, presents a dynamic mental landscape, with active communication and sudden insights dominating the day. While practical details and service (Sun in Virgo) are in focus, relationships and shared understandings require careful re-evaluation due to Mercury retrograde in Libra. Expect a blend of innovative ideas and the need for diplomatic patience.",
+  "summary": "A potent concentration of energy in meticulous Virgo urges an intentional cleansing of daily habits and mental clutter just ahead of a pivotal lunation. While transformative outer planets in fire and air spark bold long-term visions, the immediate cosmic call emphasizes quiet discernment and detail-oriented preparation. Ground yourself in practical rituals to clear away the obsolete and build a stable foundation for the future.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Saturn, Neptune, and the North Node in your sign, this is a pivotal time for defining your identity and taking responsibility for your path. You might feel a strong urge to initiate new projects, but ensure your spiritual compass is clear."
+      "text": "Focus on refining work routines as the analytical Virgo energy emphasizes methodical preparation over impulsive action. Trust the steady inner discipline currently anchoring your sign to build enduring personal stamina."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "As the Moon moves into Gemini, your focus shifts to finances and values, prompting discussions about security and material worth. Unexpected insights regarding your resources could emerge, challenging your long-held views on stability."
+      "text": "Harmonious earth placements offer stabilizing support for your creative and romantic endeavors today. Streamline your passion projects with practical attention to detail before sharing them with a wider audience."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your mental and emotional landscape is buzzing with activity as the Moon, Mars, and Uranus stir your first house, amplifying your communicative drive. Be prepared for rapid-fire thoughts and interactions, but try not to scatter your energy too widely across multiple projects."
+      "text": "The strong Virgo emphasis prompts you to direct mental energy toward domestic order and personal foundations. Quiet the peripheral noise and establish clear emotional boundaries at home to fully recharge."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "You may find yourself reflecting on subconscious patterns or needing a quiet moment to process inner thoughts and dreams in solitude. Pay attention to your intuition, as hidden truths about your spiritual path or past might surface, guiding your next steps."
+      "text": "Insightful breakthroughs are likely today as communicative Virgo sharpens your perceptions and daily interactions. Pay close attention to subtle details in conversations, recording your thoughts for future strategic use."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your creative spirit and desire for recognition are amplified with Venus and Jupiter in your sign, encouraging bold self-expression and generous gestures. It's a fantastic day for showcasing your talents and leading with warmth, but avoid over-the-top dramatics."
+      "text": "The cosmic spotlight turns toward practical resource management, providing a healthy reality check for your ambitious aspirations. Ground your expressive enthusiasm into tangible budgeting to ensure your long-range goals are sustainable."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "The Sun in your sign brings a sharp focus to your personal goals and well-being, urging you to organize and refine your daily life. You might find innovative ways to improve your routines and contribute meaningfully to your community or workplace."
+      "text": "With vital planetary power concentrated in your sign, this introspective phase brings profound personal clarity and emotional closure. Center yourself in restful contemplation rather than overworking your nervous system with perfectionism."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "With Mercury retrograde in your sign, communication in relationships requires extra patience and clarity, as misunderstandings are more likely to arise. This period is ideal for re-evaluating your agreements and personal boundaries, seeking true balance in your connections."
+      "text": "Solitude serves as your greatest ally as celestial activity illuminates your sector of closure and spiritual renewal. Release outdated obligations and allow your subconscious mind to process recent shifts without outside pressure."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Your career and public image might demand your attention, possibly involving intense discussions or the re-evaluation of long-term professional goals. Watch out for power dynamics in professional settings, and aim for transformative change rather than rigid control."
+      "text": "Long-term goals and social circles undergo careful scrutiny under today's discriminating astrological landscape. Align yourself with trusted collaborators who match both your practical standards and emotional depth."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Discussions around travel, higher education, or philosophical beliefs are heightened, possibly leading to exciting new perspectives and intellectual breakthroughs. However, be mindful of communication pitfalls in these areas, especially regarding shared resources or intimate matters."
+      "text": "Professional responsibilities require meticulous attention to protocol rather than broad, speculative moves today. Establish your authority by delivering precise, immaculate execution on ongoing career projects."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Financial matters, especially shared resources, debts, or investments, come under intense scrutiny, perhaps prompting significant reviews of your financial strategy. This is a time to dig deep into your financial partnerships and transform outdated approaches to wealth and security."
+      "text": "Supportive earth energy sharpens your philosophical vision and long-range travel or educational plans. Let methodical research and structured preparation replace impatience as your roadmap clicks cleanly into place."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "With Pluto retrograde in your sign, your relationships are undergoing profound transformation, requiring you to reconsider your personal power and influence within partnerships. Be open to deep conversations that reveal hidden dynamics and lead to powerful, lasting change in your connections."
+      "text": "Complex joint resources and shared emotional ties are spotlighted for thorough evaluation and restructuring. Approach delicate financial or intimate conversations with clinical detachment to secure mutual empowerment."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your daily routines, work environment, and health practices are highlighted, prompting a desire for greater efficiency and overall well-being. Unexpected insights could help you refine your service to others or implement more effective self-care rituals."
+      "text": "Dynamic transits in your opposite sign emphasize the necessity of balance and clear boundaries within key relationships. Lean on the practical grounding offered by trusted partners to steady your imaginative, intuitive nature."
     }
   ],
-  "date": "September 9, 2026"
+  "date": "September 10, 2026"
 }
