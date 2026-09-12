@@ -1,66 +1,66 @@
 {
-  "summary": "September 11, 2026, presents a dynamic blend of practical concerns, relationship re-evaluation, and ambitious drives. While communication about partnerships and fairness is paramount due to Mercury retrograde and Venus in Libra, a potent push for disciplined action and innovative solutions also prevails. However, individuals may navigate potential ego conflicts or power struggles in daily matters, requiring careful and conscious engagement.",
+  "summary": "A grounded Virgo Sun harmonizes with an emerging Libra Moon, inviting both meticulous organization and graceful diplomacy. It is a powerful day to recalibrate routines while cultivating cooperative relationships that support long-term ambitions.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Saturn and Neptune in your sign, you're navigating a powerful blend of discipline and spiritual idealism in asserting your identity. Focus on building sustainable structures for your independent pursuits while integrating your compassionate vision for the future."
+      "text": "Focus on workplace wellness and fine-tuning daily productivity habits. Collaborative efforts flourish if you practice patience with details rather than rushing forward."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Your relationships are undergoing a period of re-evaluation, urging you to seek harmony and balance in your connections. Embrace innovative thinking for practical matters and apply creative solutions to enhance your daily routines."
+      "text": "Creative inspiration flows effortlessly when you ground your artistic instincts in practical design. Romantically, subtle gestures of devotion carry more weight than grand declarations today."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Uranus in your sign sparks brilliant insights and unexpected shifts in your communication and mental landscape. Utilize this electrifying energy to foster innovative connections and express your ideas in unique and transformative ways."
+      "text": "Domestic priorities come into focus, encouraging you to declutter your living space and clear lingering mental static. Honest conversations with family members restore a sense of emotional equilibrium."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Jupiter in your sign amplifies your nurturing instincts and brings expansive opportunities related to home and family. While emotional growth abounds, be mindful of overzealous actions and ensure your drive is balanced with your inner emotional security."
+      "text": "Your communication style is sharp, empathetic, and exceptionally persuasive today. Reach out to local community members or siblings to resolve lingering misunderstandings."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Mars in your sign fuels your drive and creative self-expression, urging you to assert yourself boldly. Channel this powerful energy into disciplined action, but be aware of potential ego clashes, especially concerning your personal or family life."
+      "text": "Financial planning takes center stage, highlighting practical adjustments to your budget and resource allocation. Ground your self-worth in tangible accomplishments rather than external validation."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "The Sun in your sign emphasizes practical details, health, and service, encouraging innovative solutions for daily routines. Embrace a transformative approach to your work and well-being, shedding old habits for greater efficiency and power."
+      "text": "With the Sun energizing your sign, your vitality and personal clarity reach an annual high point. Step into leadership roles with quiet confidence, trusting that your competence speaks for itself."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "With Mercury retrograde conjunct Venus in your sign, your relationships are front and center, calling for deep re-evaluation and communication about love and fairness. Use this period to review and refine your partnerships, ensuring harmony and balance are truly achieved."
+      "text": "The Moon enters your domain, heightening your intuition and calling for restorative solitude. Reflect on recent emotional cycles before initiating bold new personal endeavors."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Deep societal transformations and power dynamics within groups are a key theme for you, pushing you to rethink your communal role. This energy also encourages intense work on your personal values, leading to a profound shedding of outdated approaches."
+      "text": "Community initiatives and long-term networking hold extraordinary potential for collaborative breakthroughs. Seek out allies who share your deep integrity and transformative vision."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "While you explore new ideas and expand your mind, be mindful of balancing your independent spirit with practical responsibilities. Embrace compassionate expansion in your spiritual journey, allowing it to guide your actions with disciplined purpose."
+      "text": "Professional responsibilities demand disciplined execution, rewarding your diligence with lasting respect. Balance your expansive visionary ideas with structured, step-by-step milestones."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "You are encouraged to build disciplined structures for your pioneering efforts, particularly in how you assert your professional and personal identity. Practical service and daily routines undergo intense transformation, requiring you to adapt and innovate your methods."
+      "text": "A thirst for knowledge inspires you to pursue advanced study or explore unfamiliar philosophical horizons. Your pragmatic mindset helps translate high-minded principles into actionable life guidance."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto in your sign signifies profound personal and collective transformation, urging you to re-evaluate your role within innovative groups and humanitarian efforts. Embrace deep changes in your power dynamics and allow your unique vision to contribute to broader societal shifts."
+      "text": "Deep psychological insights allow you to release outdated energetic attachments and shared financial burdens. Embrace vulnerability with a trusted partner to unlock profound emotional renewal."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your compassionate and spiritual nature is heightened, especially in personal expansion and idealistic endeavors that touch your core identity. However, be aware of potential confusion in asserting your will, finding balance between your creative expression and disciplined, structured action."
+      "text": "Partnership dynamics take priority, urging you to balance individual autonomy with dedicated commitment. Mutual respect deepens when both parties communicate boundaries with gentle transparency."
     }
   ],
-  "date": "September 11, 2026"
+  "date": "September 12, 2026"
 }
