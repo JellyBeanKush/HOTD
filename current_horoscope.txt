@@ -1,66 +1,66 @@
 {
-  "summary": "The Autumn Equinox on September 22, 2026, marks the Sun's ingress into diplomatic Libra, initiating a powerful call for balance, harmony, and refined relationships. With Mercury in meticulous Virgo, practical communication and analytical thought are favored, while Venus in Libra amplifies desires for beauty and fair exchanges. This day offers a unique blend of intellectual expansion and precise execution, encouraging us to seek equilibrium in our personal and collective interactions.",
+  "summary": "The Autumn Equinox ushers in a focus on balance and relationships as the Sun enters Libra, yet a potent stellium of the Moon, Venus, and Saturn in Leo highlights intense emotional experiences in love and creativity. With Mercury retrograde in Scorpio challenging Pluto, deep introspection, re-evaluation of hidden truths, and intense communication surrounding power dynamics are central themes. This period emphasizes a blend of seeking harmony and confronting deep-seated issues.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The Libra Sun highlights your relationships, urging you to find balance and compromise with others. Your natural drive, boosted by Mars in Leo, finds an outlet in creative self-expression and leadership within partnerships."
+      "text": "Your relationships and the pursuit of balance become your primary focus now, urging you to find harmony in your partnerships. Simultaneously, a profound re-evaluation of your personal identity and spiritual path is underway with Neptune retrograde in your sign."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "The Libra Sun shifts your attention to daily routines and well-being, inviting more harmony and beauty into your habits. Unexpected internal shifts, thanks to Uranus retrograde in your sign, may challenge your sense of stability, prompting a re-evaluation of personal values."
+      "text": "Ongoing revolutionary changes continue to reshape your personal values and financial landscape, prompting a deep internal re-assessment of what truly matters. Practical and innovative action is favored, allowing you to effectively implement necessary shifts in your daily life."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "The harmonious Libra Sun invigorates your creativity, romance, and self-expression, making it a vibrant time for joyful pursuits. With Jupiter in your sign, your ideas and opportunities for growth are greatly expanded, encouraging expansive communication and intellectual exploration."
+      "text": "Communication takes a deep, introspective turn as Mercury retrogrades in Scorpio, urging you to re-examine shared resources, intimacy, and profound secrets. Be mindful of intense discussions and misunderstandings, particularly concerning hidden power dynamics."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "The Libra Sun brings focus to your home and family life, encouraging you to create more balance and beauty in your personal sanctuary. Practical and organized energy, amplified by the Moon in Virgo, helps you efficiently manage domestic matters and attend to important details."
+      "text": "Your home life, family, and emotional security are greatly expanded and nurtured under Jupiter's influence, fostering a sense of comfort and belonging. However, this expansive energy may create a tension with your need for balance in relationships, requiring careful adjustment."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your communication and immediate environment are highlighted by the Libra Sun, encouraging diplomatic exchanges and a search for intellectual harmony. With Mars in your sign, you feel a potent surge of energy and drive, empowering you to assert yourself and pursue your passions with dynamic force."
+      "text": "With the Moon, Venus, and Saturn all transiting your sign, your emotional world, desires, and responsibilities are profoundly intertwined, bringing intensity to self-expression and love. This period calls for mature emotional growth and a deep examination of what you truly value and how you present yourself to the world."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "The Libra Sun brings attention to your finances and personal values, urging you to find balance in your resources and appreciate what truly matters. Your mind is exceptionally sharp and analytical with Mercury in your sign, allowing for meticulous planning and clear, practical communication."
+      "text": "As the Sun shifts into Libra, your attention naturally turns towards partnerships and finding equilibrium in your close relationships. You're encouraged to review and refine your daily routines and service to others, particularly examining the hidden aspects of your work."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Happy Birthday, Libra! The Sun in your sign illuminates your personal identity and goals, making this an ideal time for self-focus and setting new intentions. With Venus also in Libra, your charm, diplomacy, and aesthetic appeal are incredibly potent, attracting harmonious relationships and beautiful experiences."
+      "text": "Happy Equinox! The Sun's entry into your sign brings a powerful focus on your personal identity, relationships, and the pursuit of harmony and justice in all areas of your life. This is your time to shine, emphasizing balance and diplomatic engagement with the world around you."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "The Libra Sun encourages introspection, focusing on your subconscious mind, spiritual practices, and hidden dynamics. Saturn in Pisces offers a stabilizing influence, helping you bring structure to your spiritual beliefs and navigate emotional boundaries with grounded wisdom."
+      "text": "Mercury retrograde in your sign pushes you into a period of profound introspection, urging a deep re-evaluation of your personal truths, power, and self-assertion. Expect intense, probing conversations and a need to review long-held beliefs, potentially uncovering hidden motivations."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your social circles and future aspirations are energized by the Libra Sun, encouraging harmonious group interactions and collaborative efforts. While Jupiter in your opposite sign expands your partnerships and social horizons, it also calls for a balanced exchange of ideas and perspectives within your network."
+      "text": "Your focus may be drawn to expanding your sense of home, family, or emotional foundations, seeking comfort and security in your private world. Meanwhile, ambitious energy from Mars in Capricorn pushes you towards disciplined action in your career and public life, creating a productive tension between private and public spheres."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "The Libra Sun shines a light on your career and public reputation, prompting you to seek balance and fairness in your professional endeavors. Deep transformations are occurring in your financial and values sector with Pluto in Aquarius, encouraging a reassessment of what truly holds power in your collective contributions."
+      "text": "Mars in your sign ignites your ambition and drive, empowering you with disciplined action to achieve long-term goals and make significant strides in your career. However, this powerful push may create tension with the expansive emotional needs of your home and family life, requiring a careful balance."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "The Libra Sun opens avenues for higher learning, travel, and philosophical exploration, inviting you to expand your horizons with an open mind. With Pluto retrograde in your sign, you are undergoing a profound and intense period of personal transformation, reshaping your identity and empowering your unique purpose."
+      "text": "Profound transformation continues in your personal identity and your role within collective ideals, urging you to deeply re-evaluate your contributions to the future. Intense mental processing regarding shared resources or hidden truths may challenge your established perspectives, demanding intellectual flexibility."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "The Libra Sun brings focus to shared resources, intimate relationships, and deeper psychological understanding, encouraging balance in give-and-take dynamics. Saturn retrograde in your sign demands practical discipline regarding your boundaries and spiritual practices, helping you solidify your emotional foundation."
+      "text": "This period encourages you to re-examine your core identity and spiritual path, perhaps feeling a sense of idealism or confusion about your pioneering spirit. The intense emotional energy in Leo affects your daily routines, health, and service, bringing a need for mature self-expression within these practical areas."
     }
   ],
-  "date": "September 22, 2026"
+  "date": "September 23, 2026"
 }
