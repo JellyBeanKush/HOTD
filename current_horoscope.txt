@@ -1,66 +1,66 @@
 {
-  "summary": "October 6, 2026, presents a dynamic blend of energies, encouraging a deep dive into personal truths while seeking harmony in relationships. A strong emphasis on emotional security and diplomatic resolution provides a foundation for practical growth and re-evaluation.",
+  "summary": "The Libra Sun highlights balance, diplomacy, and interpersonal harmony, urging us to seek equitable ground in all dealings. Supported by steady, grounded cosmic undercurrents, today favors constructive compromise, mindful communication, and intentional connection.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Neptune retrograding in your sign, you might be re-evaluating your personal ideals and the path you've been forging. Focus your inherent drive on creating harmony in your partnerships, avoiding unnecessary conflict."
+      "text": "Balance your fiery ambition with mindful cooperation, as personal and professional partnerships take center stage. Listening attentively to trusted allies will unlock progress you could not achieve alone."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Your ruling planet Venus in Libra highlights your relationships and desire for aesthetic beauty and balance. Meanwhile, the Cancerian energy calls for you to nurture your immediate environment and communicate with care."
+      "text": "Focus on optimizing your daily routines to enhance vitality and reduce accumulated stress. Small, practical adjustments made to your schedule today will yield lasting mental clarity."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Uranus retrograde in your sign suggests a period of re-thinking your personal freedom and how you express your unique ideas. Your communications will be deeply probing thanks to Mercury in Scorpio, revealing hidden layers."
+      "text": "Creative inspiration flows effortlessly, prompting you to pursue artistic projects and heartfelt expressions of joy. Share your unique perspectives boldly, but remain mindful of your energetic limits."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "With Mars and Saturn co-present in your sign, you're experiencing a powerful call to action regarding your emotional security and domestic life. This energy empowers you to set firm boundaries while also taking responsible steps for your well-being."
+      "text": "Cultivating peace within your living environment restores the emotional equilibrium you have been craving. Open-hearted conversations with family members will clear lingering tensions and foster closer bonds."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "The Sun in Libra encourages you to seek balance and fairness in your daily interactions and intellectual pursuits. Deep personal transformations may be stirring beneath the surface, especially concerning your social circles and aspirations."
+      "text": "Your natural charisma elevates daily conversations, making this an excellent time for negotiations and sharing ideas. Stay curious and open-minded, as casual interactions may reveal surprisingly valuable insights."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Jupiter in your sign continues to offer opportunities for significant personal growth and a deeper understanding of practical matters. Channel your precise energy into establishing financial stability and discerning what truly holds value."
+      "text": "Take a grounded approach to financial matters by assessing your resources with practical discernment. Investing your energy into projects with long-term stability will bring a renewed sense of security."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your ruling planet Venus and the Sun are gracing your sign, amplifying your charm, diplomacy, and desire for balanced relationships. This is an excellent time to advocate for fairness and appreciate beauty in all its forms."
+      "text": "With the Sun spotlighting your sign, your vitality and magnetic charm are operating at full strength. Step confidently into your personal power while setting healthy boundaries that honor your needs."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Mercury in your sign sharpens your intuition and allows for incredibly deep, insightful conversations. You might feel a strong pull towards exploring new philosophies or embarking on an adventurous journey, seeking greater meaning."
+      "text": "Quiet moments of contemplation will reveal profound truths hidden beneath the surface of recent events. Honor your need for privacy today, releasing old emotional burdens to make room for renewal."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "The Moon in your sign invigorates your adventurous spirit and desire for truth and freedom. This energy encourages you to explore new horizons, while also considering how shared resources and intimacy play a role in your expansion."
+      "text": "Collaborative endeavors flourish when you align with like-minded friends who share your broader vision. Foster community connections, as collective enthusiasm will propel your personal ambitions forward."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "With Mars and Saturn in your opposing sign of Cancer, you are prompted to address your foundational needs and emotional connections with others. Deep structural changes within your community or personal power dynamics are unfolding."
+      "text": "Your professional dedication is noticed by influential figures who appreciate your unwavering reliability. Continue steering your career with quiet confidence and diplomatic grace to solidify your reputation."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto retrograde in your sign continues its profound work of transforming your identity and how you engage with the collective. Focus on maintaining balance in your daily routines and attending to your partnerships with care."
+      "text": "An urge to expand your intellectual horizons invites you to explore new philosophies or educational pursuits. Embracing fresh viewpoints will help dismantle stubborn barriers that previously held you back."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Neptune retrograding in Aries might be prompting you to re-examine your personal values and the spiritual essence of your resources. The Cancerian energy, particularly Mars and Saturn, directs your attention to creative projects and joyful self-expression."
+      "text": "Deep emotional and financial ties require transparent communication to maintain mutual trust. Embracing vulnerability will strengthen your closest relationships and bring meaningful transformation."
     }
   ],
-  "date": "October 6, 2026"
+  "date": "October 8, 2026"
 }
