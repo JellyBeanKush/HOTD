@@ -1,66 +1,66 @@
 {
-  "summary": "The Libra Sun highlights balance, diplomacy, and interpersonal harmony, urging us to seek equitable ground in all dealings. Supported by steady, grounded cosmic undercurrents, today favors constructive compromise, mindful communication, and intentional connection.",
+  "summary": "The Libra Sun highlights balance, diplomacy, and connection, while the waning Moon prompts thoughtful reflection before a fresh cycle begins. Dynamic fire placements inspire bold creative ambitions, encouraging you to align visionary action with harmonious cooperation.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Balance your fiery ambition with mindful cooperation, as personal and professional partnerships take center stage. Listening attentively to trusted allies will unlock progress you could not achieve alone."
+      "text": "Saturn and Neptune in your sign urge you to balance visionary ideals with grounded accountability. Listen carefully to a trusted partner's perspective, as harmonious compromise will open unexpected doors."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Focus on optimizing your daily routines to enhance vitality and reduce accumulated stress. Small, practical adjustments made to your schedule today will yield lasting mental clarity."
+      "text": "Dedicate energy to refining your daily workflow and nurturing your physical well-being. Thoughtful adjustments to your routine will bring lasting serenity and boost your productivity."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Creative inspiration flows effortlessly, prompting you to pursue artistic projects and heartfelt expressions of joy. Share your unique perspectives boldly, but remain mindful of your energetic limits."
+      "text": "Uranus in your sign sparks innovative thinking and sudden flashes of creative inspiration. Share your inventive concepts with a collaborative group that appreciates original perspectives."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Cultivating peace within your living environment restores the emotional equilibrium you have been craving. Open-hearted conversations with family members will clear lingering tensions and foster closer bonds."
+      "text": "Your domestic sphere calls for nurturing attention and peaceful restoration today. Quiet moments spent at home will replenish your emotional reserves for the days ahead."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your natural charisma elevates daily conversations, making this an excellent time for negotiations and sharing ideas. Stay curious and open-minded, as casual interactions may reveal surprisingly valuable insights."
+      "text": "With Mars and Jupiter amplifying your sign, your natural charisma and creative vitality shine brilliantly. Use this magnetic confidence to inspire others while maintaining collaborative warmth in your conversations."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Take a grounded approach to financial matters by assessing your resources with practical discernment. Investing your energy into projects with long-term stability will bring a renewed sense of security."
+      "text": "Take time to organize your financial matters and establish clear material boundaries. Grounding your priorities now will bring profound peace of mind and clarity."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "With the Sun spotlighting your sign, your vitality and magnetic charm are operating at full strength. Step confidently into your personal power while setting healthy boundaries that honor your needs."
+      "text": "The Sun shining in your sign enhances your natural grace, charm, and diplomatic abilities. Reflect on your authentic personal desires before committing your energy to the needs of others."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Quiet moments of contemplation will reveal profound truths hidden beneath the surface of recent events. Honor your need for privacy today, releasing old emotional burdens to make room for renewal."
+      "text": "Mercury and Venus in your sign lend magnetic intensity and deep insight to your self-expression. Trust your intuitive perceptions, but express your truths with gentle understanding."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Collaborative endeavors flourish when you align with like-minded friends who share your broader vision. Foster community connections, as collective enthusiasm will propel your personal ambitions forward."
+      "text": "Collaborative endeavors and community connections offer fertile ground for your optimistic ideas. Balance your adventurous spirit with practical insights shared by reliable companions."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your professional dedication is noticed by influential figures who appreciate your unwavering reliability. Continue steering your career with quiet confidence and diplomatic grace to solidify your reputation."
+      "text": "Professional aspirations and long-term milestones demand your focused, strategic execution today. Remember to balance your ambitious drive with thoughtful diplomacy among your colleagues."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "An urge to expand your intellectual horizons invites you to explore new philosophies or educational pursuits. Embracing fresh viewpoints will help dismantle stubborn barriers that previously held you back."
+      "text": "Pluto in your sign continues to guide you through powerful personal transformation and self-discovery. Broaden your intellectual horizons by exploring philosophical topics that challenge your current worldview."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Deep emotional and financial ties require transparent communication to maintain mutual trust. Embracing vulnerability will strengthen your closest relationships and bring meaningful transformation."
+      "text": "Deep emotional exchanges and shared investments come to the forefront of your awareness. Releasing outdated emotional baggage will empower you to build stronger, more authentic bonds."
     }
   ],
-  "date": "October 8, 2026"
+  "date": "October 9, 2026"
 }
