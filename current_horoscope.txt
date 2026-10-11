@@ -1,66 +1,66 @@
 {
-  "summary": "October 10, 2026 is dominated by a potent Full Moon in Aries, closely conjunct the North Node, directly opposing the Sun conjunct the South Node in Libra. This powerful alignment demands a critical balance between personal needs and relationship dynamics, urging brave new beginnings while releasing outdated patterns. A challenging square between Mars in Gemini and Saturn in Pisces suggests potential frustrations or a need for disciplined effort to overcome obstacles, particularly in communication or spiritual pursuits.",
+  "summary": "October 11, 2026, presents a dynamic interplay between social harmony and deep personal responsibility. Tensions around home and emotional security challenge relationship dynamics, while intense communication and a strong drive for practical efficiency characterize the day. Significant collective transformations in community and humanitarian ideals are subtly at play.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "A powerful Full Moon in your sign, conjunct the North Node, illuminates your path forward, demanding you courageously step into your authentic self. This is a pivotal moment for releasing old identities and embracing bold new initiatives in your personal life."
+      "text": "You might find yourself re-evaluating your personal identity and spiritual direction, feeling a pull to redefine your individual path. Embrace practical efforts in your daily routine to ground this reflective energy and maintain a sense of purpose."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "With Uranus retrograde in your sign, you're experiencing deep internal shifts concerning your values and security. The Full Moon may highlight how your independent actions are impacting your financial and material stability, urging internal re-evaluation."
+      "text": "Uranus retrograde in your sign continues to prompt internal shifts in your values and financial approach, urging you towards innovation. Practical solutions and productive changes can arise from applying new methods to your work and health routines."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Mars and Jupiter in your sign amplify your energy and communication, pushing you towards new learning and connections. Be mindful of the square to Saturn, which might bring challenges to your plans, requiring patience and structured effort in your pursuits."
+      "text": "Jupiter in your sign brings an expansive energy for growth and self-expression, opening new avenues for learning and communication. Be mindful of scattering your energy too widely, and balance your broad ideas with careful attention to practical details."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "The Full Moon in Aries shines a spotlight on your career and public image, urging you to assert your professional identity. You might feel a push to take bold new steps in your long-term goals, balancing ambition with your emotional well-being."
+      "text": "With Saturn recently entering your sign, you're beginning a significant period of building emotional security and home foundations. Expect some tension between your personal relationships and the deep responsibilities you feel towards family or your inner world."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "This Full Moon encourages you to expand your horizons, perhaps through travel, higher education, or spiritual exploration. It's a powerful time to assert your beliefs and philosophical viewpoints, embracing a wider perspective on life and truth."
+      "text": "Your focus is drawn to practical matters, health routines, and service today, inviting you to refine your daily habits. While it might feel less dramatic than you prefer, this is an excellent time to bring structure and efficiency to your work life."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Venus in your sign brings a focus to your relationships and personal values, encouraging practical and discerning approaches. The Aries Full Moon may bring a culmination or release concerning shared resources, intimacy, or deep psychological matters."
+      "text": "With the Moon and Mars in your sign, you are highly energized and motivated to tackle tasks, making it a productive day for practical action. Channel your meticulous nature into constructive endeavors, but be cautious of overthinking or becoming overly critical."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "With the Sun conjunct the South Node in your sign, this Full Moon directly challenges your sense of self in relationships. It's a critical moment for releasing outdated partnership dynamics and embracing your individual needs while seeking authentic balance."
+      "text": "The Sun in your sign emphasizes your relationships and quest for balance, encouraging harmony in your interactions. However, a square to Saturn highlights a need to balance social desires with responsibilities related to home and emotional security."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Mercury in your sign deepens your thoughts and communication, making it a powerful time for research or uncovering hidden truths. The Full Moon in Aries brings a culmination or energetic push related to your daily routines, health, or work environment."
+      "text": "Mercury and Venus in your sign amplify your intensity, leading to deep conversations and magnetic personal connections. Financial matters, shared resources, or intimate disclosures may be a focus, urging you to seek truth in your interactions."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "The Full Moon in Aries ignites your sector of creativity, romance, and self-expression, encouraging you to pursue passions with renewed vigor. This is a fertile time for new beginnings in your personal projects or even a significant romantic development."
+      "text": "Jupiter in your opposing sign brings opportunities for growth through partnerships and significant others, expanding your relational horizons. You might find your usual broad perspectives challenged by a need for practical details and concrete planning."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "This Full Moon in Aries highlights your home and family life, possibly bringing a culmination or a need for assertive action within your domestic sphere. You may feel a strong urge to establish a more independent foundation or restructure your living situation."
+      "text": "Pluto's ingress into Aquarius continues to transform your sense of community and shared values, hinting at profound shifts in your collective influence. Today's energies may prompt a practical review of your financial resources and shared responsibilities."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "With Pluto in your sign, you're undergoing profound transformation, especially in how you communicate and connect with your local environment. The Aries Full Moon may bring powerful insights or decisive actions regarding your immediate surroundings, siblings, or short journeys."
+      "text": "With Pluto retrograde having re-entered your sign, you're undergoing a deep, internal transformation of identity and personal power. You are driven to apply innovative solutions to your daily routines, even if the changes feel subtle but potent."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Saturn and Neptune in your sign continue to shape your spiritual path and sense of identity, urging disciplined idealism. The Aries Full Moon brings focus to your financial resources and values, prompting a review of your self-worth and material security."
+      "text": "Saturn in Cancer offers a supportive anchor for your emotional security, particularly regarding home and family matters. The practical energies of the Moon and Mars in Virgo prompt you to pay close attention to the details and structure within your daily life and partnerships."
     }
   ],
-  "date": "October 10, 2026"
+  "date": "October 11, 2026"
 }
