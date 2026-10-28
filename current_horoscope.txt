@@ -1,66 +1,66 @@
 {
-  "summary": "Intense Scorpio season dynamics prompt profound self-reflection and investigative thinking, encouraging us to shed outdated emotional patterns. As lively lunar transits stimulate active communication, expect hidden truths to surface in transformative and empowering ways.",
+  "summary": "The Sun in penetrating Scorpio aligns with potent celestial currents to invite profound psychological clarity and emotional rebirth. Hidden truths rise to the surface, demanding authentic engagement and strategic reinvention across both personal and collaborative endeavors.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Your focus turns toward shared investments and emotional bonds as transformative currents challenge your patience. Channel this deep energy into strategic planning rather than impulsive reactions."
+      "text": "Deep joint investments and psychological thresholds require disciplined focus rather than your usual impulsive speed. Channel your natural drive into untangling complex financial or emotional commitments."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Key partnerships take center stage today, inviting you to engage in candid, vulnerable conversations. Trusting others with your authentic feelings will fortify connections that have felt uncertain."
+      "text": "Intense relationship dynamics urge you to step beyond your comfort zone and embrace vulnerability. True stability in your partnerships will come from transparency rather than stubborn silence."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your daily routines and workload require an analytical approach to eliminate unnecessary distractions. Prioritizing physical vitality will help balance mental hyperactivity and maintain your focus."
+      "text": "Refining your daily routines and wellness practices will help stabilize fluctuating mental energies today. Organize your workspace and address lingering obligations with methodical attention."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Creative inspiration flows naturally as your passion projects receive a potent surge of emotional depth. Embrace joyful expressions and romantic pursuits without worrying about external validation."
+      "text": "A surge of creative and romantic passion flows easily through your intuitive channels today. Trust your artistic instincts and express your heartfelt truths without fear of judgment."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Matters close to home and family demand your empathetic presence and emotional honesty today. Create a comforting private sanctuary where you can recharge away from demanding social arenas."
+      "text": "Domestic priorities and foundational emotional needs demand your full, heart-centered presence right now. Strengthen your private sanctuary before seeking external recognition or applause."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Inquisitive mental energy sharpens your communication skills, making this an ideal time for thorough research. Engage deeply with close peers, but be mindful not to overanalyze simple interactions."
+      "text": "Persuasive communications and sharp investigative work lead to significant intellectual breakthroughs today. Choose your words deliberately, as your insights carry transformative weight with others."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Financial reassessment becomes essential as you evaluate what truly aligns with your core self-worth. Ground your resource management in practical choices while remaining adaptable to unexpected insights."
+      "text": "Financial assessments and value realignments come sharply into view under today's focused skies. Strive for material autonomy by making calculated adjustments to your budget and resource management."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "With the Sun illuminating your sign, personal magnetism and self-assurance are operating at an absolute peak. Step boldly into the spotlight and trust your sharpened intuition to guide your choices."
+      "text": "With the Sun vitalizing your sign, your magnetic personal presence and inner authority are exceptionally potent. Use this concentrated energy to initiate vital changes that reflect your genuine soul purpose."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Subconscious stirrings and vivid dreams encourage quiet introspection and spiritual rejuvenation today. Step back from external noise to process latent emotions and release past burdens."
+      "text": "Retreating from social noise allows you to process deep subconscious shifts and recharge your spirit. Pay attention to private dreams and subtle intuitive cues that guide your next moves."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Collaborative endeavors with visionary friends offer fresh perspectives on your long-term ambitions. Align yourself with allies who appreciate both your realistic grit and your transformative ideas."
+      "text": "Strategic networking and meaningful group alliances provide solid momentum for your long-term ambitions. Cultivate bonds with visionary peers who match your unwavering dedication and integrity."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Professional aspirations take a commanding position, demanding strategic mastery and clear boundaries. Your authority and innovative solutions will naturally inspire respect from peers and superiors."
+      "text": "Your professional trajectory and public responsibilities step into a powerful transformative spotlight. Lead with quiet authority and let your innovative ideas speak through undeniable competence."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "A longing for philosophical expansion encourages you to explore unfamiliar perspectives or spiritual pursuits. Embrace curiosity and let your boundless imagination guide you beyond conventional routines."
+      "text": "Expansive intellectual, spiritual, or travel pursuits resonate deeply with your evolving worldview today. Step forward with faith as profound philosophical insights guide your creative ambitions."
     }
   ],
-  "date": "October 27, 2026"
+  "date": "October 28, 2026"
 }
