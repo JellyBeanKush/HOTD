@@ -1,66 +1,66 @@
 {
-  "summary": "November 9, 2026, ushers in a day of profound communication and intellectual curiosity, with the Sun and Mercury in Scorpio encouraging deep dives into truth and mystery. Jupiter and the Moon in Gemini amplify mental activity and social interaction, inspiring a pursuit of knowledge and connection, though this energy could also scatter focus. Venus in Sagittarius fuels a desire for adventure and honesty in relationships, while Mars in Leo encourages bold self-expression and a quest for recognition.",
+  "summary": "Deep, investigative Scorpio energy dominates today, demanding emotional honesty and personal transformation. Dynamic planetary currents invite you to clear away stagnant patterns to make space for visionary growth. Trust your sharpest instincts as profound revelations surface from beneath the everyday noise.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Your drive for action is amplified today, making it an excellent time to tackle ambitious personal projects or assert your leadership. Channel this fiery energy into creative pursuits and self-expression, allowing your unique talents to shine brightly."
+      "text": "The cosmic climate prompts you to confront lingering financial or emotional entanglements with bold authenticity. Channel your fiery initiative into resolving shared commitments rather than forcing immediate, impulsive results."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Deep conversations and shared resources are highlighted, urging you to explore the hidden dynamics within your closest relationships. Unexpected shifts in your personal values or financial outlook may prompt you to re-evaluate what truly brings you security."
+      "text": "Partnerships take center stage today as deep-seated dynamics invite meaningful, transformative dialogue. Lean into vulnerability and allow mutual compromises to fortify your most cherished bonds."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "With the Moon and Jupiter in your sign, your mental agility and social charm are at an all-time high, fostering lively conversations and new connections. Embrace every opportunity for learning and communication, but be mindful of scattering your energy too widely."
+      "text": "Your daily routines and physical vitality demand dedicated focus and intentional refinement. Streamlining your workflow now will liberate substantial mental energy for expansive, visionary goals."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "This is a powerful day for creative expression and exploring the depths of your passions, perhaps even through a new romantic connection or hobby. Your intuitive insights are particularly strong, guiding you toward meaningful personal discoveries."
+      "text": "A surge of passionate creative energy urges you to express your authentic heart without apology. Dedicate time to romantic pursuits or artistic passions that genuinely stir your soul."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your courage and desire for recognition are strong, urging you to take bold steps forward in your personal endeavors or creative projects. Don't shy away from the spotlight; instead, use this confident energy to inspire others with your unique vision."
+      "text": "Matters of home and emotional foundations require your tender awareness and dedicated attention. Harmonizing your personal sanctuary offers the grounded security needed to sustain your grand public ambitions."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Focused communication and careful analysis of your immediate environment are key, making it an excellent time for planning or detailed work. You might find yourself delving into family history or making practical improvements around your home base."
+      "text": "Penetrating conversations uncover subtle truths that help clarify your immediate trajectory. Direct your analytical precision toward resolving an old narrative or mastering a demanding intellectual project."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your relationships are infused with a desire for freedom and authentic expression, encouraging you to explore new horizons with loved ones or through travel. Release any old relationship patterns that no longer serve your quest for individual growth and balanced connections."
+      "text": "Material resources and personal values take the spotlight, inviting you to redefine what truly sustains you. Ground your financial strategies in practical action while honoring your intrinsic self-worth."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "With the Sun and Mercury in your sign, your intense focus and investigative mind are heightened, allowing you to uncover profound truths and communicate with powerful conviction. This is a potent time for personal transformation and asserting your true self."
+      "text": "With the planetary spotlight illuminating your sign, your magnetic personal presence and intuition reach a powerful peak. Step fearlessly into your authority and initiate choices that mirror your profound inner growth."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your relationships are calling for greater adventure and honesty, inspiring you to connect with others who share your philosophical outlook or desire for exploration. Trust your instincts when it comes to shared resources and delve into any underlying dynamics."
+      "text": "A quiet, reflective current encourages you to retreat and process recent subconscious developments. Restorative solitude and spiritual contemplation will recharge your spirit for the dynamic cycles ahead."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "You may feel compelled to bring more structure to your spiritual practices or re-evaluate your long-term dreams with practical discipline. Pay close attention to your daily routines and well-being, as minor adjustments can lead to significant improvements."
+      "text": "Collaborative endeavors and long-term aspirations receive an invigorating boost of focused wisdom. Connect with visionary allies who share your enduring dedication to meaningful progress and integrity."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Societal transformations and collective power dynamics are on your mind, urging you to reconsider your role in community groups and future aspirations. Personal breakthroughs might occur as you re-evaluate your independence and contributions to the greater good."
+      "text": "Professional matters and public standing come under a transformative cosmic spotlight today. Step into visible leadership by harmonizing inventive solutions with disciplined, methodical execution."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "You are called to bring greater discipline to your spiritual path and clarify your personal boundaries, especially within close relationships. Dreams and intuition are potent, offering profound insights if you allow yourself to quiet the noise and listen."
+      "text": "An appetite for philosophical expansion and spiritual depth challenges your conventional perspectives. Embrace unfamiliar horizons and wisdom traditions that enrich your faith and broaden your worldview."
     }
   ],
-  "date": "November 9, 2026"
+  "date": "November 10, 2026"
 }
