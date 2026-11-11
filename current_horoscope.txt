@@ -1,66 +1,66 @@
 {
-  "summary": "Deep, investigative Scorpio energy dominates today, demanding emotional honesty and personal transformation. Dynamic planetary currents invite you to clear away stagnant patterns to make space for visionary growth. Trust your sharpest instincts as profound revelations surface from beneath the everyday noise.",
+  "summary": "November 11, 2026, brings a profound intensity with the Sun in Scorpio, driving deep dives into transformation and hidden truths. The Moon in Gemini, conjunct retrograde Jupiter, amplifies communication and intellectual exploration, prompting a re-evaluation of personal beliefs and learning. Emotionally-driven action finds adventurous expression, yet also encounters friction with calls for structured self-assertion, inviting a dynamic interplay of inner and outer forces.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The cosmic climate prompts you to confront lingering financial or emotional entanglements with bold authenticity. Channel your fiery initiative into resolving shared commitments rather than forcing immediate, impulsive results."
+      "text": "With Saturn and Neptune retrograde in your sign, this day prompts a significant introspection into your identity and spiritual foundations, urging you to define your boundaries and courage more clearly. You might experience a push-pull between the need for structured reality and embracing your creative, idealistic fire."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Partnerships take center stage today as deep-seated dynamics invite meaningful, transformative dialogue. Lean into vulnerability and allow mutual compromises to fortify your most cherished bonds."
+      "text": "Uranus retrograde in your sign continues to prompt a review of past radical shifts in your values, finances, and material security. This period encourages you to re-evaluate what truly brings stability amidst ongoing disruptions, fostering a deeper connection to your authentic worth."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your daily routines and physical vitality demand dedicated focus and intentional refinement. Streamlining your workflow now will liberate substantial mental energy for expansive, visionary goals."
+      "text": "Your ruler, Mercury, in Sagittarius, ignites a desire for expansive thinking, but with Jupiter retrograde in your own sign, you're deeply reassessing your core beliefs and communication style. This is a powerful time for intellectual introspection, ensuring your outward expression genuinely aligns with your internal wisdom."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "A surge of passionate creative energy urges you to express your authentic heart without apology. Dedicate time to romantic pursuits or artistic passions that genuinely stir your soul."
+      "text": "Mars in your sign fuels your actions with profound emotional intensity and a powerful urge to protect your loved ones and sense of security. You may find a harmonious flow with your adventurous desires, but be mindful of potential clashes between your deep emotional needs and external structures or authority figures."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Matters of home and emotional foundations require your tender awareness and dedicated attention. Harmonizing your personal sanctuary offers the grounded security needed to sustain your grand public ambitions."
+      "text": "The Scorpio Sun highlights your sector of shared resources, intimacy, and profound transformation, urging you to delve into deeper connections and uncover hidden truths. This energy prompts you to explore themes of personal power and joint ventures, leading to significant regenerations in these areas."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Penetrating conversations uncover subtle truths that help clarify your immediate trajectory. Direct your analytical precision toward resolving an old narrative or mastering a demanding intellectual project."
+      "text": "Your focus shifts to significant relationships, partnerships, and how you engage with others, under the Scorpio Sun's intense gaze. Communication takes on an expansive and philosophical tone, yet with Jupiter retrograde impacting your career, you might be re-evaluating your public image and long-term professional goals."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Material resources and personal values take the spotlight, inviting you to redefine what truly sustains you. Ground your financial strategies in practical action while honoring your intrinsic self-worth."
+      "text": "Your daily routines, health, and work environment are intensely scrutinized by the Scorpio Sun, pushing you to uncover efficiencies and transform your habits. It's a key time to balance your adventurous social life and philosophical ideas with the necessity for practical structure and well-being in your personal routines."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "With the planetary spotlight illuminating your sign, your magnetic personal presence and intuition reach a powerful peak. Step fearlessly into your authority and initiate choices that mirror your profound inner growth."
+      "text": "With the Sun in your sign, this is a profoundly powerful day for self-assertion, personal growth, and embodying your core identity and desires. Your natural intensity and transformative capabilities are amplified, enabling you to dive deep into self-discovery and manifest significant changes in your life's direction."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "A quiet, reflective current encourages you to retreat and process recent subconscious developments. Restorative solitude and spiritual contemplation will recharge your spirit for the dynamic cycles ahead."
+      "text": "Your adventurous spirit is strongly boosted as Mercury and Venus enter your sign, encouraging expansive communication and freedom-loving relationships. However, a retrograde Jupiter may bring introspective reflections on your personal philosophies and their direct impact on your closest partnerships and shared experiences."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Collaborative endeavors and long-term aspirations receive an invigorating boost of focused wisdom. Connect with visionary allies who share your enduring dedication to meaningful progress and integrity."
+      "text": "Your focus is strongly on community, friendships, and future aspirations, with the Scorpio Sun urging you to transform your social circle or collective goals. You might feel a powerful call to merge your deep personal values and financial insights with your broader social contributions and innovative group initiatives."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Professional matters and public standing come under a transformative cosmic spotlight today. Step into visible leadership by harmonizing inventive solutions with disciplined, methodical execution."
+      "text": "Pluto in your sign initiates a long-term reshaping of your identity and collective impact, making this a day where your personal ambitions intersect with powerful societal currents. The intensity of the Scorpio Sun highlights your career and public image, demanding profound professional transformations and a clear vision for your legacy."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "An appetite for philosophical expansion and spiritual depth challenges your conventional perspectives. Embrace unfamiliar horizons and wisdom traditions that enrich your faith and broaden your worldview."
+      "text": "The Scorpio Sun illuminates your sector of higher learning, foreign travel, and personal philosophy, inviting a deep exploration of your beliefs and worldview. With Neptune retrograde in Aries, you're introspecting on your self-worth and values, perhaps seeing them through a more spiritual or idealistic lens, fostering gentle self-discovery."
     }
   ],
-  "date": "November 10, 2026"
+  "date": "November 11, 2026"
 }
