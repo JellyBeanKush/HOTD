@@ -1,66 +1,66 @@
 {
-  "summary": "November 12, 2026, brings a powerful surge of optimistic and courageous energy, primarily driven by the conjunction of Mars and Jupiter in Leo, encouraging bold initiatives and expansive personal expression. While the Sun in Scorpio deepens our focus on truth and transformation, a restless Gemini Moon seeks variety and intellectual stimulation, ensuring a dynamic and potentially very productive day. Practical matters and long-term security gain importance through Venus in Capricorn, balancing the day's inherent enthusiasm.",
+  "summary": "November 13, 2026, brings an intense emotional depth from the Sun in Scorpio, urging profound transformation and uncovering hidden truths. With the Moon and Jupiter in Gemini, there's a simultaneous drive for communication, learning, and expanding ideas, yet this energy is met with a sobering reality check as Saturn in Pisces squares both, asking for spiritual discipline and discernment amidst the intellectual flurry. Action is bold and expressive with Mars in Leo, but this fiery will may clash with the deeper currents of change.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Neptune retrograde in your sign, you might be re-evaluating personal ideals and courageously seeking new spiritual truths. The Mars-Jupiter conjunction ignites your creative passions and desire for recognition; seize opportunities to showcase your unique talents."
+      "text": "Your adventurous spirit is ignited, prompting bold actions and creative self-expression. Harness this fiery energy to confidently pursue your passions and step into a leadership role."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Uranus retrograde in your sign continues to shake up your personal values and financial stability, urging you to adapt to unexpected changes. Focus on nurturing your home life and emotional foundations today, as practical security remains a key theme for your relationships."
+      "text": "Unexpected shifts in your personal values or finances may challenge your sense of security, encouraging you to embrace innovation. Stable connections and practical steps can help you navigate these changes with surprising grace."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "The Moon transiting your sign for part of the day brings a boost to your natural curiosity and communicative abilities, making it an excellent time for social connections and learning. Be mindful of potential mental restlessness or scattered energy; ground yourself with focused tasks."
+      "text": "Your mind is buzzing with new ideas and a strong urge to communicate, expanding your social and intellectual horizons. Be mindful of scattering your energy, as you might feel pulled in too many exciting directions at once."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "The Sun in Scorpio deepens your emotional connections and encourages intense intimacy, inviting profound transformations in your relationships. Focus on practical aspects of your finances and resources today, ensuring stability while pursuing your desires."
+      "text": "Your emotional landscape is quite active, prompting a deep dive into communication and understanding your subconscious thoughts. Engaging in social connections or learning new things can be very nurturing for your soul."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "With Mars and Jupiter conjunct in your sign, your confidence and drive are exceptionally high, making it a powerful day for leadership and taking bold action. Embrace opportunities to express your creativity and generosity, but watch for tendencies to overdo it."
+      "text": "Your desire for recognition and dramatic action is strong, urging you to confidently express your unique talents. However, this expressive drive might meet deeper, transformative currents that ask for introspection and a release of control."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "The Sun in Scorpio encourages deep, analytical thought and research, particularly in areas of shared resources or intimate partnerships. Pay attention to your daily routines and well-being, as practical adjustments can lead to greater efficiency and inner peace."
+      "text": "Your mental energy is expansive, encouraging you to explore new philosophies, travel, or broaden your understanding. Seek to integrate these vast ideas with practical application, avoiding over-analysis or scattered thoughts."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your financial sector is energized by the Sun in Scorpio, prompting you to investigate shared resources or deeper financial agreements. Social connections and group activities bring a sense of expansion and optimism today, fostering significant networking opportunities."
+      "text": "You're seeking stability and long-term commitment in your relationships and financial matters, with a practical approach to partnership. Building solid foundations now will support enduring harmony and mutual growth."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "The Sun in your sign amplifies your intensity and focus, making this an ideal time for personal transformation and asserting your will. You might feel a strong drive to make bold moves in your career or public life, fueled by confidence and a desire for recognition."
+      "text": "This is a powerful period for deep transformation, urging you to uncover hidden truths and embrace your inner power. Be aware that your assertive actions might stir intense emotional responses or power dynamics."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "With Mercury in your sign, your communication is direct, philosophical, and perhaps a bit blunt, as you seek to express your truth. Travel, higher learning, and spiritual exploration are highly favored, bringing expansive insights and adventurous opportunities."
+      "text": "Your ruling planet expands your intellectual curiosity and desire for connection, making it an excellent time for learning and communication. Embrace a philosophical approach to life, but ensure your grand ideas are grounded in reality."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Venus in your sign fosters a practical and committed approach to relationships and finances, seeking long-term security and loyalty. Deep diving into shared resources or exploring intimate connections can bring transformative insights and strengthens bonds today."
+      "text": "Your focus is on practical achievements and building secure structures, especially within your relationships and financial endeavors. You're likely to find comfort and strength in reliable commitments and traditional values."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto at the very beginning of your sign signals profound, long-term shifts in your identity and public image, urging you to embrace societal transformation. Your partnerships and close relationships are particularly dynamic, benefiting from open communication and shared adventurous spirit."
+      "text": "Significant personal and societal transformations are underway, influencing your vision for the future and your role within groups. Embrace your innovative spirit, advocating for changes that benefit the collective."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Saturn in your sign continues to demand practical boundaries and spiritual discipline, encouraging you to integrate your compassion with realistic structures. This is a powerful day for delving into mystical or philosophical subjects, bringing deep insights and personal growth."
+      "text": "You are called to a period of deep spiritual work and establishing healthier boundaries, navigating between dreams and practical realities. This transit offers a profound opportunity for personal growth and dissolving old illusions."
     }
   ],
-  "date": "November 12, 2026"
+  "date": "November 13, 2026"
 }
