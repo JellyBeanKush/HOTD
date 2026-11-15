@@ -1,66 +1,66 @@
 {
-  "summary": "November 14, 2026, brings a profound focus on introspection and transformation, as Mercury retrogrades in intense Scorpio alongside the Sun, urging re-evaluation of hidden truths and communication styles. There's a dynamic tension between dramatic self-expression and the practical demands of relationships and security, calling for careful balance and mature decision-making. Expansive ideas and societal shifts are favored, even as individual values and emotional foundations are challenged by unpredictable change.",
+  "summary": "The Sun in penetrating Scorpio forms an intense dynamic with the innovative Aquarius Moon, urging us to balance profound emotional depth with visionary detachment. Bold, expansive fire energy fuels creative ambition and demands fearless authenticity in leadership. Intuition and intellect align to illuminate breakthroughs if you are willing to let go of outdated control.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Your natural drive for action and recognition may feel tempered by deep internal work concerning shared resources or hidden aspects of your psyche. This is a time to courageously confront inner truths and transform outdated dynamics rather than solely focusing on external pursuits."
+      "text": "Your confidence surges as dynamic planetary alignments inspire decisive action in creative and collaborative pursuits. Take the initiative on bold dreams, but remain open to unconventional wisdom from trusted peers."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Unexpected shifts continue to impact your personal values and financial security, demanding flexibility and a willingness to adapt your established routines. In relationships, you're seeking more practical commitment and long-term stability, focusing on building solid foundations with patience and discernment."
+      "text": "Professional matters demand an adaptable approach as shifting expectations test your resilience. Focus on stabilizing your inner foundation so you can navigate ambitious career shifts with grace."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your mind is brimming with expansive ideas and a thirst for knowledge, yet Mercury retrograde in Scorpio urges you to meticulously re-examine your daily routines, health, and work environment. Focus on deep internal processing and clarity regarding your habits before broadcasting new initiatives or commitments."
+      "text": "A restless curiosity pushes you to explore expansive philosophies and break free from rigid mental routines. Meaningful conversations today hold the potential to trigger an unexpected creative awakening."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Saturn in your sign encourages you to maturely establish stronger emotional boundaries and take responsibility for your home and family life. You might feel a pull between your deeply felt needs for security and the practical demands of your intimate relationships or creative expressions, requiring a balanced approach."
+      "text": "Deep emotional and financial transformations require an honest appraisal of mutual trust and shared commitments. Release outworn obligations to make room for authentic security and genuine empowerment."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "With Mars energizing your sign, your desire for dramatic action and self-expression is potent, but the Scorpio transits call for deep introspection concerning your home, family, and emotional foundations. Channel your vibrant energy into uncovering hidden truths within your personal sanctuary, fostering significant domestic transformation."
+      "text": "Potent personal energy amplifies your charisma, making this an ideal day to showcase your distinct talents. Channel this magnetic vitality into cooperative alliances rather than dominating the room."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "As the Moon transitions into your sign, you're inclined towards practical organization and analytical thought, yet Mercury retrograde in Scorpio demands a thorough re-evaluation of your communication style and local interactions. This period is ideal for refining your thought processes and speaking your truth with precision after careful consideration."
+      "text": "Sudden insights illuminate better ways to balance your physical wellness with a demanding schedule. Prioritize efficiency and allow yourself to let go of perfectionistic standards that no longer serve you."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Relationships and financial matters are taking on a more serious and structured tone, as Venus in Capricorn asks you to commit to long-term goals and practical values. You may feel a tension between your desire for emotional security at home and the demands of your career or public image, requiring you to find equilibrium in your commitments."
+      "text": "An electric social atmosphere encourages you to express your true creative voice without reservation. Connect with kindred spirits who appreciate your originality and inspire you to aim higher."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "This is a profoundly potent time for deep personal transformation and self-discovery, as the Sun and Mercury retrograde in your sign highlight your core identity and deepest truths. Embrace the opportunity to re-evaluate your personal power and modes of communication, allowing powerful insights to emerge from this profound introspection."
+      "text": "The Sun in your sign sharpens your personal magnetism and brings profound clarity to your ultimate goals. Direct this concentrated focus toward healing family dynamics and fortifying your emotional roots."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Your relationships and partnerships are experiencing expansive growth with Jupiter in your opposite sign, bringing new perspectives and opportunities for collaboration. However, Mercury retrograde in Scorpio suggests that deep, introspective work is needed behind the scenes to clarify your subconscious patterns and hidden motivations before acting."
+      "text": "Your intellectual stamina is high, making it effortless to articulate complex ideas and rally community support. Channel this vibrant perspective into learning, writing, or planning an exciting long-distance venture."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "With Venus in your sign, you're focused on establishing practical, long-lasting connections and a serious approach to your values and finances. You may face a balancing act between your desire for personal achievement and the emotional responsibilities tied to your home or family, calling for mature boundary setting and a clear vision."
+      "text": "Practical matters receive an innovative boost, prompting you to rethink your traditional approach to resources. Ground your future financial plans in progressive ideas that align with your deepest integrity."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto's presence in your sign continues to ignite profound societal and personal transformation, particularly concerning your role within groups and your humanitarian ideals. This is a powerful time to embrace innovative thinking and challenge existing power structures, recognizing your capacity to influence collective change and progress."
+      "text": "The Moon in your sign enhances your intuitive clarity and places your authentic needs in the spotlight. Stand firm in your individuality, as your independent viewpoint offers a guiding light for others."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Neptune retrograde in your sign heightens your intuition and spiritual sensitivity, allowing for deeper access to universal truths, though some confusion about your direction might linger. Focus on compassionate understanding and dissolving old illusions, preparing for a more grounded approach to your spiritual and creative endeavors."
+      "text": "Quiet reflection provides a profound sense of renewal and allows subtle subconscious insights to surface. Grant yourself the restorative solitude required to integrate recent shifts before stepping back into the public eye."
     }
   ],
-  "date": "November 14, 2026"
+  "date": "November 15, 2026"
 }
