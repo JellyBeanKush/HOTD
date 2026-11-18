@@ -1,66 +1,66 @@
 {
-  "summary": "Today brings a profound synthesis between the investigative depths of the Scorpio Sun and the compassionate, fluid intuition of the Pisces Moon. A harmonious flow of water energy fosters emotional clarity, creative breakthroughs, and deep psychic sensitivity across the collective. Use this current to release outdated emotional baggage and align your deepest passions with spiritual growth.",
+  "summary": "November 18, 2026, is a day of deep emotional intensity and transformative potential, marked by powerful dynamics in relationships and personal will. Expect a blend of determined action, philosophical insights, and opportunities for re-evaluating emotional security and values, though ego clashes may arise. This period encourages profound introspection and a grounded approach to navigating change.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "The subconscious realm calls for your attention, urging you to slow down and listen to inner wisdom rather than charging forward. Quiet contemplation now yields the clarity needed for your next ambitious cycle."
+      "text": "With your ruling planet Mars in dramatic Leo squaring the Sun in Scorpio, you might feel a powerful urge to assert yourself, but be mindful of power struggles. Discipline from Saturn in your sign can help you channel this energy productively towards long-term goals."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Collaborative ventures receive a boost of heartfelt connection and mutual understanding today. Lean on trusted allies who share your visionary ideals and can ground your creative aspirations."
+      "text": "Venus in Capricorn, your ruler, harmonizes with Uranus retrograde in your own sign, bringing unexpected but practical opportunities in finances or relationships. Embrace sensible shifts that reinforce your core values and long-term security."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Your professional intuition is remarkably sharp, helping you navigate complex career dynamics with emotional intelligence. Trust subtle impressions in meetings rather than relying strictly on surface data."
+      "text": "Mercury in expansive Sagittarius encourages a focus on broader philosophical ideas and a quest for truth today. Your mind is open to new perspectives, making it an excellent time for learning or engaging in stimulating discussions."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Expansive water energy opens your mind to profound philosophical insights and creative inspiration. Pursue studies or spiritual practices that broaden your perspective and nourish your soul."
+      "text": "With Jupiter retrograde in your sign, reflect on what truly nurtures your emotional security and family foundations. The Moon's shift into Virgo later in the day invites a more practical and analytical approach to your feelings."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Deep personal transformations and shared resources come under an insightful, healing spotlight. Honest communication about vulnerabilities will significantly strengthen your most intimate partnerships."
+      "text": "Your powerful ruler, the Sun in Scorpio, squares Mars in your sign, indicating a day where your ego and personal will might clash with intense external forces. Channel your passionate energy towards creative endeavors rather than power plays to avoid unnecessary friction."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Interpersonal relationships flow with enhanced empathy, allowing for easy reconciliation and deep bonding. Focus on meeting partners halfway by prioritizing emotional presence over rigid perfection."
+      "text": "The Moon's transition into your sign brings a renewed focus on practical matters and a desire for order in your daily life. With Mercury in adventurous Sagittarius, intellectual pursuits and expanding your knowledge are particularly favored."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Gentle adjustments to your daily routine can bring a profound sense of physical and mental renewal. Listen closely to what your body requires and weave restorative practices into your workflow."
+      "text": "Venus, your ruling planet, in stable Capricorn encourages a serious and committed approach to your relationships and financial matters. Seek out partnerships that offer security and mutual long-term support, rather than fleeting connections."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "With the Sun in your sign harmonizing with lunar tides, personal magnetism and self-expression peak. Channel this potent creative vitality into meaningful projects that reflect your authentic core."
+      "text": "The Sun in your sign, deeply aspected by Mars and Pluto, amplifies your innate intensity and calls for profound personal transformation. You possess the power to delve into complex situations and emerge with deeper understanding, but be wary of controlling tendencies."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "Comfort and restoration are found in your private sphere, making this an ideal day for domestic quietude. Take time to recharge your energetic boundaries before stepping back into outward ambitions."
+      "text": "With Mercury now in your sign, your communication is direct and your thoughts turn towards expansive philosophical concepts. This is a prime time for exploring new ideas or planning future adventures that broaden your horizons."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Meaningful conversations spark fresh inspiration and reveal supportive connections within your immediate community. Your words carry potent empathy today, so communicate with mindful intention."
+      "text": "Your ruler, Saturn in Aries, pushes for disciplined independence, while Venus in your sign calls for practicality and commitment in love and finances. Focus on building solid foundations that align with your long-term ambitions and personal values."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Financial instincts are finely tuned, guiding you toward values-aligned investments and sustainable stability. Take pride in your resourcefulness and acknowledge the practical progress you have steadily achieved."
+      "text": "Pluto in your sign creates a powerful undercurrent of societal transformation, influencing your community and future visions. You may feel a deep urge to contribute to collective change, but be mindful of intense power dynamics in group settings."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "The Moon illuminates your sign, amplifying your natural gifts of empathy, artistry, and vision. Step confidently into your personal power, as others are naturally drawn to your compassionate presence."
+      "text": "With Neptune retrograde in Aries, you're encouraged to re-examine your ideals of self and your pioneering spirit. This period invites deep introspection into your personal identity and spiritual path, potentially revealing hidden motivations."
     }
   ],
-  "date": "November 17, 2026"
+  "date": "November 18, 2026"
 }
