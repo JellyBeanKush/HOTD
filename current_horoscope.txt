@@ -1,66 +1,66 @@
 {
-  "summary": "November 21, 2026, ushers in a highly dynamic and emotionally charged period, dominated by a powerful Cardinal T-Square involving the Moon, Mars, and Jupiter retrograde in Cancer opposing Venus in Capricorn, all squaring Neptune retrograde in Aries. This configuration intensifies emotional needs and security concerns, demanding a careful balance between personal desires, practical responsibilities, and spiritual ideals. With the Sun newly in Sagittarius, a quest for truth and expansion seeks expression amidst deep relational and identity transformations.",
+  "summary": "This day brings a blend of expansive Sagittarian energy and Aquarian intellectual curiosity, fostering new ideas and community engagement. However, underlying tensions between freedom and practical security, particularly concerning finances and personal values, require thoughtful navigation. Individuals may feel called to assert their creative will while adapting to unexpected shifts in their environment and relationships.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Neptune retrograde in your sign closely involved in the Cardinal T-Square, you're deeply reflecting on your identity and spiritual path. Expect profound emotional shifts in your home and intimate relationships, urging you to assert your needs while navigating a complex emotional landscape."
+      "text": "With Neptune retrograde in your sign, you are deeply reflecting on your identity and spiritual path, uncovering hidden motivations. Your creative projects and desire for recognition are strongly activated, fueling a confident pursuit of your passions."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Communication takes on a sensitive tone today, as you're called to articulate your feelings surrounding shared resources or intimate partnerships. The intense emotional currents may challenge your comfort zones, pushing you to speak your truth with both courage and compassion."
+      "text": "Saturn and Uranus retrograde in your sign demand a thorough re-evaluation of your personal values and financial foundations. Embrace innovative approaches to security while patiently building a more stable and authentic life structure."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Uranus retrograde in your sign continues to ignite internal revolution, while the Cardinal T-Square emphasizes financial matters and your sense of self-worth. You're prompted to re-evaluate your values and what truly brings you security, especially within your closest relationships."
+      "text": "Jupiter retrograde in your sign encourages you to revisit past learning and re-evaluate your core beliefs, leading to deeper understanding. Your curiosity is heightened, making it a powerful time for intellectual pursuits and expanding your communication skills."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "With the Moon, Mars, and Jupiter retrograde all in your sign, your emotional world is the epicenter of today's powerful energies, making you highly sensitive yet empowered. This profound stellium places you at the heart of the Cardinal T-Square, demanding you find emotional balance amidst intense personal and relational dynamics."
+      "text": "Emotional security may feel a bit unsettled, urging you to find comfort and stability within your closest relationships and routines. Opportunities for financial growth could emerge unexpectedly through shared resources or significant partnerships."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Your creative expression and personal passions are seeking expansive outlets, yet deep emotional undercurrents or subconscious patterns may surface from the Cardinal T-Square. This is a day for profound introspection and healing, encouraging you to confront hidden feelings to liberate your spirit."
+      "text": "Mars in your sign fuels your desire for confident self-expression and leadership, making it an excellent time for creative pursuits and showcasing your talents. Be mindful of potential friction between your personal desires and the need for practical discipline in achieving your goals."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Your social life and long-term aspirations are highlighted, but the Cardinal T-Square brings potential challenges within your friendships and group dynamics. You're tasked with balancing your practical contributions with the emotional needs of your community, ensuring authentic connections that align with your true purpose."
+      "text": "You might find yourself analyzing deep psychological patterns and seeking profound transformation in your shared resources or intimate connections. Focus on practical healing and mental well-being can bring significant long-term benefits to your daily life."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Your career and public image are under intense focus, deeply intertwined with your home life and personal security. The powerful Cardinal T-Square demands you find equilibrium between your professional ambitions and your deepest emotional needs, especially regarding family and roots."
+      "text": "Relationships are a major focus, calling for a careful balance between your personal needs and the demands of shared commitments. Engage in intellectual conversations with partners, as they can lead to expansive new perspectives and mutual growth."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "As the Sun shifts into Sagittarius, your focus turns to shared resources and profound intimacy, while your belief systems are challenged by the day's intense emotional currents. You're encouraged to seek deeper truths and expand your philosophical horizons, even if it means confronting established views or emotional boundaries."
+      "text": "This period highlights your career and public image, urging you to bring innovative and transformative ideas to the forefront of your professional life. Pay close attention to your daily routines and health, as unexpected shifts in your work environment may require adaptability."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "With the Sun and Mercury newly in your sign, your personal vitality and communication are amplified, seeking adventure and philosophical exploration. However, the powerful Cardinal T-Square will challenge you to be deeply honest about your vulnerabilities and intimate connections, integrating emotional truth with your expansive spirit."
+      "text": "With the Sun and Mercury in your sign, a surge of optimism, clarity, and a strong desire for new knowledge invigorates your spirit. Philosophical pursuits, higher learning, or travel are especially favored, though you may feel some tension with practical responsibilities."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Your relationships are a major focal point today, as Venus in your sign directly opposes the intense Cancer stellium, creating a powerful pull. You are called to balance your practical needs for security and commitment with the emotional depth and vulnerability required in partnerships, seeking harmonious yet deeply honest connections."
+      "text": "Venus in your sign emphasizes commitment and practicality in your relationships, encouraging you to seek stability and long-term value. You might be reassessing your intimate connections and shared resources, striving for deeper authenticity and emotional security."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Pluto in your sign continues its transformative journey, urging profound personal evolution and empowerment from within. Your daily work and well-being are significantly impacted by the emotional currents of the Cardinal T-Square, prompting you to reform routines that genuinely support your emotional and physical health."
+      "text": "With the Moon and Pluto in your sign, your emotions are heightened, and you are undergoing profound personal and collective transformation. Focus on community engagement and innovative ideas, but be prepared for unexpected changes or rebellions within your home environment."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your creative expression and romantic life are vibrant, yet the intense Cardinal T-Square impacts your sense of self-worth and financial stability. You may find yourself navigating a powerful tension between your artistic desires and practical financial considerations, striving for a balance that honors both your dreams and your material security."
+      "text": "Your intuition is especially strong, drawing you towards spiritual reflection and creative endeavors that operate behind the scenes. Be mindful of setting clear boundaries in your communication and relationships, as idealism could cloud practical matters or lead to misunderstandings."
     }
   ],
-  "date": "November 21, 2026"
+  "date": "November 22, 2026"
 }
