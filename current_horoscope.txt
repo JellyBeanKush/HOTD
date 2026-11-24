@@ -1,66 +1,66 @@
 {
-  "summary": "This day brings a blend of expansive Sagittarian energy and Aquarian intellectual curiosity, fostering new ideas and community engagement. However, underlying tensions between freedom and practical security, particularly concerning finances and personal values, require thoughtful navigation. Individuals may feel called to assert their creative will while adapting to unexpected shifts in their environment and relationships.",
+  "summary": "This day brings a dynamic blend of expansive Sagittarian energy, igniting optimism and a thirst for truth, alongside a powerful call for internal re-evaluation. With Mars and Jupiter retrograde in Gemini, communication and personal initiatives require deeper reflection, while the Moon in pioneering Aries encourages independent action and self-assertion. It's a day to clarify your vision and embrace bold steps, even as you navigate internal shifts and spiritual insights.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "With Neptune retrograde in your sign, you are deeply reflecting on your identity and spiritual path, uncovering hidden motivations. Your creative projects and desire for recognition are strongly activated, fueling a confident pursuit of your passions."
+      "text": "Your pioneering spirit is powerfully activated today, urging you to take bold steps forward in your personal journey. Neptune retrograde in your sign, however, suggests a deeper, more introspective look at your ideals and identity is also underway."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Saturn and Uranus retrograde in your sign demand a thorough re-evaluation of your personal values and financial foundations. Embrace innovative approaches to security while patiently building a more stable and authentic life structure."
+      "text": "Unexpected shifts continue to challenge your comfort zones, pushing you to redefine what truly brings you security and value. This is a powerful time for internal recalibration regarding your finances and personal worth, prompting you to adapt to new realities."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "Jupiter retrograde in your sign encourages you to revisit past learning and re-evaluate your core beliefs, leading to deeper understanding. Your curiosity is heightened, making it a powerful time for intellectual pursuits and expanding your communication skills."
+      "text": "With both Mars and Jupiter retrograding in your sign, expect internal dialogues and a significant re-evaluation of your personal initiatives and core beliefs. Communication might feel like it's in slow motion, urging you to reflect deeply before acting or speaking your mind."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Emotional security may feel a bit unsettled, urging you to find comfort and stability within your closest relationships and routines. Opportunities for financial growth could emerge unexpectedly through shared resources or significant partnerships."
+      "text": "Your daily routines and wellness practices are infused with expansive energy, encouraging new learning and a broader perspective on well-being. Relationships demand practical consideration, offering opportunities to build stronger, more committed bonds based on shared values."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Mars in your sign fuels your desire for confident self-expression and leadership, making it an excellent time for creative pursuits and showcasing your talents. Be mindful of potential friction between your personal desires and the need for practical discipline in achieving your goals."
+      "text": "Creative pursuits and romantic expressions are brightly highlighted, urging you to embrace joy and authenticity with an open heart. Friendships and group affiliations may require a period of re-evaluation, as you reconsider your future aspirations and who truly aligns with them."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "You might find yourself analyzing deep psychological patterns and seeking profound transformation in your shared resources or intimate connections. Focus on practical healing and mental well-being can bring significant long-term benefits to your daily life."
+      "text": "Your home and family life are calling for expansive new perspectives, perhaps involving travel or higher learning within your domestic sphere. Relationships, however, are undergoing a period of karmic dissolution or spiritual redefinition, asking for deep empathy and understanding."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Relationships are a major focus, calling for a careful balance between your personal needs and the demands of shared commitments. Engage in intellectual conversations with partners, as they can lead to expansive new perspectives and mutual growth."
+      "text": "Your immediate environment and communications are buzzing with opportunities for learning and truth-seeking, encouraging you to speak your mind. It's a crucial period for releasing old patterns of people-pleasing and codependency, particularly in close relationships, to assert your true self."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "This period highlights your career and public image, urging you to bring innovative and transformative ideas to the forefront of your professional life. Pay close attention to your daily routines and health, as unexpected shifts in your work environment may require adaptability."
+      "text": "Your focus on personal resources and self-worth is expanding, prompting you to seek new avenues for abundance and security. Deep transformations continue to reshape your home environment and family dynamics, bringing powerful insights and necessary changes to your foundation."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "With the Sun and Mercury in your sign, a surge of optimism, clarity, and a strong desire for new knowledge invigorates your spirit. Philosophical pursuits, higher learning, or travel are especially favored, though you may feel some tension with practical responsibilities."
+      "text": "With the Sun and Mercury both in your sign, your energy is high, boosting your communication skills and encouraging you to confidently express your authentic self. This is a prime time for clarifying your personal vision and expanding your horizons, embracing your adventurous spirit."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Venus in your sign emphasizes commitment and practicality in your relationships, encouraging you to seek stability and long-term value. You might be reassessing your intimate connections and shared resources, striving for deeper authenticity and emotional security."
+      "text": "Venus in your sign brings a grounding, practical energy to your relationships and finances, urging you to seek stability and commitment. You might find yourself more introspective than usual, processing hidden truths and spiritual insights that emerge from your subconscious mind."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "With the Moon and Pluto in your sign, your emotions are heightened, and you are undergoing profound personal and collective transformation. Focus on community engagement and innovative ideas, but be prepared for unexpected changes or rebellions within your home environment."
+      "text": "Your journey of profound personal transformation continues at full speed, empowering you to reinvent yourself and your path forward. Social connections and group activities are vibrant, offering opportunities for networking and sharing your expansive ideas with like-minded individuals."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your intuition is especially strong, drawing you towards spiritual reflection and creative endeavors that operate behind the scenes. Be mindful of setting clear boundaries in your communication and relationships, as idealism could cloud practical matters or lead to misunderstandings."
+      "text": "Saturn in your sign continues to encourage grounding discipline and the establishment of healthy boundaries in your emotional and spiritual life. Your sense of self-worth and personal values may be undergoing a spiritual re-evaluation, prompting a deeper look at what truly matters."
     }
   ],
-  "date": "November 22, 2026"
+  "date": "November 23, 2026"
 }
