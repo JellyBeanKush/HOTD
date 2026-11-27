@@ -1,66 +1,66 @@
 {
-  "summary": "Today's cosmic landscape bridges dynamic curiosity with visionary expansion as the Sun in adventurous Sagittarius harmonizes with catalytic currents across fire and air signs. Lingering reflections from the Gemini Moon encourage bold dialogues, prompting us to align philosophical ideals with practical, pioneering courage.",
+  "summary": "The cosmic atmosphere on November 26, 2026, combines the fiery optimism of the Sagittarius Sun with expansive, expressive momentum from Jupiter in Leo. Intellectual curiosity and lively communication run high, urging you to balance visionary aspirations with disciplined action. It is a potent day for adventurous exploration, heart-centered leadership, and authentic personal expression.",
   "signs": [
     {
       "name": "Aries",
       "emoji": "♈",
-      "text": "Planetary momentum in your sign urges you to step forward as a deliberate visionary rather than rushing ahead on pure impulse. Trust that combining steady discipline with your natural passion will open doors to expansive, authentic horizons."
+      "text": "Saturn in your sign asks you to anchor your dynamic passion into realistic, long-term frameworks. Take deliberate action toward expanding your horizons, as disciplined efforts now yield lasting personal growth."
     },
     {
       "name": "Taurus",
       "emoji": "♉",
-      "text": "Your focus turns toward deep shared resources and transformative conversations that clear the air of outdated assumptions. Embrace vulnerability today, as authentic emotional honesty will solidify trust within your closest partnerships."
+      "text": "Deep transformations within your financial or emotional partnerships come into sharp focus today. Open, honest communication will help you release old attachments and embrace mutual empowerment."
     },
     {
       "name": "Gemini",
       "emoji": "♊",
-      "text": "The lunar energy activating your sign heightens your perceptual clarity and inspires electric, meaningful exchanges of ideas. Channel this mental agility into collaborative ventures, letting your innate adaptability guide high-stakes discussions."
+      "text": "The lunar transit activates your interpersonal sphere, inspiring meaningful dialogues and spontaneous social connections. Be receptive to opposing viewpoints, as a partner’s perspective could spark a brilliant breakthrough."
     },
     {
       "name": "Cancer",
       "emoji": "♋",
-      "text": "Subconscious shifts invite you to establish revitalizing daily routines and release lingering mental fatigue. Carve out sacred time for quiet introspection, as emotional restoration will recharge your intuitive compass for the days ahead."
+      "text": "Focusing on your daily habits and physical vitality brings immediate clarity and peace of mind. Streamline your workload thoughtfully, ensuring you leave ample room to honor your emotional well-being."
     },
     {
       "name": "Leo",
       "emoji": "♌",
-      "text": "Expansive planetary support ignites your creative sector, allowing your warmth and confidence to naturally command attention. Share your heart-centered projects boldly, knowing your expressive vitality has the power to inspire your wider network."
+      "text": "With Jupiter amplifying your sign, your creative vitality and personal magnetism are operating at an absolute peak. Channel this abundant confidence into artistic pursuits or passionate encounters that bring pure joy."
     },
     {
       "name": "Virgo",
       "emoji": "♍",
-      "text": "Domestic foundations and career aspirations intersect today, asking you to harmonize professional drive with your home sanctuary. Create an organized personal environment so your inner world feels just as supported as your ambitious public goals."
+      "text": "Matters of home and family demand your thoughtful attention, inviting you to create a more supportive domestic sanctuary. Ground yourself in quiet contemplation before tackling external responsibilities."
     },
     {
       "name": "Libra",
       "emoji": "♎",
-      "text": "Dynamic interactions stimulate fresh perspectives on long-term education, travel, and personal communication. Speak your truth with balanced clarity today, allowing your articulate diplomacy to bridge perspectives effortlessly."
+      "text": "Your communication sector is brimming with fresh ideas, making this an ideal time for networking and collaboration. Speak your truth with elegance and watch how quickly doors open through mutual understanding."
     },
     {
       "name": "Scorpio",
       "emoji": "♏",
-      "text": "Financial clarity emerges as you re-evaluate what truly anchors your sense of security and personal value. Strategic adjustments made now will provide the solid foundation needed to support your grandest transformative ambitions."
+      "text": "Practical considerations regarding your finances and core values take center stage under today’s transits. Trust your sharp intuition to identify promising investments while maintaining firm personal boundaries."
     },
     {
       "name": "Sagittarius",
       "emoji": "♐",
-      "text": "The Sun illuminating your sign infuses your spirit with radiant enthusiasm and an undeniable hunger for forward momentum. Take decisive ownership of your personal trajectory, as your bold optimism sets an inspiring tone for everyone around you."
+      "text": "The Sun shining in your sign invigorates your spirit with renewal, optimism, and unshakeable confidence. Step boldly into the spotlight and initiate pursuits that reflect your authentic mission."
     },
     {
       "name": "Capricorn",
       "emoji": "♑",
-      "text": "Intuitive reflections reveal which private obligations have run their course and deserve a graceful closure. Release obsolete responsibilities without guilt to make deliberate room for upcoming endeavors of genuine personal significance."
+      "text": "A reflective mood invites you to withdraw from the noise and assess your spiritual and emotional trajectory. Giving yourself space to rest and recalibrate will strengthen your foundation for upcoming ventures."
     },
     {
       "name": "Aquarius",
       "emoji": "♒",
-      "text": "Community collaborations and shared ideals spark inventive solutions to challenges that once felt rigidly immovable. Rally around collective causes that honor your originality, where your authentic voice can truly uplift those around you."
+      "text": "Collaborative energy surges as your social circles align with your most progressive, forward-thinking ideals. Share your unique vision with your community, as collective momentum can turn abstract concepts into reality."
     },
     {
       "name": "Pisces",
       "emoji": "♓",
-      "text": "Your professional ambitions gain notable traction as your imaginative insights catch the attention of influential leaders. Ground your intuitive visions into tangible benchmarks to demonstrate both your creative brilliance and executive capability."
+      "text": "Your public standing and professional ambitions receive a burst of inspiring motivation today. Combine your intuitive wisdom with steady leadership to leave a meaningful impression on key authorities."
     }
   ],
-  "date": "November 25, 2026"
+  "date": "November 26, 2026"
 }
